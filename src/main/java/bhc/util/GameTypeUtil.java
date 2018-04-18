@@ -34,7 +34,7 @@ public class GameTypeUtil {
         } else if (tournamentGameMatcher.find()) {
             String entryFee = tournamentGameMatcher.group(2);
             String tournamentNumber = tournamentGameMatcher.group(3);
-            pokerGame = new PokerGame(entryFee, tournamentNumber, filename);
+            pokerGame = new PokerGame(entryFee, tournamentNumber);
         }
 
         return pokerGame;
