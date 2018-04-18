@@ -51,13 +51,13 @@ public class ActionConverter {
     private static final String POKERSTARS_CHECK_ACTION = "checks";
     private static final String POKERSTARS_BET_ACTION = "bets";
 
-    public static String convertPostingAction(String action, Map<String, String> seatMap) {
+    public static String convertPostingAction(String action, Map<String, String> playerMap) {
         Matcher postingActionMatcher = postingActionPattern.matcher(action);
         if (postingActionMatcher.find()) {
             String playerName = postingActionMatcher.group(1);
             String bovadaAction = postingActionMatcher.group(2);
 
-            String transformedName = seatMap.get(playerName);
+            String transformedName = playerMap.get(playerName);
             // escape and [ '+' for UTG+1 etc
             playerName = playerName.replace("+", "\\+").replace("[", "\\[");
             String pokerstarsAction = "";
@@ -91,7 +91,7 @@ public class ActionConverter {
             String playerName = handActionMatcher.group(1);
             String bovadaAction = handActionMatcher.group(2);
 
-            String transformedName = handContext.getSeatMap().get(playerName);
+            String transformedName = handContext.getPlayerMap().get(playerName);
             transformedAction = transformedAction.replace(playerName + " ", transformedName);
 
             // sloppy but default to Raise because the grouping is a bit off

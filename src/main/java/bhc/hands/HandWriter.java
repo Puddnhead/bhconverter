@@ -53,7 +53,7 @@ public class HandWriter {
     private RingGameConverter ringGameConverter;
     private PokerGame pokerGame;
 
-    private Map<String, String> seatMap;
+    private Map<String, String> playerMap;
     private FileWriter fileWriter;
     private List<String> uncalledPortionOfBet = new ArrayList<>();
 
@@ -117,7 +117,7 @@ public class HandWriter {
                 if (seatNameMatcher.matches()) {
                     numSeats++;
                     String bovadaSeatName = seatNameMatcher.group(1);
-                    String generatedName = seatMap.get(bovadaSeatName);
+                    String generatedName = playerMap.get(bovadaSeatName);
                     String transformedSeatLine = line.replace(bovadaSeatName, generatedName);
                     fileWriter.append(transformedSeatLine).append("\n");
                 } else {
@@ -145,7 +145,7 @@ public class HandWriter {
                 }
 
                 numActions++;
-                String transformedAction = ActionConverter.convertPostingAction(line, seatMap);
+                String transformedAction = ActionConverter.convertPostingAction(line, playerMap);
                 if (transformedAction.equals("Table enter user") || transformedAction.contains("Seat stand") ||
                         transformedAction.contains("Table leave user") || transformedAction.contains("Seat sit out")) {
                     // do nothing
@@ -190,7 +190,7 @@ public class HandWriter {
     }
 
     public void writeHandAction(List<String> entireHand) {
-        HandContext handContext = new HandContext(seatMap, pokerGame.getFixedLargeBlind());
+        HandContext handContext = new HandContext(playerMap, pokerGame.getFixedLargeBlind());
 
         try {
             int numActions = 0;
@@ -358,14 +358,14 @@ public class HandWriter {
                 Matcher doesNotShowMatcher = doesNotShowPattern.matcher(entireHand.get(0));
                 if (doesNotShowMatcher.find()) {
                     String bovadaPlayerName = doesNotShowMatcher.group(1);
-                    String pokerstarsPlayerName = seatMap.get(bovadaPlayerName);
+                    String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
                     fileWriter.append(pokerstarsPlayerName).append(": doesn't show hand\n");
                 }
 
                 Matcher handResultMatcher = handResultPattern.matcher(entireHand.get(0));
                 if (handResultMatcher.find()) {
                     String bovadaWinner = handResultMatcher.group(1);
-                    String pokerStarsWinner = seatMap.get(bovadaWinner);
+                    String pokerStarsWinner = playerMap.get(bovadaWinner);
                     String winningAmount = handResultMatcher.group(2);
                     fileWriter.append(pokerStarsWinner).append(" collected ").append(winningAmount).append("from pot\n");
                     if (winningAmount.charAt(0) == '$') {
@@ -402,7 +402,7 @@ public class HandWriter {
                 } else if (wonMatcher.find()) {
                     String seatNumber = wonMatcher.group(1);
                     String bovadaPlayerName = wonMatcher.group(2);
-                    String pokerstarsPlayerName = seatMap.get(bovadaPlayerName);
+                    String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
                     Hand hand = handsMap.get(bovadaPlayerName);
                     String wonAmount = wonMatcher.group(3);
                     fileWriter.append("Seat ").append(seatNumber).append(": ").append(pokerstarsPlayerName).append(" ");
@@ -418,7 +418,7 @@ public class HandWriter {
                 } else if (lostMatcher.find()) {
                     String seatNumber = lostMatcher.group(1);
                     String bovadaPlayerName = lostMatcher.group(2);
-                    String pokerstarsPlayerName = seatMap.get(bovadaPlayerName);
+                    String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
                     Hand hand = handsMap.get(bovadaPlayerName);
                     fileWriter.append("Seat ").append(seatNumber).append(": ").append(pokerstarsPlayerName).append(" ");
                     printPositionIfApplicable(line);
@@ -435,7 +435,7 @@ public class HandWriter {
     private void printMuckedHand(Matcher matcher, Map<String, Hand> handsMap, String line) throws IOException {
         String seatNumber = matcher.group(1);
         String bovadaPlayerName = matcher.group(2);
-        String pokerstarsPlayerName = seatMap.get(bovadaPlayerName);
+        String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
         Hand hand = handsMap.get(bovadaPlayerName);
         fileWriter.append("Seat ").append(seatNumber).append(": ").append(pokerstarsPlayerName).append(" ");
         printPositionIfApplicable(line);
@@ -503,7 +503,7 @@ public class HandWriter {
         }
 
         if (bovadaPlayerName != null) {
-            String pokerStarsPlayerName = seatMap.get(bovadaPlayerName);
+            String pokerStarsPlayerName = playerMap.get(bovadaPlayerName);
             Hand hand = showedDownHandsMap.get(bovadaPlayerName);
             fileWriter.append(pokerStarsPlayerName)
                     .append(": shows ")
@@ -519,7 +519,7 @@ public class HandWriter {
         Matcher muckMatcher = HandParsingUtil.muckPattern.matcher(line);
         if (muckMatcher.find()) {
             String bovadaPlayerName = muckMatcher.group(1);
-            String pokerStarsPlayerName = seatMap.get(bovadaPlayerName);
+            String pokerStarsPlayerName = playerMap.get(bovadaPlayerName);
             Hand hand = muckedHandsMap.get(bovadaPlayerName);
             fileWriter.append(pokerStarsPlayerName)
                     .append(": Mucks ")
@@ -531,8 +531,8 @@ public class HandWriter {
     }
 
     private String getHeroName() {
-        for (String playerName: seatMap.keySet()) {
-            if (seatMap.get(playerName).equals("Hero")) {
+        for (String playerName: playerMap.keySet()) {
+            if (playerMap.get(playerName).equals("Hero")) {
                 return playerName;
             }
         }
@@ -553,15 +553,15 @@ public class HandWriter {
         if (heroHand != null) {
             handMap.remove(heroName);
         }
-        seatMap.remove(heroName);
+        playerMap.remove(heroName);
         heroName = heroName.substring(0, heroName.length() - 6);
-        seatMap.put(heroName, "Hero");
+        playerMap.put(heroName, "Hero");
         if (heroHand != null) {
             handMap.put(heroName, heroHand);
         }
     }
 
-    public void setSeatMap(Map<String, String> seatMap) {
-        this.seatMap = seatMap;
+    public void setPlayerMap(Map<String, String> playerMap) {
+        this.playerMap = playerMap;
     }
 }

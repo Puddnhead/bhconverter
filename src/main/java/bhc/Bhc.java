@@ -38,7 +38,7 @@ public class Bhc {
                 // do nothing
             } else {
                 RingGameConverter ringGameConverter = new RingGameConverter(inputFile, outputDirectory, pokerGame);
-                ringGameConverter.convertRingGame();
+                ringGameConverter.convertGame();
             }
         }
     }

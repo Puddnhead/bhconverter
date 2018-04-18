@@ -18,9 +18,9 @@ public class HandParsingUtil {
 
     private static final Pattern heroPattern = Pattern.compile("Seat \\d: (.* \\[ME])");
     private static final Pattern otherPlayerPattern = Pattern.compile("Seat \\d: (.*) \\(\\$\\w+(\\.*\\d\\d)? in chips\\)$");
-    public static final Pattern showdownPattern = Pattern.compile("^(.*) : Showdown (\\[.*]) (\\(.*\\))$");
-    public static final Pattern preflopShowdown = Pattern.compile("^(.*) : Showdown\\(.*$");
-    public static final Pattern muckPattern = Pattern.compile("^(.*) : Mucks (\\[.*]) (\\(.*\\))$");
+    static final Pattern showdownPattern = Pattern.compile("^(.*) : Showdown (\\[.*]) (\\(.*\\))$");
+    static final Pattern preflopShowdown = Pattern.compile("^(.*) : Showdown\\(.*$");
+    static final Pattern muckPattern = Pattern.compile("^(.*) : Mucks (\\[.*]) (\\(.*\\))$");
     private static final Pattern summaryPattern = Pattern.compile("Seat\\+\\d: .*");
 
     private static final HandDescriptionConverter handDescriptionConverter = new HandDescriptionConverter();
@@ -28,47 +28,47 @@ public class HandParsingUtil {
     /**
      * Randomizes the names of players so for instance "Small Blind" won't end up having statistics in Poker tracker
      *
-     * @param entireHand
-     * @return
+     * @param entireHand the hand
+     * @return a map of bovada player name to randomized pokerstars name
      */
-    public static Map<String, String> generateSeatMap(List<String> entireHand) {
-        Map<String, String> seatMap = new HashMap<>();
+    public static Map<String, String> generatePlayerMap(List<String> entireHand) {
+        Map<String, String> playerMap = new HashMap<>();
 
         for (String line: entireHand) {
             Matcher heroMatcher = heroPattern.matcher(line);
             if (heroMatcher.find()) {
                 String seat = heroMatcher.group(1);
-                seatMap.put(seat, "Hero");
+                playerMap.put(seat, "Hero");
                 continue;
             }
 
             Matcher otherPlayerMatcher = otherPlayerPattern.matcher(line);
             if (otherPlayerMatcher.find()) {
                 String seat = otherPlayerMatcher.group(1);
-                seatMap.put(seat, "Player_" + UUID.randomUUID().toString().substring(0, 8));
+                playerMap.put(seat, "Player_" + UUID.randomUUID().toString().substring(0, 8));
             }
         }
 
-        return seatMap;
+        return playerMap;
     }
 
     /**
      * For some reason after listing seats the bovada print out has a second whitespace character for hero
      *
-     * @param seatMap the generated seatmap
+     * @param playerMap the generated player map
      */
-    public static void modifyHeroEntry(Map<String, String> seatMap) {
+    public static void modifyHeroEntry(Map<String, String> playerMap) {
         String heroKey = null;
 
-        for (String key: seatMap.keySet()) {
+        for (String key: playerMap.keySet()) {
             if (key.contains("[ME]")) {
                 heroKey = key;
                 break;
             }
         }
 
-        seatMap.remove(heroKey);
-        seatMap.put(heroKey.replace("[ME]", " [ME]"), "Hero");
+        playerMap.remove(heroKey);
+        playerMap.put(heroKey.replace("[ME]", " [ME]"), "Hero");
     }
 
     /**
@@ -77,7 +77,7 @@ public class HandParsingUtil {
      * @param entireHand the hand containing showdowns and summaries
      * @return a map of the Bovada player name to the 2-card hand
      */
-    public static Map<String, Hand> findShowedDownHands(List<String> entireHand) {
+    static Map<String, Hand> findShowedDownHands(List<String> entireHand) {
         Map<String, Hand> playerHandMap = new HashMap<>();
 
         for (String line: entireHand) {
@@ -105,7 +105,7 @@ public class HandParsingUtil {
         return playerHandMap;
     }
 
-    public static Map<String, Hand> findMuckedHands(List<String> entireHand) {
+    static Map<String, Hand> findMuckedHands(List<String> entireHand) {
         Map<String, Hand> playerHandMap = new HashMap<>();
 
         for (String line: entireHand) {

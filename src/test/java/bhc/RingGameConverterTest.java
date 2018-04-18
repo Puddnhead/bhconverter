@@ -32,7 +32,7 @@ public class RingGameConverterTest {
         PokerGame pokerGame = GameTypeUtil.getGameType(inputFile);
         File outputDirectory = new File("C:\\workspaces\\bhconverter\\src\\test\\resources\\");
         RingGameConverter ringGameConverter = new RingGameConverter(inputFile, outputDirectory, pokerGame);
-        ringGameConverter.convertRingGame();
+        ringGameConverter.convertGame();
 
         String testOutputFileName = "C:\\workspaces\\bhconverter\\src\\test\\resources\\BovadaHandHistory_Holdem_NL_20180411-024552 - 5843087 - RING.txt";
         String controlFileName = "C:\\workspaces\\bhconverter\\src\\test\\resources\\BovadaHandHistory_Holdem_NL_RING.txt";
