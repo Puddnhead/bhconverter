@@ -37,8 +37,4 @@ public class RingGameConverter extends GameConverter {
         handWriter.writeHandAction(entireHand);
         handWriter.writeShowdownAndSummary(entireHand);
     }
-
-    public String getGameType() {
-        return gameType;
-    }
 }

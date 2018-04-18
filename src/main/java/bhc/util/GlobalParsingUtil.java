@@ -35,6 +35,6 @@ public class GlobalParsingUtil {
             SystemUtils.exitProgramWithError("Error parsing table name for file " + inputFile.getName(), Optional.of(ioe));
         }
 
-        return maxPlayers + "-max";
+        return maxPlayers + "-max ";
     }
 }

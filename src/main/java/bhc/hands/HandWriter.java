@@ -1,7 +1,7 @@
 package bhc.hands;
 
 import bhc.converter.ActionConverter;
-import bhc.converter.RingGameConverter;
+import bhc.converter.GameConverter;
 import bhc.domain.Hand;
 import bhc.domain.HandContext;
 import bhc.domain.PokerGame;
@@ -50,15 +50,15 @@ public class HandWriter {
     private static final String POKERSTARS_SMALL_BLIND = "(small blind)";
     private static final String POKERSTARS_BIG_BLIND = "(big blind)";
 
-    private RingGameConverter ringGameConverter;
+    private GameConverter gameConverter;
     private PokerGame pokerGame;
 
     private Map<String, String> playerMap;
     private FileWriter fileWriter;
     private List<String> uncalledPortionOfBet = new ArrayList<>();
 
-    public HandWriter(RingGameConverter ringGameConverter, FileWriter fileWriter, PokerGame pokerGame) {
-        this.ringGameConverter = ringGameConverter;
+    public HandWriter(GameConverter gameConverter, FileWriter fileWriter, PokerGame pokerGame) {
+        this.gameConverter = gameConverter;
         this.fileWriter = fileWriter;
         this.pokerGame = pokerGame;
     }
@@ -99,8 +99,8 @@ public class HandWriter {
             writer.append("Table '")
                     .append(pokerGame.getTableNumber())
                     .append("' ")
-                    .append(ringGameConverter.getGameType())
-                    .append(" Seat ")
+                    .append(gameConverter.getGameType())
+                    .append("Seat ")
                     .append(dealerSeat)
                     .append(" is the button\n");
         } catch (IOException ioe) {

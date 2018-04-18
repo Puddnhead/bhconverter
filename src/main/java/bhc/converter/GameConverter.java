@@ -17,12 +17,12 @@ import java.util.Optional;
  */
 public abstract class GameConverter {
 
-    protected File inputFile;
-    protected File outputDirectory;
-    protected String gameType;
-    protected PokerGame pokerGame;
+    private File inputFile;
+    private File outputDirectory;
+    private String gameType;
+    PokerGame pokerGame;
 
-    public GameConverter(File inputFile, File outputDirectory, PokerGame pokerGame) {
+    GameConverter(File inputFile, File outputDirectory, PokerGame pokerGame) {
         this.inputFile = inputFile;
         this.outputDirectory = outputDirectory;
         this.pokerGame = pokerGame;
@@ -33,7 +33,11 @@ public abstract class GameConverter {
      */
     public void convertGame() {
         File outputFile = FileService.createOutputFile(inputFile, outputDirectory);
-        gameType = GlobalParsingUtil.parseGameType(inputFile);
+        if (pokerGame.isTournament()) {
+            gameType = "";
+        } else {
+            gameType = GlobalParsingUtil.parseGameType(inputFile);
+        }
 
         try (BufferedReader reader = new BufferedReader(new FileReader(inputFile));
              FileWriter writer = new FileWriter(outputFile)
@@ -68,4 +72,8 @@ public abstract class GameConverter {
     }
 
     abstract void transformNextHand(String inputLine, BufferedReader reader, FileWriter writer);
+
+    public String getGameType() {
+        return gameType;
+    }
 }

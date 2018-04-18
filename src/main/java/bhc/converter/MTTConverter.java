@@ -1,21 +1,41 @@
 package bhc.converter;
 
+import bhc.domain.PokerGame;
+import bhc.hands.HandParsingUtil;
+import bhc.hands.HandWriter;
+
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileWriter;
+import java.util.List;
+import java.util.Map;
 
 /**
  * Logic for converting MTT
  *
  * Created by MVW on 4/15/2018.
  */
-public class MTTConverter {
+public class MTTConverter extends GameConverter {
 
-    /**
-     * Convert and write an MTT
-     *
-     * @param inputFile the input file
-     * @param outputDirectory the output directory
-     */
-    public static void convertMTT(File inputFile, File outputDirectory) {
+    public MTTConverter(File inputFile, File outputDirectory, PokerGame pokerGame) {
+        super(inputFile, outputDirectory, pokerGame);
+    }
 
+    @Override
+    void transformNextHand(String firstLine, BufferedReader reader, FileWriter writer) {
+        HandWriter handWriter = new HandWriter(this, writer, pokerGame);
+        handWriter.transformFirstLine(firstLine, writer);
+
+        List<String> entireHand = readEntireHand(reader);
+        handWriter.writeSecondLine(entireHand, writer);
+        Map<String, String> playerMap = HandParsingUtil.generatePlayerMap(entireHand);
+        handWriter.setPlayerMap(playerMap);
+        handWriter.writeSeats(entireHand);
+
+        HandParsingUtil.modifyHeroEntry(playerMap);
+        handWriter.writePostingActions(entireHand);
+        handWriter.writeHoleCards(entireHand);
+        handWriter.writeHandAction(entireHand);
+        handWriter.writeShowdownAndSummary(entireHand);
     }
 }
