@@ -26,7 +26,7 @@ public class HandWriter {
     private static final Pattern lastWordPattern = Pattern.compile("(\\S+)$");
     private static final Pattern bovadaDatePattern = Pattern.compile("(\\d\\d\\d\\d-\\d\\d-\\d\\d)");
     private static final Pattern setDealerPattern = Pattern.compile("Set dealer \\[(\\d)]");
-    private static final Pattern seatNamePattern = Pattern.compile("^Seat \\d: (.*) \\(\\$\\w+(\\.*\\d\\d)? in chips\\)$");
+    public static final Pattern seatNamePattern = Pattern.compile("^Seat \\d: (.*) \\(\\$\\w+(\\.*\\d\\d)? in chips\\)$");
     private static final Pattern cardDealtPattern = Pattern.compile(".* Card dealt to a spot (\\[.*])");
     private static final Pattern handResultPattern = Pattern.compile("(.*) : Hand result (.*)$");
     private static final Pattern totalWonPattern = Pattern.compile("Total Pot\\(\\$?(.*)\\)$");
