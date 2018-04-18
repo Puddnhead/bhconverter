@@ -1,0 +1,3709 @@
+PokerStars Hand #3661260797: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:06:14
+Table '#18 9' Seat #5 is the button
+Seat 1: PLR_8051949GU (10,000 in chips)
+Seat 2: PLR_1903373UB (9,980 in chips)
+Seat 3: Hero (10,000 in chips)
+Seat 4: PLR_2478820DU (10,000 in chips)
+Seat 5: PLR_2850544IN (10,020 in chips)
+Seat 6: PLR_4066808BY (10,029 in chips)
+Seat 7: PLR_6796804QN (14,870 in chips)
+PLR_4066808BY: posts small blind 30
+PLR_6796804QN: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [Qd 7h]
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_2478820DU: folds
+PLR_2850544IN: folds
+PLR_4066808BY: raises 150 to 180
+PLR_6796804QN: calls 120 
+*** FLOP *** [Ac 4c Qh]
+PLR_4066808BY: bets 200 
+PLR_6796804QN: calls 200 
+*** TURN *** [Ac 4c Qh] [Jh]
+PLR_4066808BY: bets 400 
+PLR_6796804QN: calls 400 
+*** RIVER *** [Ac 4c Qh Jh] [2c]
+PLR_4066808BY: bets 750 
+PLR_6796804QN: calls 750 
+*** SHOW DOWN ***
+PLR_4066808BY: shows [Ad Jd] (two pair, Aces and Jacks)
+PLR_6796804QN: Mucks [Td Ah] (One pair)
+PLR_4066808BY collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | Rake 0
+Board [Ac 4c Qh Jh 2c]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2478820DU mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_4066808BY showed [Ad Jd] and won (3060) with two pair, Aces and Jacks
+Seat 7: PLR_6796804QN (big blind) mucked [Td Ah]
+
+
+
+PokerStars Hand #3661261701: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:07:41
+Table '#18 9' Seat #8 is the button
+Seat 1: PLR_8051949GU (10,000 in chips)
+Seat 2: PLR_1903373UB (9,980 in chips)
+Seat 3: Hero (10,000 in chips)
+Seat 4: PLR_2850544IN (10,020 in chips)
+Seat 5: PLR_9364111FG (10,000 in chips)
+Seat 6: PLR_4144737RI (10,000 in chips)
+Seat 7: PLR_4066808BY (11,559 in chips)
+Seat 8: PLR_6796804QN (13,340 in chips)
+PLR_6796804QN: posts small blind 30
+PLR_8051949GU: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [5h Th]
+PLR_1903373UB: folds
+Hero: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: raises 120 to 120
+PLR_4066808BY: calls 120 
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+*** FLOP *** [Jh 7h 8c]
+PLR_4144737RI: bets 60 
+PLR_4066808BY: calls 60 
+*** TURN *** [Jh 7h 8c] [6d]
+PLR_4144737RI: bets 60 
+PLR_4066808BY: raises 222 to 222
+PLR_4144737RI: folds
+Uncalled bet (162) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0
+Board [Jh 7h 8c 6d]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2850544IN mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_4144737RI mucked
+Seat 7: PLR_4066808BY won (570)
+Seat 8: PLR_6796804QN (small blind) mucked
+
+
+
+PokerStars Hand #3661262348: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:08:41
+Table '#18 9' Seat #9 is the button
+Seat 1: PLR_8051949GU (9,940 in chips)
+Seat 2: PLR_1903373UB (9,980 in chips)
+Seat 3: Hero (10,000 in chips)
+Seat 4: PLR_9857802WC (10,000 in chips)
+Seat 5: PLR_2850544IN (10,020 in chips)
+Seat 6: PLR_9364111FG (10,000 in chips)
+Seat 7: PLR_4144737RI (9,760 in chips)
+Seat 8: PLR_4066808BY (11,889 in chips)
+Seat 9: PLR_6796804QN (13,310 in chips)
+PLR_8051949GU: posts small blind 30
+PLR_1903373UB: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [Ah Qs]
+Hero: raises 180 to 180
+PLR_9857802WC: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: calls 180 
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 150 
+PLR_1903373UB: folds
+*** FLOP *** [Qh 8d Jd]
+PLR_8051949GU: checks
+Hero: bets 400 
+PLR_4144737RI: folds
+PLR_8051949GU: folds
+Uncalled bet (400) returned to Hero
+Hero: doesn't show hand
+Hero collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [Qh 8d Jd]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero won (600)
+Seat 4: PLR_9857802WC mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661263420: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:10:26
+Table '#18 9' Seat #1 is the button
+Seat 1: PLR_8051949GU (9,760 in chips)
+Seat 2: PLR_1903373UB (9,920 in chips)
+Seat 3: Hero (10,420 in chips)
+Seat 4: PLR_9857802WC (10,000 in chips)
+Seat 5: PLR_2850544IN (10,020 in chips)
+Seat 6: PLR_9364111FG (10,000 in chips)
+Seat 7: PLR_4144737RI (9,580 in chips)
+Seat 8: PLR_4066808BY (11,889 in chips)
+Seat 9: PLR_6796804QN (13,310 in chips)
+PLR_1903373UB: posts small blind 30
+Hero: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [8d 3h]
+PLR_9857802WC: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: calls 60 
+PLR_4066808BY: raises 270 to 270
+PLR_6796804QN: calls 270 
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_4144737RI: calls 210 
+*** FLOP *** [2c 8s 9d]
+PLR_4144737RI: checks
+PLR_4066808BY: bets 360 
+PLR_6796804QN: calls 360 
+PLR_4144737RI: folds
+*** TURN *** [2c 8s 9d] [7d]
+PLR_4066808BY: bets 890 
+PLR_6796804QN: folds
+Uncalled bet (890) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | Rake 0
+Board [2c 8s 9d 7d]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_9857802WC mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI mucked
+Seat 8: PLR_4066808BY won (1620)
+Seat 9: PLR_6796804QN (button) mucked
+
+
+
+PokerStars Hand #3661264773: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:12:35
+Table '#18 9' Seat #2 is the button
+Seat 1: PLR_8051949GU (9,760 in chips)
+Seat 2: PLR_1903373UB (9,890 in chips)
+Seat 3: Hero (10,360 in chips)
+Seat 4: PLR_9857802WC (10,000 in chips)
+Seat 5: PLR_2850544IN (10,020 in chips)
+Seat 6: PLR_9364111FG (10,000 in chips)
+Seat 7: PLR_4144737RI (9,310 in chips)
+Seat 8: PLR_4066808BY (12,879 in chips)
+Seat 9: PLR_6796804QN (12,680 in chips)
+Hero: posts small blind 30
+PLR_9857802WC: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [3d 9c]
+PLR_2850544IN: folds
+PLR_9364111FG: Sit out
+PLR_9364111FG: folds
+PLR_4144737RI: raises 207 to 207
+PLR_4066808BY: calls 207 
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_9857802WC: folds
+*** FLOP *** [5h Qd 4c]
+PLR_4144737RI: bets 254 
+PLR_4066808BY: calls 254 
+*** TURN *** [5h Qd 4c] [7d]
+PLR_4144737RI: bets 509 
+PLR_9364111FG: Re-join
+PLR_4066808BY: calls 509 
+*** RIVER *** [5h Qd 4c 7d] [Ks]
+PLR_4144737RI: checks
+PLR_4066808BY: checks
+*** SHOW DOWN ***
+PLR_4144737RI: shows [Td Ac] (high card Ace)
+PLR_4066808BY: shows [Qh Jh] (a pair of Queens)
+PLR_4066808BY collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | Rake 0
+Board [5h Qd 4c 7d Ks]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_9857802WC mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI lose with High Card [Td Ac-Ac Ks Qd Td 7d] mucked
+Seat 8: PLR_4066808BY showed [Qh Jh] and won (2030) with a pair of Queens
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661265930: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:14:23
+Table '#18 9' Seat #3 is the button
+Seat 1: PLR_8051949GU (9,760 in chips)
+Seat 2: PLR_1903373UB (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: PLR_9857802WC (9,940 in chips)
+Seat 5: PLR_2850544IN (10,020 in chips)
+Seat 6: PLR_9364111FG (10,000 in chips)
+Seat 7: PLR_4144737RI (8,340 in chips)
+Seat 8: PLR_4066808BY (13,939 in chips)
+Seat 9: PLR_6796804QN (12,680 in chips)
+PLR_9857802WC: posts small blind 30
+PLR_2850544IN: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [6s Ks]
+PLR_9364111FG: Sit out
+PLR_9364111FG: folds
+PLR_4144737RI: raises 320 to 320
+PLR_4066808BY: raises 818 to 818
+PLR_6796804QN: folds
+PLR_8051949GU: calls 818 
+PLR_1903373UB: folds
+Hero: folds
+PLR_9857802WC: folds
+PLR_2850544IN: folds
+PLR_4144737RI: calls 498 
+*** FLOP *** [4c 6h 7h]
+PLR_4144737RI: bets 60 
+PLR_4066808BY: raises 1418 to 1418
+PLR_8051949GU: folds
+PLR_4144737RI: folds
+Uncalled bet (1358) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 2664 from pot
+*** SUMMARY ***
+Total pot 2664 | Rake 0
+Board [4c 6h 7h]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_9857802WC mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI mucked
+Seat 8: PLR_4066808BY won (2664)
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661267605: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:16:56
+Table '#18 9' Seat #4 is the button
+Seat 1: PLR_8051949GU (8,942 in chips)
+Seat 2: PLR_1903373UB (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: PLR_9857802WC (9,910 in chips)
+Seat 5: PLR_2850544IN (9,960 in chips)
+Seat 6: PLR_9364111FG (10,000 in chips)
+Seat 7: PLR_4144737RI (7,462 in chips)
+Seat 8: PLR_4066808BY (15,725 in chips)
+Seat 9: PLR_6796804QN (12,680 in chips)
+PLR_2850544IN: posts small blind 40
+PLR_9364111FG: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [Ts 4s]
+PLR_4144737RI: calls 80 
+PLR_4066808BY: folds
+PLR_6796804QN: calls 80 
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_9857802WC: folds
+PLR_2850544IN: calls 40 
+PLR_9364111FG: folds
+*** FLOP *** [5c 5d Qh]
+PLR_2850544IN: checks
+PLR_4144737RI: checks
+PLR_6796804QN: checks
+*** TURN *** [5c 5d Qh] [Ac]
+PLR_2850544IN: checks
+PLR_4144737RI: bets 80 
+PLR_6796804QN: folds
+PLR_2850544IN: folds
+Uncalled bet (80) returned to PLR_4144737RI
+PLR_4144737RI: doesn't show hand
+PLR_4144737RI collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board [5c 5d Qh Ac]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_9857802WC mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI won (320)
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661268213: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:17:50
+Table '#18 9' Seat #5 is the button
+Seat 1: PLR_8051949GU (8,942 in chips)
+Seat 2: PLR_1903373UB (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: PLR_9857802WC (9,910 in chips)
+Seat 5: PLR_2850544IN (9,880 in chips)
+Seat 6: PLR_9364111FG (9,920 in chips)
+Seat 7: PLR_4144737RI (7,702 in chips)
+Seat 8: PLR_4066808BY (15,725 in chips)
+Seat 9: PLR_6796804QN (12,600 in chips)
+PLR_9364111FG: posts small blind 40
+PLR_4144737RI: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [4h Qc]
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 80 
+PLR_1903373UB: folds
+Hero: folds
+PLR_9857802WC: folds
+PLR_2850544IN: calls 80 
+PLR_9364111FG: folds
+PLR_4144737RI: checks
+*** FLOP *** [Ah 6c 7c]
+PLR_4144737RI: bets 359 
+PLR_8051949GU: calls 359 
+PLR_2850544IN: folds
+*** TURN *** [Ah 6c 7c] [Qh]
+PLR_4144737RI: bets 486 
+PLR_8051949GU: raises 1640 to 1640
+PLR_4144737RI: folds
+*** SHOW DOWN ***
+PLR_8051949GU: shows [As 7h] (two pair, Aces and Sevens)
+Uncalled bet (1154) returned to PLR_8051949GU
+PLR_8051949GU collected 1970 from pot
+*** SUMMARY ***
+Total pot 1970 | Rake 0
+Board [Ah 6c 7c Qh]
+Seat 1: PLR_8051949GU showed [As 7h] and won (1970) with two pair, Aces and Sevens
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_9857802WC mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661268828: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:18:47
+Table '#18 9' Seat #6 is the button
+Seat 1: PLR_8051949GU (9,987 in chips)
+Seat 2: PLR_1903373UB (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: PLR_9857802WC (9,910 in chips)
+Seat 5: PLR_2850544IN (9,800 in chips)
+Seat 6: PLR_9364111FG (9,880 in chips)
+Seat 7: PLR_4144737RI (6,777 in chips)
+Seat 8: PLR_4066808BY (15,725 in chips)
+Seat 9: PLR_6796804QN (12,600 in chips)
+PLR_4144737RI: posts small blind 40
+PLR_4066808BY: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [5d 4c]
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_9857802WC: raises 280 to 280
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: calls 240 
+PLR_4066808BY: raises 1040 to 1120
+PLR_9857802WC: calls 840 
+PLR_4144737RI: calls 840 
+*** FLOP *** [As 2c Kh]
+PLR_4144737RI: bets 80 
+PLR_4066808BY: calls 80 
+PLR_9857802WC: calls 80 
+*** TURN *** [As 2c Kh] [Jc]
+PLR_4144737RI: bets 478 
+PLR_4066808BY: folds
+PLR_9857802WC: calls 478 
+*** RIVER *** [As 2c Kh Jc] [2d]
+PLR_4144737RI: bets 1401 
+PLR_9857802WC: folds
+Uncalled bet (1401) returned to PLR_4144737RI
+PLR_4144737RI: doesn't show hand
+PLR_4144737RI collected 4556 from pot
+*** SUMMARY ***
+Total pot 4556 | Rake 0
+Board [As 2c Kh Jc 2d]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_9857802WC mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI won (4556)
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661269645: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:19:59
+Table '#18 9' Seat #7 is the button
+Seat 1: PLR_8051949GU (9,987 in chips)
+Seat 2: PLR_1903373UB (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: PLR_9857802WC (8,232 in chips)
+Seat 5: PLR_2850544IN (9,800 in chips)
+Seat 6: PLR_9364111FG (9,880 in chips)
+Seat 7: PLR_4144737RI (9,655 in chips)
+Seat 8: PLR_4066808BY (14,525 in chips)
+Seat 9: PLR_6796804QN (12,600 in chips)
+PLR_4066808BY: posts small blind 40
+PLR_6796804QN: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [9c 8c]
+PLR_8051949GU: calls 80 
+PLR_1903373UB: folds
+Hero: raises 320 to 320
+PLR_9857802WC: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: calls 320 
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 240 
+*** FLOP *** [Ts 6s Jd]
+PLR_8051949GU: checks
+Hero: checks
+PLR_4144737RI: checks
+*** TURN *** [Ts 6s Jd] [5h]
+PLR_8051949GU: checks
+Hero: checks
+PLR_4144737RI: checks
+*** RIVER *** [Ts 6s Jd 5h] [Ks]
+PLR_8051949GU: checks
+Hero: checks
+PLR_4144737RI: checks
+*** SHOW DOWN ***
+PLR_8051949GU: shows [2s Ac] (high card Ace)
+Hero: Mucks [9c 8c] (High Card)
+PLR_4144737RI: shows [9h Kh] (a pair of Kings)
+PLR_4144737RI collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0
+Board [Ts 6s Jd 5h Ks]
+Seat 1: PLR_8051949GU lose with High Card [2s Ac-Ac Ks Jd Ts 6s] mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked [9c 8c]
+Seat 4: PLR_9857802WC mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI showed [9h Kh] and won (1080) with a pair of Kings
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (big blind) mucked
+
+
+
+PokerStars Hand #3661271006: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:22:02
+Table '#18 9' Seat #8 is the button
+Seat 1: PLR_8051949GU (9,667 in chips)
+Seat 2: PLR_1903373UB (9,890 in chips)
+Seat 3: Hero (10,010 in chips)
+Seat 4: PLR_9857802WC (8,232 in chips)
+Seat 5: PLR_2850544IN (9,800 in chips)
+Seat 6: PLR_9364111FG (9,880 in chips)
+Seat 7: PLR_4144737RI (10,415 in chips)
+Seat 8: PLR_4066808BY (14,485 in chips)
+Seat 9: PLR_6796804QN (12,520 in chips)
+PLR_6796804QN: posts small blind 40
+PLR_8051949GU: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [As 2c]
+PLR_1903373UB: folds
+Hero: folds
+PLR_9857802WC: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: calls 80 
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: checks
+*** FLOP *** [Js Th 6d]
+PLR_8051949GU: checks
+PLR_4144737RI: checks
+*** TURN *** [Js Th 6d] [Ah]
+PLR_8051949GU: checks
+PLR_4144737RI: checks
+*** RIVER *** [Js Th 6d Ah] [4c]
+PLR_9364111FG: Re-join
+PLR_8051949GU: checks
+PLR_4144737RI: checks
+*** SHOW DOWN ***
+PLR_8051949GU: shows [3d 8h] (high card Ace)
+PLR_4144737RI: Mucks [7d 2s] (High Card)
+PLR_8051949GU collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [Js Th 6d Ah 4c]
+Seat 1: PLR_8051949GU showed [3d 8h] and won (200) with high card Ace
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_9857802WC mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI mucked [7d 2s]
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (small blind) mucked
+
+
+
+PokerStars Hand #3661271715: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:23:05
+Table '#18 9' Seat #9 is the button
+Seat 1: PLR_8051949GU (9,787 in chips)
+Seat 2: PLR_1903373UB (9,890 in chips)
+Seat 3: Hero (10,010 in chips)
+Seat 4: PLR_9857802WC (8,232 in chips)
+Seat 5: PLR_2850544IN (9,800 in chips)
+Seat 6: PLR_9364111FG (9,880 in chips)
+Seat 7: PLR_4144737RI (10,335 in chips)
+Seat 8: PLR_4066808BY (14,485 in chips)
+Seat 9: PLR_6796804QN (12,480 in chips)
+PLR_8051949GU: posts small blind 40
+PLR_1903373UB: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [Ts 8s]
+Hero: raises 180 to 180
+PLR_9857802WC: calls 180 
+PLR_2850544IN: calls 180 
+PLR_9364111FG: folds
+PLR_4144737RI: Sit out
+PLR_4144737RI: folds
+PLR_4066808BY: calls 180 
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: calls 100 
+*** FLOP *** [9h Qc 6s]
+PLR_4144737RI: Re-join
+PLR_1903373UB: checks
+Hero: bets 500 
+PLR_9857802WC: raises 1000 to 1000
+PLR_2850544IN: folds
+PLR_4066808BY: folds
+PLR_1903373UB: raises 2500 to 2500
+Hero: folds
+PLR_9857802WC: raises 7052 to 8052 and is all-in
+PLR_1903373UB: calls 5552 
+*** TURN *** [9h Qc 6s] [5h]
+*** RIVER *** [9h Qc 6s 5h] [Kc]
+*** SHOW DOWN ***
+PLR_1903373UB: shows [9d 6d] (two pair, Nines and Sixs)
+PLR_9857802WC: shows [Js Jc] (a pair of Jacks)
+PLR_1903373UB collected 17544 from pot
+PLR_9857802WC finished the tournament in 102th place
+PLR_9857802WC: Stand
+*** SUMMARY ***
+Total pot 17544 | Rake 0
+Board [9h Qc 6s 5h Kc]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB showed [9d 6d] and won (17544) with two pair, Nines and Sixes
+Seat 3: Hero mucked
+Seat 4: PLR_9857802WC showed [Js Jc] and lost with a pair of Jacks
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661273462: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:25:44
+Table '#18 9' Seat #1 is the button
+Seat 1: PLR_8051949GU (9,747 in chips)
+Seat 2: PLR_1903373UB (19,202 in chips)
+Seat 3: Hero (9,330 in chips)
+Seat 4: PLR_2850544IN (9,620 in chips)
+Seat 5: PLR_9364111FG (9,880 in chips)
+Seat 6: PLR_4144737RI (10,335 in chips)
+Seat 7: PLR_4066808BY (14,305 in chips)
+Seat 8: PLR_6796804QN (12,480 in chips)
+PLR_1903373UB: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [3d 8c]
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 100 
+PLR_1903373UB: calls 50 
+Hero: checks
+*** FLOP *** [Ks Ah Qs]
+PLR_1903373UB: bets 150 
+Hero: folds
+PLR_8051949GU: calls 150 
+*** TURN *** [Ks Ah Qs] [4c]
+PLR_1903373UB: checks
+PLR_8051949GU: checks
+*** RIVER *** [Ks Ah Qs 4c] [9d]
+PLR_1903373UB: bets 150 
+PLR_8051949GU: folds
+Uncalled bet (150) returned to PLR_1903373UB
+PLR_1903373UB: doesn't show hand
+PLR_1903373UB collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [Ks Ah Qs 4c 9d]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB won (600)
+Seat 3: Hero mucked
+Seat 4: PLR_2850544IN mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_4144737RI mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN (button) mucked
+
+
+
+PokerStars Hand #3661274519: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:27:17
+Table '#18 9' Seat #2 is the button
+Seat 1: PLR_8051949GU (9,497 in chips)
+Seat 2: PLR_1903373UB (19,552 in chips)
+Seat 3: Hero (9,230 in chips)
+Seat 4: PLR_2850544IN (9,620 in chips)
+Seat 5: PLR_9364111FG (9,880 in chips)
+Seat 6: PLR_4144737RI (10,335 in chips)
+Seat 7: PLR_4066808BY (14,305 in chips)
+Seat 8: PLR_6796804QN (12,480 in chips)
+Hero: posts small blind 50
+PLR_2850544IN: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [Qs 7c]
+PLR_9364111FG: folds
+PLR_4144737RI: raises 200 to 200
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 200 
+PLR_1903373UB: folds
+Hero: folds
+PLR_2850544IN: calls 100 
+*** FLOP *** [4s 5h Ks]
+PLR_2850544IN: checks
+PLR_4144737RI: bets 797 
+PLR_8051949GU: folds
+PLR_2850544IN: calls 797 
+*** TURN *** [4s 5h Ks] [7d]
+PLR_2850544IN: checks
+PLR_4144737RI: bets 930 
+PLR_2850544IN: calls 930 
+*** RIVER *** [4s 5h Ks 7d] [Ah]
+PLR_2850544IN: checks
+PLR_4144737RI: checks
+*** SHOW DOWN ***
+PLR_2850544IN: shows [2h Kh] (a pair of Kings)
+PLR_4144737RI: shows [Jh Kc] (a pair of Kings)
+PLR_4144737RI collected 4104 from pot
+*** SUMMARY ***
+Total pot 4104 | Rake 0
+Board [4s 5h Ks 7d Ah]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2850544IN showed [2h Kh] and lost with a pair of Kings
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_4144737RI showed [Jh Kc] and won (4104) with a pair of Kings
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661275691: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:29:02
+Table '#18 9' Seat #3 is the button
+Seat 1: PLR_8051949GU (9,297 in chips)
+Seat 2: PLR_1903373UB (19,552 in chips)
+Seat 3: Hero (9,180 in chips)
+Seat 4: PLR_2850544IN (7,693 in chips)
+Seat 5: PLR_9364111FG (9,880 in chips)
+Seat 6: PLR_4144737RI (12,512 in chips)
+Seat 7: PLR_4066808BY (14,305 in chips)
+Seat 8: PLR_6796804QN (12,480 in chips)
+PLR_2850544IN: posts small blind 50
+PLR_9364111FG: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [8s 5d]
+PLR_4144737RI: calls 100 
+PLR_4066808BY: raises 400 to 400
+PLR_6796804QN: folds
+PLR_8051949GU: calls 400 
+PLR_1903373UB: folds
+Hero: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: calls 300 
+*** FLOP *** [9s 2s 6s]
+PLR_4144737RI: bets 538 
+PLR_4066808BY: folds
+PLR_8051949GU: calls 538 
+*** TURN *** [9s 2s 6s] [7d]
+PLR_4144737RI: bets 1143 
+PLR_8051949GU: calls 1143 
+*** RIVER *** [9s 2s 6s 7d] [3h]
+PLR_4144737RI: bets 1554 
+PLR_8051949GU: calls 1554 
+*** SHOW DOWN ***
+PLR_4144737RI: shows [4h 9h] (a pair of Nines)
+PLR_8051949GU: shows [Kc 9c] (a pair of Nines)
+PLR_8051949GU collected 7820 from pot
+*** SUMMARY ***
+Total pot 7820 | Rake 0
+Board [9s 2s 6s 7d 3h]
+Seat 1: PLR_8051949GU showed [Kc 9c] and won (7820) with a pair of Nines
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2850544IN mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_4144737RI showed [4h 9h] and lost with a pair of Nines
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661276545: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:30:20
+Table '#18 9' Seat #5 is the button
+Seat 1: PLR_8051949GU (13,482 in chips)
+Seat 2: PLR_1903373UB (19,552 in chips)
+Seat 3: Hero (9,180 in chips)
+Seat 4: PLR_2850544IN (7,643 in chips)
+Seat 5: PLR_9364111FG (9,780 in chips)
+Seat 6: PLR_4144737RI (8,877 in chips)
+Seat 7: PLR_4066808BY (13,905 in chips)
+Seat 8: PLR_6796804QN (12,480 in chips)
+PLR_9364111FG: posts small blind 50
+PLR_4144737RI: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [7s 4s]
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: raises 300 to 300
+Hero: folds
+PLR_2850544IN: calls 300 
+PLR_9364111FG: folds
+PLR_4144737RI: folds
+*** FLOP *** [Jc Td 7h]
+PLR_1903373UB: bets 300 
+PLR_2850544IN: calls 300 
+*** TURN *** [Jc Td 7h] [As]
+PLR_1903373UB: checks
+PLR_2850544IN: checks
+*** RIVER *** [Jc Td 7h As] [Jh]
+PLR_1903373UB: bets 420 
+PLR_2850544IN: calls 420 
+*** SHOW DOWN ***
+PLR_1903373UB: shows [Kc Qs] (a straight, Ten to Ace)
+PLR_2850544IN: Mucks [Tc Kh] (Two pair)
+PLR_1903373UB collected 2190 from pot
+*** SUMMARY ***
+Total pot 2190 | Rake 0
+Board [Jc Td 7h As Jh]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB showed [Kc Qs] and won (2190) with a straight, Ten to Ace
+Seat 3: Hero mucked
+Seat 4: PLR_2850544IN mucked [Tc Kh]
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_4144737RI mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661277240: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:31:23
+Table '#18 9' Seat #6 is the button
+Seat 1: PLR_8051949GU (13,482 in chips)
+Seat 2: PLR_1903373UB (20,722 in chips)
+Seat 3: Hero (9,180 in chips)
+Seat 4: PLR_2850544IN (6,623 in chips)
+Seat 5: PLR_9364111FG (9,730 in chips)
+Seat 6: PLR_4144737RI (8,777 in chips)
+Seat 7: PLR_4066808BY (13,905 in chips)
+Seat 8: PLR_6796804QN (12,480 in chips)
+PLR_4144737RI: posts small blind 50
+PLR_4066808BY: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [8c Ks]
+PLR_6796804QN: folds
+PLR_8051949GU: Sit out
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: folds
+PLR_4066808BY: doesn't show hand
+Uncalled bet (100) returned to PLR_4066808BY
+PLR_4066808BY collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2850544IN mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_4144737RI mucked
+Seat 7: PLR_4066808BY won (50)
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661277747: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:32:11
+Table '#18 9' Seat #7 is the button
+Seat 1: PLR_8051949GU (13,482 in chips)
+Seat 2: PLR_1903373UB (20,722 in chips)
+Seat 3: Hero (9,180 in chips)
+Seat 4: PLR_2850544IN (6,623 in chips)
+Seat 5: PLR_9364111FG (9,730 in chips)
+Seat 6: PLR_4144737RI (8,727 in chips)
+Seat 7: PLR_4066808BY (13,955 in chips)
+Seat 8: PLR_6796804QN (12,480 in chips)
+PLR_4066808BY: posts small blind 50
+PLR_6796804QN: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [As Jh]
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: raises 300 to 300
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4144737RI: folds
+PLR_4066808BY: calls 250 
+PLR_6796804QN: folds
+*** FLOP *** [5h 5d 7c]
+PLR_4066808BY: checks
+Hero: checks
+*** TURN *** [5h 5d 7c] [6c]
+PLR_4066808BY: bets 300 
+Hero: calls 300 
+*** RIVER *** [5h 5d 7c 6c] [4h]
+PLR_4066808BY: bets 1000 
+Hero: folds
+Uncalled bet (1000) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0
+Board [5h 5d 7c 6c 4h]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2850544IN mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_4144737RI mucked
+Seat 7: PLR_4066808BY won (1300)
+Seat 8: PLR_6796804QN (big blind) mucked
+
+
+
+PokerStars Hand #3661278554: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:33:26
+Table '#18 9' Seat #8 is the button
+Seat 1: PLR_8051949GU (13,482 in chips)
+Seat 2: PLR_1903373UB (20,722 in chips)
+Seat 3: Hero (8,580 in chips)
+Seat 4: PLR_2850544IN (6,623 in chips)
+Seat 5: PLR_9364111FG (9,730 in chips)
+Seat 6: PLR_4144737RI (8,727 in chips)
+Seat 7: PLR_4066808BY (14,655 in chips)
+Seat 8: PLR_6796804QN (12,380 in chips)
+PLR_6796804QN: posts small blind 50
+PLR_8051949GU: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [9d 4s]
+PLR_1903373UB: folds
+Hero: folds
+PLR_2850544IN: folds
+PLR_9364111FG: Sit out
+PLR_9364111FG: folds
+PLR_4144737RI: calls 100 
+PLR_4066808BY: calls 100 
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+*** FLOP *** [9h 5d 9c]
+PLR_4144737RI: bets 100 
+PLR_4066808BY: calls 100 
+*** TURN *** [9h 5d 9c] [6h]
+PLR_4144737RI: bets 100 
+PLR_4066808BY: raises 500 to 500
+PLR_4144737RI: folds
+Uncalled bet (400) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [9h 5d 9c 6h]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2850544IN mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_4144737RI mucked
+Seat 7: PLR_4066808BY won (750)
+Seat 8: PLR_6796804QN (small blind) mucked
+
+
+
+PokerStars Hand #3661279293: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:34:32
+Table '#18 9' Seat #9 is the button
+Seat 1: PLR_8051949GU (13,382 in chips)
+Seat 2: PLR_1903373UB (20,722 in chips)
+Seat 3: Hero (8,580 in chips)
+Seat 4: PLR_2055048UD (10,000 in chips)
+Seat 5: PLR_2850544IN (6,623 in chips)
+Seat 6: PLR_9364111FG (9,730 in chips)
+Seat 7: PLR_4144737RI (8,427 in chips)
+Seat 8: PLR_4066808BY (15,105 in chips)
+Seat 9: PLR_6796804QN (12,330 in chips)
+PLR_8051949GU: posts small blind 50
+PLR_1903373UB: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [6c Ah]
+Hero: folds
+PLR_2055048UD: folds
+PLR_8051949GU: Re-join
+PLR_2850544IN: raises 300 to 300
+PLR_9364111FG: folds
+PLR_4144737RI: calls 300 
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+*** FLOP *** [As Kh Jc]
+PLR_2850544IN: bets 200 
+PLR_4144737RI: folds
+Uncalled bet (200) returned to PLR_2850544IN
+PLR_2850544IN: doesn't show hand
+PLR_2850544IN collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [As Kh Jc]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN won (750)
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661280038: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:35:35
+Table '#18 9' Seat #1 is the button
+Seat 1: PLR_8051949GU (13,332 in chips)
+Seat 2: PLR_1903373UB (20,622 in chips)
+Seat 3: Hero (8,580 in chips)
+Seat 4: PLR_2055048UD (10,000 in chips)
+Seat 5: PLR_2850544IN (7,073 in chips)
+Seat 6: PLR_9364111FG (9,730 in chips)
+Seat 7: PLR_4144737RI (8,127 in chips)
+Seat 8: PLR_4066808BY (15,105 in chips)
+Seat 9: PLR_6796804QN (12,330 in chips)
+PLR_1903373UB: posts small blind 75
+Hero: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [Qs 7d]
+PLR_2055048UD: folds
+PLR_2850544IN: raises 450 to 450
+PLR_9364111FG: folds
+PLR_4144737RI: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_9364111FG: Re-join
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+Uncalled bet (300) returned to PLR_2850544IN
+PLR_2850544IN: doesn't show hand
+PLR_2850544IN collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN won (375)
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4144737RI mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (button) mucked
+
+
+
+PokerStars Hand #3661280543: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:36:20
+Table '#18 9' Seat #2 is the button
+Seat 1: PLR_8051949GU (13,332 in chips)
+Seat 2: PLR_1903373UB (20,547 in chips)
+Seat 3: Hero (8,430 in chips)
+Seat 4: PLR_2055048UD (10,000 in chips)
+Seat 5: PLR_2850544IN (7,298 in chips)
+Seat 6: PLR_9364111FG (9,730 in chips)
+Seat 7: PLR_4066808BY (15,105 in chips)
+Seat 8: PLR_6796804QN (12,330 in chips)
+Hero: posts small blind 75
+PLR_2055048UD: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [Td 8d]
+PLR_2850544IN: calls 150 
+PLR_9364111FG: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: calls 75 
+PLR_2055048UD: checks
+*** FLOP *** [9h 5h Js]
+Hero: bets 300 
+PLR_2055048UD: calls 300 
+PLR_2850544IN: calls 300 
+*** TURN *** [9h 5h Js] [Ac]
+Hero: bets 1000 
+PLR_2055048UD: calls 1000 
+PLR_2850544IN: folds
+*** RIVER *** [9h 5h Js Ac] [2d]
+Hero: bets 3000 
+PLR_2055048UD: folds
+Uncalled bet (3000) returned to Hero
+Hero: doesn't show hand
+Hero collected 3350 from pot
+*** SUMMARY ***
+Total pot 3350 | Rake 0
+Board [9h 5h Js Ac 2d]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero won (3350)
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661281886: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:38:20
+Table '#18 9' Seat #3 is the button
+Seat 1: PLR_8051949GU (13,332 in chips)
+Seat 2: PLR_1903373UB (20,547 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: PLR_2055048UD (8,550 in chips)
+Seat 5: PLR_2850544IN (6,848 in chips)
+Seat 6: PLR_9364111FG (9,730 in chips)
+Seat 7: PLR_4066808BY (15,105 in chips)
+Seat 8: PLR_6796804QN (12,330 in chips)
+PLR_2055048UD: posts small blind 75
+PLR_2850544IN: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [9h 5s]
+PLR_9364111FG: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: Sit out
+PLR_8051949GU: folds
+PLR_1903373UB: raises 350 to 350
+Hero: folds
+PLR_2055048UD: calls 275 
+PLR_2850544IN: folds
+*** FLOP *** [8d 2c 5h]
+PLR_2055048UD: checks
+PLR_1903373UB: checks
+*** TURN *** [8d 2c 5h] [6s]
+PLR_2055048UD: bets 425 
+PLR_1903373UB: folds
+Uncalled bet (425) returned to PLR_2055048UD
+PLR_2055048UD: doesn't show hand
+PLR_2055048UD collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [8d 2c 5h 6s]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2055048UD won (850)
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661282910: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:39:50
+Table '#18 9' Seat #4 is the button
+Seat 1: PLR_8051949GU (13,332 in chips)
+Seat 2: PLR_1903373UB (20,197 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: PLR_2055048UD (9,050 in chips)
+Seat 5: PLR_2850544IN (6,698 in chips)
+Seat 6: PLR_9364111FG (9,730 in chips)
+Seat 7: PLR_4066808BY (15,105 in chips)
+Seat 8: PLR_6796804QN (12,330 in chips)
+PLR_2850544IN: posts small blind 75
+PLR_9364111FG: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kd]
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: raises 400 to 400
+PLR_2055048UD: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+Uncalled bet (250) returned to Hero
+Hero: doesn't show hand
+Hero collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero won (375)
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661283352: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:40:29
+Table '#18 9' Seat #5 is the button
+Seat 1: PLR_8051949GU (13,332 in chips)
+Seat 2: PLR_1903373UB (20,197 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: PLR_2055048UD (9,050 in chips)
+Seat 5: PLR_2850544IN (6,623 in chips)
+Seat 6: PLR_9364111FG (9,580 in chips)
+Seat 7: PLR_4813560II (10,000 in chips)
+Seat 8: PLR_4066808BY (15,105 in chips)
+Seat 9: PLR_6796804QN (12,330 in chips)
+PLR_9364111FG: posts small blind 75
+PLR_4813560II: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [Qc 5c]
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_2055048UD: folds
+PLR_2850544IN: raises 450 to 450
+PLR_9364111FG: folds
+PLR_4813560II: folds
+Uncalled bet (300) returned to PLR_2850544IN
+PLR_2850544IN: doesn't show hand
+PLR_2850544IN collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN won (375)
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4813560II mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661283849: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:41:14
+Table '#18 9' Seat #6 is the button
+Seat 1: PLR_8051949GU (13,332 in chips)
+Seat 2: PLR_1903373UB (20,197 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: PLR_2055048UD (9,050 in chips)
+Seat 5: PLR_2850544IN (6,848 in chips)
+Seat 6: PLR_9364111FG (9,505 in chips)
+Seat 7: PLR_4813560II (9,850 in chips)
+Seat 8: PLR_4066808BY (15,105 in chips)
+Seat 9: PLR_6796804QN (12,330 in chips)
+PLR_4813560II: posts small blind 75
+PLR_4066808BY: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [3c 5h]
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: raises 350 to 350
+Hero: folds
+PLR_2055048UD: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4813560II: folds
+PLR_4066808BY: calls 200 
+*** FLOP *** [8d 6h Qc]
+PLR_4066808BY: checks
+PLR_1903373UB: bets 325 
+PLR_8051949GU: Re-join
+PLR_4066808BY: calls 325 
+*** TURN *** [8d 6h Qc] [Qs]
+PLR_4066808BY: checks
+PLR_1903373UB: bets 600 
+PLR_4066808BY: folds
+Uncalled bet (600) returned to PLR_1903373UB
+PLR_1903373UB: doesn't show hand
+PLR_1903373UB collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | Rake 0
+Board [8d 6h Qc Qs]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB won (1425)
+Seat 3: Hero mucked
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4813560II mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661284499: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:42:11
+Table '#18 9' Seat #7 is the button
+Seat 1: PLR_8051949GU (13,332 in chips)
+Seat 2: PLR_1903373UB (20,947 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: PLR_2055048UD (9,050 in chips)
+Seat 5: PLR_2850544IN (6,848 in chips)
+Seat 6: PLR_9364111FG (9,505 in chips)
+Seat 7: PLR_4813560II (9,775 in chips)
+Seat 8: PLR_4066808BY (14,430 in chips)
+Seat 9: PLR_6796804QN (12,330 in chips)
+PLR_4066808BY: posts small blind 75
+PLR_6796804QN: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [2d Ah]
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_2055048UD: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4813560II: folds
+PLR_4066808BY: raises 375 to 450
+PLR_6796804QN: folds
+Uncalled bet (300) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4813560II mucked
+Seat 8: PLR_4066808BY won (300)
+Seat 9: PLR_6796804QN (big blind) mucked
+
+
+
+PokerStars Hand #3661284950: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:42:53
+Table '#18 9' Seat #8 is the button
+Seat 1: PLR_8051949GU (13,332 in chips)
+Seat 2: PLR_1903373UB (20,947 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: PLR_2055048UD (9,050 in chips)
+Seat 5: PLR_2850544IN (6,848 in chips)
+Seat 6: PLR_9364111FG (9,505 in chips)
+Seat 7: PLR_4813560II (9,775 in chips)
+Seat 8: PLR_4066808BY (14,580 in chips)
+Seat 9: PLR_6796804QN (12,180 in chips)
+PLR_6796804QN: posts small blind 75
+PLR_8051949GU: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [7s 5d]
+PLR_1903373UB: folds
+Hero: folds
+PLR_2055048UD: folds
+PLR_2850544IN: folds
+PLR_9364111FG: raises 300 to 300
+PLR_4813560II: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+Uncalled bet (150) returned to PLR_9364111FG
+PLR_9364111FG: doesn't show hand
+PLR_9364111FG collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG won (375)
+Seat 7: PLR_4813560II mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (small blind) mucked
+
+
+
+PokerStars Hand #3661285701: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:43:59
+Table '#18 9' Seat #9 is the button
+Seat 1: PLR_8051949GU (13,182 in chips)
+Seat 2: PLR_1903373UB (20,947 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: PLR_2055048UD (9,050 in chips)
+Seat 5: PLR_2850544IN (6,848 in chips)
+Seat 6: PLR_9364111FG (9,730 in chips)
+Seat 7: PLR_4066808BY (14,580 in chips)
+Seat 8: PLR_6796804QN (12,105 in chips)
+PLR_8051949GU: posts small blind 75
+PLR_1903373UB: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [3c 7d]
+Hero: folds
+PLR_2055048UD: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_4066808BY: raises 450 to 450
+PLR_6796804QN: folds
+PLR_8051949GU: calls 375 
+PLR_1903373UB: calls 300 
+*** FLOP *** [2s 2d 5c]
+PLR_8051949GU: checks
+PLR_1903373UB: bets 350 
+PLR_4066808BY: folds
+PLR_8051949GU: calls 350 
+*** TURN *** [2s 2d 5c] [5s]
+PLR_8051949GU: bets 500 
+PLR_1903373UB: calls 500 
+*** RIVER *** [2s 2d 5c 5s] [8s]
+PLR_8051949GU: bets 500 
+PLR_1903373UB: raises 1750 to 1750
+PLR_8051949GU: folds
+Uncalled bet (1250) returned to PLR_1903373UB
+PLR_1903373UB: doesn't show hand
+PLR_1903373UB collected 4050 from pot
+*** SUMMARY ***
+Total pot 4050 | Rake 0
+Board [2s 2d 5c 5s 8s]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB won (4050)
+Seat 3: Hero mucked
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661290922: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:51:32
+Table '#18 9' Seat #1 is the button
+Seat 1: PLR_8051949GU (11,382 in chips)
+Seat 2: PLR_1903373UB (23,197 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: PLR_2055048UD (9,050 in chips)
+Seat 5: PLR_2850544IN (6,848 in chips)
+Seat 6: PLR_9364111FG (9,730 in chips)
+Seat 7: PLR_8432575SP (10,000 in chips)
+Seat 8: PLR_4066808BY (14,130 in chips)
+Seat 9: PLR_6796804QN (12,105 in chips)
+PLR_1903373UB: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [3d 4h]
+PLR_2055048UD: raises 600 to 600
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_8432575SP: calls 600 
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 600 
+PLR_1903373UB: folds
+Hero: folds
+*** FLOP *** [8c 8h Ac]
+PLR_2055048UD: bets 1050 
+PLR_8432575SP: calls 1050 
+PLR_8051949GU: folds
+*** TURN *** [8c 8h Ac] [As]
+PLR_2055048UD: checks
+PLR_8432575SP: checks
+*** RIVER *** [8c 8h Ac As] [3h]
+PLR_2055048UD: bets 3400 
+PLR_8432575SP: raises 8350 to 8350 and is all-in
+PLR_2055048UD: folds
+Uncalled bet (4950) returned to PLR_8432575SP
+PLR_8432575SP: doesn't show hand
+PLR_8432575SP collected 11000 from pot
+*** SUMMARY ***
+Total pot 11000 | Rake 0
+Board [8c 8h Ac As 3h]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2055048UD mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP won (11000)
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (button) mucked
+
+
+
+PokerStars Hand #3661291903: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:52:56
+Table '#18 9' Seat #2 is the button
+Seat 1: PLR_8051949GU (10,782 in chips)
+Seat 2: PLR_1903373UB (23,097 in chips)
+Seat 3: Hero (10,355 in chips)
+Seat 4: PLR_2055048UD (4,000 in chips)
+Seat 5: PLR_2850544IN (6,848 in chips)
+Seat 6: PLR_9364111FG (9,730 in chips)
+Seat 7: PLR_8432575SP (15,950 in chips)
+Seat 8: PLR_4066808BY (14,130 in chips)
+Seat 9: PLR_6796804QN (12,105 in chips)
+Hero: posts small blind 100
+PLR_2055048UD: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [7d Ad]
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 200 
+PLR_1903373UB: folds
+Hero: raises 700 to 800
+PLR_2055048UD: calls 600 
+PLR_8051949GU: calls 600 
+*** FLOP *** [3c 6h 7c]
+Hero: bets 1500 
+PLR_2055048UD: raises 3200 to 3200 and is all-in
+PLR_8051949GU: folds
+Hero: calls 1700 
+*** TURN *** [3c 6h 7c] [9c]
+*** RIVER *** [3c 6h 7c 9c] [Js]
+*** SHOW DOWN ***
+Hero: shows [7d Ad] (a pair of Sevens)
+PLR_2055048UD: shows [2d 3d] (a pair of Threes)
+Hero collected 8800 from pot
+PLR_2055048UD finished the tournament in 134th place
+PLR_2055048UD: Stand
+*** SUMMARY ***
+Total pot 8800 | Rake 0
+Board [3c 6h 7c 9c Js]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero showed [7d Ad] and won (8800) with a pair of Sevens
+Seat 4: PLR_2055048UD showed [2d 3d] and lost with a pair of Threes
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661292973: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:54:38
+Table '#18 9' Seat #3 is the button
+Seat 1: PLR_8051949GU (9,982 in chips)
+Seat 2: PLR_1903373UB (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: PLR_2850544IN (6,848 in chips)
+Seat 5: PLR_9364111FG (9,730 in chips)
+Seat 6: PLR_8432575SP (15,950 in chips)
+Seat 7: PLR_4066808BY (14,130 in chips)
+Seat 8: PLR_6796804QN (12,105 in chips)
+PLR_2850544IN: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [6d Ts]
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: raises 600 to 600
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_2850544IN: calls 400 
+*** FLOP *** [9h 8s Qc]
+PLR_2850544IN: checks
+PLR_6796804QN: bets 600 
+PLR_2850544IN: folds
+Uncalled bet (600) returned to PLR_6796804QN
+PLR_6796804QN: doesn't show hand
+PLR_6796804QN collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0
+Board [9h 8s Qc]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2850544IN mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_8432575SP mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN won (1200)
+
+
+
+PokerStars Hand #3661293586: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:55:35
+Table '#18 9' Seat #4 is the button
+Seat 1: PLR_8051949GU (9,982 in chips)
+Seat 2: PLR_1903373UB (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: PLR_2716949DS (10,000 in chips)
+Seat 5: PLR_2850544IN (6,248 in chips)
+Seat 6: PLR_9364111FG (9,730 in chips)
+Seat 7: PLR_8432575SP (15,950 in chips)
+Seat 8: PLR_4066808BY (14,130 in chips)
+Seat 9: PLR_6796804QN (12,705 in chips)
+PLR_2850544IN: posts small blind 100
+PLR_9364111FG: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [As 7s]
+PLR_8432575SP: calls 200 
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: raises 600 to 600
+PLR_1903373UB: folds
+Hero: folds
+PLR_2716949DS: calls 600 
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_8432575SP: calls 400 
+*** FLOP *** [5d 8d 5h]
+PLR_8432575SP: checks
+PLR_8051949GU: bets 600 
+PLR_2716949DS: folds
+PLR_8432575SP: folds
+*** SHOW DOWN ***
+PLR_8051949GU: shows [Ad 7d] (a pair of Fives)
+Uncalled bet (600) returned to PLR_8051949GU
+PLR_8051949GU collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | Rake 0
+Board [5d 8d 5h]
+Seat 1: PLR_8051949GU showed [Ad 7d] and won (2100) with a pair of Fives
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661294337: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:56:47
+Table '#18 9' Seat #5 is the button
+Seat 1: PLR_8051949GU (11,482 in chips)
+Seat 2: PLR_1903373UB (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: PLR_2716949DS (9,400 in chips)
+Seat 5: PLR_2850544IN (6,148 in chips)
+Seat 6: PLR_9364111FG (9,530 in chips)
+Seat 7: PLR_8432575SP (15,350 in chips)
+Seat 8: PLR_4066808BY (14,130 in chips)
+Seat 9: PLR_6796804QN (12,705 in chips)
+PLR_9364111FG: posts small blind 100
+PLR_8432575SP: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [Qd Ts]
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_8432575SP: doesn't show hand
+Uncalled bet (200) returned to PLR_8432575SP
+PLR_8432575SP collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP won (100)
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661294653: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:57:17
+Table '#18 9' Seat #6 is the button
+Seat 1: PLR_8051949GU (11,482 in chips)
+Seat 2: PLR_1903373UB (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: PLR_2716949DS (9,400 in chips)
+Seat 5: PLR_2850544IN (6,148 in chips)
+Seat 6: PLR_9364111FG (9,430 in chips)
+Seat 7: PLR_8432575SP (15,450 in chips)
+Seat 8: PLR_4066808BY (14,130 in chips)
+Seat 9: PLR_6796804QN (12,705 in chips)
+PLR_8432575SP: posts small blind 100
+PLR_4066808BY: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [6c 4d]
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: doesn't show hand
+Uncalled bet (200) returned to PLR_4066808BY
+PLR_4066808BY collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY won (100)
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661295035: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:57:53
+Table '#18 9' Seat #7 is the button
+Seat 1: PLR_8051949GU (11,482 in chips)
+Seat 2: PLR_1903373UB (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: PLR_2716949DS (9,400 in chips)
+Seat 5: PLR_2850544IN (6,148 in chips)
+Seat 6: PLR_9364111FG (9,430 in chips)
+Seat 7: PLR_8432575SP (15,350 in chips)
+Seat 8: PLR_4066808BY (14,230 in chips)
+Seat 9: PLR_6796804QN (12,705 in chips)
+PLR_4066808BY: posts small blind 100
+PLR_6796804QN: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [Ks 4h]
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: calls 100 
+PLR_6796804QN: checks
+*** FLOP *** [Ac 7c 6s]
+PLR_4066808BY: bets 200 
+PLR_6796804QN: folds
+Uncalled bet (200) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board [Ac 7c 6s]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY won (400)
+Seat 9: PLR_6796804QN (big blind) mucked
+
+
+
+PokerStars Hand #3661295390: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:58:26
+Table '#18 9' Seat #8 is the button
+Seat 1: PLR_8051949GU (11,482 in chips)
+Seat 2: PLR_1903373UB (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: PLR_2716949DS (9,400 in chips)
+Seat 5: PLR_2850544IN (6,148 in chips)
+Seat 6: PLR_9364111FG (9,430 in chips)
+Seat 7: PLR_8432575SP (15,350 in chips)
+Seat 8: PLR_4066808BY (14,430 in chips)
+Seat 9: PLR_6796804QN (12,505 in chips)
+PLR_6796804QN: posts small blind 100
+PLR_8051949GU: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [6h 7c]
+PLR_1903373UB: folds
+Hero: folds
+PLR_2716949DS: raises 700 to 700
+PLR_2850544IN: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+Uncalled bet (500) returned to PLR_2716949DS
+PLR_2716949DS: doesn't show hand
+PLR_2716949DS collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS won (500)
+Seat 5: PLR_2850544IN mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (small blind) mucked
+
+
+
+PokerStars Hand #3661295703: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:58:56
+Table '#18 9' Seat #9 is the button
+Seat 1: PLR_8051949GU (11,282 in chips)
+Seat 2: PLR_1903373UB (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: PLR_2716949DS (9,700 in chips)
+Seat 5: PLR_2850544IN (6,148 in chips)
+Seat 6: PLR_9364111FG (9,430 in chips)
+Seat 7: PLR_8432575SP (15,350 in chips)
+Seat 8: PLR_4066808BY (14,430 in chips)
+Seat 9: PLR_6796804QN (12,405 in chips)
+PLR_8051949GU: posts small blind 100
+PLR_1903373UB: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [4s Jh]
+Hero: folds
+PLR_2716949DS: folds
+PLR_2850544IN: raises 600 to 600
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 500 
+PLR_1903373UB: folds
+*** FLOP *** [Tc Kc 3d]
+PLR_8051949GU: checks
+PLR_2850544IN: bets 400 
+PLR_8051949GU: raises 1200 to 1200
+PLR_2850544IN: raises 5148 to 5548 and is all-in
+PLR_8051949GU: calls 4348 
+*** TURN *** [Tc Kc 3d] [Qh]
+*** RIVER *** [Tc Kc 3d Qh] [6d]
+*** SHOW DOWN ***
+PLR_8051949GU: shows [Kd Td] (two pair, Kings and Tens)
+PLR_2850544IN: shows [Th Ad] (a pair of Tens)
+PLR_8051949GU collected 12496 from pot
+PLR_2850544IN finished the tournament in 135th place
+PLR_2850544IN: Stand
+*** SUMMARY ***
+Total pot 12496 | Rake 0
+Board [Tc Kc 3d Qh 6d]
+Seat 1: PLR_8051949GU showed [Kd Td] and won (12496) with two pair, Kings and Tens
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_2850544IN showed [Th Ad] and lost with a pair of Tens
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661296440: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:59:56
+Table '#18 9' Seat #1 is the button
+Seat 1: PLR_8051949GU (17,630 in chips)
+Seat 2: PLR_1903373UB (22,897 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: PLR_2716949DS (9,700 in chips)
+Seat 5: PLR_9364111FG (9,430 in chips)
+Seat 6: PLR_8432575SP (15,350 in chips)
+Seat 7: PLR_4066808BY (14,430 in chips)
+Seat 8: PLR_6796804QN (12,405 in chips)
+PLR_1903373UB: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [9h 5d]
+PLR_2716949DS: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: calls 200 
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: checks
+*** FLOP *** [3d 5s Ks]
+Hero: checks
+PLR_6796804QN: checks
+*** TURN *** [3d 5s Ks] [Th]
+Hero: checks
+PLR_6796804QN: checks
+*** RIVER *** [3d 5s Ks Th] [Ah]
+Hero: checks
+PLR_6796804QN: bets 250 
+Hero: folds
+Uncalled bet (250) returned to PLR_6796804QN
+PLR_6796804QN: doesn't show hand
+PLR_6796804QN collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [3d 5s Ks Th Ah]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_8432575SP mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN (button) won (500)
+
+
+
+PokerStars Hand #3661297399: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 23:01:20
+Table '#18 9' Seat #2 is the button
+Seat 1: PLR_8051949GU (17,630 in chips)
+Seat 2: PLR_1903373UB (22,797 in chips)
+Seat 3: Hero (14,955 in chips)
+Seat 4: PLR_2716949DS (9,700 in chips)
+Seat 5: PLR_2820469XS (10,000 in chips)
+Seat 6: PLR_9364111FG (9,430 in chips)
+Seat 7: PLR_8432575SP (15,350 in chips)
+Seat 8: PLR_4066808BY (14,430 in chips)
+Seat 9: PLR_6796804QN (12,705 in chips)
+Hero: posts small blind 100
+PLR_2716949DS: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [4s 2s]
+PLR_2820469XS: raises 600 to 600
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_1903373UB: folds
+Hero: folds
+PLR_2716949DS: Sit out
+PLR_2716949DS: folds
+Uncalled bet (400) returned to PLR_2820469XS
+PLR_2820469XS: doesn't show hand
+PLR_2820469XS collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_2820469XS won (500)
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661298112: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:02:23
+Table '#18 9' Seat #3 is the button
+Seat 1: PLR_8051949GU (17,630 in chips)
+Seat 2: PLR_1903373UB (22,797 in chips)
+Seat 3: Hero (14,855 in chips)
+Seat 4: PLR_2716949DS (9,500 in chips)
+Seat 5: PLR_2820469XS (10,300 in chips)
+Seat 6: PLR_9364111FG (9,430 in chips)
+Seat 7: PLR_8432575SP (15,350 in chips)
+Seat 8: PLR_4066808BY (14,430 in chips)
+Seat 9: PLR_6796804QN (12,705 in chips)
+PLR_8051949GU: posts the ante 25
+PLR_1903373UB: posts the ante 25
+Hero: posts the ante 25
+PLR_2716949DS: posts the ante 25
+PLR_2820469XS: posts the ante 25
+PLR_9364111FG: posts the ante 25
+PLR_8432575SP: posts the ante 25
+PLR_4066808BY: posts the ante 25
+PLR_6796804QN: posts the ante 25
+PLR_2716949DS: posts small blind 125
+PLR_2820469XS: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [3s Tc]
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_2716949DS: Re-join
+PLR_8051949GU: folds
+PLR_1903373UB: raises 575 to 575
+Hero: folds
+PLR_2716949DS: calls 450 
+PLR_2820469XS: calls 325 
+*** FLOP *** [6s 8s Ac]
+PLR_2716949DS: checks
+PLR_2820469XS: checks
+PLR_1903373UB: bets 1325 
+PLR_2716949DS: folds
+PLR_2820469XS: calls 1325 
+*** TURN *** [6s 8s Ac] [4s]
+PLR_2820469XS: checks
+PLR_1903373UB: checks
+*** RIVER *** [6s 8s Ac 4s] [Kc]
+PLR_2820469XS: bets 2027 
+PLR_1903373UB: calls 2027 
+*** SHOW DOWN ***
+PLR_2820469XS: shows [5s 5d] (a pair of Fives)
+PLR_1903373UB: shows [9h Ad] (a pair of Aces)
+PLR_1903373UB collected 8654 from pot
+*** SUMMARY ***
+Total pot 8654 | Rake 0
+Board [6s 8s Ac 4s Kc]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_1903373UB showed [9h Ad] and won (8654) with a pair of Aces
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_2820469XS showed [5s 5d] and lost with a pair of Fives
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661299338: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:04:11
+Table '#18 9' Seat #4 is the button
+Seat 1: PLR_8051949GU (17,605 in chips)
+Seat 2: Hero (14,830 in chips)
+Seat 3: PLR_2716949DS (8,900 in chips)
+Seat 4: PLR_2820469XS (6,348 in chips)
+Seat 5: PLR_9364111FG (9,405 in chips)
+Seat 6: PLR_8432575SP (15,325 in chips)
+Seat 7: PLR_4066808BY (14,405 in chips)
+Seat 8: PLR_6796804QN (12,680 in chips)
+PLR_8051949GU: posts the ante 25
+Hero: posts the ante 25
+PLR_2716949DS: posts the ante 25
+PLR_2820469XS: posts the ante 25
+PLR_9364111FG: posts the ante 25
+PLR_8432575SP: posts the ante 25
+PLR_4066808BY: posts the ante 25
+PLR_6796804QN: posts the ante 25
+PLR_2820469XS: posts small blind 125
+PLR_9364111FG: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [4c 8h]
+PLR_8432575SP: folds
+PLR_4066808BY: raises 500 to 500
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_2820469XS: folds
+PLR_9364111FG: folds
+Uncalled bet (250) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: Hero mucked
+Seat 3: PLR_2716949DS mucked
+Seat 4: PLR_2820469XS mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_8432575SP mucked
+Seat 7: PLR_4066808BY won (825)
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661299816: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:04:53
+Table '#18 9' Seat #5 is the button
+Seat 1: PLR_8051949GU (17,580 in chips)
+Seat 2: Hero (14,805 in chips)
+Seat 3: PLR_2716949DS (8,875 in chips)
+Seat 4: PLR_2820469XS (6,198 in chips)
+Seat 5: PLR_9364111FG (9,130 in chips)
+Seat 6: PLR_8432575SP (15,300 in chips)
+Seat 7: PLR_4066808BY (14,955 in chips)
+Seat 8: PLR_6796804QN (12,655 in chips)
+PLR_8051949GU: posts the ante 25
+Hero: posts the ante 25
+PLR_2716949DS: posts the ante 25
+PLR_2820469XS: posts the ante 25
+PLR_9364111FG: posts the ante 25
+PLR_8432575SP: posts the ante 25
+PLR_4066808BY: posts the ante 25
+PLR_6796804QN: posts the ante 25
+PLR_9364111FG: posts small blind 125
+PLR_8432575SP: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [9d 7d]
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+Hero: raises 600 to 600
+PLR_2716949DS: raises 2375 to 2375
+PLR_2820469XS: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+Hero: folds
+Uncalled bet (1775) returned to PLR_2716949DS
+PLR_2716949DS: doesn't show hand
+PLR_2716949DS collected 1775 from pot
+*** SUMMARY ***
+Total pot 1775 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: Hero mucked
+Seat 3: PLR_2716949DS won (1775)
+Seat 4: PLR_2820469XS mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_8432575SP mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661300682: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:06:08
+Table '#18 9' Seat #6 is the button
+Seat 1: PLR_8051949GU (17,555 in chips)
+Seat 2: Hero (14,180 in chips)
+Seat 3: PLR_2716949DS (10,025 in chips)
+Seat 4: PLR_2820469XS (6,173 in chips)
+Seat 5: PLR_9364111FG (8,980 in chips)
+Seat 6: PLR_8432575SP (15,025 in chips)
+Seat 7: PLR_4066808BY (14,930 in chips)
+Seat 8: PLR_6796804QN (12,630 in chips)
+PLR_8051949GU: posts the ante 25
+Hero: posts the ante 25
+PLR_2716949DS: posts the ante 25
+PLR_2820469XS: posts the ante 25
+PLR_9364111FG: posts the ante 25
+PLR_8432575SP: posts the ante 25
+PLR_4066808BY: posts the ante 25
+PLR_6796804QN: posts the ante 25
+PLR_8432575SP: posts small blind 125
+PLR_4066808BY: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [2c Qh]
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_2820469XS: raises 716 to 716
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: calls 466 
+*** FLOP *** [8h 2h 6s]
+PLR_4066808BY: bets 1574 
+PLR_2820469XS: raises 5432 to 5432 and is all-in
+PLR_4066808BY: calls 3858 
+*** TURN *** [8h 2h 6s] [9h]
+*** RIVER *** [8h 2h 6s 9h] [4d]
+*** SHOW DOWN ***
+PLR_2820469XS: shows [Qd Ac] (high card Ace)
+PLR_4066808BY: shows [9c 7c] (a pair of Nines)
+PLR_4066808BY collected 12621 from pot
+PLR_2820469XS finished the tournament in 138th place
+PLR_2820469XS: Stand
+*** SUMMARY ***
+Total pot 12621 | Rake 0
+Board [8h 2h 6s 9h 4d]
+Seat 1: PLR_8051949GU mucked
+Seat 2: Hero mucked
+Seat 3: PLR_2716949DS mucked
+Seat 4: PLR_2820469XS lose with High Card [Qd Ac-Ac Qd 9h 8h 6s] mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_8432575SP mucked
+Seat 7: PLR_4066808BY showed [9c 7c] and won (12621) with a pair of Nines
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661301471: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:07:20
+Table '#18 9' Seat #7 is the button
+Seat 1: PLR_8051949GU (17,530 in chips)
+Seat 2: PLR_3805775OY (10,000 in chips)
+Seat 3: Hero (14,155 in chips)
+Seat 4: PLR_2716949DS (10,000 in chips)
+Seat 5: PLR_9364111FG (8,955 in chips)
+Seat 6: PLR_8432575SP (14,875 in chips)
+Seat 7: PLR_4066808BY (21,378 in chips)
+Seat 8: PLR_6796804QN (12,605 in chips)
+PLR_8051949GU: posts the ante 25
+PLR_3805775OY: posts the ante 25
+Hero: posts the ante 25
+PLR_2716949DS: posts the ante 25
+PLR_9364111FG: posts the ante 25
+PLR_8432575SP: posts the ante 25
+PLR_4066808BY: posts the ante 25
+PLR_6796804QN: posts the ante 25
+PLR_4066808BY: posts small blind 125
+PLR_6796804QN: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [Js Kc]
+PLR_8051949GU: calls 250 
+PLR_3805775OY: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: checks
+*** FLOP *** [4c 7c Kh]
+PLR_6796804QN: checks
+PLR_8051949GU: checks
+*** TURN *** [4c 7c Kh] [Qd]
+PLR_6796804QN: checks
+PLR_8051949GU: bets 450 
+PLR_6796804QN: folds
+Uncalled bet (450) returned to PLR_8051949GU
+PLR_8051949GU: doesn't show hand
+PLR_8051949GU collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0
+Board [4c 7c Kh Qd]
+Seat 1: PLR_8051949GU won (825)
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_9364111FG mucked
+Seat 6: PLR_8432575SP mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN (big blind) mucked
+
+
+
+PokerStars Hand #3661302332: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:08:38
+Table '#18 9' Seat #8 is the button
+Seat 1: PLR_8051949GU (18,080 in chips)
+Seat 2: PLR_3805775OY (9,975 in chips)
+Seat 3: Hero (14,130 in chips)
+Seat 4: PLR_2716949DS (9,975 in chips)
+Seat 5: PLR_6662868HV (10,000 in chips)
+Seat 6: PLR_9364111FG (8,930 in chips)
+Seat 7: PLR_8432575SP (14,850 in chips)
+Seat 8: PLR_4066808BY (21,228 in chips)
+Seat 9: PLR_6796804QN (12,330 in chips)
+PLR_8051949GU: posts the ante 25
+PLR_3805775OY: posts the ante 25
+Hero: posts the ante 25
+PLR_2716949DS: posts the ante 25
+PLR_6662868HV: posts the ante 25
+PLR_9364111FG: posts the ante 25
+PLR_8432575SP: posts the ante 25
+PLR_4066808BY: posts the ante 25
+PLR_6796804QN: posts the ante 25
+PLR_6796804QN: posts small blind 125
+PLR_8051949GU: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [Ac 8d]
+PLR_3805775OY: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_9364111FG: raises 750 to 750
+PLR_8432575SP: calls 750 
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 500 
+*** FLOP *** [2d Jc 6c]
+PLR_8051949GU: checks
+PLR_9364111FG: checks
+PLR_8432575SP: checks
+*** TURN *** [2d Jc 6c] [Td]
+PLR_8051949GU: checks
+PLR_9364111FG: checks
+PLR_8432575SP: bets 3607 
+PLR_8051949GU: folds
+PLR_9364111FG: folds
+Uncalled bet (3607) returned to PLR_8432575SP
+PLR_8432575SP: doesn't show hand
+PLR_8432575SP collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | Rake 0
+Board [2d Jc 6c Td]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP won (2600)
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (small blind) mucked
+
+
+
+PokerStars Hand #3661303270: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:09:59
+Table '#18 9' Seat #9 is the button
+Seat 1: PLR_8051949GU (17,305 in chips)
+Seat 2: PLR_3805775OY (9,950 in chips)
+Seat 3: Hero (14,105 in chips)
+Seat 4: PLR_2716949DS (9,950 in chips)
+Seat 5: PLR_6662868HV (9,975 in chips)
+Seat 6: PLR_9364111FG (8,155 in chips)
+Seat 7: PLR_8432575SP (16,675 in chips)
+Seat 8: PLR_4066808BY (21,203 in chips)
+Seat 9: PLR_6796804QN (12,180 in chips)
+PLR_8051949GU: posts the ante 25
+PLR_3805775OY: posts the ante 25
+Hero: posts the ante 25
+PLR_2716949DS: posts the ante 25
+PLR_6662868HV: posts the ante 25
+PLR_9364111FG: posts the ante 25
+PLR_8432575SP: posts the ante 25
+PLR_4066808BY: posts the ante 25
+PLR_6796804QN: posts the ante 25
+PLR_8051949GU: posts small blind 125
+PLR_3805775OY: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [Jd 9d]
+Hero: raises 600 to 600
+PLR_2716949DS: raises 2400 to 2400
+PLR_6662868HV: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_3805775OY: folds
+Hero: folds
+Uncalled bet (1800) returned to PLR_2716949DS
+PLR_2716949DS: doesn't show hand
+PLR_2716949DS collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS won (1800)
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661304019: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:11:08
+Table '#18 9' Seat #1 is the button
+Seat 1: PLR_8051949GU (17,155 in chips)
+Seat 2: PLR_3805775OY (9,675 in chips)
+Seat 3: Hero (13,480 in chips)
+Seat 4: PLR_2716949DS (11,125 in chips)
+Seat 5: PLR_6662868HV (9,950 in chips)
+Seat 6: PLR_9364111FG (8,130 in chips)
+Seat 7: PLR_8432575SP (16,650 in chips)
+Seat 8: PLR_4066808BY (21,178 in chips)
+Seat 9: PLR_6796804QN (12,155 in chips)
+PLR_8051949GU: posts the ante 25
+PLR_3805775OY: posts the ante 25
+Hero: posts the ante 25
+PLR_2716949DS: posts the ante 25
+PLR_6662868HV: posts the ante 25
+PLR_9364111FG: posts the ante 25
+PLR_8432575SP: posts the ante 25
+PLR_4066808BY: posts the ante 25
+PLR_6796804QN: posts the ante 25
+PLR_3805775OY: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [2d 9c]
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 250 
+PLR_3805775OY: folds
+Hero: checks
+*** FLOP *** [4d Ts 8c]
+Hero: checks
+PLR_8051949GU: checks
+*** TURN *** [4d Ts 8c] [2s]
+Hero: checks
+PLR_8051949GU: checks
+*** RIVER *** [4d Ts 8c 2s] [3h]
+Hero: checks
+PLR_8051949GU: checks
+*** SHOW DOWN ***
+Hero: shows [2d 9c] (a pair of Deuces)
+PLR_8051949GU: Mucks [Kc 9d] (High Card)
+Hero collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [4d Ts 8c 2s 3h]
+Seat 1: PLR_8051949GU mucked [Kc 9d]
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero showed [2d 9c] and won (850) with a pair of Deuces
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (button) mucked
+
+
+
+PokerStars Hand #3661305229: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:12:59
+Table '#18 9' Seat #2 is the button
+Seat 1: PLR_8051949GU (16,880 in chips)
+Seat 2: PLR_3805775OY (9,525 in chips)
+Seat 3: Hero (14,055 in chips)
+Seat 4: PLR_2716949DS (11,100 in chips)
+Seat 5: PLR_6662868HV (9,925 in chips)
+Seat 6: PLR_9364111FG (8,105 in chips)
+Seat 7: PLR_8432575SP (16,625 in chips)
+Seat 8: PLR_4066808BY (21,153 in chips)
+Seat 9: PLR_6796804QN (12,130 in chips)
+PLR_8051949GU: posts the ante 30
+PLR_3805775OY: posts the ante 30
+Hero: posts the ante 30
+PLR_2716949DS: posts the ante 30
+PLR_6662868HV: posts the ante 30
+PLR_9364111FG: posts the ante 30
+PLR_8432575SP: posts the ante 30
+PLR_4066808BY: posts the ante 30
+PLR_6796804QN: posts the ante 30
+Hero: posts small blind 150
+PLR_2716949DS: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [4c 2s]
+PLR_6662868HV: folds
+PLR_9364111FG: folds
+PLR_8432575SP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_3805775OY: folds
+Hero: folds
+PLR_2716949DS: doesn't show hand
+Uncalled bet (300) returned to PLR_2716949DS
+PLR_2716949DS collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS won (420)
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_8432575SP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661305779: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:13:50
+Table '#18 9' Seat #3 is the button
+Seat 1: PLR_8051949GU (16,850 in chips)
+Seat 2: PLR_3805775OY (9,495 in chips)
+Seat 3: Hero (13,875 in chips)
+Seat 4: PLR_2716949DS (11,490 in chips)
+Seat 5: PLR_6662868HV (9,895 in chips)
+Seat 6: PLR_9364111FG (8,075 in chips)
+Seat 7: PLR_4066808BY (21,123 in chips)
+Seat 8: PLR_6796804QN (12,100 in chips)
+PLR_8051949GU: posts the ante 30
+PLR_3805775OY: posts the ante 30
+Hero: posts the ante 30
+PLR_2716949DS: posts the ante 30
+PLR_6662868HV: posts the ante 30
+PLR_9364111FG: posts the ante 30
+PLR_4066808BY: posts the ante 30
+PLR_6796804QN: posts the ante 30
+PLR_2716949DS: posts small blind 150
+PLR_6662868HV: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [6s 7d]
+PLR_9364111FG: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 300 
+PLR_3805775OY: folds
+Hero: folds
+PLR_2716949DS: calls 150 
+PLR_6662868HV: checks
+*** FLOP *** [4h Qh Qs]
+PLR_2716949DS: checks
+PLR_6662868HV: checks
+PLR_8051949GU: checks
+*** TURN *** [4h Qh Qs] [4d]
+PLR_2716949DS: checks
+PLR_6662868HV: checks
+PLR_8051949GU: checks
+*** RIVER *** [4h Qh Qs 4d] [3c]
+PLR_2716949DS: checks
+PLR_6662868HV: checks
+PLR_8051949GU: checks
+*** SHOW DOWN ***
+PLR_2716949DS: shows [9h Kd] (two pair, Queens and Fours)
+PLR_6662868HV: Mucks [2s 7h] (Two pair)
+PLR_8051949GU: shows [7c Ad] (two pair, Queens and Fours)
+PLR_8051949GU collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0
+Board [4h Qh Qs 4d 3c]
+Seat 1: PLR_8051949GU showed [7c Ad] and won (1140) with two pair, Queens and Fours
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS showed [9h Kd] and lost with two pair, Queens and Fours
+Seat 5: PLR_6662868HV mucked [2s 7h]
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661307417: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:16:14
+Table '#18 9' Seat #4 is the button
+Seat 1: PLR_8051949GU (17,660 in chips)
+Seat 2: PLR_3805775OY (9,465 in chips)
+Seat 3: Hero (13,845 in chips)
+Seat 4: PLR_2716949DS (11,160 in chips)
+Seat 5: PLR_6662868HV (9,565 in chips)
+Seat 6: PLR_9364111FG (8,045 in chips)
+Seat 7: PLR_9315681MI (10,000 in chips)
+Seat 8: PLR_4066808BY (21,093 in chips)
+Seat 9: PLR_6796804QN (12,070 in chips)
+PLR_8051949GU: posts the ante 30
+PLR_3805775OY: posts the ante 30
+Hero: posts the ante 30
+PLR_2716949DS: posts the ante 30
+PLR_6662868HV: posts the ante 30
+PLR_9364111FG: posts the ante 30
+PLR_9315681MI: posts the ante 30
+PLR_4066808BY: posts the ante 30
+PLR_6796804QN: posts the ante 30
+PLR_6662868HV: posts small blind 150
+PLR_9364111FG: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Ah 4h]
+PLR_9315681MI: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_3805775OY: raises 900 to 900
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_9364111FG: folds
+Uncalled bet (600) returned to PLR_3805775OY
+PLR_3805775OY: doesn't show hand
+PLR_3805775OY collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY won (1020)
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_9315681MI mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661308142: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:17:17
+Table '#18 9' Seat #5 is the button
+Seat 1: PLR_8051949GU (17,630 in chips)
+Seat 2: PLR_3805775OY (10,155 in chips)
+Seat 3: Hero (13,815 in chips)
+Seat 4: PLR_2716949DS (11,130 in chips)
+Seat 5: PLR_6662868HV (9,385 in chips)
+Seat 6: PLR_9364111FG (7,715 in chips)
+Seat 7: PLR_9315681MI (9,970 in chips)
+Seat 8: PLR_4066808BY (21,063 in chips)
+Seat 9: PLR_6796804QN (12,040 in chips)
+PLR_8051949GU: posts the ante 30
+PLR_3805775OY: posts the ante 30
+Hero: posts the ante 30
+PLR_2716949DS: posts the ante 30
+PLR_6662868HV: posts the ante 30
+PLR_9364111FG: posts the ante 30
+PLR_9315681MI: posts the ante 30
+PLR_4066808BY: posts the ante 30
+PLR_6796804QN: posts the ante 30
+PLR_9364111FG: posts small blind 150
+PLR_9315681MI: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Kh 8s]
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_3805775OY: folds
+Hero: folds
+PLR_2716949DS: raises 1320 to 1320
+PLR_6662868HV: folds
+PLR_9364111FG: folds
+PLR_9315681MI: folds
+Uncalled bet (1020) returned to PLR_2716949DS
+PLR_2716949DS: doesn't show hand
+PLR_2716949DS collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS won (1020)
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_9364111FG mucked
+Seat 7: PLR_9315681MI mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661308758: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:18:11
+Table '#18 9' Seat #6 is the button
+Seat 1: PLR_8051949GU (17,600 in chips)
+Seat 2: PLR_3805775OY (10,125 in chips)
+Seat 3: Hero (13,785 in chips)
+Seat 4: PLR_2716949DS (11,820 in chips)
+Seat 5: PLR_6662868HV (9,355 in chips)
+Seat 6: PLR_9364111FG (7,535 in chips)
+Seat 7: PLR_9315681MI (9,640 in chips)
+Seat 8: PLR_4066808BY (21,033 in chips)
+Seat 9: PLR_6796804QN (12,010 in chips)
+PLR_8051949GU: posts the ante 30
+PLR_3805775OY: posts the ante 30
+Hero: posts the ante 30
+PLR_2716949DS: posts the ante 30
+PLR_6662868HV: posts the ante 30
+PLR_9364111FG: posts the ante 30
+PLR_9315681MI: posts the ante 30
+PLR_4066808BY: posts the ante 30
+PLR_6796804QN: posts the ante 30
+PLR_9315681MI: posts small blind 150
+PLR_4066808BY: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Js Jd]
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_3805775OY: folds
+Hero: raises 700 to 700
+PLR_2716949DS: folds
+PLR_6662868HV: calls 700 
+PLR_9364111FG: calls 700 
+PLR_9315681MI: folds
+PLR_4066808BY: folds
+*** FLOP *** [Ac Qh 6d]
+Hero: bets 999 
+PLR_6662868HV: folds
+PLR_9364111FG: calls 999 
+*** TURN *** [Ac Qh 6d] [Jh]
+Hero: bets 2000 
+PLR_9364111FG: raises 5806 to 5806 and is all-in
+Hero: calls 3806 
+*** RIVER *** [Ac Qh 6d Jh] [6h]
+*** SHOW DOWN ***
+Hero: shows [Js Jd] (a full house, Jacks full of Sixs)
+PLR_9364111FG: shows [Qd Ah] (two pair, Aces and Queens)
+Hero collected 16430 from pot
+PLR_9364111FG finished the tournament in 149th place
+PLR_9364111FG: Stand
+*** SUMMARY ***
+Total pot 16430 | Rake 0
+Board [Ac Qh 6d Jh 6h]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero showed [Js Jd] and won (16430) with a full house, Jacks full of Sixes
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_9364111FG showed [Qd Ah] and lost with two pair, Aces and Queens
+Seat 7: PLR_9315681MI mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661309899: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:19:50
+Table '#18 9' Seat #7 is the button
+Seat 1: PLR_8051949GU (17,570 in chips)
+Seat 2: PLR_3805775OY (10,095 in chips)
+Seat 3: Hero (22,680 in chips)
+Seat 4: PLR_2716949DS (11,790 in chips)
+Seat 5: PLR_6662868HV (8,625 in chips)
+Seat 6: PLR_9315681MI (9,460 in chips)
+Seat 7: PLR_4066808BY (20,703 in chips)
+Seat 8: PLR_6796804QN (11,980 in chips)
+PLR_8051949GU: posts the ante 30
+PLR_3805775OY: posts the ante 30
+Hero: posts the ante 30
+PLR_2716949DS: posts the ante 30
+PLR_6662868HV: posts the ante 30
+PLR_9315681MI: posts the ante 30
+PLR_4066808BY: posts the ante 30
+PLR_6796804QN: posts the ante 30
+PLR_4066808BY: posts small blind 150
+PLR_6796804QN: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [5c 9h]
+PLR_8051949GU: folds
+PLR_3805775OY: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_9315681MI: raises 1200 to 1200
+PLR_4066808BY: raises 20523 to 20673 and is all-in
+PLR_6796804QN: folds
+PLR_9315681MI: calls 8230 and is all-in
+*** FLOP *** [Kc 2d Ks]
+*** TURN *** [Kc 2d Ks] [8c]
+*** RIVER *** [Kc 2d Ks 8c] [4c]
+*** SHOW DOWN ***
+PLR_9315681MI: shows [Qd Jc] (a pair of Kings)
+PLR_4066808BY: shows [9d Kd] (three of a kind, Kings)
+Uncalled bet (11243) returned to PLR_4066808BY
+PLR_4066808BY collected 19400 from pot
+PLR_9315681MI finished the tournament in 148th place
+PLR_9315681MI: Stand
+*** SUMMARY ***
+Total pot 19400 | Rake 0
+Board [Kc 2d Ks 8c 4c]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_9315681MI showed [Qd Jc] and lost with a pair of Kings
+Seat 7: PLR_4066808BY showed [9d Kd] and won (19400) with three of a kind, Kings
+Seat 8: PLR_6796804QN (big blind) mucked
+
+
+
+PokerStars Hand #3661310670: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:20:56
+Table '#18 9' Seat #8 is the button
+Seat 1: PLR_8051949GU (17,540 in chips)
+Seat 2: PLR_3805775OY (10,065 in chips)
+Seat 3: Hero (22,650 in chips)
+Seat 4: PLR_2716949DS (11,760 in chips)
+Seat 5: PLR_6662868HV (8,595 in chips)
+Seat 6: PLR_4066808BY (30,643 in chips)
+Seat 7: PLR_6796804QN (11,650 in chips)
+PLR_8051949GU: posts the ante 30
+PLR_3805775OY: posts the ante 30
+Hero: posts the ante 30
+PLR_2716949DS: posts the ante 30
+PLR_6662868HV: posts the ante 30
+PLR_4066808BY: posts the ante 30
+PLR_6796804QN: posts the ante 30
+PLR_6796804QN: posts small blind 150
+PLR_8051949GU: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [3c 2h]
+PLR_3805775OY: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_4066808BY: folds
+PLR_6796804QN: raises 750 to 900
+PLR_8051949GU: folds
+Uncalled bet (600) returned to PLR_6796804QN
+PLR_6796804QN: doesn't show hand
+PLR_6796804QN collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_4066808BY mucked
+Seat 7: PLR_6796804QN (small blind) won (810)
+
+
+
+PokerStars Hand #3661311473: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:22:08
+Table '#18 9' Seat #9 is the button
+Seat 1: PLR_8051949GU (17,210 in chips)
+Seat 2: PLR_3805775OY (10,035 in chips)
+Seat 3: Hero (22,620 in chips)
+Seat 4: PLR_2716949DS (11,730 in chips)
+Seat 5: PLR_6662868HV (8,565 in chips)
+Seat 6: PLR_1962751AZ (10,000 in chips)
+Seat 7: PLR_4066808BY (30,613 in chips)
+Seat 8: PLR_6796804QN (12,130 in chips)
+PLR_8051949GU: posts the ante 40
+PLR_3805775OY: posts the ante 40
+Hero: posts the ante 40
+PLR_2716949DS: posts the ante 40
+PLR_6662868HV: posts the ante 40
+PLR_1962751AZ: posts the ante 40
+PLR_4066808BY: posts the ante 40
+PLR_6796804QN: posts the ante 40
+PLR_8051949GU: posts small blind 200
+PLR_3805775OY: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [2d 5c]
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_1962751AZ: folds
+PLR_4066808BY: raises 800 to 800
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_3805775OY: folds
+Uncalled bet (400) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_1962751AZ mucked
+Seat 7: PLR_4066808BY won (1320)
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661311997: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:22:59
+Table '#18 9' Seat #1 is the button
+Seat 1: PLR_8051949GU (16,970 in chips)
+Seat 2: PLR_3805775OY (9,595 in chips)
+Seat 3: Hero (22,580 in chips)
+Seat 4: PLR_2716949DS (11,690 in chips)
+Seat 5: PLR_6662868HV (8,525 in chips)
+Seat 6: PLR_1962751AZ (9,960 in chips)
+Seat 7: PLR_5728317LP (10,000 in chips)
+Seat 8: PLR_4066808BY (31,493 in chips)
+Seat 9: PLR_6796804QN (12,090 in chips)
+PLR_8051949GU: posts the ante 40
+PLR_3805775OY: posts the ante 40
+Hero: posts the ante 40
+PLR_2716949DS: posts the ante 40
+PLR_6662868HV: posts the ante 40
+PLR_1962751AZ: posts the ante 40
+PLR_5728317LP: posts the ante 40
+PLR_4066808BY: posts the ante 40
+PLR_6796804QN: posts the ante 40
+PLR_3805775OY: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [2d 5d]
+PLR_2716949DS: folds
+PLR_6662868HV: calls 400 
+PLR_1962751AZ: folds
+PLR_5728317LP: raises 2800 to 2800
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_3805775OY: folds
+Hero: folds
+PLR_6662868HV: folds
+*** SHOW DOWN ***
+PLR_5728317LP: shows [Ac Kc] (high card Ace)
+Uncalled bet (2400) returned to PLR_5728317LP
+PLR_5728317LP collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | Rake 0
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_1962751AZ mucked
+Seat 7: PLR_5728317LP collected (1760)
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (button) mucked
+
+
+
+PokerStars Hand #3661312735: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:24:05
+Table '#18 9' Seat #2 is the button
+Seat 1: PLR_8051949GU (16,930 in chips)
+Seat 2: PLR_3805775OY (9,355 in chips)
+Seat 3: Hero (22,140 in chips)
+Seat 4: PLR_2716949DS (11,650 in chips)
+Seat 5: PLR_6662868HV (8,085 in chips)
+Seat 6: PLR_1962751AZ (9,920 in chips)
+Seat 7: PLR_5728317LP (11,320 in chips)
+Seat 8: PLR_4066808BY (31,453 in chips)
+Seat 9: PLR_6796804QN (12,050 in chips)
+PLR_8051949GU: posts the ante 40
+PLR_3805775OY: posts the ante 40
+Hero: posts the ante 40
+PLR_2716949DS: posts the ante 40
+PLR_6662868HV: posts the ante 40
+PLR_1962751AZ: posts the ante 40
+PLR_5728317LP: posts the ante 40
+PLR_4066808BY: posts the ante 40
+PLR_6796804QN: posts the ante 40
+Hero: posts small blind 200
+PLR_2716949DS: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [8c Kh]
+PLR_6662868HV: calls 400 
+PLR_1962751AZ: calls 400 
+PLR_5728317LP: folds
+PLR_4066808BY: raises 1600 to 1600
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_3805775OY: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: calls 1200 
+PLR_1962751AZ: calls 1200 
+*** FLOP *** [As 4d 3h]
+PLR_6662868HV: checks
+PLR_1962751AZ: checks
+PLR_4066808BY: bets 1961 
+PLR_6662868HV: calls 1961 
+PLR_1962751AZ: calls 1961 
+*** TURN *** [As 4d 3h] [6c]
+PLR_6662868HV: checks
+PLR_1962751AZ: bets 400 
+PLR_4066808BY: folds
+PLR_6662868HV: raises 2400 to 2400
+PLR_1962751AZ: calls 2000 
+*** RIVER *** [As 4d 3h 6c] [9h]
+PLR_6662868HV: calls 2084 and is all-in
+PLR_1962751AZ: folds
+Uncalled bet (2084) returned to PLR_6662868HV
+PLR_6662868HV: doesn't show hand
+PLR_6662868HV collected 16443 from pot
+*** SUMMARY ***
+Total pot 16443 | Rake 0
+Board [As 4d 3h 6c 9h]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV won (16443)
+Seat 6: PLR_1962751AZ mucked
+Seat 7: PLR_5728317LP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661314035: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:26:02
+Table '#18 9' Seat #3 is the button
+Seat 1: PLR_8051949GU (16,890 in chips)
+Seat 2: PLR_3805775OY (9,315 in chips)
+Seat 3: Hero (21,900 in chips)
+Seat 4: PLR_2716949DS (11,210 in chips)
+Seat 5: PLR_6662868HV (18,527 in chips)
+Seat 6: PLR_1962751AZ (3,919 in chips)
+Seat 7: PLR_5728317LP (11,280 in chips)
+Seat 8: PLR_4066808BY (27,852 in chips)
+Seat 9: PLR_6796804QN (12,010 in chips)
+PLR_8051949GU: posts the ante 40
+PLR_3805775OY: posts the ante 40
+Hero: posts the ante 40
+PLR_2716949DS: posts the ante 40
+PLR_6662868HV: posts the ante 40
+PLR_1962751AZ: posts the ante 40
+PLR_5728317LP: posts the ante 40
+PLR_4066808BY: posts the ante 40
+PLR_6796804QN: posts the ante 40
+PLR_2716949DS: posts small blind 200
+PLR_6662868HV: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [3d As]
+PLR_1962751AZ: folds
+PLR_5728317LP: calls 400 
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_3805775OY: folds
+Hero: folds
+PLR_2716949DS: calls 200 
+PLR_6662868HV: checks
+*** FLOP *** [4h 4s Qc]
+PLR_2716949DS: checks
+PLR_6662868HV: checks
+PLR_5728317LP: bets 1560 
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+Uncalled bet (1560) returned to PLR_5728317LP
+PLR_5728317LP: doesn't show hand
+PLR_5728317LP collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | Rake 0
+Board [4h 4s Qc]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_3805775OY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_1962751AZ mucked
+Seat 7: PLR_5728317LP won (1560)
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661315176: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:27:44
+Table '#18 9' Seat #4 is the button
+Seat 1: PLR_8051949GU (16,850 in chips)
+Seat 2: Hero (21,860 in chips)
+Seat 3: PLR_2716949DS (10,770 in chips)
+Seat 4: PLR_6662868HV (18,087 in chips)
+Seat 5: PLR_1962751AZ (3,879 in chips)
+Seat 6: PLR_5728317LP (12,400 in chips)
+Seat 7: PLR_4066808BY (27,812 in chips)
+Seat 8: PLR_6796804QN (11,970 in chips)
+PLR_8051949GU: posts the ante 40
+Hero: posts the ante 40
+PLR_2716949DS: posts the ante 40
+PLR_6662868HV: posts the ante 40
+PLR_1962751AZ: posts the ante 40
+PLR_5728317LP: posts the ante 40
+PLR_4066808BY: posts the ante 40
+PLR_6796804QN: posts the ante 40
+PLR_6662868HV: posts small blind 200
+PLR_1962751AZ: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [Ad Tc]
+PLR_5728317LP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: calls 400 
+Hero: calls 400 
+PLR_2716949DS: calls 400 
+PLR_6662868HV: folds
+PLR_1962751AZ: raises 3439 to 3839 and is all-in
+PLR_8051949GU: calls 3439 
+Hero: folds
+PLR_2716949DS: folds
+*** FLOP *** [6s Td Qs]
+*** TURN *** [6s Td Qs] [8d]
+*** RIVER *** [6s Td Qs 8d] [6d]
+*** SHOW DOWN ***
+PLR_8051949GU: shows [9c 9d] (two pair, Nines and Sixs)
+PLR_1962751AZ: shows [6c Ah] (three of a kind, Sixs)
+PLR_1962751AZ collected 8998 from pot
+*** SUMMARY ***
+Total pot 8998 | Rake 0
+Board [6s Td Qs 8d 6d]
+Seat 1: PLR_8051949GU showed [9c 9d] and lost with two pair, Nines and Sixes
+Seat 2: Hero mucked
+Seat 3: PLR_2716949DS mucked
+Seat 4: PLR_6662868HV mucked
+Seat 5: PLR_1962751AZ showed [6c Ah] and won (8998) with three of a kind, Sixes
+Seat 6: PLR_5728317LP mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661316172: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:29:17
+Table '#18 9' Seat #5 is the button
+Seat 1: PLR_8051949GU (12,971 in chips)
+Seat 2: PLR_5208227CY (10,000 in chips)
+Seat 3: Hero (21,420 in chips)
+Seat 4: PLR_2716949DS (10,330 in chips)
+Seat 5: PLR_6662868HV (17,847 in chips)
+Seat 6: PLR_1962751AZ (8,998 in chips)
+Seat 7: PLR_5728317LP (12,360 in chips)
+Seat 8: PLR_4066808BY (27,772 in chips)
+Seat 9: PLR_6796804QN (11,930 in chips)
+PLR_8051949GU: posts the ante 40
+PLR_5208227CY: posts the ante 40
+Hero: posts the ante 40
+PLR_2716949DS: posts the ante 40
+PLR_6662868HV: posts the ante 40
+PLR_1962751AZ: posts the ante 40
+PLR_5728317LP: posts the ante 40
+PLR_4066808BY: posts the ante 40
+PLR_6796804QN: posts the ante 40
+PLR_1962751AZ: posts small blind 200
+PLR_5728317LP: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [Ks Ah]
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_5208227CY: folds
+Hero: raises 999 to 999
+PLR_2716949DS: folds
+PLR_6662868HV: calls 999 
+PLR_1962751AZ: calls 799 
+PLR_5728317LP: calls 599 
+*** FLOP *** [Th Qd Kh]
+PLR_1962751AZ: checks
+PLR_5728317LP: checks
+Hero: checks
+PLR_6662868HV: checks
+*** TURN *** [Th Qd Kh] [8s]
+PLR_1962751AZ: bets 400 
+PLR_5728317LP: raises 1600 to 1600
+Hero: calls 1600 
+PLR_6662868HV: folds
+PLR_1962751AZ: calls 1200 
+*** RIVER *** [Th Qd Kh 8s] [Kc]
+PLR_1962751AZ: checks
+PLR_5728317LP: bets 9156 
+Hero: calls 9156 
+PLR_1962751AZ: folds
+*** SHOW DOWN ***
+PLR_5728317LP: shows [Jh 9c] (a straight, Nine to King)
+Hero: Mucks [Ks Ah] (Three of a kind)
+PLR_5728317LP collected 27468 from pot
+*** SUMMARY ***
+Total pot 27468 | Rake 0
+Board [Th Qd Kh 8s Kc]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero mucked [Ks Ah]
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_1962751AZ mucked
+Seat 7: PLR_5728317LP showed [Jh 9c] and won (27468) with a straight, Nine to King
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661317943: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:31:56
+Table '#18 9' Seat #6 is the button
+Seat 1: PLR_8051949GU (12,931 in chips)
+Seat 2: PLR_5208227CY (9,960 in chips)
+Seat 3: Hero (9,625 in chips)
+Seat 4: PLR_2716949DS (10,290 in chips)
+Seat 5: PLR_6662868HV (16,808 in chips)
+Seat 6: PLR_1962751AZ (6,359 in chips)
+Seat 7: PLR_5728317LP (28,033 in chips)
+Seat 8: PLR_4066808BY (27,732 in chips)
+Seat 9: PLR_6796804QN (11,890 in chips)
+PLR_8051949GU: posts the ante 50
+PLR_5208227CY: posts the ante 50
+Hero: posts the ante 50
+PLR_2716949DS: posts the ante 50
+PLR_6662868HV: posts the ante 50
+PLR_1962751AZ: posts the ante 50
+PLR_5728317LP: posts the ante 50
+PLR_4066808BY: posts the ante 50
+PLR_6796804QN: posts the ante 50
+PLR_5728317LP: posts small blind 250
+PLR_4066808BY: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [Ad Ac]
+PLR_6796804QN: folds
+PLR_8051949GU: folds
+PLR_5208227CY: Sit out
+PLR_5208227CY: folds
+PLR_5208227CY: Re-join
+Hero: raises 1222 to 1222
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_1962751AZ: calls 1222 
+PLR_5728317LP: calls 972 
+PLR_4066808BY: folds
+*** FLOP *** [4d 2d 6s]
+PLR_5728317LP: checks
+Hero: bets 2333 
+PLR_1962751AZ: folds
+PLR_5728317LP: folds
+Uncalled bet (2333) returned to Hero
+Hero: doesn't show hand
+Hero collected 4616 from pot
+*** SUMMARY ***
+Total pot 4616 | Rake 0
+Board [4d 2d 6s]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero won (4616)
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_1962751AZ mucked
+Seat 7: PLR_5728317LP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661319421: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:34:08
+Table '#18 9' Seat #7 is the button
+Seat 1: PLR_8051949GU (12,881 in chips)
+Seat 2: PLR_5208227CY (9,910 in chips)
+Seat 3: Hero (12,969 in chips)
+Seat 4: PLR_2716949DS (10,240 in chips)
+Seat 5: PLR_6662868HV (16,758 in chips)
+Seat 6: PLR_1962751AZ (5,087 in chips)
+Seat 7: PLR_5728317LP (26,761 in chips)
+Seat 8: PLR_4066808BY (27,182 in chips)
+Seat 9: PLR_6796804QN (11,840 in chips)
+PLR_8051949GU: posts the ante 50
+PLR_5208227CY: posts the ante 50
+Hero: posts the ante 50
+PLR_2716949DS: posts the ante 50
+PLR_6662868HV: posts the ante 50
+PLR_1962751AZ: posts the ante 50
+PLR_5728317LP: posts the ante 50
+PLR_4066808BY: posts the ante 50
+PLR_6796804QN: posts the ante 50
+PLR_4066808BY: posts small blind 250
+PLR_6796804QN: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [Ad Ts]
+PLR_8051949GU: calls 500 
+PLR_5208227CY: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_1962751AZ: raises 1000 to 1000
+PLR_5728317LP: Sit out
+PLR_5728317LP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: raises 2500 to 3000
+PLR_8051949GU: folds
+PLR_1962751AZ: calls 2000 
+*** FLOP *** [4d Th Kd]
+PLR_6796804QN: bets 7200 
+PLR_1962751AZ: calls 2037 and is all-in
+*** TURN *** [4d Th Kd] [3s]
+*** RIVER *** [4d Th Kd 3s] [7d]
+*** SHOW DOWN ***
+PLR_1962751AZ: shows [Ks Qs] (a pair of Kings)
+PLR_6796804QN: shows [3d 3c] (three of a kind, Threes)
+Uncalled bet (5163) returned to PLR_6796804QN
+PLR_6796804QN collected 11274 from pot
+PLR_1962751AZ finished the tournament in 157th place
+PLR_1962751AZ: Stand
+*** SUMMARY ***
+Total pot 11274 | Rake 0
+Board [4d Th Kd 3s 7d]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_1962751AZ showed [Ks Qs] and lost with a pair of Kings
+Seat 7: PLR_5728317LP mucked
+Seat 8: PLR_4066808BY mucked
+Seat 9: PLR_6796804QN (big blind) showed [3d 3c] and won (11274) with three of a kind, Threes
+
+
+
+PokerStars Hand #3661320640: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:36:02
+Table '#18 9' Seat #8 is the button
+Seat 1: PLR_8051949GU (12,331 in chips)
+Seat 2: PLR_5208227CY (9,860 in chips)
+Seat 3: Hero (12,919 in chips)
+Seat 4: PLR_2716949DS (10,190 in chips)
+Seat 5: PLR_6662868HV (16,708 in chips)
+Seat 6: PLR_5728317LP (26,711 in chips)
+Seat 7: PLR_4066808BY (26,882 in chips)
+Seat 8: PLR_6796804QN (18,027 in chips)
+PLR_8051949GU: posts the ante 50
+PLR_5208227CY: posts the ante 50
+Hero: posts the ante 50
+PLR_2716949DS: posts the ante 50
+PLR_6662868HV: posts the ante 50
+PLR_5728317LP: posts the ante 50
+PLR_4066808BY: posts the ante 50
+PLR_6796804QN: posts the ante 50
+PLR_6796804QN: posts small blind 250
+PLR_8051949GU: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [3d 6d]
+PLR_5728317LP: Re-join
+PLR_5208227CY: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: calls 500 
+PLR_5728317LP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_8051949GU: checks
+*** FLOP *** [Js 8s 8c]
+PLR_8051949GU: checks
+PLR_6662868HV: checks
+*** TURN *** [Js 8s 8c] [Th]
+PLR_8051949GU: checks
+PLR_6662868HV: bets 1351 
+PLR_8051949GU: folds
+PLR_8051949GU: Sit out
+Uncalled bet (1351) returned to PLR_6662868HV
+PLR_6662868HV: doesn't show hand
+PLR_6662868HV collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0
+Board [Js 8s 8c Th]
+Seat 1: PLR_8051949GU mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV won (1650)
+Seat 6: PLR_5728317LP mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN (small blind) mucked
+
+
+
+PokerStars Hand #3661321808: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:37:50
+Table '#18 9' Seat #9 is the button
+Seat 1: PLR_8051949GU (11,781 in chips)
+Seat 2: PLR_5208227CY (9,810 in chips)
+Seat 3: Hero (12,869 in chips)
+Seat 4: PLR_2716949DS (10,140 in chips)
+Seat 5: PLR_6662868HV (17,808 in chips)
+Seat 6: PLR_5728317LP (26,661 in chips)
+Seat 7: PLR_4066808BY (26,832 in chips)
+Seat 8: PLR_6796804QN (17,727 in chips)
+PLR_8051949GU: posts the ante 50
+PLR_5208227CY: posts the ante 50
+Hero: posts the ante 50
+PLR_2716949DS: posts the ante 50
+PLR_6662868HV: posts the ante 50
+PLR_5728317LP: posts the ante 50
+PLR_4066808BY: posts the ante 50
+PLR_6796804QN: posts the ante 50
+PLR_8051949GU: posts small blind 250
+PLR_5208227CY: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [4h 6s]
+PLR_8051949GU: Re-join
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_5728317LP: calls 500 
+PLR_4066808BY: raises 2650 to 2650
+PLR_6796804QN: folds
+PLR_8051949GU: calls 2400 
+PLR_5208227CY: folds
+PLR_5728317LP: folds
+*** FLOP *** [7s 4c 8s]
+PLR_8051949GU: bets 1200 
+PLR_4066808BY: raises 10780 to 10780
+PLR_8051949GU: calls 7881 and is all-in
+*** TURN *** [7s 4c 8s] [Qd]
+*** RIVER *** [7s 4c 8s Qd] [2d]
+*** SHOW DOWN ***
+PLR_8051949GU: shows [Ks Js] (high card King)
+PLR_4066808BY: shows [8h Ah] (a pair of Eights)
+Uncalled bet (1699) returned to PLR_4066808BY
+PLR_4066808BY collected 24862 from pot
+PLR_8051949GU finished the tournament in 155th place
+PLR_8051949GU: Stand
+*** SUMMARY ***
+Total pot 24862 | Rake 0
+Board [7s 4c 8s Qd 2d]
+Seat 1: PLR_8051949GU lose with High Card [Ks Js-Ks Qd Js 8s 7s] mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_5728317LP mucked
+Seat 7: PLR_4066808BY showed [8h Ah] and won (24862) with a pair of Eights
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661322864: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:39:26
+Table '#18 9' Seat #1 is the button
+Seat 1: PLR_9693466BI (10,000 in chips)
+Seat 2: PLR_5208227CY (9,260 in chips)
+Seat 3: Hero (12,819 in chips)
+Seat 4: PLR_2716949DS (10,090 in chips)
+Seat 5: PLR_6662868HV (17,758 in chips)
+Seat 6: PLR_5728317LP (26,111 in chips)
+Seat 7: PLR_4066808BY (39,913 in chips)
+Seat 8: PLR_6796804QN (17,677 in chips)
+PLR_9693466BI: posts the ante 50
+PLR_5208227CY: posts the ante 50
+Hero: posts the ante 50
+PLR_2716949DS: posts the ante 50
+PLR_6662868HV: posts the ante 50
+PLR_5728317LP: posts the ante 50
+PLR_4066808BY: posts the ante 50
+PLR_6796804QN: posts the ante 50
+PLR_5208227CY: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [Qh 6c]
+PLR_2716949DS: Sit out
+PLR_2716949DS: folds
+PLR_2716949DS: Re-join
+PLR_6662868HV: calls 500 
+PLR_5728317LP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_9693466BI: calls 500 
+PLR_5208227CY: raises 8960 to 9210 and is all-in
+Hero: folds
+PLR_6662868HV: folds
+PLR_9693466BI: folds
+Uncalled bet (8710) returned to PLR_5208227CY
+PLR_5208227CY: doesn't show hand
+PLR_5208227CY collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0
+Seat 1: PLR_9693466BI mucked
+Seat 2: PLR_5208227CY won (2400)
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_5728317LP mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN (button) mucked
+
+
+
+PokerStars Hand #3661323928: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:41:05
+Table '#18 9' Seat #2 is the button
+Seat 1: PLR_9693466BI (9,450 in chips)
+Seat 2: PLR_5208227CY (11,110 in chips)
+Seat 3: Hero (12,269 in chips)
+Seat 4: PLR_2716949DS (10,040 in chips)
+Seat 5: PLR_6662868HV (17,208 in chips)
+Seat 6: PLR_5728317LP (26,061 in chips)
+Seat 7: PLR_4066808BY (39,863 in chips)
+Seat 8: PLR_6796804QN (17,627 in chips)
+PLR_9693466BI: posts the ante 50
+PLR_5208227CY: posts the ante 50
+Hero: posts the ante 50
+PLR_2716949DS: posts the ante 50
+PLR_6662868HV: posts the ante 50
+PLR_5728317LP: posts the ante 50
+PLR_4066808BY: posts the ante 50
+PLR_6796804QN: posts the ante 50
+Hero: posts small blind 250
+PLR_2716949DS: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [2s Qs]
+PLR_6662868HV: folds
+PLR_5728317LP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_9693466BI: folds
+PLR_5208227CY: raises 11060 to 11060 and is all-in
+Hero: folds
+PLR_2716949DS: folds
+Uncalled bet (10560) returned to PLR_5208227CY
+PLR_5208227CY: doesn't show hand
+PLR_5208227CY collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0
+Seat 1: PLR_9693466BI mucked
+Seat 2: PLR_5208227CY won (1650)
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_5728317LP mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661324554: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:42:02
+Table '#18 9' Seat #3 is the button
+Seat 1: PLR_9693466BI (9,400 in chips)
+Seat 2: PLR_5208227CY (12,210 in chips)
+Seat 3: Hero (11,969 in chips)
+Seat 4: PLR_2716949DS (9,490 in chips)
+Seat 5: PLR_6662868HV (17,158 in chips)
+Seat 6: PLR_5728317LP (26,011 in chips)
+Seat 7: PLR_4066808BY (39,813 in chips)
+Seat 8: PLR_6796804QN (17,577 in chips)
+PLR_9693466BI: posts the ante 60
+PLR_5208227CY: posts the ante 60
+Hero: posts the ante 60
+PLR_2716949DS: posts the ante 60
+PLR_6662868HV: posts the ante 60
+PLR_5728317LP: posts the ante 60
+PLR_4066808BY: posts the ante 60
+PLR_6796804QN: posts the ante 60
+PLR_2716949DS: posts small blind 300
+PLR_6662868HV: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [Js 8h]
+PLR_5728317LP: folds
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_9693466BI: folds
+PLR_5208227CY: folds
+Hero: raises 1500 to 1500
+PLR_2716949DS: folds
+PLR_6662868HV: calls 900 
+*** FLOP *** [7c Ac 2d]
+PLR_6662868HV: checks
+Hero: bets 1900 
+PLR_6662868HV: raises 9480 to 9480
+Hero: folds
+Uncalled bet (7580) returned to PLR_6662868HV
+PLR_6662868HV: doesn't show hand
+PLR_6662868HV collected 7580 from pot
+*** SUMMARY ***
+Total pot 7580 | Rake 0
+Board [7c Ac 2d]
+Seat 1: PLR_9693466BI mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV won (7580)
+Seat 6: PLR_5728317LP mucked
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661325232: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:43:05
+Table '#18 9' Seat #4 is the button
+Seat 1: PLR_9693466BI (9,340 in chips)
+Seat 2: PLR_5208227CY (12,150 in chips)
+Seat 3: Hero (8,509 in chips)
+Seat 4: PLR_2716949DS (9,130 in chips)
+Seat 5: PLR_6662868HV (21,278 in chips)
+Seat 6: PLR_5728317LP (25,951 in chips)
+Seat 7: PLR_4066808BY (39,753 in chips)
+Seat 8: PLR_6796804QN (17,517 in chips)
+PLR_9693466BI: posts the ante 60
+PLR_5208227CY: posts the ante 60
+Hero: posts the ante 60
+PLR_2716949DS: posts the ante 60
+PLR_6662868HV: posts the ante 60
+PLR_5728317LP: posts the ante 60
+PLR_4066808BY: posts the ante 60
+PLR_6796804QN: posts the ante 60
+PLR_6662868HV: posts small blind 300
+PLR_5728317LP: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [2s Ah]
+PLR_4066808BY: folds
+PLR_6796804QN: folds
+PLR_9693466BI: folds
+PLR_5208227CY: folds
+Hero: folds
+PLR_2716949DS: folds
+PLR_6662868HV: folds
+PLR_5728317LP: doesn't show hand
+Uncalled bet (600) returned to PLR_5728317LP
+PLR_5728317LP collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0
+Seat 1: PLR_9693466BI mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_5728317LP won (780)
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661325977: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:44:14
+Table '#18 9' Seat #5 is the button
+Seat 1: PLR_9693466BI (9,280 in chips)
+Seat 2: PLR_5208227CY (12,090 in chips)
+Seat 3: Hero (8,449 in chips)
+Seat 4: PLR_2716949DS (9,070 in chips)
+Seat 5: PLR_6662868HV (20,918 in chips)
+Seat 6: PLR_5728317LP (26,671 in chips)
+Seat 7: PLR_4066808BY (39,693 in chips)
+Seat 8: PLR_6796804QN (17,457 in chips)
+PLR_9693466BI: posts the ante 60
+PLR_5208227CY: posts the ante 60
+Hero: posts the ante 60
+PLR_2716949DS: posts the ante 60
+PLR_6662868HV: posts the ante 60
+PLR_5728317LP: posts the ante 60
+PLR_4066808BY: posts the ante 60
+PLR_6796804QN: posts the ante 60
+PLR_5728317LP: posts small blind 300
+PLR_4066808BY: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [6s 9c]
+PLR_6796804QN: folds
+PLR_9693466BI: folds
+PLR_5208227CY: folds
+Hero: folds
+PLR_2716949DS: raises 2580 to 2580
+PLR_6662868HV: folds
+PLR_5728317LP: raises 10860 to 11160
+PLR_4066808BY: folds
+PLR_2716949DS: calls 6430 and is all-in
+*** FLOP *** [Qc 9s Jh]
+*** TURN *** [Qc 9s Jh] [8h]
+*** RIVER *** [Qc 9s Jh 8h] [7h]
+*** SHOW DOWN ***
+PLR_2716949DS: shows [Jc Jd] (three of a kind, Jacks)
+PLR_5728317LP: shows [Ts As] (a straight, Eight to Queen)
+Uncalled bet (2150) returned to PLR_5728317LP
+PLR_5728317LP collected 19100 from pot
+PLR_2716949DS finished the tournament in 148th place
+PLR_2716949DS: Stand
+*** SUMMARY ***
+Total pot 19100 | Rake 0
+Board [Qc 9s Jh 8h 7h]
+Seat 1: PLR_9693466BI mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_2716949DS showed [Jc Jd] and lost with three of a kind, Jacks
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_5728317LP showed [Ts As] and won (19100) with a straight, Eight to Queen
+Seat 7: PLR_4066808BY mucked
+Seat 8: PLR_6796804QN mucked
+
+
+
+PokerStars Hand #3661326713: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:45:23
+Table '#18 9' Seat #7 is the button
+Seat 1: PLR_9693466BI (9,220 in chips)
+Seat 2: PLR_5208227CY (12,030 in chips)
+Seat 3: Hero (8,389 in chips)
+Seat 4: PLR_6662868HV (20,858 in chips)
+Seat 5: PLR_5728317LP (36,701 in chips)
+Seat 6: PLR_4066808BY (39,033 in chips)
+Seat 7: PLR_6796804QN (17,397 in chips)
+PLR_9693466BI: posts the ante 60
+PLR_5208227CY: posts the ante 60
+Hero: posts the ante 60
+PLR_6662868HV: posts the ante 60
+PLR_5728317LP: posts the ante 60
+PLR_4066808BY: posts the ante 60
+PLR_6796804QN: posts the ante 60
+PLR_4066808BY: posts small blind 300
+PLR_6796804QN: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [9h 2c]
+PLR_9693466BI: folds
+PLR_5208227CY: folds
+Hero: folds
+PLR_6662868HV: calls 600 
+PLR_5728317LP: folds
+PLR_4066808BY: calls 300 
+PLR_6796804QN: checks
+*** FLOP *** [Ac 7c 3c]
+PLR_4066808BY: checks
+PLR_6796804QN: checks
+PLR_6662868HV: checks
+*** TURN *** [Ac 7c 3c] [Ah]
+PLR_4066808BY: checks
+PLR_6796804QN: checks
+PLR_6662868HV: checks
+*** RIVER *** [Ac 7c 3c Ah] [Jd]
+PLR_4066808BY: checks
+PLR_6796804QN: checks
+PLR_6662868HV: checks
+*** SHOW DOWN ***
+PLR_4066808BY: shows [6s Ts] (a pair of Aces)
+PLR_6796804QN: shows [3s 8c] (two pair, Aces and Threes)
+PLR_6662868HV: Mucks [5h 6h] (One pair)
+PLR_6796804QN collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | Rake 0
+Board [Ac 7c 3c Ah Jd]
+Seat 1: PLR_9693466BI mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_6662868HV mucked [5h 6h]
+Seat 5: PLR_5728317LP mucked
+Seat 6: PLR_4066808BY showed [6s Ts] and lost with a pair of Aces
+Seat 7: PLR_6796804QN (big blind) showed [3s 8c] and won (2220) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #3661327504: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:46:35
+Table '#18 9' Seat #8 is the button
+Seat 1: PLR_9693466BI (9,160 in chips)
+Seat 2: PLR_5208227CY (11,970 in chips)
+Seat 3: Hero (8,329 in chips)
+Seat 4: PLR_6966683UA (10,000 in chips)
+Seat 5: PLR_6662868HV (20,198 in chips)
+Seat 6: PLR_5728317LP (36,641 in chips)
+Seat 7: PLR_4066808BY (38,373 in chips)
+Seat 8: PLR_6796804QN (18,957 in chips)
+PLR_9693466BI: posts the ante 60
+PLR_5208227CY: posts the ante 60
+Hero: posts the ante 60
+PLR_6966683UA: posts the ante 60
+PLR_6662868HV: posts the ante 60
+PLR_5728317LP: posts the ante 60
+PLR_4066808BY: posts the ante 60
+PLR_6796804QN: posts the ante 60
+PLR_6796804QN: posts small blind 300
+PLR_9693466BI: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [3s 5s]
+PLR_5208227CY: folds
+Hero: folds
+PLR_6966683UA: folds
+PLR_6662868HV: folds
+PLR_5728317LP: calls 600 
+PLR_4066808BY: raises 3011 to 3011
+PLR_6796804QN: folds
+PLR_9693466BI: folds
+PLR_5728317LP: folds
+Uncalled bet (2411) returned to PLR_4066808BY
+PLR_4066808BY: doesn't show hand
+PLR_4066808BY collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | Rake 0
+Seat 1: PLR_9693466BI mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero mucked
+Seat 4: PLR_6966683UA mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_5728317LP mucked
+Seat 7: PLR_4066808BY won (2580)
+Seat 8: PLR_6796804QN (small blind) mucked
+
+
+
+PokerStars Hand #3661328383: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:47:59
+Table '#18 9' Seat #9 is the button
+Seat 1: PLR_9693466BI (8,500 in chips)
+Seat 2: PLR_5208227CY (11,910 in chips)
+Seat 3: Hero (8,269 in chips)
+Seat 4: PLR_6966683UA (9,940 in chips)
+Seat 5: PLR_6662868HV (20,138 in chips)
+Seat 6: PLR_2782369NJ (10,000 in chips)
+Seat 7: PLR_5728317LP (35,981 in chips)
+Seat 8: PLR_4066808BY (40,293 in chips)
+Seat 9: PLR_6796804QN (18,597 in chips)
+PLR_9693466BI: posts the ante 60
+PLR_5208227CY: posts the ante 60
+Hero: posts the ante 60
+PLR_6966683UA: posts the ante 60
+PLR_6662868HV: posts the ante 60
+PLR_2782369NJ: posts the ante 60
+PLR_5728317LP: posts the ante 60
+PLR_4066808BY: posts the ante 60
+PLR_6796804QN: posts the ante 60
+PLR_9693466BI: posts small blind 300
+PLR_5208227CY: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [Qh 9h]
+Hero: raises 8209 to 8209 and is all-in
+PLR_6966683UA: folds
+PLR_6662868HV: folds
+PLR_2782369NJ: folds
+PLR_5728317LP: folds
+PLR_4066808BY: calls 8209 
+PLR_6796804QN: folds
+PLR_9693466BI: folds
+PLR_5208227CY: folds
+*** FLOP *** [3s 2s Ah]
+*** TURN *** [3s 2s Ah] [8s]
+*** RIVER *** [3s 2s Ah 8s] [8d]
+*** SHOW DOWN ***
+Hero: shows [Qh 9h] (a pair of Eights)
+PLR_4066808BY: shows [Ac Ad] (a full house, Aces full of Eights)
+PLR_4066808BY collected 17858 from pot
+Hero finished the tournament in 139th place
+Hero: Stand
+*** SUMMARY ***
+Total pot 17858 | Rake 0
+Board [3s 2s Ah 8s 8d]
+Seat 1: PLR_9693466BI mucked
+Seat 2: PLR_5208227CY mucked
+Seat 3: Hero showed [Qh 9h] and lost with a pair of Eights
+Seat 4: PLR_6966683UA mucked
+Seat 5: PLR_6662868HV mucked
+Seat 6: PLR_2782369NJ mucked
+Seat 7: PLR_5728317LP mucked
+Seat 8: PLR_4066808BY showed [Ac Ad] and won (17858) with a full house, Aces full of Eights
+Seat 9: PLR_6796804QN mucked
+
+
+
+

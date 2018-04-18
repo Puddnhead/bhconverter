@@ -1,0 +1,155 @@
+package bhc.hands;
+
+import bhc.domain.Hand;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.UUID;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+/**
+ * Some generic parsing methods
+ *
+ * Created by MVW on 4/15/2018.
+ */
+public class HandParsingUtil {
+
+    private static final Pattern heroPattern = Pattern.compile("Seat \\d: (.* \\[ME])");
+    private static final Pattern otherPlayerPattern = Pattern.compile("Seat \\d: (.*) \\(\\$\\w+(\\.*\\d\\d)? in chips\\)$");
+    public static final Pattern showdownPattern = Pattern.compile("^(.*) : Showdown (\\[.*]) (\\(.*\\))$");
+    public static final Pattern preflopShowdown = Pattern.compile("^(.*) : Showdown\\(.*$");
+    public static final Pattern muckPattern = Pattern.compile("^(.*) : Mucks (\\[.*]) (\\(.*\\))$");
+    private static final Pattern summaryPattern = Pattern.compile("Seat\\+\\d: .*");
+
+    private static final HandDescriptionConverter handDescriptionConverter = new HandDescriptionConverter();
+
+    /**
+     * Randomizes the names of players so for instance "Small Blind" won't end up having statistics in Poker tracker
+     *
+     * @param entireHand
+     * @return
+     */
+    public static Map<String, String> generateSeatMap(List<String> entireHand) {
+        Map<String, String> seatMap = new HashMap<>();
+
+        for (String line: entireHand) {
+            Matcher heroMatcher = heroPattern.matcher(line);
+            if (heroMatcher.find()) {
+                String seat = heroMatcher.group(1);
+                seatMap.put(seat, "Hero");
+                continue;
+            }
+
+            Matcher otherPlayerMatcher = otherPlayerPattern.matcher(line);
+            if (otherPlayerMatcher.find()) {
+                String seat = otherPlayerMatcher.group(1);
+                seatMap.put(seat, "Player_" + UUID.randomUUID().toString().substring(0, 8));
+            }
+        }
+
+        return seatMap;
+    }
+
+    /**
+     * For some reason after listing seats the bovada print out has a second whitespace character for hero
+     *
+     * @param seatMap the generated seatmap
+     */
+    public static void modifyHeroEntry(Map<String, String> seatMap) {
+        String heroKey = null;
+
+        for (String key: seatMap.keySet()) {
+            if (key.contains("[ME]")) {
+                heroKey = key;
+                break;
+            }
+        }
+
+        seatMap.remove(heroKey);
+        seatMap.put(heroKey.replace("[ME]", " [ME]"), "Hero");
+    }
+
+    /**
+     * Parses the Bovada showdown and summary and returns a a map of the Bovada player name to the 2-card hand
+     *
+     * @param entireHand the hand containing showdowns and summaries
+     * @return a map of the Bovada player name to the 2-card hand
+     */
+    public static Map<String, Hand> findShowedDownHands(List<String> entireHand) {
+        Map<String, Hand> playerHandMap = new HashMap<>();
+
+        for (String line: entireHand) {
+            Matcher showdownMatcher = showdownPattern.matcher(line);
+            Matcher preflopShowdownMatcher = preflopShowdown.matcher(line);
+            if (showdownMatcher.find()) {
+                String playerName = showdownMatcher.group(1);
+                String fiveCardHand = showdownMatcher.group(2);
+                String bovadaDescription = showdownMatcher.group(3);
+                Hand hand = new Hand(fiveCardHand, bovadaDescription);
+                String twoCardHand = findTwoCardHand(playerName, entireHand);
+                hand.setTwoCardHand(twoCardHand);
+                handDescriptionConverter.convert(hand);
+                playerHandMap.put(playerName, hand);
+            } else if (preflopShowdownMatcher.find()) {
+                String playerName = preflopShowdownMatcher.group(1);
+                String bovadaDescription = "(High Card)";
+                Hand hand = new Hand(null, bovadaDescription);
+                String twoCardHand = findTwoCardHand(playerName, entireHand);
+                hand.setTwoCardHand(twoCardHand);
+                handDescriptionConverter.convert(hand);
+                playerHandMap.put(playerName, hand);
+            }
+        }
+        return playerHandMap;
+    }
+
+    public static Map<String, Hand> findMuckedHands(List<String> entireHand) {
+        Map<String, Hand> playerHandMap = new HashMap<>();
+
+        for (String line: entireHand) {
+            Matcher muckedMatcher = muckPattern.matcher(line);
+            if (muckedMatcher.find()) {
+                String playerName = muckedMatcher.group(1);
+                String twoCardHand = muckedMatcher.group(2);
+                String bovadaDescription = muckedMatcher.group(3);
+                Hand hand = new Hand(null, bovadaDescription);
+                hand.setTwoCardHand(twoCardHand);
+                playerHandMap.put(playerName, hand);
+            }
+        }
+
+        return playerHandMap;
+    }
+
+    private static String findTwoCardHand(String playerName, List<String> entireHand) {
+        String hand = "[]";
+
+        // first strip [ME] if its part of the player name
+        String normalizedPlayerName = playerName;
+        if (normalizedPlayerName.contains("[ME]")) {
+            normalizedPlayerName = normalizedPlayerName.substring(0, normalizedPlayerName.length() - 6);
+        }
+        // so UTG won't match UTG+1
+        normalizedPlayerName += " ";
+
+        for (String line: entireHand) {
+            Matcher summaryMatcher = summaryPattern.matcher(line);
+            if (summaryMatcher.matches() && line.contains(normalizedPlayerName)) {
+                if (line.charAt(line.length() - 24) == '[') {
+                    // example:
+                    // Seat+1: Dealer $2.09  with One pair [Qs Jh-Qs Qd As Jh Th]
+                    hand = "[" + line.substring(line.length() - 23, line.length() - 18) + "]";
+                } else {
+                    //example:
+                    // Seat+3: Big Blind $0.15  with High Card [4c 2d]
+                    hand = line.substring(line.length() - 9, line.length() - 2);
+                }
+                break;
+            }
+        }
+
+        return hand;
+    }
+}

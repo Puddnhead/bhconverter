@@ -1,0 +1,3 @@
+cd /c/workspaces/bhconverter/out/production/bhconverter
+
+jar cfm bhc.jar /c/workspaces/bhconverter/manifest.txt *
