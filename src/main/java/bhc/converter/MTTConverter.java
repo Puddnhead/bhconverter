@@ -2,7 +2,7 @@ package bhc.converter;
 
 import bhc.domain.PokerGame;
 import bhc.hands.HandParsingUtil;
-import bhc.hands.HandWriter;
+import bhc.hands.RingGameHandWriter;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -23,7 +23,7 @@ public class MTTConverter extends GameConverter {
 
     @Override
     void transformNextHand(String firstLine, BufferedReader reader, FileWriter writer) {
-        HandWriter handWriter = new HandWriter(this, writer, pokerGame);
+        RingGameHandWriter handWriter = new RingGameHandWriter(this, writer, pokerGame);
         handWriter.transformFirstLine(firstLine, writer);
 
         List<String> entireHand = readEntireHand(reader);

@@ -55,12 +55,12 @@ public class PokerGame {
         return fixedLargeBlind;
     }
 
-    public String getBlinds() {
+    public String getBlindsRegex() {
         if (fixedSmallBlind <= 0 && fixedLargeBlind <= 0) {
             return null;
         }
 
-        return String.format("($%.2f/$%.2f)", fixedSmallBlind, fixedLargeBlind);
+        return String.format("(\\$%.2f/\\$%.2f)", fixedSmallBlind, fixedLargeBlind);
     }
 
     public String getEntryFee() {
