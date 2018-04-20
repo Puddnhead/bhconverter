@@ -1,5 +1,6 @@
 package bhc;
 
+import bhc.converter.MTTConverter;
 import bhc.converter.RingGameConverter;
 import bhc.domain.PokerGame;
 import bhc.util.FileService;
@@ -35,7 +36,8 @@ public class Bhc {
             if (pokerGame == null) {
                 System.out.println("WARNING: Did not recognize " + inputFile.getPath() + " as a ring game or MTT");
             } else if (pokerGame.isTournament()) {
-                // do nothing
+                MTTConverter mttConverter = new MTTConverter(inputFile, outputDirectory, pokerGame);
+                mttConverter.convertGame();
             } else {
                 RingGameConverter ringGameConverter = new RingGameConverter(inputFile, outputDirectory, pokerGame);
                 ringGameConverter.convertGame();
