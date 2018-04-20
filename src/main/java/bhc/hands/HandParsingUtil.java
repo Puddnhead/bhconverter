@@ -16,12 +16,12 @@ import java.util.regex.Pattern;
  */
 public class HandParsingUtil {
 
-    private static final Pattern heroPattern = Pattern.compile("Seat \\d: (.* \\[ME])");
-    private static final Pattern otherPlayerPattern = Pattern.compile("Seat \\d: (.*) \\(\\$\\w+(\\.*\\d\\d)? in chips\\)$");
+    private static final Pattern heroPattern = Pattern.compile("Seat (\\d+): (.* \\[ME])");
+    private static final Pattern otherPlayerPattern = Pattern.compile("Seat (\\d+): (.*) \\(\\$?[\\d,]+(\\.*\\d\\d)? in chips\\)$");
     static final Pattern showdownPattern = Pattern.compile("^(.*) : Showdown (\\[.*]) (\\(.*\\))$");
     static final Pattern preflopShowdown = Pattern.compile("^(.*) : Showdown\\(.*$");
     static final Pattern muckPattern = Pattern.compile("^(.*) : Mucks (\\[.*]) (\\(.*\\))$");
-    private static final Pattern summaryPattern = Pattern.compile("Seat\\+\\d: .*");
+    private static final Pattern summaryPattern = Pattern.compile("Seat\\+\\d+: .*");
 
     private static final HandDescriptionConverter handDescriptionConverter = new HandDescriptionConverter();
 
@@ -37,19 +37,48 @@ public class HandParsingUtil {
         for (String line: entireHand) {
             Matcher heroMatcher = heroPattern.matcher(line);
             if (heroMatcher.find()) {
+                String player = heroMatcher.group(2);
+                playerMap.put(player, "Hero");
+                continue;
+            }
+
+            Matcher otherPlayerMatcher = otherPlayerPattern.matcher(line);
+            if (otherPlayerMatcher.find()) {
+                String player = otherPlayerMatcher.group(2);
+                playerMap.put(player, "Player_" + UUID.randomUUID().toString().substring(0, 8));
+            }
+        }
+
+        return playerMap;
+    }
+
+    /**
+     * Maps the arbitrary bovada seat numbers to number 1-9 that won't confuse PokerTracker
+     *
+     * @param entireHand the hand
+     * @return a map of bovada seat numbers to pokerstars seat numbers
+     */
+    public static Map<String, String> generateSeatMap(List<String> entireHand) {
+        Map<String, String> seatMap = new HashMap<>();
+        int currentSeat = 1;
+
+        for (String line: entireHand) {
+            Matcher heroMatcher = heroPattern.matcher(line);
+            if (heroMatcher.find()) {
                 String seat = heroMatcher.group(1);
-                playerMap.put(seat, "Hero");
+                seatMap.put(seat, currentSeat + "");
+                currentSeat++;
                 continue;
             }
 
             Matcher otherPlayerMatcher = otherPlayerPattern.matcher(line);
             if (otherPlayerMatcher.find()) {
                 String seat = otherPlayerMatcher.group(1);
-                playerMap.put(seat, "Player_" + UUID.randomUUID().toString().substring(0, 8));
+                seatMap.put(seat, currentSeat + "");
+                currentSeat++;
             }
         }
-
-        return playerMap;
+        return seatMap;
     }
 
     /**
@@ -129,7 +158,7 @@ public class HandParsingUtil {
         // first strip [ME] if its part of the player name
         String normalizedPlayerName = playerName;
         if (normalizedPlayerName.contains("[ME]")) {
-            normalizedPlayerName = normalizedPlayerName.substring(0, normalizedPlayerName.length() - 6);
+            normalizedPlayerName = normalizedPlayerName.substring(0, normalizedPlayerName.length() - 5).trim();
         }
         // so UTG won't match UTG+1
         normalizedPlayerName += " ";
@@ -141,6 +170,10 @@ public class HandParsingUtil {
                     // example:
                     // Seat+1: Dealer $2.09  with One pair [Qs Jh-Qs Qd As Jh Th]
                     hand = "[" + line.substring(line.length() - 23, line.length() - 18) + "]";
+                } else if (line.charAt(line.length() - 10) == '[') {
+                    // example:
+                    // Seat+213: UTG+3 1760  with High Card [Ac Kc ]
+                    hand = "[" + line.substring(line.length() - 9, line.length() - 4) + "]";
                 } else {
                     //example:
                     // Seat+3: Big Blind $0.15  with High Card [4c 2d]

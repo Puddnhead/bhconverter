@@ -17,28 +17,36 @@ public class ActionConverter {
     // Small Blind : Small Blind $0.05
     // Big Blind : Big blind $0.10
     // UTG+1  [ME] : Posts chip $0.10
-    private static final Pattern postingActionPattern = Pattern.compile("(.*) : (.*) (\\$.*)");
+    private static final Pattern postingActionPattern = Pattern.compile("(.*) : (.*) (\\$?\\d+(\\.\\d\\d)?)");
     private static final Pattern handActionPattern = Pattern.compile("(.*) : (\\S+)");
-    private static final Pattern uncalledPortionReturnPattern = Pattern.compile(".* : Return uncalled portion of bet (\\$.*)$");
+    private static final Pattern uncalledPortionReturnPattern = Pattern.compile(".* : Return uncalled portion of bet (\\$?.*)$");
     private static final Pattern betActionPattern = Pattern.compile(".* : Bets \\$(.*)$");
     private static final Pattern allinActionPattern = Pattern.compile(".* : All-in \\$(.*)$");
-    private static final Pattern allinRaiseActionPattern = Pattern.compile(".* : All-in\\(raise\\) .* to \\$(.*)$");
-    private static final Pattern raisesActionPattern = Pattern.compile(".* : Raises .* to \\$(.*)$");
+    private static final Pattern allinRaiseActionPattern = Pattern.compile(".* : All-in\\(raise\\) .* to \\$?(.*)$");
+    private static final Pattern raisesActionPattern = Pattern.compile(".* : Raises .* to \\$?(.*)$");
 
     // Posting actions
     private static final String BOVADA_SMALL_BLIND_ACTION = "Small Blind";
+    private static final String BOVADA_SMALL_BLIND_ACTION2 = "Small blind";
     private static final String BOVADA_BIG_BLIND_ACTION = "Big blind";
     private static final String BOVADA_POSTING_ACTION = "Posts chip";
     private static final String BOVADA_DEAD_CHIP_ACTION = "Posts dead chip";
+    private static final String BOVADA_ANTE_CHIP_ACTION = "Ante chip";
 
     private static final String POKERSTARS_SMALL_BLIND_ACTION = "posts small blind";
     private static final String POKERSTARS_BIG_BLIND_ACTION = "posts big blind";
+    private static final String POKERSTARS_ANTE_ACTION = "posts the ante";
 
     // Hand actions
     private static final String BOVADA_CALL_ACTION = "Calls";
+    private static final String BOVADA_CALL_ACTION2 = "Call";
+    private static final String BOVADA_CALL_TIMEOUT_ACTION = "Call(timeout)";
     private static final String BOVADA_CHECK_ACTION = "Checks";
+    private static final String BOVADA_CHECK_TIMEOUT_ACTION = "Checks(timeout)";
     private static final String BOVADA_RAISE_ACTION = "Raises";
     private static final String BOVADA_FOLD_ACTION = "Folds";
+    private static final String BOVADA_FOLD_BLIND_DISCONNECTED_ACTION = "Fold(Blind";
+    private static final String BOVADA_FOLD_TIMEOUT_ACTION = "Folds(timeout)";
     private static final String BOVADA_BET_ACTION = "Bets";
     private static final String BOVADA_RETURN_ACTION = "Return";
     private static final String BOVADA_DOES_NOT_SHOW_ACTION = "Does";
@@ -46,9 +54,10 @@ public class ActionConverter {
     private static final String BOVADA_ALL_IN_ACTION = "All-in";
     private static final String BOVADA_SEAT_STAND_ACTION = "Seat";
     private static final String BOVADA_TABLE_ACTION = "Table";
+    private static final String BOVADA_SIT_OUT_ACTION = "Sit";
+    private static final String BOVADA_REJOIN_ACTION = "Re-join";
 
     private static final String POKERSTARS_CALL_ACTION = "calls";
-    private static final String POKERSTARS_CHECK_ACTION = "checks";
     private static final String POKERSTARS_BET_ACTION = "bets";
 
     public static String convertPostingAction(String action, Map<String, String> playerMap) {
@@ -63,6 +72,7 @@ public class ActionConverter {
             String pokerstarsAction = "";
             switch (bovadaAction) {
                 case BOVADA_SMALL_BLIND_ACTION:
+                case BOVADA_SMALL_BLIND_ACTION2:
                     pokerstarsAction = POKERSTARS_SMALL_BLIND_ACTION;
                     break;
                 case BOVADA_BIG_BLIND_ACTION:
@@ -73,6 +83,9 @@ public class ActionConverter {
                     break;
                 case BOVADA_DEAD_CHIP_ACTION:
                     pokerstarsAction = POKERSTARS_BIG_BLIND_ACTION;
+                    break;
+                case BOVADA_ANTE_CHIP_ACTION:
+                    pokerstarsAction = POKERSTARS_ANTE_ACTION;
                     break;
                 default:
                     SystemUtils.exitProgramWithError("Unrecognized posting action: " + bovadaAction, Optional.empty());
@@ -97,12 +110,17 @@ public class ActionConverter {
             // sloppy but default to Raise because the grouping is a bit off
             switch (bovadaAction) {
                 case BOVADA_CALL_ACTION:
-                    transformedAction = transformedAction.replace(BOVADA_CALL_ACTION, POKERSTARS_CALL_ACTION);
+                case BOVADA_CALL_ACTION2:
+                case BOVADA_CALL_TIMEOUT_ACTION:
+                    transformedAction = transformedAction.replace(bovadaAction, POKERSTARS_CALL_ACTION);
                     break;
                 case BOVADA_CHECK_ACTION:
-                    transformedAction = transformedAction.replace(BOVADA_CHECK_ACTION, POKERSTARS_CHECK_ACTION);
+                case BOVADA_CHECK_TIMEOUT_ACTION:
+                    transformedAction = transformedName + ": checks";
                     break;
                 case BOVADA_FOLD_ACTION:
+                case BOVADA_FOLD_TIMEOUT_ACTION:
+                case BOVADA_FOLD_BLIND_DISCONNECTED_ACTION:
                     transformedAction = transformedName + ": folds";
                     break;
                 case BOVADA_RAISE_ACTION:
@@ -113,7 +131,12 @@ public class ActionConverter {
                         double raiseInterval = Double.parseDouble(raiseValue) - handContext.getCurrentBet();
                         raiseInterval = Math.round(raiseInterval * 100.0) / 100.0;
                         handContext.setCurrentBet(currentBet);
-                        transformedAction = transformedName + ": raises $" + String.format("%.2f", raiseInterval) + " to $" + raiseValue;
+                        if (handContext.isCashGame()) {
+                            transformedAction = transformedName + ": raises $" +
+                                    String.format("%.2f", raiseInterval) + " to $" + raiseValue;
+                        } else {
+                            transformedAction = transformedName + ": raises " + (int)raiseInterval + " to " + raiseValue;
+                        }
                     }
                     break;
                 case BOVADA_BET_ACTION:
@@ -143,10 +166,18 @@ public class ActionConverter {
                         double currentBet = handContext.getCurrentBet();
 
                         if (currentBet == 0) {
-                            transformedAction = transformedName + ": bets $" + String.format("%.2f", allinBet) + " and is all-in";
+                            if (handContext.isCashGame()) {
+                                transformedAction = transformedName + ": bets $" + String.format("%.2f", allinBet) + " and is all-in";
+                            } else {
+                                transformedAction = transformedName + ": bets " + (int)allinBet + " and is all-in";
+                            }
                             handContext.setCurrentBet(allinBet);
                         } else {
-                            transformedAction = transformedName + ": calls $" + String.format("%.2f", allinBet) + " and is all-in";
+                            if (handContext.isCashGame()) {
+                                transformedAction = transformedName + ": calls $" + String.format("%.2f", allinBet) + " and is all-in";
+                            } else {
+                                transformedAction = transformedName + ": calls " + (int)allinBet + " and is all-in";
+                            }
                         }
                     }
                     break;
@@ -159,13 +190,19 @@ public class ActionConverter {
 
                         double raise = allinBet - currentBet;
                         raise = Math.round(raise * 100.0) / 100.0;
-                        transformedAction = transformedName + ": raises $" + String.format("%.2f", raise)
-                                + " to $" + String.format("%.2f", allinBet) + " and is all-in";
+                        if (handContext.isCashGame()) {
+                            transformedAction = transformedName + ": raises $" + String.format("%.2f", raise)
+                                    + " to $" + String.format("%.2f", allinBet) + " and is all-in";
+                        } else {
+                            transformedAction = transformedName + ": raises " + (int)raise + " to " + (int)allinBet + " and is all-in";
+                        }
                         handContext.setCurrentBet(allinBet);
                     }
                     break;
                 case BOVADA_SEAT_STAND_ACTION:
                 case BOVADA_TABLE_ACTION:
+                case BOVADA_SIT_OUT_ACTION:
+                case BOVADA_REJOIN_ACTION:
                     // just ignore these lines - don't care about people sitting down or standing up
                     break;
                 default:

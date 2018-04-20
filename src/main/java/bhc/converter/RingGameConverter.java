@@ -2,6 +2,7 @@ package bhc.converter;
 
 import bhc.domain.PokerGame;
 import bhc.hands.HandParsingUtil;
+import bhc.hands.HandWriter;
 import bhc.hands.RingGameHandWriter;
 
 import java.io.BufferedReader;
@@ -9,6 +10,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.List;
 import java.util.Map;
+import java.util.Optional;
 
 /**
  * Logic for converting ring games
@@ -22,19 +24,19 @@ public class RingGameConverter extends GameConverter {
     }
 
     void transformNextHand(String firstLine, BufferedReader reader, FileWriter writer) {
-        RingGameHandWriter handWriter = new RingGameHandWriter(this, writer, pokerGame);
+        HandWriter handWriter = new RingGameHandWriter(this, writer, pokerGame);
         handWriter.transformFirstLine(firstLine, writer);
 
         List<String> entireHand = readEntireHand(reader);
         handWriter.writeSecondLine(entireHand, writer);
         Map<String, String> playerMap = HandParsingUtil.generatePlayerMap(entireHand);
         handWriter.setPlayerMap(playerMap);
-        handWriter.writeSeats(entireHand);
+        handWriter.writeSeats(entireHand, Optional.empty());
 
         HandParsingUtil.modifyHeroEntry(playerMap);
         handWriter.writePostingActions(entireHand);
         handWriter.writeHoleCards(entireHand);
         handWriter.writeHandAction(entireHand);
-        handWriter.writeShowdownAndSummary(entireHand);
+        handWriter.writeShowdownAndSummary(entireHand, Optional.empty());
     }
 }

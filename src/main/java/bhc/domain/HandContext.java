@@ -10,10 +10,12 @@ import java.util.Map;
 public class HandContext {
     private Map<String, String> playerMap;
     private double currentBet;
+    private boolean isCashGame;
 
-    public HandContext(Map<String, String> playerMap, double currentBet) {
+    public HandContext(Map<String, String> playerMap, double currentBet, boolean isCashGame) {
         this.playerMap = playerMap;
         this.currentBet = currentBet;
+        this.isCashGame = isCashGame;
     }
 
     public Map<String, String> getPlayerMap() {
@@ -26,5 +28,9 @@ public class HandContext {
 
     public void setCurrentBet(double currentBet) {
         this.currentBet = currentBet;
+    }
+
+    public boolean isCashGame() {
+        return isCashGame;
     }
 }

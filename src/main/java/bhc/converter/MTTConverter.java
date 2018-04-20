@@ -2,13 +2,16 @@ package bhc.converter;
 
 import bhc.domain.PokerGame;
 import bhc.hands.HandParsingUtil;
-import bhc.hands.RingGameHandWriter;
+import bhc.hands.MTTHandWriter;
+import bhc.util.SystemUtils;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileWriter;
+import java.io.IOException;
 import java.util.List;
 import java.util.Map;
+import java.util.Optional;
 
 /**
  * Logic for converting MTT
@@ -23,19 +26,19 @@ public class MTTConverter extends GameConverter {
 
     @Override
     void transformNextHand(String firstLine, BufferedReader reader, FileWriter writer) {
-        RingGameHandWriter handWriter = new RingGameHandWriter(this, writer, pokerGame);
+        MTTHandWriter handWriter = new MTTHandWriter(this, writer, pokerGame);
         handWriter.transformFirstLine(firstLine, writer);
-
         List<String> entireHand = readEntireHand(reader);
         handWriter.writeSecondLine(entireHand, writer);
+
         Map<String, String> playerMap = HandParsingUtil.generatePlayerMap(entireHand);
         handWriter.setPlayerMap(playerMap);
-        handWriter.writeSeats(entireHand);
+        Map<String, String> seatMap = HandParsingUtil.generateSeatMap(entireHand);
+        handWriter.writeSeats(entireHand, Optional.of(seatMap));
 
-        HandParsingUtil.modifyHeroEntry(playerMap);
         handWriter.writePostingActions(entireHand);
         handWriter.writeHoleCards(entireHand);
         handWriter.writeHandAction(entireHand);
-        handWriter.writeShowdownAndSummary(entireHand);
+        handWriter.writeShowdownAndSummary(entireHand, Optional.of(seatMap));
     }
 }

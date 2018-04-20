@@ -1,6 +1,6 @@
 package bhc;
 
-import bhc.converter.RingGameConverter;
+import bhc.converter.MTTConverter;
 import bhc.domain.PokerGame;
 import bhc.util.GameTypeUtil;
 import org.junit.Test;
@@ -18,15 +18,17 @@ import java.io.IOException;
 public class MTTConverterTest extends ConverterTestBase {
 
     @Test
-    public void testConvertRingGame() throws IOException {
-        String inputFileName = "C:\\workspaces\\bhconverter\\src\\test\\resources\\HH20180406-214500 - 1836669 - MTT.txt";
+    public void testConvertMTTGame() throws IOException {
+        String inputFileName = "C:\\workspaces\\bhconverter\\src\\test\\resources\\"
+            + "HH20180406-214500 - 1836669 - MTT - $5.000 Guaranteed (10K Chips 10-Minute Levels) - $20-$2 - HOLDEM - NL -Tourney No.21391319.txt";
         File inputFile = new File(inputFileName);
         PokerGame pokerGame = GameTypeUtil.getGameType(inputFile);
         File outputDirectory = new File("C:\\workspaces\\bhconverter\\src\\test\\resources\\");
-        RingGameConverter ringGameConverter = new RingGameConverter(inputFile, outputDirectory, pokerGame);
-        ringGameConverter.convertGame();
+        MTTConverter mttConverter = new MTTConverter(inputFile, outputDirectory, pokerGame);
+        mttConverter.convertGame();
 
-        String testOutputFileName = "C:\\workspaces\\bhconverter\\src\\test\\resources\\BovadaHH20180406-214500 - 1836669 - MTT.txt";
+        String testOutputFileName = "C:\\workspaces\\bhconverter\\src\\test\\resources\\" +
+                "BovadaHH20180406-214500 - 1836669 - MTT - $5.000 Guaranteed (10K Chips 10-Minute Levels) - $20-$2 - HOLDEM - NL -Tourney No.21391319.txt";
         String controlFileName = "C:\\workspaces\\bhconverter\\src\\test\\resources\\BovadaHandHistory_Holdem_NL_MTT.txt";
 
         try (

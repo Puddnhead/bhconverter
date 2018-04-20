@@ -1,0 +1,3672 @@
+PokerStars Hand #3661260797: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:06:14
+Table '#18' Seat #5 is the button
+Seat 1: Player_4725de0a (10,000 in chips)
+Seat 2: Player_4ecd5d28 (9,980 in chips)
+Seat 3: Hero (10,000 in chips)
+Seat 4: Player_fa21d3c1 (10,000 in chips)
+Seat 5: Player_1128adff (10,020 in chips)
+Seat 6: Player_5aec56b9 (10,029 in chips)
+Seat 7: Player_8357d8e2 (14,870 in chips)
+Player_5aec56b9: posts small blind 30
+Player_8357d8e2: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [Qd 7h]
+Player_4725de0a: folds
+Player_4ecd5d28: folds
+Hero: folds
+Player_fa21d3c1: folds
+Player_1128adff: folds
+Player_5aec56b9: raises 120 to 180
+Player_8357d8e2: calls 120 
+*** FLOP *** [Ac 4c Qh]
+Player_5aec56b9: bets 200 
+Player_8357d8e2: calls 200 
+*** TURN *** [Ac 4c Qh] [Jh]
+Player_5aec56b9: bets 400 
+Player_8357d8e2: calls 400 
+*** RIVER *** [Ac 4c Qh Jh] [2c]
+Player_5aec56b9: bets 750 
+Player_8357d8e2: calls 750 
+*** SHOW DOWN ***
+Player_5aec56b9: shows [Ad Jd] (two pair, Aces and Jacks)
+Player_8357d8e2: Mucks [Td Ah] (One pair)
+Player_5aec56b9 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | Rake 0
+Board [Ac 4c Qh Jh 2c]
+Seat 1: Player_4725de0a mucked
+Seat 2: Player_4ecd5d28 mucked
+Seat 3: Hero mucked
+Seat 4: Player_fa21d3c1 mucked
+Seat 5: Player_1128adff (button) mucked
+Seat 6: Player_5aec56b9 (small blind) showed [Ad Jd] and won (3060) with two pair, Aces and Jacks
+Seat 7: Player_8357d8e2 (big blind) mucked [Td Ah]
+
+
+
+PokerStars Hand #3661261701: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:07:41
+Table '#18' Seat #8 is the button
+Seat 1: Player_44e10895 (10,000 in chips)
+Seat 2: Player_9afde565 (9,980 in chips)
+Seat 3: Hero (10,000 in chips)
+Seat 4: Player_a056d434 (10,020 in chips)
+Seat 5: Player_a2007c0a (10,000 in chips)
+Seat 6: Player_55914951 (10,000 in chips)
+Seat 7: Player_32121b80 (11,559 in chips)
+Seat 8: Player_8051c268 (13,340 in chips)
+Player_8051c268: posts small blind 30
+Player_44e10895: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [5h Th]
+Player_9afde565: folds
+Hero: folds
+Player_a056d434: folds
+Player_a2007c0a: folds
+Player_55914951: raises 60 to 120
+Player_32121b80: calls 120 
+Player_8051c268: folds
+Player_44e10895: folds
+*** FLOP *** [Jh 7h 8c]
+Player_55914951: bets 60 
+Player_32121b80: calls 60 
+*** TURN *** [Jh 7h 8c] [6d]
+Player_55914951: bets 60 
+Player_32121b80: raises 222 to 222
+Player_55914951: folds
+Uncalled bet (162) returned to Player_32121b80
+Player_32121b80: doesn't show hand
+Player_32121b80 collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0
+Board [Jh 7h 8c 6d]
+Seat 1: Player_44e10895 (big blind) mucked
+Seat 2: Player_9afde565 mucked
+Seat 3: Hero mucked
+Seat 4: Player_a056d434 mucked
+Seat 5: Player_a2007c0a mucked
+Seat 6: Player_55914951 mucked
+Seat 7: Player_32121b80 (button) won (570)
+Seat 8: Player_8051c268 (small blind) mucked
+
+
+
+PokerStars Hand #3661262348: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:08:41
+Table '#18' Seat #9 is the button
+Seat 1: Player_d2ce4030 (9,940 in chips)
+Seat 2: Player_c2637733 (9,980 in chips)
+Seat 3: Hero (10,000 in chips)
+Seat 4: Player_ecae526e (10,000 in chips)
+Seat 5: Player_c6d4b2bb (10,020 in chips)
+Seat 6: Player_4e243a48 (10,000 in chips)
+Seat 7: Player_e26d00ba (9,760 in chips)
+Seat 8: Player_ec34f655 (11,889 in chips)
+Seat 9: Player_56d42011 (13,310 in chips)
+Player_d2ce4030: posts small blind 30
+Player_c2637733: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [Ah Qs]
+Hero: raises 120 to 180
+Player_ecae526e: folds
+Player_c6d4b2bb: folds
+Player_4e243a48: folds
+Player_e26d00ba: calls 180 
+Player_ec34f655: folds
+Player_56d42011: folds
+Player_d2ce4030: calls 150 
+Player_c2637733: folds
+*** FLOP *** [Qh 8d Jd]
+Player_d2ce4030: checks
+Hero: bets 400 
+Player_e26d00ba: folds
+Player_d2ce4030: folds
+Uncalled bet (400) returned to Hero
+Hero: doesn't show hand
+Hero collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [Qh 8d Jd]
+Seat 1: Player_d2ce4030 (small blind) mucked
+Seat 2: Player_c2637733 (big blind) mucked
+Seat 3: Hero won (600)
+Seat 4: Player_ecae526e mucked
+Seat 5: Player_c6d4b2bb mucked
+Seat 6: Player_4e243a48 mucked
+Seat 7: Player_e26d00ba mucked
+Seat 8: Player_ec34f655 mucked
+Seat 9: Player_56d42011 (button) mucked
+
+
+
+PokerStars Hand #3661263420: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:10:26
+Table '#18' Seat #1 is the button
+Seat 1: Player_687979a2 (9,760 in chips)
+Seat 2: Player_31f4dbac (9,920 in chips)
+Seat 3: Hero (10,420 in chips)
+Seat 4: Player_5206e168 (10,000 in chips)
+Seat 5: Player_eb46f418 (10,020 in chips)
+Seat 6: Player_827cc06e (10,000 in chips)
+Seat 7: Player_526cb873 (9,580 in chips)
+Seat 8: Player_18f2a732 (11,889 in chips)
+Seat 9: Player_6e5e493c (13,310 in chips)
+Player_31f4dbac: posts small blind 30
+Hero: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [8d 3h]
+Player_5206e168: folds
+Player_eb46f418: folds
+Player_827cc06e: folds
+Player_526cb873: calls 60 
+Player_18f2a732: raises 210 to 270
+Player_6e5e493c: calls 270 
+Player_687979a2: folds
+Player_31f4dbac: folds
+Hero: folds
+Player_526cb873: calls 210 
+*** FLOP *** [2c 8s 9d]
+Player_526cb873: checks
+Player_18f2a732: bets 360 
+Player_6e5e493c: calls 360 
+Player_526cb873: folds
+*** TURN *** [2c 8s 9d] [7d]
+Player_18f2a732: bets 890 
+Player_6e5e493c: folds
+Uncalled bet (890) returned to Player_18f2a732
+Player_18f2a732: doesn't show hand
+Player_18f2a732 collected 1620 from pot
+*** SUMMARY ***
+Total pot 1620 | Rake 0
+Board [2c 8s 9d 7d]
+Seat 1: Player_687979a2 (button) mucked
+Seat 2: Player_31f4dbac (small blind) mucked
+Seat 3: Hero (big blind) mucked
+Seat 4: Player_5206e168 mucked
+Seat 5: Player_eb46f418 mucked
+Seat 6: Player_827cc06e mucked
+Seat 7: Player_526cb873 mucked
+Seat 8: Player_18f2a732 won (1620)
+Seat 9: Player_6e5e493c mucked
+
+
+
+PokerStars Hand #3661264773: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:12:35
+Table '#18' Seat #2 is the button
+Seat 1: Player_7c558d46 (9,760 in chips)
+Seat 2: Player_afebfc79 (9,890 in chips)
+Seat 3: Hero (10,360 in chips)
+Seat 4: Player_e94dc0c2 (10,000 in chips)
+Seat 5: Player_4401ffa0 (10,020 in chips)
+Seat 6: Player_85145a34 (10,000 in chips)
+Seat 7: Player_00038bf3 (9,310 in chips)
+Seat 8: Player_04f68775 (12,879 in chips)
+Seat 9: Player_ad297960 (12,680 in chips)
+Hero: posts small blind 30
+Player_e94dc0c2: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [3d 9c]
+Player_4401ffa0: folds
+Player_85145a34: folds
+Player_00038bf3: raises 147 to 207
+Player_04f68775: calls 207 
+Player_ad297960: folds
+Player_7c558d46: folds
+Player_afebfc79: folds
+Hero: folds
+Player_e94dc0c2: folds
+*** FLOP *** [5h Qd 4c]
+Player_00038bf3: bets 254 
+Player_04f68775: calls 254 
+*** TURN *** [5h Qd 4c] [7d]
+Player_00038bf3: bets 509 
+Player_04f68775: calls 509 
+*** RIVER *** [5h Qd 4c 7d] [Ks]
+Player_00038bf3: checks
+Player_04f68775: checks
+*** SHOW DOWN ***
+Player_00038bf3: shows [Td Ac] (high card Ace)
+Player_04f68775: shows [Qh Jh] (a pair of Queens)
+Player_04f68775 collected 2030 from pot
+*** SUMMARY ***
+Total pot 2030 | Rake 0
+Board [5h Qd 4c 7d Ks]
+Seat 1: Player_7c558d46 mucked
+Seat 2: Player_afebfc79 (button) mucked
+Seat 3: Hero (small blind) mucked
+Seat 4: Player_e94dc0c2 (big blind) mucked
+Seat 5: Player_4401ffa0 mucked
+Seat 6: Player_85145a34 mucked
+Seat 7: Player_00038bf3 showed [Td Ac] and lost with high card Ace
+Seat 8: Player_04f68775 showed [Qh Jh] and won (2030) with a pair of Queens
+Seat 9: Player_ad297960 mucked
+
+
+
+PokerStars Hand #3661265930: Tournament #21391319, $20+$2 - Hold'em No Limit (30/60) - 2018/04/06 22:14:23
+Table '#18' Seat #3 is the button
+Seat 1: Player_0ba2fcf9 (9,760 in chips)
+Seat 2: Player_a5fe20e5 (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: Player_9d7461f4 (9,940 in chips)
+Seat 5: Player_619be61c (10,020 in chips)
+Seat 6: Player_446fdb06 (10,000 in chips)
+Seat 7: Player_bcb729d1 (8,340 in chips)
+Seat 8: Player_d7223149 (13,939 in chips)
+Seat 9: Player_a4531d7f (12,680 in chips)
+Player_9d7461f4: posts small blind 30
+Player_619be61c: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Hero [6s Ks]
+Player_446fdb06: folds
+Player_bcb729d1: raises 260 to 320
+Player_d7223149: raises 498 to 818
+Player_a4531d7f: folds
+Player_0ba2fcf9: calls 818 
+Player_a5fe20e5: folds
+Hero: folds
+Player_9d7461f4: folds
+Player_619be61c: folds
+Player_bcb729d1: calls 498 
+*** FLOP *** [4c 6h 7h]
+Player_bcb729d1: bets 60 
+Player_d7223149: raises 1418 to 1418
+Player_0ba2fcf9: folds
+Player_bcb729d1: folds
+Uncalled bet (1358) returned to Player_d7223149
+Player_d7223149: doesn't show hand
+Player_d7223149 collected 2664 from pot
+*** SUMMARY ***
+Total pot 2664 | Rake 0
+Board [4c 6h 7h]
+Seat 1: Player_0ba2fcf9 mucked
+Seat 2: Player_a5fe20e5 mucked
+Seat 3: Hero (button) mucked
+Seat 4: Player_9d7461f4 (small blind) mucked
+Seat 5: Player_619be61c (big blind) mucked
+Seat 6: Player_446fdb06 mucked
+Seat 7: Player_bcb729d1 mucked
+Seat 8: Player_d7223149 won (2664)
+Seat 9: Player_a4531d7f mucked
+
+
+
+PokerStars Hand #3661267605: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:16:56
+Table '#18' Seat #4 is the button
+Seat 1: Player_cce1e9fd (8,942 in chips)
+Seat 2: Player_3e60eda5 (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: Player_3ae013e3 (9,910 in chips)
+Seat 5: Player_54820215 (9,960 in chips)
+Seat 6: Player_0f923e44 (10,000 in chips)
+Seat 7: Player_3b7d61e3 (7,462 in chips)
+Seat 8: Player_08ee2a3d (15,725 in chips)
+Seat 9: Player_91f47c05 (12,680 in chips)
+Player_54820215: posts small blind 40
+Player_0f923e44: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [Ts 4s]
+Player_3b7d61e3: calls 80 
+Player_08ee2a3d: folds
+Player_91f47c05: calls 80 
+Player_cce1e9fd: folds
+Player_3e60eda5: folds
+Hero: folds
+Player_3ae013e3: folds
+Player_54820215: calls 40 
+Player_0f923e44: folds
+*** FLOP *** [5c 5d Qh]
+Player_54820215: checks
+Player_3b7d61e3: checks
+Player_91f47c05: checks
+*** TURN *** [5c 5d Qh] [Ac]
+Player_54820215: checks
+Player_3b7d61e3: bets 80 
+Player_91f47c05: folds
+Player_54820215: folds
+Uncalled bet (80) returned to Player_3b7d61e3
+Player_3b7d61e3: doesn't show hand
+Player_3b7d61e3 collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0
+Board [5c 5d Qh Ac]
+Seat 1: Player_cce1e9fd mucked
+Seat 2: Player_3e60eda5 mucked
+Seat 3: Hero mucked
+Seat 4: Player_3ae013e3 (button) mucked
+Seat 5: Player_54820215 (small blind) mucked
+Seat 6: Player_0f923e44 (big blind) mucked
+Seat 7: Player_3b7d61e3 won (320)
+Seat 8: Player_08ee2a3d mucked
+Seat 9: Player_91f47c05 mucked
+
+
+
+PokerStars Hand #3661268213: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:17:50
+Table '#18' Seat #5 is the button
+Seat 1: Player_6f479ff6 (8,942 in chips)
+Seat 2: Player_07ff0ea9 (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: Player_602114b7 (9,910 in chips)
+Seat 5: Player_fa8f2117 (9,880 in chips)
+Seat 6: Player_5ea6b6d3 (9,920 in chips)
+Seat 7: Player_edf268b7 (7,702 in chips)
+Seat 8: Player_7d794a57 (15,725 in chips)
+Seat 9: Player_51014e9f (12,600 in chips)
+Player_5ea6b6d3: posts small blind 40
+Player_edf268b7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [4h Qc]
+Player_7d794a57: folds
+Player_51014e9f: folds
+Player_6f479ff6: calls 80 
+Player_07ff0ea9: folds
+Hero: folds
+Player_602114b7: folds
+Player_fa8f2117: calls 80 
+Player_5ea6b6d3: folds
+Player_edf268b7: checks
+*** FLOP *** [Ah 6c 7c]
+Player_edf268b7: bets 359 
+Player_6f479ff6: calls 359 
+Player_fa8f2117: folds
+*** TURN *** [Ah 6c 7c] [Qh]
+Player_edf268b7: bets 486 
+Player_6f479ff6: raises 1640 to 1640
+Player_edf268b7: folds
+*** SHOW DOWN ***
+Player_6f479ff6: shows [As 7h] (two pair, Aces and Sevens)
+Uncalled bet (1154) returned to Player_6f479ff6
+Player_6f479ff6 collected 1970 from pot
+*** SUMMARY ***
+Total pot 1970 | Rake 0
+Board [Ah 6c 7c Qh]
+Seat 1: Player_6f479ff6 showed [As 7h] and won (1970) with two pair, Aces and Sevens
+Seat 2: Player_07ff0ea9 mucked
+Seat 3: Hero mucked
+Seat 4: Player_602114b7 mucked
+Seat 5: Player_fa8f2117 (button) mucked
+Seat 6: Player_5ea6b6d3 (small blind) mucked
+Seat 7: Player_edf268b7 (big blind) mucked
+Seat 8: Player_7d794a57 mucked
+Seat 9: Player_51014e9f mucked
+
+
+
+PokerStars Hand #3661268828: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:18:47
+Table '#18' Seat #6 is the button
+Seat 1: Player_a609a15b (9,987 in chips)
+Seat 2: Player_005c51f1 (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: Player_7f910d84 (9,910 in chips)
+Seat 5: Player_fd24743c (9,800 in chips)
+Seat 6: Player_7f6da013 (9,880 in chips)
+Seat 7: Player_a89d7d2f (6,777 in chips)
+Seat 8: Player_a904f8fb (15,725 in chips)
+Seat 9: Player_52a0a7c1 (12,600 in chips)
+Player_a89d7d2f: posts small blind 40
+Player_a904f8fb: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [5d 4c]
+Player_52a0a7c1: folds
+Player_a609a15b: folds
+Player_005c51f1: folds
+Hero: folds
+Player_7f910d84: raises 200 to 280
+Player_fd24743c: folds
+Player_7f6da013: folds
+Player_a89d7d2f: calls 240 
+Player_a904f8fb: raises 840 to 1120
+Player_7f910d84: calls 840 
+Player_a89d7d2f: calls 840 
+*** FLOP *** [As 2c Kh]
+Player_a89d7d2f: bets 80 
+Player_a904f8fb: calls 80 
+Player_7f910d84: calls 80 
+*** TURN *** [As 2c Kh] [Jc]
+Player_a89d7d2f: bets 478 
+Player_a904f8fb: folds
+Player_7f910d84: calls 478 
+*** RIVER *** [As 2c Kh Jc] [2d]
+Player_a89d7d2f: bets 1401 
+Player_7f910d84: folds
+Uncalled bet (1401) returned to Player_a89d7d2f
+Player_a89d7d2f: doesn't show hand
+Player_a89d7d2f collected 4556 from pot
+*** SUMMARY ***
+Total pot 4556 | Rake 0
+Board [As 2c Kh Jc 2d]
+Seat 1: Player_a609a15b mucked
+Seat 2: Player_005c51f1 mucked
+Seat 3: Hero mucked
+Seat 4: Player_7f910d84 mucked
+Seat 5: Player_fd24743c mucked
+Seat 6: Player_7f6da013 (button) mucked
+Seat 7: Player_a89d7d2f (small blind) won (4556)
+Seat 8: Player_a904f8fb (big blind) mucked
+Seat 9: Player_52a0a7c1 mucked
+
+
+
+PokerStars Hand #3661269645: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:19:59
+Table '#18' Seat #7 is the button
+Seat 1: Player_ef1f0818 (9,987 in chips)
+Seat 2: Player_09fb8c95 (9,890 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: Player_55c92e3d (8,232 in chips)
+Seat 5: Player_fdc04d8f (9,800 in chips)
+Seat 6: Player_75720f76 (9,880 in chips)
+Seat 7: Player_89c66cc7 (9,655 in chips)
+Seat 8: Player_2b44a663 (14,525 in chips)
+Seat 9: Player_d12c0477 (12,600 in chips)
+Player_2b44a663: posts small blind 40
+Player_d12c0477: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [9c 8c]
+Player_ef1f0818: calls 80 
+Player_09fb8c95: folds
+Hero: raises 240 to 320
+Player_55c92e3d: folds
+Player_fdc04d8f: folds
+Player_75720f76: folds
+Player_89c66cc7: calls 320 
+Player_2b44a663: folds
+Player_d12c0477: folds
+Player_ef1f0818: calls 240 
+*** FLOP *** [Ts 6s Jd]
+Player_ef1f0818: checks
+Hero: checks
+Player_89c66cc7: checks
+*** TURN *** [Ts 6s Jd] [5h]
+Player_ef1f0818: checks
+Hero: checks
+Player_89c66cc7: checks
+*** RIVER *** [Ts 6s Jd 5h] [Ks]
+Player_ef1f0818: checks
+Hero: checks
+Player_89c66cc7: checks
+*** SHOW DOWN ***
+Player_ef1f0818: shows [2s Ac] (high card Ace)
+Hero: Mucks [9c 8c] (High Card)
+Player_89c66cc7: shows [9h Kh] (a pair of Kings)
+Player_89c66cc7 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0
+Board [Ts 6s Jd 5h Ks]
+Seat 1: Player_ef1f0818 showed [2s Ac] and lost with high card Ace
+Seat 2: Player_09fb8c95 mucked
+Seat 3: Hero mucked [9c 8c]
+Seat 4: Player_55c92e3d mucked
+Seat 5: Player_fdc04d8f mucked
+Seat 6: Player_75720f76 mucked
+Seat 7: Player_89c66cc7 (button) showed [9h Kh] and won (1080) with a pair of Kings
+Seat 8: Player_2b44a663 (small blind) mucked
+Seat 9: Player_d12c0477 (big blind) mucked
+
+
+
+PokerStars Hand #3661271006: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:22:02
+Table '#18' Seat #8 is the button
+Seat 1: Player_df361bfe (9,667 in chips)
+Seat 2: Player_e9c612ad (9,890 in chips)
+Seat 3: Hero (10,010 in chips)
+Seat 4: Player_657e563d (8,232 in chips)
+Seat 5: Player_f7a9a497 (9,800 in chips)
+Seat 6: Player_15cc0e25 (9,880 in chips)
+Seat 7: Player_cd500cfe (10,415 in chips)
+Seat 8: Player_d92c0328 (14,485 in chips)
+Seat 9: Player_6b68e3ae (12,520 in chips)
+Player_6b68e3ae: posts small blind 40
+Player_df361bfe: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [As 2c]
+Player_e9c612ad: folds
+Hero: folds
+Player_657e563d: folds
+Player_f7a9a497: folds
+Player_15cc0e25: folds
+Player_cd500cfe: calls 80 
+Player_d92c0328: folds
+Player_6b68e3ae: folds
+Player_df361bfe: checks
+*** FLOP *** [Js Th 6d]
+Player_df361bfe: checks
+Player_cd500cfe: checks
+*** TURN *** [Js Th 6d] [Ah]
+Player_df361bfe: checks
+Player_cd500cfe: checks
+*** RIVER *** [Js Th 6d Ah] [4c]
+Player_df361bfe: checks
+Player_cd500cfe: checks
+*** SHOW DOWN ***
+Player_df361bfe: shows [3d 8h] (high card Ace)
+Player_cd500cfe: Mucks [7d 2s] (High Card)
+Player_df361bfe collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0
+Board [Js Th 6d Ah 4c]
+Seat 1: Player_df361bfe (big blind) showed [3d 8h] and won (200) with high card Ace
+Seat 2: Player_e9c612ad mucked
+Seat 3: Hero mucked
+Seat 4: Player_657e563d mucked
+Seat 5: Player_f7a9a497 mucked
+Seat 6: Player_15cc0e25 mucked
+Seat 7: Player_cd500cfe mucked [7d 2s]
+Seat 8: Player_d92c0328 (button) mucked
+Seat 9: Player_6b68e3ae (small blind) mucked
+
+
+
+PokerStars Hand #3661271715: Tournament #21391319, $20+$2 - Hold'em No Limit (40/80) - 2018/04/06 22:23:05
+Table '#18' Seat #9 is the button
+Seat 1: Player_1dc203cb (9,787 in chips)
+Seat 2: Player_bc7393a9 (9,890 in chips)
+Seat 3: Hero (10,010 in chips)
+Seat 4: Player_40dbb359 (8,232 in chips)
+Seat 5: Player_f049be1e (9,800 in chips)
+Seat 6: Player_e61ab7f9 (9,880 in chips)
+Seat 7: Player_da92326e (10,335 in chips)
+Seat 8: Player_fe6027ab (14,485 in chips)
+Seat 9: Player_fd3d3396 (12,480 in chips)
+Player_1dc203cb: posts small blind 40
+Player_bc7393a9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Hero [Ts 8s]
+Hero: raises 100 to 180
+Player_40dbb359: calls 180 
+Player_f049be1e: calls 180 
+Player_e61ab7f9: folds
+Player_da92326e: folds
+Player_fe6027ab: calls 180 
+Player_fd3d3396: folds
+Player_1dc203cb: folds
+Player_bc7393a9: calls 100 
+*** FLOP *** [9h Qc 6s]
+Player_bc7393a9: checks
+Hero: bets 500 
+Player_40dbb359: raises 1000 to 1000
+Player_f049be1e: folds
+Player_fe6027ab: folds
+Player_bc7393a9: raises 1500 to 2500
+Hero: folds
+Player_40dbb359: raises 5552 to 8052 and is all-in
+Player_bc7393a9: calls 5552 
+*** TURN *** [9h Qc 6s] [5h]
+*** RIVER *** [9h Qc 6s 5h] [Kc]
+*** SHOW DOWN ***
+Player_bc7393a9: shows [9d 6d] (two pair, Nines and Sixes)
+Player_40dbb359: shows [Js Jc] (a pair of Jacks)
+Player_bc7393a9 collected 17544 from pot
+Player_40dbb359 finished the tournament in 102nd place
+*** SUMMARY ***
+Total pot 17544 | Rake 0
+Board [9h Qc 6s 5h Kc]
+Seat 1: Player_1dc203cb (small blind) mucked
+Seat 2: Player_bc7393a9 (big blind) showed [9d 6d] and won (17544) with two pair, Nines and Sixes
+Seat 3: Hero mucked
+Seat 4: Player_40dbb359 showed [Js Jc] and lost with a pair of Jacks
+Seat 5: Player_f049be1e mucked
+Seat 6: Player_e61ab7f9 mucked
+Seat 7: Player_da92326e mucked
+Seat 8: Player_fe6027ab mucked
+Seat 9: Player_fd3d3396 (button) mucked
+
+
+
+PokerStars Hand #3661273462: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:25:44
+Table '#18' Seat #1 is the button
+Seat 1: Player_f49463b2 (9,747 in chips)
+Seat 2: Player_86fdf2c7 (19,202 in chips)
+Seat 3: Hero (9,330 in chips)
+Seat 4: Player_cfc9ff96 (9,620 in chips)
+Seat 5: Player_604b5985 (9,880 in chips)
+Seat 6: Player_535b57ba (10,335 in chips)
+Seat 7: Player_f90f7931 (14,305 in chips)
+Seat 8: Player_d206a023 (12,480 in chips)
+Player_86fdf2c7: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [3d 8c]
+Player_cfc9ff96: folds
+Player_604b5985: folds
+Player_535b57ba: folds
+Player_f90f7931: folds
+Player_d206a023: folds
+Player_f49463b2: calls 100 
+Player_86fdf2c7: calls 50 
+Hero: checks
+*** FLOP *** [Ks Ah Qs]
+Player_86fdf2c7: bets 150 
+Hero: folds
+Player_f49463b2: calls 150 
+*** TURN *** [Ks Ah Qs] [4c]
+Player_86fdf2c7: checks
+Player_f49463b2: checks
+*** RIVER *** [Ks Ah Qs 4c] [9d]
+Player_86fdf2c7: bets 150 
+Player_f49463b2: folds
+Uncalled bet (150) returned to Player_86fdf2c7
+Player_86fdf2c7: doesn't show hand
+Player_86fdf2c7 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0
+Board [Ks Ah Qs 4c 9d]
+Seat 1: Player_f49463b2 (button) mucked
+Seat 2: Player_86fdf2c7 (small blind) won (600)
+Seat 3: Hero (big blind) mucked
+Seat 4: Player_cfc9ff96 mucked
+Seat 5: Player_604b5985 mucked
+Seat 6: Player_535b57ba mucked
+Seat 7: Player_f90f7931 mucked
+Seat 8: Player_d206a023 mucked
+
+
+
+PokerStars Hand #3661274519: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:27:17
+Table '#18' Seat #2 is the button
+Seat 1: Player_116180d0 (9,497 in chips)
+Seat 2: Player_fd744694 (19,552 in chips)
+Seat 3: Hero (9,230 in chips)
+Seat 4: Player_b1b66208 (9,620 in chips)
+Seat 5: Player_cee05af8 (9,880 in chips)
+Seat 6: Player_eec9dae0 (10,335 in chips)
+Seat 7: Player_15b3d29f (14,305 in chips)
+Seat 8: Player_18fe6a11 (12,480 in chips)
+Hero: posts small blind 50
+Player_b1b66208: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [Qs 7c]
+Player_cee05af8: folds
+Player_eec9dae0: raises 100 to 200
+Player_15b3d29f: folds
+Player_18fe6a11: folds
+Player_116180d0: calls 200 
+Player_fd744694: folds
+Hero: folds
+Player_b1b66208: calls 100 
+*** FLOP *** [4s 5h Ks]
+Player_b1b66208: checks
+Player_eec9dae0: bets 797 
+Player_116180d0: folds
+Player_b1b66208: calls 797 
+*** TURN *** [4s 5h Ks] [7d]
+Player_b1b66208: checks
+Player_eec9dae0: bets 930 
+Player_b1b66208: calls 930 
+*** RIVER *** [4s 5h Ks 7d] [Ah]
+Player_b1b66208: checks
+Player_eec9dae0: checks
+*** SHOW DOWN ***
+Player_b1b66208: shows [2h Kh] (a pair of Kings)
+Player_eec9dae0: shows [Jh Kc] (a pair of Kings)
+Player_eec9dae0 collected 4104 from pot
+*** SUMMARY ***
+Total pot 4104 | Rake 0
+Board [4s 5h Ks 7d Ah]
+Seat 1: Player_116180d0 mucked
+Seat 2: Player_fd744694 (button) mucked
+Seat 3: Hero (small blind) mucked
+Seat 4: Player_b1b66208 (big blind) showed [2h Kh] and lost with a pair of Kings
+Seat 5: Player_cee05af8 mucked
+Seat 6: Player_eec9dae0 showed [Jh Kc] and won (4104) with a pair of Kings
+Seat 7: Player_15b3d29f mucked
+Seat 8: Player_18fe6a11 mucked
+
+
+
+PokerStars Hand #3661275691: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:29:02
+Table '#18' Seat #3 is the button
+Seat 1: Player_89a13d7e (9,297 in chips)
+Seat 2: Player_e3f7bbaf (19,552 in chips)
+Seat 3: Hero (9,180 in chips)
+Seat 4: Player_50947e78 (7,693 in chips)
+Seat 5: Player_8f553ad5 (9,880 in chips)
+Seat 6: Player_c1136f06 (12,512 in chips)
+Seat 7: Player_ea3a3943 (14,305 in chips)
+Seat 8: Player_02b853ab (12,480 in chips)
+Player_50947e78: posts small blind 50
+Player_8f553ad5: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [8s 5d]
+Player_c1136f06: calls 100 
+Player_ea3a3943: raises 300 to 400
+Player_02b853ab: folds
+Player_89a13d7e: calls 400 
+Player_e3f7bbaf: folds
+Hero: folds
+Player_50947e78: folds
+Player_8f553ad5: folds
+Player_c1136f06: calls 300 
+*** FLOP *** [9s 2s 6s]
+Player_c1136f06: bets 538 
+Player_ea3a3943: folds
+Player_89a13d7e: calls 538 
+*** TURN *** [9s 2s 6s] [7d]
+Player_c1136f06: bets 1143 
+Player_89a13d7e: calls 1143 
+*** RIVER *** [9s 2s 6s 7d] [3h]
+Player_c1136f06: bets 1554 
+Player_89a13d7e: calls 1554 
+*** SHOW DOWN ***
+Player_c1136f06: shows [4h 9h] (a pair of Nines)
+Player_89a13d7e: shows [Kc 9c] (a pair of Nines)
+Player_89a13d7e collected 7820 from pot
+*** SUMMARY ***
+Total pot 7820 | Rake 0
+Board [9s 2s 6s 7d 3h]
+Seat 1: Player_89a13d7e showed [Kc 9c] and won (7820) with a pair of Nines
+Seat 2: Player_e3f7bbaf mucked
+Seat 3: Hero (button) mucked
+Seat 4: Player_50947e78 (small blind) mucked
+Seat 5: Player_8f553ad5 (big blind) mucked
+Seat 6: Player_c1136f06 showed [4h 9h] and lost with a pair of Nines
+Seat 7: Player_ea3a3943 mucked
+Seat 8: Player_02b853ab mucked
+
+
+
+PokerStars Hand #3661276545: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:30:20
+Table '#18' Seat #5 is the button
+Seat 1: Player_bea38e34 (13,482 in chips)
+Seat 2: Player_a18b6ada (19,552 in chips)
+Seat 3: Hero (9,180 in chips)
+Seat 4: Player_e0224845 (7,643 in chips)
+Seat 5: Player_b8a1788a (9,780 in chips)
+Seat 6: Player_2318b6aa (8,877 in chips)
+Seat 7: Player_9e1b62c0 (13,905 in chips)
+Seat 8: Player_085eef0e (12,480 in chips)
+Player_b8a1788a: posts small blind 50
+Player_2318b6aa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [7s 4s]
+Player_9e1b62c0: folds
+Player_085eef0e: folds
+Player_bea38e34: folds
+Player_a18b6ada: raises 200 to 300
+Hero: folds
+Player_e0224845: calls 300 
+Player_b8a1788a: folds
+Player_2318b6aa: folds
+*** FLOP *** [Jc Td 7h]
+Player_a18b6ada: bets 300 
+Player_e0224845: calls 300 
+*** TURN *** [Jc Td 7h] [As]
+Player_a18b6ada: checks
+Player_e0224845: checks
+*** RIVER *** [Jc Td 7h As] [Jh]
+Player_a18b6ada: bets 420 
+Player_e0224845: calls 420 
+*** SHOW DOWN ***
+Player_a18b6ada: shows [Kc Qs] (a straight, Ten to Ace)
+Player_e0224845: Mucks [Tc Kh] (Two pair)
+Player_a18b6ada collected 2190 from pot
+*** SUMMARY ***
+Total pot 2190 | Rake 0
+Board [Jc Td 7h As Jh]
+Seat 1: Player_bea38e34 mucked
+Seat 2: Player_a18b6ada showed [Kc Qs] and won (2190) with a straight, Ten to Ace
+Seat 3: Hero mucked
+Seat 4: Player_e0224845 (button) mucked [Tc Kh]
+Seat 5: Player_b8a1788a (small blind) mucked
+Seat 6: Player_2318b6aa (big blind) mucked
+Seat 7: Player_9e1b62c0 mucked
+Seat 8: Player_085eef0e mucked
+
+
+
+PokerStars Hand #3661277240: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:31:23
+Table '#18' Seat #6 is the button
+Seat 1: Player_9712e330 (13,482 in chips)
+Seat 2: Player_94dfdf7f (20,722 in chips)
+Seat 3: Hero (9,180 in chips)
+Seat 4: Player_636ec50a (6,623 in chips)
+Seat 5: Player_6dddba5a (9,730 in chips)
+Seat 6: Player_8f182ff1 (8,777 in chips)
+Seat 7: Player_9d24725b (13,905 in chips)
+Seat 8: Player_9d57a54b (12,480 in chips)
+Player_8f182ff1: posts small blind 50
+Player_9d24725b: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [8c Ks]
+Player_9d57a54b: folds
+Player_9712e330: folds
+Player_94dfdf7f: folds
+Hero: folds
+Player_636ec50a: folds
+Player_6dddba5a: folds
+Player_8f182ff1: folds
+Player_9d24725b: doesn't show hand
+Player_9d24725b collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0
+Seat 1: Player_9712e330 mucked
+Seat 2: Player_94dfdf7f mucked
+Seat 3: Hero mucked
+Seat 4: Player_636ec50a mucked
+Seat 5: Player_6dddba5a (button) mucked
+Seat 6: Player_8f182ff1 (small blind) mucked
+Seat 7: Player_9d24725b (big blind) won (150)
+Seat 8: Player_9d57a54b mucked
+
+
+
+PokerStars Hand #3661277747: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:32:11
+Table '#18' Seat #7 is the button
+Seat 1: Player_407d8a2d (13,482 in chips)
+Seat 2: Player_c36b9c8a (20,722 in chips)
+Seat 3: Hero (9,180 in chips)
+Seat 4: Player_b95ef93a (6,623 in chips)
+Seat 5: Player_9762682e (9,730 in chips)
+Seat 6: Player_35d9b035 (8,727 in chips)
+Seat 7: Player_802acc01 (13,955 in chips)
+Seat 8: Player_06cd7a3c (12,480 in chips)
+Player_802acc01: posts small blind 50
+Player_06cd7a3c: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [As Jh]
+Player_407d8a2d: folds
+Player_c36b9c8a: folds
+Hero: raises 200 to 300
+Player_b95ef93a: folds
+Player_9762682e: folds
+Player_35d9b035: folds
+Player_802acc01: calls 250 
+Player_06cd7a3c: folds
+*** FLOP *** [5h 5d 7c]
+Player_802acc01: checks
+Hero: checks
+*** TURN *** [5h 5d 7c] [6c]
+Player_802acc01: bets 300 
+Hero: calls 300 
+*** RIVER *** [5h 5d 7c 6c] [4h]
+Player_802acc01: bets 1000 
+Hero: folds
+Uncalled bet (1000) returned to Player_802acc01
+Player_802acc01: doesn't show hand
+Player_802acc01 collected 1300 from pot
+*** SUMMARY ***
+Total pot 1300 | Rake 0
+Board [5h 5d 7c 6c 4h]
+Seat 1: Player_407d8a2d mucked
+Seat 2: Player_c36b9c8a mucked
+Seat 3: Hero mucked
+Seat 4: Player_b95ef93a mucked
+Seat 5: Player_9762682e mucked
+Seat 6: Player_35d9b035 (button) mucked
+Seat 7: Player_802acc01 (small blind) won (1300)
+Seat 8: Player_06cd7a3c (big blind) mucked
+
+
+
+PokerStars Hand #3661278554: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:33:26
+Table '#18' Seat #8 is the button
+Seat 1: Player_9beb6e69 (13,482 in chips)
+Seat 2: Player_c45cd61d (20,722 in chips)
+Seat 3: Hero (8,580 in chips)
+Seat 4: Player_582e22a4 (6,623 in chips)
+Seat 5: Player_21bcd26a (9,730 in chips)
+Seat 6: Player_dc3fe4b7 (8,727 in chips)
+Seat 7: Player_a58a581c (14,655 in chips)
+Seat 8: Player_fce02f7a (12,380 in chips)
+Player_fce02f7a: posts small blind 50
+Player_9beb6e69: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [9d 4s]
+Player_c45cd61d: folds
+Hero: folds
+Player_582e22a4: folds
+Player_21bcd26a: folds
+Player_dc3fe4b7: calls 100 
+Player_a58a581c: calls 100 
+Player_fce02f7a: folds
+Player_9beb6e69: folds
+*** FLOP *** [9h 5d 9c]
+Player_dc3fe4b7: bets 100 
+Player_a58a581c: calls 100 
+*** TURN *** [9h 5d 9c] [6h]
+Player_dc3fe4b7: bets 100 
+Player_a58a581c: raises 500 to 500
+Player_dc3fe4b7: folds
+Uncalled bet (400) returned to Player_a58a581c
+Player_a58a581c: doesn't show hand
+Player_a58a581c collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [9h 5d 9c 6h]
+Seat 1: Player_9beb6e69 (big blind) mucked
+Seat 2: Player_c45cd61d mucked
+Seat 3: Hero mucked
+Seat 4: Player_582e22a4 mucked
+Seat 5: Player_21bcd26a mucked
+Seat 6: Player_dc3fe4b7 mucked
+Seat 7: Player_a58a581c (button) won (750)
+Seat 8: Player_fce02f7a (small blind) mucked
+
+
+
+PokerStars Hand #3661279293: Tournament #21391319, $20+$2 - Hold'em No Limit (50/100) - 2018/04/06 22:34:32
+Table '#18' Seat #9 is the button
+Seat 1: Player_604b0fae (13,382 in chips)
+Seat 2: Player_99b9e315 (20,722 in chips)
+Seat 3: Hero (8,580 in chips)
+Seat 4: Player_7a71914d (10,000 in chips)
+Seat 5: Player_beeab18b (6,623 in chips)
+Seat 6: Player_34efdb1f (9,730 in chips)
+Seat 7: Player_0b779e05 (8,427 in chips)
+Seat 8: Player_8b05573b (15,105 in chips)
+Seat 9: Player_c5724171 (12,330 in chips)
+Player_604b0fae: posts small blind 50
+Player_99b9e315: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [6c Ah]
+Hero: folds
+Player_7a71914d: folds
+Player_beeab18b: raises 200 to 300
+Player_34efdb1f: folds
+Player_0b779e05: calls 300 
+Player_8b05573b: folds
+Player_c5724171: folds
+Player_604b0fae: folds
+Player_99b9e315: folds
+*** FLOP *** [As Kh Jc]
+Player_beeab18b: bets 200 
+Player_0b779e05: folds
+Uncalled bet (200) returned to Player_beeab18b
+Player_beeab18b: doesn't show hand
+Player_beeab18b collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0
+Board [As Kh Jc]
+Seat 1: Player_604b0fae (small blind) mucked
+Seat 2: Player_99b9e315 (big blind) mucked
+Seat 3: Hero mucked
+Seat 4: Player_7a71914d mucked
+Seat 5: Player_beeab18b won (750)
+Seat 6: Player_34efdb1f mucked
+Seat 7: Player_0b779e05 mucked
+Seat 8: Player_8b05573b mucked
+Seat 9: Player_c5724171 (button) mucked
+
+
+
+PokerStars Hand #3661280038: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:35:35
+Table '#18' Seat #1 is the button
+Seat 1: Player_5b29b86c (13,332 in chips)
+Seat 2: Player_12c7d0b0 (20,622 in chips)
+Seat 3: Hero (8,580 in chips)
+Seat 4: Player_f1a3326a (10,000 in chips)
+Seat 5: Player_34976b89 (7,073 in chips)
+Seat 6: Player_89c18ba9 (9,730 in chips)
+Seat 7: Player_77cd23a2 (8,127 in chips)
+Seat 8: Player_fb76a4fb (15,105 in chips)
+Seat 9: Player_a36a7936 (12,330 in chips)
+Player_12c7d0b0: posts small blind 75
+Hero: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [Qs 7d]
+Player_f1a3326a: folds
+Player_34976b89: raises 300 to 450
+Player_89c18ba9: folds
+Player_77cd23a2: folds
+Player_fb76a4fb: folds
+Player_a36a7936: folds
+Player_5b29b86c: folds
+Player_12c7d0b0: folds
+Hero: folds
+Uncalled bet (300) returned to Player_34976b89
+Player_34976b89: doesn't show hand
+Player_34976b89 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: Player_5b29b86c (button) mucked
+Seat 2: Player_12c7d0b0 (small blind) mucked
+Seat 3: Hero (big blind) mucked
+Seat 4: Player_f1a3326a mucked
+Seat 5: Player_34976b89 won (375)
+Seat 6: Player_89c18ba9 mucked
+Seat 7: Player_77cd23a2 mucked
+Seat 8: Player_fb76a4fb mucked
+Seat 9: Player_a36a7936 mucked
+
+
+
+PokerStars Hand #3661280543: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:36:20
+Table '#18' Seat #2 is the button
+Seat 1: Player_f99d1e31 (13,332 in chips)
+Seat 2: Player_225c9dee (20,547 in chips)
+Seat 3: Hero (8,430 in chips)
+Seat 4: Player_b879bd5a (10,000 in chips)
+Seat 5: Player_809d5dd1 (7,298 in chips)
+Seat 6: Player_14e5a8a4 (9,730 in chips)
+Seat 7: Player_fd05bba0 (15,105 in chips)
+Seat 8: Player_293e75f1 (12,330 in chips)
+Hero: posts small blind 75
+Player_b879bd5a: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [Td 8d]
+Player_809d5dd1: calls 150 
+Player_14e5a8a4: folds
+Player_fd05bba0: folds
+Player_293e75f1: folds
+Player_f99d1e31: folds
+Player_225c9dee: folds
+Hero: calls 75 
+Player_b879bd5a: checks
+*** FLOP *** [9h 5h Js]
+Hero: bets 300 
+Player_b879bd5a: calls 300 
+Player_809d5dd1: calls 300 
+*** TURN *** [9h 5h Js] [Ac]
+Hero: bets 1000 
+Player_b879bd5a: calls 1000 
+Player_809d5dd1: folds
+*** RIVER *** [9h 5h Js Ac] [2d]
+Hero: bets 3000 
+Player_b879bd5a: folds
+Uncalled bet (3000) returned to Hero
+Hero: doesn't show hand
+Hero collected 3350 from pot
+*** SUMMARY ***
+Total pot 3350 | Rake 0
+Board [9h 5h Js Ac 2d]
+Seat 1: Player_f99d1e31 mucked
+Seat 2: Player_225c9dee (button) mucked
+Seat 3: Hero (small blind) won (3350)
+Seat 4: Player_b879bd5a (big blind) mucked
+Seat 5: Player_809d5dd1 mucked
+Seat 6: Player_14e5a8a4 mucked
+Seat 7: Player_fd05bba0 mucked
+Seat 8: Player_293e75f1 mucked
+
+
+
+PokerStars Hand #3661281886: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:38:20
+Table '#18' Seat #3 is the button
+Seat 1: Player_90a85783 (13,332 in chips)
+Seat 2: Player_23855716 (20,547 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: Player_c3fb47cf (8,550 in chips)
+Seat 5: Player_0907261f (6,848 in chips)
+Seat 6: Player_2ca36da9 (9,730 in chips)
+Seat 7: Player_c020e6d9 (15,105 in chips)
+Seat 8: Player_92579cf1 (12,330 in chips)
+Player_c3fb47cf: posts small blind 75
+Player_0907261f: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [9h 5s]
+Player_2ca36da9: folds
+Player_c020e6d9: folds
+Player_92579cf1: folds
+Player_90a85783: folds
+Player_23855716: raises 200 to 350
+Hero: folds
+Player_c3fb47cf: calls 275 
+Player_0907261f: folds
+*** FLOP *** [8d 2c 5h]
+Player_c3fb47cf: checks
+Player_23855716: checks
+*** TURN *** [8d 2c 5h] [6s]
+Player_c3fb47cf: bets 425 
+Player_23855716: folds
+Uncalled bet (425) returned to Player_c3fb47cf
+Player_c3fb47cf: doesn't show hand
+Player_c3fb47cf collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [8d 2c 5h 6s]
+Seat 1: Player_90a85783 mucked
+Seat 2: Player_23855716 mucked
+Seat 3: Hero (button) mucked
+Seat 4: Player_c3fb47cf (small blind) won (850)
+Seat 5: Player_0907261f (big blind) mucked
+Seat 6: Player_2ca36da9 mucked
+Seat 7: Player_c020e6d9 mucked
+Seat 8: Player_92579cf1 mucked
+
+
+
+PokerStars Hand #3661282910: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:39:50
+Table '#18' Seat #4 is the button
+Seat 1: Player_67ed71e0 (13,332 in chips)
+Seat 2: Player_0a6faac4 (20,197 in chips)
+Seat 3: Hero (10,330 in chips)
+Seat 4: Player_4753af13 (9,050 in chips)
+Seat 5: Player_b8f6f634 (6,698 in chips)
+Seat 6: Player_cbdb51b6 (9,730 in chips)
+Seat 7: Player_74867b9e (15,105 in chips)
+Seat 8: Player_38dfe591 (12,330 in chips)
+Player_b8f6f634: posts small blind 75
+Player_cbdb51b6: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [Ah Kd]
+Player_74867b9e: folds
+Player_38dfe591: folds
+Player_67ed71e0: folds
+Player_0a6faac4: folds
+Hero: raises 250 to 400
+Player_4753af13: folds
+Player_b8f6f634: folds
+Player_cbdb51b6: folds
+Uncalled bet (250) returned to Hero
+Hero: doesn't show hand
+Hero collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: Player_67ed71e0 mucked
+Seat 2: Player_0a6faac4 mucked
+Seat 3: Hero won (375)
+Seat 4: Player_4753af13 (button) mucked
+Seat 5: Player_b8f6f634 (small blind) mucked
+Seat 6: Player_cbdb51b6 (big blind) mucked
+Seat 7: Player_74867b9e mucked
+Seat 8: Player_38dfe591 mucked
+
+
+
+PokerStars Hand #3661283352: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:40:29
+Table '#18' Seat #5 is the button
+Seat 1: Player_02393ff5 (13,332 in chips)
+Seat 2: Player_07f802f9 (20,197 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: Player_d42f050f (9,050 in chips)
+Seat 5: Player_752b5fce (6,623 in chips)
+Seat 6: Player_44c99c11 (9,580 in chips)
+Seat 7: Player_5da77550 (10,000 in chips)
+Seat 8: Player_53ff636c (15,105 in chips)
+Seat 9: Player_b5c48e63 (12,330 in chips)
+Player_44c99c11: posts small blind 75
+Player_5da77550: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [Qc 5c]
+Player_53ff636c: folds
+Player_b5c48e63: folds
+Player_02393ff5: folds
+Player_07f802f9: folds
+Hero: folds
+Player_d42f050f: folds
+Player_752b5fce: raises 300 to 450
+Player_44c99c11: folds
+Player_5da77550: folds
+Uncalled bet (300) returned to Player_752b5fce
+Player_752b5fce: doesn't show hand
+Player_752b5fce collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: Player_02393ff5 mucked
+Seat 2: Player_07f802f9 mucked
+Seat 3: Hero mucked
+Seat 4: Player_d42f050f mucked
+Seat 5: Player_752b5fce (button) won (375)
+Seat 6: Player_44c99c11 (small blind) mucked
+Seat 7: Player_5da77550 (big blind) mucked
+Seat 8: Player_53ff636c mucked
+Seat 9: Player_b5c48e63 mucked
+
+
+
+PokerStars Hand #3661283849: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:41:14
+Table '#18' Seat #6 is the button
+Seat 1: Player_1cc1dad3 (13,332 in chips)
+Seat 2: Player_22fa002e (20,197 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: Player_c20e0e78 (9,050 in chips)
+Seat 5: Player_9423743c (6,848 in chips)
+Seat 6: Player_6194d7c1 (9,505 in chips)
+Seat 7: Player_f6c80634 (9,850 in chips)
+Seat 8: Player_79e2db9a (15,105 in chips)
+Seat 9: Player_59d01560 (12,330 in chips)
+Player_f6c80634: posts small blind 75
+Player_79e2db9a: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [3c 5h]
+Player_59d01560: folds
+Player_1cc1dad3: folds
+Player_22fa002e: raises 200 to 350
+Hero: folds
+Player_c20e0e78: folds
+Player_9423743c: folds
+Player_6194d7c1: folds
+Player_f6c80634: folds
+Player_79e2db9a: calls 200 
+*** FLOP *** [8d 6h Qc]
+Player_79e2db9a: checks
+Player_22fa002e: bets 325 
+Player_79e2db9a: calls 325 
+*** TURN *** [8d 6h Qc] [Qs]
+Player_79e2db9a: checks
+Player_22fa002e: bets 600 
+Player_79e2db9a: folds
+Uncalled bet (600) returned to Player_22fa002e
+Player_22fa002e: doesn't show hand
+Player_22fa002e collected 1425 from pot
+*** SUMMARY ***
+Total pot 1425 | Rake 0
+Board [8d 6h Qc Qs]
+Seat 1: Player_1cc1dad3 mucked
+Seat 2: Player_22fa002e won (1425)
+Seat 3: Hero mucked
+Seat 4: Player_c20e0e78 mucked
+Seat 5: Player_9423743c mucked
+Seat 6: Player_6194d7c1 (button) mucked
+Seat 7: Player_f6c80634 (small blind) mucked
+Seat 8: Player_79e2db9a (big blind) mucked
+Seat 9: Player_59d01560 mucked
+
+
+
+PokerStars Hand #3661284499: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:42:11
+Table '#18' Seat #7 is the button
+Seat 1: Player_b2a2de1d (13,332 in chips)
+Seat 2: Player_40e22fd6 (20,947 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: Player_847dac9c (9,050 in chips)
+Seat 5: Player_b5ba4309 (6,848 in chips)
+Seat 6: Player_f2d50ee1 (9,505 in chips)
+Seat 7: Player_6d8ae1cb (9,775 in chips)
+Seat 8: Player_24c15871 (14,430 in chips)
+Seat 9: Player_184aea73 (12,330 in chips)
+Player_24c15871: posts small blind 75
+Player_184aea73: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [2d Ah]
+Player_b2a2de1d: folds
+Player_40e22fd6: folds
+Hero: folds
+Player_847dac9c: folds
+Player_b5ba4309: folds
+Player_f2d50ee1: folds
+Player_6d8ae1cb: folds
+Player_24c15871: raises 300 to 450
+Player_184aea73: folds
+Uncalled bet (300) returned to Player_24c15871
+Player_24c15871: doesn't show hand
+Player_24c15871 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Seat 1: Player_b2a2de1d mucked
+Seat 2: Player_40e22fd6 mucked
+Seat 3: Hero mucked
+Seat 4: Player_847dac9c mucked
+Seat 5: Player_b5ba4309 mucked
+Seat 6: Player_f2d50ee1 mucked
+Seat 7: Player_6d8ae1cb (button) mucked
+Seat 8: Player_24c15871 (small blind) won (300)
+Seat 9: Player_184aea73 (big blind) mucked
+
+
+
+PokerStars Hand #3661284950: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:42:53
+Table '#18' Seat #8 is the button
+Seat 1: Player_fd9cb1b9 (13,332 in chips)
+Seat 2: Player_73228c21 (20,947 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: Player_de9108ba (9,050 in chips)
+Seat 5: Player_90c2c9c4 (6,848 in chips)
+Seat 6: Player_3862e980 (9,505 in chips)
+Seat 7: Player_e9608b9d (9,775 in chips)
+Seat 8: Player_2c6fa977 (14,580 in chips)
+Seat 9: Player_9282578a (12,180 in chips)
+Player_9282578a: posts small blind 75
+Player_fd9cb1b9: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [7s 5d]
+Player_73228c21: folds
+Hero: folds
+Player_de9108ba: folds
+Player_90c2c9c4: folds
+Player_3862e980: raises 150 to 300
+Player_e9608b9d: folds
+Player_2c6fa977: folds
+Player_9282578a: folds
+Player_fd9cb1b9: folds
+Uncalled bet (150) returned to Player_3862e980
+Player_3862e980: doesn't show hand
+Player_3862e980 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0
+Seat 1: Player_fd9cb1b9 (big blind) mucked
+Seat 2: Player_73228c21 mucked
+Seat 3: Hero mucked
+Seat 4: Player_de9108ba mucked
+Seat 5: Player_90c2c9c4 mucked
+Seat 6: Player_3862e980 won (375)
+Seat 7: Player_e9608b9d mucked
+Seat 8: Player_2c6fa977 (button) mucked
+Seat 9: Player_9282578a (small blind) mucked
+
+
+
+PokerStars Hand #3661285701: Tournament #21391319, $20+$2 - Hold'em No Limit (75/150) - 2018/04/06 22:43:59
+Table '#18' Seat #9 is the button
+Seat 1: Player_0b7f40bf (13,182 in chips)
+Seat 2: Player_7a3a6a80 (20,947 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: Player_c6933a0a (9,050 in chips)
+Seat 5: Player_02dcdc85 (6,848 in chips)
+Seat 6: Player_7116eda3 (9,730 in chips)
+Seat 7: Player_5584305c (14,580 in chips)
+Seat 8: Player_c7b84f18 (12,105 in chips)
+Player_0b7f40bf: posts small blind 75
+Player_7a3a6a80: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Hero [3c 7d]
+Hero: folds
+Player_c6933a0a: folds
+Player_02dcdc85: folds
+Player_7116eda3: folds
+Player_5584305c: raises 300 to 450
+Player_c7b84f18: folds
+Player_0b7f40bf: calls 375 
+Player_7a3a6a80: calls 300 
+*** FLOP *** [2s 2d 5c]
+Player_0b7f40bf: checks
+Player_7a3a6a80: bets 350 
+Player_5584305c: folds
+Player_0b7f40bf: calls 350 
+*** TURN *** [2s 2d 5c] [5s]
+Player_0b7f40bf: bets 500 
+Player_7a3a6a80: calls 500 
+*** RIVER *** [2s 2d 5c 5s] [8s]
+Player_0b7f40bf: bets 500 
+Player_7a3a6a80: raises 1750 to 1750
+Player_0b7f40bf: folds
+Uncalled bet (1250) returned to Player_7a3a6a80
+Player_7a3a6a80: doesn't show hand
+Player_7a3a6a80 collected 4050 from pot
+*** SUMMARY ***
+Total pot 4050 | Rake 0
+Board [2s 2d 5c 5s 8s]
+Seat 1: Player_0b7f40bf (small blind) mucked
+Seat 2: Player_7a3a6a80 (big blind) won (4050)
+Seat 3: Hero mucked
+Seat 4: Player_c6933a0a mucked
+Seat 5: Player_02dcdc85 mucked
+Seat 6: Player_7116eda3 mucked
+Seat 7: Player_5584305c mucked
+Seat 8: Player_c7b84f18 (button) mucked
+
+
+
+PokerStars Hand #3661290922: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:51:32
+Table '#18' Seat #1 is the button
+Seat 1: Player_a27e090f (11,382 in chips)
+Seat 2: Player_09cda57a (23,197 in chips)
+Seat 3: Hero (10,555 in chips)
+Seat 4: Player_6944aca9 (9,050 in chips)
+Seat 5: Player_e49362a6 (6,848 in chips)
+Seat 6: Player_a03c2a13 (9,730 in chips)
+Seat 7: Player_2f03457a (10,000 in chips)
+Seat 8: Player_4273a6f1 (14,130 in chips)
+Seat 9: Player_571ffc3a (12,105 in chips)
+Player_09cda57a: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [3d 4h]
+Player_6944aca9: raises 400 to 600
+Player_e49362a6: folds
+Player_a03c2a13: folds
+Player_2f03457a: calls 600 
+Player_4273a6f1: folds
+Player_571ffc3a: folds
+Player_a27e090f: calls 600 
+Player_09cda57a: folds
+Hero: folds
+*** FLOP *** [8c 8h Ac]
+Player_6944aca9: bets 1050 
+Player_2f03457a: calls 1050 
+Player_a27e090f: folds
+*** TURN *** [8c 8h Ac] [As]
+Player_6944aca9: checks
+Player_2f03457a: checks
+*** RIVER *** [8c 8h Ac As] [3h]
+Player_6944aca9: bets 3400 
+Player_2f03457a: raises 8350 to 8350 and is all-in
+Player_6944aca9: folds
+Uncalled bet (4950) returned to Player_2f03457a
+Player_2f03457a: doesn't show hand
+Player_2f03457a collected 11000 from pot
+*** SUMMARY ***
+Total pot 11000 | Rake 0
+Board [8c 8h Ac As 3h]
+Seat 1: Player_a27e090f (button) mucked
+Seat 2: Player_09cda57a (small blind) mucked
+Seat 3: Hero (big blind) mucked
+Seat 4: Player_6944aca9 mucked
+Seat 5: Player_e49362a6 mucked
+Seat 6: Player_a03c2a13 mucked
+Seat 7: Player_2f03457a won (11000)
+Seat 8: Player_4273a6f1 mucked
+Seat 9: Player_571ffc3a mucked
+
+
+
+PokerStars Hand #3661291903: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:52:56
+Table '#18' Seat #2 is the button
+Seat 1: Player_a3e79dcd (10,782 in chips)
+Seat 2: Player_283c30e2 (23,097 in chips)
+Seat 3: Hero (10,355 in chips)
+Seat 4: Player_43230e93 (4,000 in chips)
+Seat 5: Player_3b10ca7e (6,848 in chips)
+Seat 6: Player_197dfdb1 (9,730 in chips)
+Seat 7: Player_7983a259 (15,950 in chips)
+Seat 8: Player_a871b3b7 (14,130 in chips)
+Seat 9: Player_9e61a1ff (12,105 in chips)
+Hero: posts small blind 100
+Player_43230e93: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [7d Ad]
+Player_3b10ca7e: folds
+Player_197dfdb1: folds
+Player_7983a259: folds
+Player_a871b3b7: folds
+Player_9e61a1ff: folds
+Player_a3e79dcd: calls 200 
+Player_283c30e2: folds
+Hero: raises 600 to 800
+Player_43230e93: calls 600 
+Player_a3e79dcd: calls 600 
+*** FLOP *** [3c 6h 7c]
+Hero: bets 1500 
+Player_43230e93: raises 3200 to 3200 and is all-in
+Player_a3e79dcd: folds
+Hero: calls 1700 
+*** TURN *** [3c 6h 7c] [9c]
+*** RIVER *** [3c 6h 7c 9c] [Js]
+*** SHOW DOWN ***
+Hero: shows [7d Ad] (a pair of Sevens)
+Player_43230e93: shows [2d 3d] (a pair of Threes)
+Hero collected 8800 from pot
+Player_43230e93 finished the tournament in 134th place
+*** SUMMARY ***
+Total pot 8800 | Rake 0
+Board [3c 6h 7c 9c Js]
+Seat 1: Player_a3e79dcd mucked
+Seat 2: Player_283c30e2 (button) mucked
+Seat 3: Hero (small blind) showed [7d Ad] and won (8800) with a pair of Sevens
+Seat 4: Player_43230e93 (big blind) showed [2d 3d] and lost with a pair of Threes
+Seat 5: Player_3b10ca7e mucked
+Seat 6: Player_197dfdb1 mucked
+Seat 7: Player_7983a259 mucked
+Seat 8: Player_a871b3b7 mucked
+Seat 9: Player_9e61a1ff mucked
+
+
+
+PokerStars Hand #3661292973: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:54:38
+Table '#18' Seat #3 is the button
+Seat 1: Player_ad414b07 (9,982 in chips)
+Seat 2: Player_bd2871c5 (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: Player_a531c08f (6,848 in chips)
+Seat 5: Player_f0602d02 (9,730 in chips)
+Seat 6: Player_e5ba9bfa (15,950 in chips)
+Seat 7: Player_423ed819 (14,130 in chips)
+Seat 8: Player_1712e0f8 (12,105 in chips)
+Player_a531c08f: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [6d Ts]
+Player_f0602d02: folds
+Player_e5ba9bfa: folds
+Player_423ed819: folds
+Player_1712e0f8: raises 400 to 600
+Player_ad414b07: folds
+Player_bd2871c5: folds
+Hero: folds
+Player_a531c08f: calls 400 
+*** FLOP *** [9h 8s Qc]
+Player_a531c08f: checks
+Player_1712e0f8: bets 600 
+Player_a531c08f: folds
+Uncalled bet (600) returned to Player_1712e0f8
+Player_1712e0f8: doesn't show hand
+Player_1712e0f8 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0
+Board [9h 8s Qc]
+Seat 1: Player_ad414b07 mucked
+Seat 2: Player_bd2871c5 mucked
+Seat 3: Hero (button) mucked
+Seat 4: Player_a531c08f (big blind) mucked
+Seat 5: Player_f0602d02 mucked
+Seat 6: Player_e5ba9bfa mucked
+Seat 7: Player_423ed819 mucked
+Seat 8: Player_1712e0f8 won (1200)
+
+
+
+PokerStars Hand #3661293586: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:55:35
+Table '#18' Seat #4 is the button
+Seat 1: Player_eb0c5822 (9,982 in chips)
+Seat 2: Player_5896a540 (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: Player_50494fb1 (10,000 in chips)
+Seat 5: Player_4c63733d (6,248 in chips)
+Seat 6: Player_54f75527 (9,730 in chips)
+Seat 7: Player_bd00119d (15,950 in chips)
+Seat 8: Player_0b8bf05e (14,130 in chips)
+Seat 9: Player_5544ccbc (12,705 in chips)
+Player_4c63733d: posts small blind 100
+Player_54f75527: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [As 7s]
+Player_bd00119d: calls 200 
+Player_0b8bf05e: folds
+Player_5544ccbc: folds
+Player_eb0c5822: raises 400 to 600
+Player_5896a540: folds
+Hero: folds
+Player_50494fb1: calls 600 
+Player_4c63733d: folds
+Player_54f75527: folds
+Player_bd00119d: calls 400 
+*** FLOP *** [5d 8d 5h]
+Player_bd00119d: checks
+Player_eb0c5822: bets 600 
+Player_50494fb1: folds
+Player_bd00119d: folds
+*** SHOW DOWN ***
+Player_eb0c5822: shows [Ad 7d] (a pair of Fives)
+Uncalled bet (600) returned to Player_eb0c5822
+Player_eb0c5822 collected 2100 from pot
+*** SUMMARY ***
+Total pot 2100 | Rake 0
+Board [5d 8d 5h]
+Seat 1: Player_eb0c5822 showed [Ad 7d] and won (2100) with a pair of Fives
+Seat 2: Player_5896a540 mucked
+Seat 3: Hero mucked
+Seat 4: Player_50494fb1 (button) mucked
+Seat 5: Player_4c63733d (small blind) mucked
+Seat 6: Player_54f75527 (big blind) mucked
+Seat 7: Player_bd00119d mucked
+Seat 8: Player_0b8bf05e mucked
+Seat 9: Player_5544ccbc mucked
+
+
+
+PokerStars Hand #3661294337: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:56:47
+Table '#18' Seat #5 is the button
+Seat 1: Player_18924032 (11,482 in chips)
+Seat 2: Player_30021227 (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: Player_6ba5313a (9,400 in chips)
+Seat 5: Player_e3a2ef7a (6,148 in chips)
+Seat 6: Player_49cbdd4d (9,530 in chips)
+Seat 7: Player_de1dc5de (15,350 in chips)
+Seat 8: Player_8e96766b (14,130 in chips)
+Seat 9: Player_4cec6f91 (12,705 in chips)
+Player_49cbdd4d: posts small blind 100
+Player_de1dc5de: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [Qd Ts]
+Player_8e96766b: folds
+Player_4cec6f91: folds
+Player_18924032: folds
+Player_30021227: folds
+Hero: folds
+Player_6ba5313a: folds
+Player_e3a2ef7a: folds
+Player_49cbdd4d: folds
+Player_de1dc5de: doesn't show hand
+Player_de1dc5de collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Seat 1: Player_18924032 mucked
+Seat 2: Player_30021227 mucked
+Seat 3: Hero mucked
+Seat 4: Player_6ba5313a mucked
+Seat 5: Player_e3a2ef7a (button) mucked
+Seat 6: Player_49cbdd4d (small blind) mucked
+Seat 7: Player_de1dc5de (big blind) won (300)
+Seat 8: Player_8e96766b mucked
+Seat 9: Player_4cec6f91 mucked
+
+
+
+PokerStars Hand #3661294653: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:57:17
+Table '#18' Seat #6 is the button
+Seat 1: Player_55364c63 (11,482 in chips)
+Seat 2: Player_e1a3aadc (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: Player_9e71f1e5 (9,400 in chips)
+Seat 5: Player_bece4845 (6,148 in chips)
+Seat 6: Player_e36a163f (9,430 in chips)
+Seat 7: Player_53e5bc8b (15,450 in chips)
+Seat 8: Player_ae020e35 (14,130 in chips)
+Seat 9: Player_6a3b11c9 (12,705 in chips)
+Player_53e5bc8b: posts small blind 100
+Player_ae020e35: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [6c 4d]
+Player_6a3b11c9: folds
+Player_55364c63: folds
+Player_e1a3aadc: folds
+Hero: folds
+Player_9e71f1e5: folds
+Player_bece4845: folds
+Player_e36a163f: folds
+Player_53e5bc8b: folds
+Player_ae020e35: doesn't show hand
+Player_ae020e35 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0
+Seat 1: Player_55364c63 mucked
+Seat 2: Player_e1a3aadc mucked
+Seat 3: Hero mucked
+Seat 4: Player_9e71f1e5 mucked
+Seat 5: Player_bece4845 mucked
+Seat 6: Player_e36a163f (button) mucked
+Seat 7: Player_53e5bc8b (small blind) mucked
+Seat 8: Player_ae020e35 (big blind) won (300)
+Seat 9: Player_6a3b11c9 mucked
+
+
+
+PokerStars Hand #3661295035: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:57:53
+Table '#18' Seat #7 is the button
+Seat 1: Player_58833219 (11,482 in chips)
+Seat 2: Player_eb0d9b6e (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: Player_dec92040 (9,400 in chips)
+Seat 5: Player_b9647cc9 (6,148 in chips)
+Seat 6: Player_99452fbc (9,430 in chips)
+Seat 7: Player_ecef7866 (15,350 in chips)
+Seat 8: Player_361e1a90 (14,230 in chips)
+Seat 9: Player_2a53c557 (12,705 in chips)
+Player_361e1a90: posts small blind 100
+Player_2a53c557: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [Ks 4h]
+Player_58833219: folds
+Player_eb0d9b6e: folds
+Hero: folds
+Player_dec92040: folds
+Player_b9647cc9: folds
+Player_99452fbc: folds
+Player_ecef7866: folds
+Player_361e1a90: calls 100 
+Player_2a53c557: checks
+*** FLOP *** [Ac 7c 6s]
+Player_361e1a90: bets 200 
+Player_2a53c557: folds
+Uncalled bet (200) returned to Player_361e1a90
+Player_361e1a90: doesn't show hand
+Player_361e1a90 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0
+Board [Ac 7c 6s]
+Seat 1: Player_58833219 mucked
+Seat 2: Player_eb0d9b6e mucked
+Seat 3: Hero mucked
+Seat 4: Player_dec92040 mucked
+Seat 5: Player_b9647cc9 mucked
+Seat 6: Player_99452fbc mucked
+Seat 7: Player_ecef7866 (button) mucked
+Seat 8: Player_361e1a90 (small blind) won (400)
+Seat 9: Player_2a53c557 (big blind) mucked
+
+
+
+PokerStars Hand #3661295390: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:58:26
+Table '#18' Seat #8 is the button
+Seat 1: Player_190478ae (11,482 in chips)
+Seat 2: Player_9b303dd1 (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: Player_ac75286c (9,400 in chips)
+Seat 5: Player_d39edf6e (6,148 in chips)
+Seat 6: Player_2d75046f (9,430 in chips)
+Seat 7: Player_b452dd24 (15,350 in chips)
+Seat 8: Player_5e096e0e (14,430 in chips)
+Seat 9: Player_b0d2ffc9 (12,505 in chips)
+Player_b0d2ffc9: posts small blind 100
+Player_190478ae: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [6h 7c]
+Player_9b303dd1: folds
+Hero: folds
+Player_ac75286c: raises 500 to 700
+Player_d39edf6e: folds
+Player_2d75046f: folds
+Player_b452dd24: folds
+Player_5e096e0e: folds
+Player_b0d2ffc9: folds
+Player_190478ae: folds
+Uncalled bet (500) returned to Player_ac75286c
+Player_ac75286c: doesn't show hand
+Player_ac75286c collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Seat 1: Player_190478ae (big blind) mucked
+Seat 2: Player_9b303dd1 mucked
+Seat 3: Hero mucked
+Seat 4: Player_ac75286c won (500)
+Seat 5: Player_d39edf6e mucked
+Seat 6: Player_2d75046f mucked
+Seat 7: Player_b452dd24 mucked
+Seat 8: Player_5e096e0e (button) mucked
+Seat 9: Player_b0d2ffc9 (small blind) mucked
+
+
+
+PokerStars Hand #3661295703: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:58:56
+Table '#18' Seat #9 is the button
+Seat 1: Player_224b502f (11,282 in chips)
+Seat 2: Player_d7baa301 (23,097 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: Player_a8378ef2 (9,700 in chips)
+Seat 5: Player_02e4f7dd (6,148 in chips)
+Seat 6: Player_4381606e (9,430 in chips)
+Seat 7: Player_e577eb9d (15,350 in chips)
+Seat 8: Player_e1f6193c (14,430 in chips)
+Seat 9: Player_45ec84b3 (12,405 in chips)
+Player_224b502f: posts small blind 100
+Player_d7baa301: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [4s Jh]
+Hero: folds
+Player_a8378ef2: folds
+Player_02e4f7dd: raises 400 to 600
+Player_4381606e: folds
+Player_e577eb9d: folds
+Player_e1f6193c: folds
+Player_45ec84b3: folds
+Player_224b502f: calls 500 
+Player_d7baa301: folds
+*** FLOP *** [Tc Kc 3d]
+Player_224b502f: checks
+Player_02e4f7dd: bets 400 
+Player_224b502f: raises 1200 to 1200
+Player_02e4f7dd: raises 4348 to 5548 and is all-in
+Player_224b502f: calls 4348 
+*** TURN *** [Tc Kc 3d] [Qh]
+*** RIVER *** [Tc Kc 3d Qh] [6d]
+*** SHOW DOWN ***
+Player_224b502f: shows [Kd Td] (two pair, Kings and Tens)
+Player_02e4f7dd: shows [Th Ad] (a pair of Tens)
+Player_224b502f collected 12496 from pot
+Player_02e4f7dd finished the tournament in 135th place
+*** SUMMARY ***
+Total pot 12496 | Rake 0
+Board [Tc Kc 3d Qh 6d]
+Seat 1: Player_224b502f (small blind) showed [Kd Td] and won (12496) with two pair, Kings and Tens
+Seat 2: Player_d7baa301 (big blind) mucked
+Seat 3: Hero mucked
+Seat 4: Player_a8378ef2 mucked
+Seat 5: Player_02e4f7dd showed [Th Ad] and lost with a pair of Tens
+Seat 6: Player_4381606e mucked
+Seat 7: Player_e577eb9d mucked
+Seat 8: Player_e1f6193c mucked
+Seat 9: Player_45ec84b3 (button) mucked
+
+
+
+PokerStars Hand #3661296440: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 22:59:56
+Table '#18' Seat #1 is the button
+Seat 1: Player_63fcd08c (17,630 in chips)
+Seat 2: Player_d548c73d (22,897 in chips)
+Seat 3: Hero (15,155 in chips)
+Seat 4: Player_72c77e94 (9,700 in chips)
+Seat 5: Player_a137f8e8 (9,430 in chips)
+Seat 6: Player_a93ffa6d (15,350 in chips)
+Seat 7: Player_a5d1d5d3 (14,430 in chips)
+Seat 8: Player_fb7f9852 (12,405 in chips)
+Player_d548c73d: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [9h 5d]
+Player_72c77e94: folds
+Player_a137f8e8: folds
+Player_a93ffa6d: folds
+Player_a5d1d5d3: folds
+Player_fb7f9852: calls 200 
+Player_63fcd08c: folds
+Player_d548c73d: folds
+Hero: checks
+*** FLOP *** [3d 5s Ks]
+Hero: checks
+Player_fb7f9852: checks
+*** TURN *** [3d 5s Ks] [Th]
+Hero: checks
+Player_fb7f9852: checks
+*** RIVER *** [3d 5s Ks Th] [Ah]
+Hero: checks
+Player_fb7f9852: bets 250 
+Hero: folds
+Uncalled bet (250) returned to Player_fb7f9852
+Player_fb7f9852: doesn't show hand
+Player_fb7f9852 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Board [3d 5s Ks Th Ah]
+Seat 1: Player_63fcd08c (button) mucked
+Seat 2: Player_d548c73d (small blind) mucked
+Seat 3: Hero (big blind) mucked
+Seat 4: Player_72c77e94 mucked
+Seat 5: Player_a137f8e8 mucked
+Seat 6: Player_a93ffa6d mucked
+Seat 7: Player_a5d1d5d3 mucked
+Seat 8: Player_fb7f9852 won (500)
+
+
+
+PokerStars Hand #3661297399: Tournament #21391319, $20+$2 - Hold'em No Limit (100/200) - 2018/04/06 23:01:20
+Table '#18' Seat #2 is the button
+Seat 1: Player_24ccb6e2 (17,630 in chips)
+Seat 2: Player_2a1f7e56 (22,797 in chips)
+Seat 3: Hero (14,955 in chips)
+Seat 4: Player_4738d7ce (9,700 in chips)
+Seat 5: Player_26d3e281 (10,000 in chips)
+Seat 6: Player_fde2ed9e (9,430 in chips)
+Seat 7: Player_08cc4ace (15,350 in chips)
+Seat 8: Player_7b1495c2 (14,430 in chips)
+Seat 9: Player_b71011c7 (12,705 in chips)
+Hero: posts small blind 100
+Player_4738d7ce: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [4s 2s]
+Player_26d3e281: raises 400 to 600
+Player_fde2ed9e: folds
+Player_08cc4ace: folds
+Player_7b1495c2: folds
+Player_b71011c7: folds
+Player_24ccb6e2: folds
+Player_2a1f7e56: folds
+Hero: folds
+Player_4738d7ce: folds
+Uncalled bet (400) returned to Player_26d3e281
+Player_26d3e281: doesn't show hand
+Player_26d3e281 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0
+Seat 1: Player_24ccb6e2 mucked
+Seat 2: Player_2a1f7e56 (button) mucked
+Seat 3: Hero (small blind) mucked
+Seat 4: Player_4738d7ce (big blind) mucked
+Seat 5: Player_26d3e281 won (500)
+Seat 6: Player_fde2ed9e mucked
+Seat 7: Player_08cc4ace mucked
+Seat 8: Player_7b1495c2 mucked
+Seat 9: Player_b71011c7 mucked
+
+
+
+PokerStars Hand #3661298112: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:02:23
+Table '#18' Seat #3 is the button
+Seat 1: Player_e31f6106 (17,630 in chips)
+Seat 2: Player_7315969b (22,797 in chips)
+Seat 3: Hero (14,855 in chips)
+Seat 4: Player_b9cf8a24 (9,500 in chips)
+Seat 5: Player_3e4f6fc7 (10,300 in chips)
+Seat 6: Player_6db9b0a5 (9,430 in chips)
+Seat 7: Player_a9b76a95 (15,350 in chips)
+Seat 8: Player_10339859 (14,430 in chips)
+Seat 9: Player_0a62693a (12,705 in chips)
+Player_e31f6106: posts the ante 25
+Player_7315969b: posts the ante 25
+Hero: posts the ante 25
+Player_b9cf8a24: posts the ante 25
+Player_3e4f6fc7: posts the ante 25
+Player_6db9b0a5: posts the ante 25
+Player_a9b76a95: posts the ante 25
+Player_10339859: posts the ante 25
+Player_0a62693a: posts the ante 25
+Player_b9cf8a24: posts small blind 125
+Player_3e4f6fc7: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [3s Tc]
+Player_6db9b0a5: folds
+Player_a9b76a95: folds
+Player_10339859: folds
+Player_0a62693a: folds
+Player_e31f6106: folds
+Player_7315969b: raises 325 to 575
+Hero: folds
+Player_b9cf8a24: calls 450 
+Player_3e4f6fc7: calls 325 
+*** FLOP *** [6s 8s Ac]
+Player_b9cf8a24: checks
+Player_3e4f6fc7: checks
+Player_7315969b: bets 1325 
+Player_b9cf8a24: folds
+Player_3e4f6fc7: calls 1325 
+*** TURN *** [6s 8s Ac] [4s]
+Player_3e4f6fc7: checks
+Player_7315969b: checks
+*** RIVER *** [6s 8s Ac 4s] [Kc]
+Player_3e4f6fc7: bets 2027 
+Player_7315969b: calls 2027 
+*** SHOW DOWN ***
+Player_3e4f6fc7: shows [5s 5d] (a pair of Fives)
+Player_7315969b: shows [9h Ad] (a pair of Aces)
+Player_7315969b collected 8654 from pot
+*** SUMMARY ***
+Total pot 8654 | Rake 0
+Board [6s 8s Ac 4s Kc]
+Seat 1: Player_e31f6106 mucked
+Seat 2: Player_7315969b showed [9h Ad] and won (8654) with a pair of Aces
+Seat 3: Hero (button) mucked
+Seat 4: Player_b9cf8a24 (small blind) mucked
+Seat 5: Player_3e4f6fc7 (big blind) showed [5s 5d] and lost with a pair of Fives
+Seat 6: Player_6db9b0a5 mucked
+Seat 7: Player_a9b76a95 mucked
+Seat 8: Player_10339859 mucked
+Seat 9: Player_0a62693a mucked
+
+
+
+PokerStars Hand #3661299338: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:04:11
+Table '#18' Seat #4 is the button
+Seat 1: Player_fbf0c9d4 (17,605 in chips)
+Seat 2: Hero (14,830 in chips)
+Seat 3: Player_e9f7bc29 (8,900 in chips)
+Seat 4: Player_19d92e9c (6,348 in chips)
+Seat 5: Player_a2f44337 (9,405 in chips)
+Seat 6: Player_320dd1f1 (15,325 in chips)
+Seat 7: Player_fa1541dd (14,405 in chips)
+Seat 8: Player_5d9ce64e (12,680 in chips)
+Player_fbf0c9d4: posts the ante 25
+Hero: posts the ante 25
+Player_e9f7bc29: posts the ante 25
+Player_19d92e9c: posts the ante 25
+Player_a2f44337: posts the ante 25
+Player_320dd1f1: posts the ante 25
+Player_fa1541dd: posts the ante 25
+Player_5d9ce64e: posts the ante 25
+Player_19d92e9c: posts small blind 125
+Player_a2f44337: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [4c 8h]
+Player_320dd1f1: folds
+Player_fa1541dd: raises 250 to 500
+Player_5d9ce64e: folds
+Player_fbf0c9d4: folds
+Hero: folds
+Player_e9f7bc29: folds
+Player_19d92e9c: folds
+Player_a2f44337: folds
+Uncalled bet (250) returned to Player_fa1541dd
+Player_fa1541dd: doesn't show hand
+Player_fa1541dd collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0
+Seat 1: Player_fbf0c9d4 mucked
+Seat 2: Hero mucked
+Seat 3: Player_e9f7bc29 (button) mucked
+Seat 4: Player_19d92e9c (small blind) mucked
+Seat 5: Player_a2f44337 (big blind) mucked
+Seat 6: Player_320dd1f1 mucked
+Seat 7: Player_fa1541dd won (825)
+Seat 8: Player_5d9ce64e mucked
+
+
+
+PokerStars Hand #3661299816: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:04:53
+Table '#18' Seat #5 is the button
+Seat 1: Player_86098a24 (17,580 in chips)
+Seat 2: Hero (14,805 in chips)
+Seat 3: Player_bfce062a (8,875 in chips)
+Seat 4: Player_b44fa82b (6,198 in chips)
+Seat 5: Player_4faa46ef (9,130 in chips)
+Seat 6: Player_6885ea26 (15,300 in chips)
+Seat 7: Player_da69bea0 (14,955 in chips)
+Seat 8: Player_161f2695 (12,655 in chips)
+Player_86098a24: posts the ante 25
+Hero: posts the ante 25
+Player_bfce062a: posts the ante 25
+Player_b44fa82b: posts the ante 25
+Player_4faa46ef: posts the ante 25
+Player_6885ea26: posts the ante 25
+Player_da69bea0: posts the ante 25
+Player_161f2695: posts the ante 25
+Player_4faa46ef: posts small blind 125
+Player_6885ea26: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [9d 7d]
+Player_da69bea0: folds
+Player_161f2695: folds
+Player_86098a24: folds
+Hero: raises 350 to 600
+Player_bfce062a: raises 1775 to 2375
+Player_b44fa82b: folds
+Player_4faa46ef: folds
+Player_6885ea26: folds
+Hero: folds
+Uncalled bet (1775) returned to Player_bfce062a
+Player_bfce062a: doesn't show hand
+Player_bfce062a collected 1775 from pot
+*** SUMMARY ***
+Total pot 1775 | Rake 0
+Seat 1: Player_86098a24 mucked
+Seat 2: Hero mucked
+Seat 3: Player_bfce062a won (1775)
+Seat 4: Player_b44fa82b (button) mucked
+Seat 5: Player_4faa46ef (small blind) mucked
+Seat 6: Player_6885ea26 (big blind) mucked
+Seat 7: Player_da69bea0 mucked
+Seat 8: Player_161f2695 mucked
+
+
+
+PokerStars Hand #3661300682: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:06:08
+Table '#18' Seat #6 is the button
+Seat 1: Player_5ab610c4 (17,555 in chips)
+Seat 2: Hero (14,180 in chips)
+Seat 3: Player_960e96fe (10,025 in chips)
+Seat 4: Player_b3ca95cd (6,173 in chips)
+Seat 5: Player_1ac0576c (8,980 in chips)
+Seat 6: Player_6bce28a2 (15,025 in chips)
+Seat 7: Player_b5c6bc0c (14,930 in chips)
+Seat 8: Player_03869619 (12,630 in chips)
+Player_5ab610c4: posts the ante 25
+Hero: posts the ante 25
+Player_960e96fe: posts the ante 25
+Player_b3ca95cd: posts the ante 25
+Player_1ac0576c: posts the ante 25
+Player_6bce28a2: posts the ante 25
+Player_b5c6bc0c: posts the ante 25
+Player_03869619: posts the ante 25
+Player_6bce28a2: posts small blind 125
+Player_b5c6bc0c: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [2c Qh]
+Player_03869619: folds
+Player_5ab610c4: folds
+Hero: folds
+Player_960e96fe: folds
+Player_b3ca95cd: raises 466 to 716
+Player_1ac0576c: folds
+Player_6bce28a2: folds
+Player_b5c6bc0c: calls 466 
+*** FLOP *** [8h 2h 6s]
+Player_b5c6bc0c: bets 1574 
+Player_b3ca95cd: raises 5432 to 5432 and is all-in
+Player_b5c6bc0c: calls 3858 
+*** TURN *** [8h 2h 6s] [9h]
+*** RIVER *** [8h 2h 6s 9h] [4d]
+*** SHOW DOWN ***
+Player_b3ca95cd: shows [Qd Ac] (high card Ace)
+Player_b5c6bc0c: shows [9c 7c] (a pair of Nines)
+Player_b5c6bc0c collected 12621 from pot
+Player_b3ca95cd finished the tournament in 138th place
+*** SUMMARY ***
+Total pot 12621 | Rake 0
+Board [8h 2h 6s 9h 4d]
+Seat 1: Player_5ab610c4 mucked
+Seat 2: Hero mucked
+Seat 3: Player_960e96fe mucked
+Seat 4: Player_b3ca95cd showed [Qd Ac] and lost with high card Ace
+Seat 5: Player_1ac0576c (button) mucked
+Seat 6: Player_6bce28a2 (small blind) mucked
+Seat 7: Player_b5c6bc0c (big blind) showed [9c 7c] and won (12621) with a pair of Nines
+Seat 8: Player_03869619 mucked
+
+
+
+PokerStars Hand #3661301471: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:07:20
+Table '#18' Seat #7 is the button
+Seat 1: Player_a221a585 (17,530 in chips)
+Seat 2: Player_f8f45eb0 (10,000 in chips)
+Seat 3: Hero (14,155 in chips)
+Seat 4: Player_fe77c238 (10,000 in chips)
+Seat 5: Player_5d55a27c (8,955 in chips)
+Seat 6: Player_91d55e8f (14,875 in chips)
+Seat 7: Player_34fcf2b4 (21,378 in chips)
+Seat 8: Player_7fa45c2c (12,605 in chips)
+Player_a221a585: posts the ante 25
+Player_f8f45eb0: posts the ante 25
+Hero: posts the ante 25
+Player_fe77c238: posts the ante 25
+Player_5d55a27c: posts the ante 25
+Player_91d55e8f: posts the ante 25
+Player_34fcf2b4: posts the ante 25
+Player_7fa45c2c: posts the ante 25
+Player_34fcf2b4: posts small blind 125
+Player_7fa45c2c: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [Js Kc]
+Player_a221a585: calls 250 
+Player_f8f45eb0: folds
+Hero: folds
+Player_fe77c238: folds
+Player_5d55a27c: folds
+Player_91d55e8f: folds
+Player_34fcf2b4: folds
+Player_7fa45c2c: checks
+*** FLOP *** [4c 7c Kh]
+Player_7fa45c2c: checks
+Player_a221a585: checks
+*** TURN *** [4c 7c Kh] [Qd]
+Player_7fa45c2c: checks
+Player_a221a585: bets 450 
+Player_7fa45c2c: folds
+Uncalled bet (450) returned to Player_a221a585
+Player_a221a585: doesn't show hand
+Player_a221a585 collected 825 from pot
+*** SUMMARY ***
+Total pot 825 | Rake 0
+Board [4c 7c Kh Qd]
+Seat 1: Player_a221a585 won (825)
+Seat 2: Player_f8f45eb0 mucked
+Seat 3: Hero mucked
+Seat 4: Player_fe77c238 mucked
+Seat 5: Player_5d55a27c mucked
+Seat 6: Player_91d55e8f (button) mucked
+Seat 7: Player_34fcf2b4 (small blind) mucked
+Seat 8: Player_7fa45c2c (big blind) mucked
+
+
+
+PokerStars Hand #3661302332: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:08:38
+Table '#18' Seat #8 is the button
+Seat 1: Player_20ed28b9 (18,080 in chips)
+Seat 2: Player_535ce089 (9,975 in chips)
+Seat 3: Hero (14,130 in chips)
+Seat 4: Player_38b2e645 (9,975 in chips)
+Seat 5: Player_43b49001 (10,000 in chips)
+Seat 6: Player_18c9674a (8,930 in chips)
+Seat 7: Player_4c3e9e4c (14,850 in chips)
+Seat 8: Player_57efcbac (21,228 in chips)
+Seat 9: Player_3c9ab2af (12,330 in chips)
+Player_20ed28b9: posts the ante 25
+Player_535ce089: posts the ante 25
+Hero: posts the ante 25
+Player_38b2e645: posts the ante 25
+Player_43b49001: posts the ante 25
+Player_18c9674a: posts the ante 25
+Player_4c3e9e4c: posts the ante 25
+Player_57efcbac: posts the ante 25
+Player_3c9ab2af: posts the ante 25
+Player_3c9ab2af: posts small blind 125
+Player_20ed28b9: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [Ac 8d]
+Player_535ce089: folds
+Hero: folds
+Player_38b2e645: folds
+Player_43b49001: folds
+Player_18c9674a: raises 500 to 750
+Player_4c3e9e4c: calls 750 
+Player_57efcbac: folds
+Player_3c9ab2af: folds
+Player_20ed28b9: calls 500 
+*** FLOP *** [2d Jc 6c]
+Player_20ed28b9: checks
+Player_18c9674a: checks
+Player_4c3e9e4c: checks
+*** TURN *** [2d Jc 6c] [Td]
+Player_20ed28b9: checks
+Player_18c9674a: checks
+Player_4c3e9e4c: bets 3607 
+Player_20ed28b9: folds
+Player_18c9674a: folds
+Uncalled bet (3607) returned to Player_4c3e9e4c
+Player_4c3e9e4c: doesn't show hand
+Player_4c3e9e4c collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | Rake 0
+Board [2d Jc 6c Td]
+Seat 1: Player_20ed28b9 (big blind) mucked
+Seat 2: Player_535ce089 mucked
+Seat 3: Hero mucked
+Seat 4: Player_38b2e645 mucked
+Seat 5: Player_43b49001 mucked
+Seat 6: Player_18c9674a mucked
+Seat 7: Player_4c3e9e4c won (2600)
+Seat 8: Player_57efcbac (button) mucked
+Seat 9: Player_3c9ab2af (small blind) mucked
+
+
+
+PokerStars Hand #3661303270: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:09:59
+Table '#18' Seat #9 is the button
+Seat 1: Player_3c8e975e (17,305 in chips)
+Seat 2: Player_3a7d36a2 (9,950 in chips)
+Seat 3: Hero (14,105 in chips)
+Seat 4: Player_058ae6a6 (9,950 in chips)
+Seat 5: Player_5ac64002 (9,975 in chips)
+Seat 6: Player_51b66387 (8,155 in chips)
+Seat 7: Player_b4f38845 (16,675 in chips)
+Seat 8: Player_162a1ddb (21,203 in chips)
+Seat 9: Player_2de448f6 (12,180 in chips)
+Player_3c8e975e: posts the ante 25
+Player_3a7d36a2: posts the ante 25
+Hero: posts the ante 25
+Player_058ae6a6: posts the ante 25
+Player_5ac64002: posts the ante 25
+Player_51b66387: posts the ante 25
+Player_b4f38845: posts the ante 25
+Player_162a1ddb: posts the ante 25
+Player_2de448f6: posts the ante 25
+Player_3c8e975e: posts small blind 125
+Player_3a7d36a2: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [Jd 9d]
+Hero: raises 350 to 600
+Player_058ae6a6: raises 1800 to 2400
+Player_5ac64002: folds
+Player_51b66387: folds
+Player_b4f38845: folds
+Player_162a1ddb: folds
+Player_2de448f6: folds
+Player_3c8e975e: folds
+Player_3a7d36a2: folds
+Hero: folds
+Uncalled bet (1800) returned to Player_058ae6a6
+Player_058ae6a6: doesn't show hand
+Player_058ae6a6 collected 1800 from pot
+*** SUMMARY ***
+Total pot 1800 | Rake 0
+Seat 1: Player_3c8e975e (small blind) mucked
+Seat 2: Player_3a7d36a2 (big blind) mucked
+Seat 3: Hero mucked
+Seat 4: Player_058ae6a6 won (1800)
+Seat 5: Player_5ac64002 mucked
+Seat 6: Player_51b66387 mucked
+Seat 7: Player_b4f38845 mucked
+Seat 8: Player_162a1ddb mucked
+Seat 9: Player_2de448f6 (button) mucked
+
+
+
+PokerStars Hand #3661304019: Tournament #21391319, $20+$2 - Hold'em No Limit (125/250) - 2018/04/06 23:11:08
+Table '#18' Seat #1 is the button
+Seat 1: Player_c5f573f4 (17,155 in chips)
+Seat 2: Player_b29b7dac (9,675 in chips)
+Seat 3: Hero (13,480 in chips)
+Seat 4: Player_bc980aa7 (11,125 in chips)
+Seat 5: Player_dd6ccb9f (9,950 in chips)
+Seat 6: Player_8817f422 (8,130 in chips)
+Seat 7: Player_30fcab85 (16,650 in chips)
+Seat 8: Player_a633fdf0 (21,178 in chips)
+Seat 9: Player_8d6f2ccd (12,155 in chips)
+Player_c5f573f4: posts the ante 25
+Player_b29b7dac: posts the ante 25
+Hero: posts the ante 25
+Player_bc980aa7: posts the ante 25
+Player_dd6ccb9f: posts the ante 25
+Player_8817f422: posts the ante 25
+Player_30fcab85: posts the ante 25
+Player_a633fdf0: posts the ante 25
+Player_8d6f2ccd: posts the ante 25
+Player_b29b7dac: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Hero [2d 9c]
+Player_bc980aa7: folds
+Player_dd6ccb9f: folds
+Player_8817f422: folds
+Player_30fcab85: folds
+Player_a633fdf0: folds
+Player_8d6f2ccd: folds
+Player_c5f573f4: calls 250 
+Player_b29b7dac: folds
+Hero: checks
+*** FLOP *** [4d Ts 8c]
+Hero: checks
+Player_c5f573f4: checks
+*** TURN *** [4d Ts 8c] [2s]
+Hero: checks
+Player_c5f573f4: checks
+*** RIVER *** [4d Ts 8c 2s] [3h]
+Hero: checks
+Player_c5f573f4: checks
+*** SHOW DOWN ***
+Hero: shows [2d 9c] (a pair of Deuces)
+Player_c5f573f4: Mucks [Kc 9d] (High Card)
+Hero collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0
+Board [4d Ts 8c 2s 3h]
+Seat 1: Player_c5f573f4 (button) mucked [Kc 9d]
+Seat 2: Player_b29b7dac (small blind) mucked
+Seat 3: Hero (big blind) showed [2d 9c] and won (850) with a pair of Deuces
+Seat 4: Player_bc980aa7 mucked
+Seat 5: Player_dd6ccb9f mucked
+Seat 6: Player_8817f422 mucked
+Seat 7: Player_30fcab85 mucked
+Seat 8: Player_a633fdf0 mucked
+Seat 9: Player_8d6f2ccd mucked
+
+
+
+PokerStars Hand #3661305229: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:12:59
+Table '#18' Seat #2 is the button
+Seat 1: Player_d92114b4 (16,880 in chips)
+Seat 2: Player_325a4707 (9,525 in chips)
+Seat 3: Hero (14,055 in chips)
+Seat 4: Player_39ce049b (11,100 in chips)
+Seat 5: Player_0c291f27 (9,925 in chips)
+Seat 6: Player_75f3ff6c (8,105 in chips)
+Seat 7: Player_cab08bc9 (16,625 in chips)
+Seat 8: Player_cd2e98dd (21,153 in chips)
+Seat 9: Player_519c9cce (12,130 in chips)
+Player_d92114b4: posts the ante 30
+Player_325a4707: posts the ante 30
+Hero: posts the ante 30
+Player_39ce049b: posts the ante 30
+Player_0c291f27: posts the ante 30
+Player_75f3ff6c: posts the ante 30
+Player_cab08bc9: posts the ante 30
+Player_cd2e98dd: posts the ante 30
+Player_519c9cce: posts the ante 30
+Hero: posts small blind 150
+Player_39ce049b: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [4c 2s]
+Player_0c291f27: folds
+Player_75f3ff6c: folds
+Player_cab08bc9: folds
+Player_cd2e98dd: folds
+Player_519c9cce: folds
+Player_d92114b4: folds
+Player_325a4707: folds
+Hero: folds
+Player_39ce049b: doesn't show hand
+Player_39ce049b collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0
+Seat 1: Player_d92114b4 mucked
+Seat 2: Player_325a4707 (button) mucked
+Seat 3: Hero (small blind) mucked
+Seat 4: Player_39ce049b (big blind) won (720)
+Seat 5: Player_0c291f27 mucked
+Seat 6: Player_75f3ff6c mucked
+Seat 7: Player_cab08bc9 mucked
+Seat 8: Player_cd2e98dd mucked
+Seat 9: Player_519c9cce mucked
+
+
+
+PokerStars Hand #3661305779: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:13:50
+Table '#18' Seat #3 is the button
+Seat 1: Player_2651c4ae (16,850 in chips)
+Seat 2: Player_60d7628d (9,495 in chips)
+Seat 3: Hero (13,875 in chips)
+Seat 4: Player_f5e96fc2 (11,490 in chips)
+Seat 5: Player_01aa2473 (9,895 in chips)
+Seat 6: Player_556e86dc (8,075 in chips)
+Seat 7: Player_6ab7244a (21,123 in chips)
+Seat 8: Player_9f3d1ba0 (12,100 in chips)
+Player_2651c4ae: posts the ante 30
+Player_60d7628d: posts the ante 30
+Hero: posts the ante 30
+Player_f5e96fc2: posts the ante 30
+Player_01aa2473: posts the ante 30
+Player_556e86dc: posts the ante 30
+Player_6ab7244a: posts the ante 30
+Player_9f3d1ba0: posts the ante 30
+Player_f5e96fc2: posts small blind 150
+Player_01aa2473: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [6s 7d]
+Player_556e86dc: folds
+Player_6ab7244a: folds
+Player_9f3d1ba0: folds
+Player_2651c4ae: calls 300 
+Player_60d7628d: folds
+Hero: folds
+Player_f5e96fc2: calls 150 
+Player_01aa2473: checks
+*** FLOP *** [4h Qh Qs]
+Player_f5e96fc2: checks
+Player_01aa2473: checks
+Player_2651c4ae: checks
+*** TURN *** [4h Qh Qs] [4d]
+Player_f5e96fc2: checks
+Player_01aa2473: checks
+Player_2651c4ae: checks
+*** RIVER *** [4h Qh Qs 4d] [3c]
+Player_f5e96fc2: checks
+Player_01aa2473: checks
+Player_2651c4ae: checks
+*** SHOW DOWN ***
+Player_f5e96fc2: shows [9h Kd] (two pair, Queens and Fours)
+Player_01aa2473: Mucks [2s 7h] (Two pair)
+Player_2651c4ae: shows [7c Ad] (two pair, Queens and Fours)
+Player_2651c4ae collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0
+Board [4h Qh Qs 4d 3c]
+Seat 1: Player_2651c4ae showed [7c Ad] and won (1140) with two pair, Queens and Fours
+Seat 2: Player_60d7628d mucked
+Seat 3: Hero (button) mucked
+Seat 4: Player_f5e96fc2 (small blind) showed [9h Kd] and lost with two pair, Queens and Fours
+Seat 5: Player_01aa2473 (big blind) mucked [2s 7h]
+Seat 6: Player_556e86dc mucked
+Seat 7: Player_6ab7244a mucked
+Seat 8: Player_9f3d1ba0 mucked
+
+
+
+PokerStars Hand #3661307417: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:16:14
+Table '#18' Seat #4 is the button
+Seat 1: Player_cfb7ba38 (17,660 in chips)
+Seat 2: Player_3502c27c (9,465 in chips)
+Seat 3: Hero (13,845 in chips)
+Seat 4: Player_0f714b5b (11,160 in chips)
+Seat 5: Player_533ebdef (9,565 in chips)
+Seat 6: Player_d5f6e60d (8,045 in chips)
+Seat 7: Player_eb14a733 (10,000 in chips)
+Seat 8: Player_2468b5a6 (21,093 in chips)
+Seat 9: Player_f2d93b2f (12,070 in chips)
+Player_cfb7ba38: posts the ante 30
+Player_3502c27c: posts the ante 30
+Hero: posts the ante 30
+Player_0f714b5b: posts the ante 30
+Player_533ebdef: posts the ante 30
+Player_d5f6e60d: posts the ante 30
+Player_eb14a733: posts the ante 30
+Player_2468b5a6: posts the ante 30
+Player_f2d93b2f: posts the ante 30
+Player_533ebdef: posts small blind 150
+Player_d5f6e60d: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Ah 4h]
+Player_eb14a733: folds
+Player_2468b5a6: folds
+Player_f2d93b2f: folds
+Player_cfb7ba38: folds
+Player_3502c27c: raises 600 to 900
+Hero: folds
+Player_0f714b5b: folds
+Player_533ebdef: folds
+Player_d5f6e60d: folds
+Uncalled bet (600) returned to Player_3502c27c
+Player_3502c27c: doesn't show hand
+Player_3502c27c collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0
+Seat 1: Player_cfb7ba38 mucked
+Seat 2: Player_3502c27c won (1020)
+Seat 3: Hero mucked
+Seat 4: Player_0f714b5b (button) mucked
+Seat 5: Player_533ebdef (small blind) mucked
+Seat 6: Player_d5f6e60d (big blind) mucked
+Seat 7: Player_eb14a733 mucked
+Seat 8: Player_2468b5a6 mucked
+Seat 9: Player_f2d93b2f mucked
+
+
+
+PokerStars Hand #3661308142: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:17:17
+Table '#18' Seat #5 is the button
+Seat 1: Player_d0b46241 (17,630 in chips)
+Seat 2: Player_d5a9962c (10,155 in chips)
+Seat 3: Hero (13,815 in chips)
+Seat 4: Player_c4688bd0 (11,130 in chips)
+Seat 5: Player_f01dbb6c (9,385 in chips)
+Seat 6: Player_8d4436d5 (7,715 in chips)
+Seat 7: Player_057cfaf8 (9,970 in chips)
+Seat 8: Player_1cc85fb5 (21,063 in chips)
+Seat 9: Player_fdc89eab (12,040 in chips)
+Player_d0b46241: posts the ante 30
+Player_d5a9962c: posts the ante 30
+Hero: posts the ante 30
+Player_c4688bd0: posts the ante 30
+Player_f01dbb6c: posts the ante 30
+Player_8d4436d5: posts the ante 30
+Player_057cfaf8: posts the ante 30
+Player_1cc85fb5: posts the ante 30
+Player_fdc89eab: posts the ante 30
+Player_8d4436d5: posts small blind 150
+Player_057cfaf8: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Kh 8s]
+Player_1cc85fb5: folds
+Player_fdc89eab: folds
+Player_d0b46241: folds
+Player_d5a9962c: folds
+Hero: folds
+Player_c4688bd0: raises 1020 to 1320
+Player_f01dbb6c: folds
+Player_8d4436d5: folds
+Player_057cfaf8: folds
+Uncalled bet (1020) returned to Player_c4688bd0
+Player_c4688bd0: doesn't show hand
+Player_c4688bd0 collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0
+Seat 1: Player_d0b46241 mucked
+Seat 2: Player_d5a9962c mucked
+Seat 3: Hero mucked
+Seat 4: Player_c4688bd0 won (1020)
+Seat 5: Player_f01dbb6c (button) mucked
+Seat 6: Player_8d4436d5 (small blind) mucked
+Seat 7: Player_057cfaf8 (big blind) mucked
+Seat 8: Player_1cc85fb5 mucked
+Seat 9: Player_fdc89eab mucked
+
+
+
+PokerStars Hand #3661308758: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:18:11
+Table '#18' Seat #6 is the button
+Seat 1: Player_abea93ea (17,600 in chips)
+Seat 2: Player_5e282b1c (10,125 in chips)
+Seat 3: Hero (13,785 in chips)
+Seat 4: Player_dbb9e03c (11,820 in chips)
+Seat 5: Player_7e265b23 (9,355 in chips)
+Seat 6: Player_7765f69e (7,535 in chips)
+Seat 7: Player_1eceb112 (9,640 in chips)
+Seat 8: Player_6548a1f4 (21,033 in chips)
+Seat 9: Player_b20e3a8d (12,010 in chips)
+Player_abea93ea: posts the ante 30
+Player_5e282b1c: posts the ante 30
+Hero: posts the ante 30
+Player_dbb9e03c: posts the ante 30
+Player_7e265b23: posts the ante 30
+Player_7765f69e: posts the ante 30
+Player_1eceb112: posts the ante 30
+Player_6548a1f4: posts the ante 30
+Player_b20e3a8d: posts the ante 30
+Player_1eceb112: posts small blind 150
+Player_6548a1f4: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [Js Jd]
+Player_b20e3a8d: folds
+Player_abea93ea: folds
+Player_5e282b1c: folds
+Hero: raises 400 to 700
+Player_dbb9e03c: folds
+Player_7e265b23: calls 700 
+Player_7765f69e: calls 700 
+Player_1eceb112: folds
+Player_6548a1f4: folds
+*** FLOP *** [Ac Qh 6d]
+Hero: bets 999 
+Player_7e265b23: folds
+Player_7765f69e: calls 999 
+*** TURN *** [Ac Qh 6d] [Jh]
+Hero: bets 2000 
+Player_7765f69e: raises 5806 to 5806 and is all-in
+Hero: calls 3806 
+*** RIVER *** [Ac Qh 6d Jh] [6h]
+*** SHOW DOWN ***
+Hero: shows [Js Jd] (a full house, Jacks full of Sixes)
+Player_7765f69e: shows [Qd Ah] (two pair, Aces and Queens)
+Hero collected 16430 from pot
+Player_7765f69e finished the tournament in 149th place
+*** SUMMARY ***
+Total pot 16430 | Rake 0
+Board [Ac Qh 6d Jh 6h]
+Seat 1: Player_abea93ea mucked
+Seat 2: Player_5e282b1c mucked
+Seat 3: Hero showed [Js Jd] and won (16430) with a full house, Jacks full of Sixes
+Seat 4: Player_dbb9e03c mucked
+Seat 5: Player_7e265b23 mucked
+Seat 6: Player_7765f69e (button) showed [Qd Ah] and lost with two pair, Aces and Queens
+Seat 7: Player_1eceb112 (small blind) mucked
+Seat 8: Player_6548a1f4 (big blind) mucked
+Seat 9: Player_b20e3a8d mucked
+
+
+
+PokerStars Hand #3661309899: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:19:50
+Table '#18' Seat #7 is the button
+Seat 1: Player_b2a2f10d (17,570 in chips)
+Seat 2: Player_8a04bb30 (10,095 in chips)
+Seat 3: Hero (22,680 in chips)
+Seat 4: Player_43fbab65 (11,790 in chips)
+Seat 5: Player_933e2c64 (8,625 in chips)
+Seat 6: Player_3eaedb7d (9,460 in chips)
+Seat 7: Player_9458f122 (20,703 in chips)
+Seat 8: Player_1ab7d8b2 (11,980 in chips)
+Player_b2a2f10d: posts the ante 30
+Player_8a04bb30: posts the ante 30
+Hero: posts the ante 30
+Player_43fbab65: posts the ante 30
+Player_933e2c64: posts the ante 30
+Player_3eaedb7d: posts the ante 30
+Player_9458f122: posts the ante 30
+Player_1ab7d8b2: posts the ante 30
+Player_9458f122: posts small blind 150
+Player_1ab7d8b2: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [5c 9h]
+Player_b2a2f10d: folds
+Player_8a04bb30: folds
+Hero: folds
+Player_43fbab65: folds
+Player_933e2c64: folds
+Player_3eaedb7d: raises 900 to 1200
+Player_9458f122: raises 19473 to 20673 and is all-in
+Player_1ab7d8b2: folds
+Player_3eaedb7d: All-in 8230 
+*** FLOP *** [Kc 2d Ks]
+*** TURN *** [Kc 2d Ks] [8c]
+*** RIVER *** [Kc 2d Ks 8c] [4c]
+*** SHOW DOWN ***
+Player_3eaedb7d: shows [Qd Jc] (a pair of Kings)
+Player_9458f122: shows [9d Kd] (three of a kind, Kings)
+Uncalled bet (11243) returned to Player_9458f122
+Player_9458f122 collected 19400 from pot
+Player_3eaedb7d finished the tournament in 148th place
+*** SUMMARY ***
+Total pot 19400 | Rake 0
+Board [Kc 2d Ks 8c 4c]
+Seat 1: Player_b2a2f10d mucked
+Seat 2: Player_8a04bb30 mucked
+Seat 3: Hero mucked
+Seat 4: Player_43fbab65 mucked
+Seat 5: Player_933e2c64 mucked
+Seat 6: Player_3eaedb7d (button) showed [Qd Jc] and lost with a pair of Kings
+Seat 7: Player_9458f122 (small blind) showed [9d Kd] and won (19400) with three of a kind, Kings
+Seat 8: Player_1ab7d8b2 (big blind) mucked
+
+
+
+PokerStars Hand #3661310670: Tournament #21391319, $20+$2 - Hold'em No Limit (150/300) - 2018/04/06 23:20:56
+Table '#18' Seat #8 is the button
+Seat 1: Player_ffb00447 (17,540 in chips)
+Seat 2: Player_b9fc204b (10,065 in chips)
+Seat 3: Hero (22,650 in chips)
+Seat 4: Player_00c986c1 (11,760 in chips)
+Seat 5: Player_843958db (8,595 in chips)
+Seat 6: Player_e99b3c50 (30,643 in chips)
+Seat 7: Player_ac03b981 (11,650 in chips)
+Player_ffb00447: posts the ante 30
+Player_b9fc204b: posts the ante 30
+Hero: posts the ante 30
+Player_00c986c1: posts the ante 30
+Player_843958db: posts the ante 30
+Player_e99b3c50: posts the ante 30
+Player_ac03b981: posts the ante 30
+Player_ac03b981: posts small blind 150
+Player_ffb00447: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Hero [3c 2h]
+Player_b9fc204b: folds
+Hero: folds
+Player_00c986c1: folds
+Player_843958db: folds
+Player_e99b3c50: folds
+Player_ac03b981: raises 600 to 900
+Player_ffb00447: folds
+Uncalled bet (600) returned to Player_ac03b981
+Player_ac03b981: doesn't show hand
+Player_ac03b981 collected 810 from pot
+*** SUMMARY ***
+Total pot 810 | Rake 0
+Seat 1: Player_ffb00447 (big blind) mucked
+Seat 2: Player_b9fc204b mucked
+Seat 3: Hero mucked
+Seat 4: Player_00c986c1 mucked
+Seat 5: Player_843958db mucked
+Seat 6: Player_e99b3c50 (button) mucked
+Seat 7: Player_ac03b981 (small blind) won (810)
+
+
+
+PokerStars Hand #3661311473: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:22:08
+Table '#18' Seat #9 is the button
+Seat 1: Player_22184a6b (17,210 in chips)
+Seat 2: Player_4f2fa7a1 (10,035 in chips)
+Seat 3: Hero (22,620 in chips)
+Seat 4: Player_30a1e1c6 (11,730 in chips)
+Seat 5: Player_41a61af4 (8,565 in chips)
+Seat 6: Player_4bb8f896 (10,000 in chips)
+Seat 7: Player_87a9dd30 (30,613 in chips)
+Seat 8: Player_abf4436d (12,130 in chips)
+Player_22184a6b: posts the ante 40
+Player_4f2fa7a1: posts the ante 40
+Hero: posts the ante 40
+Player_30a1e1c6: posts the ante 40
+Player_41a61af4: posts the ante 40
+Player_4bb8f896: posts the ante 40
+Player_87a9dd30: posts the ante 40
+Player_abf4436d: posts the ante 40
+Player_22184a6b: posts small blind 200
+Player_4f2fa7a1: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [2d 5c]
+Hero: folds
+Player_30a1e1c6: folds
+Player_41a61af4: folds
+Player_4bb8f896: folds
+Player_87a9dd30: raises 400 to 800
+Player_abf4436d: folds
+Player_22184a6b: folds
+Player_4f2fa7a1: folds
+Uncalled bet (400) returned to Player_87a9dd30
+Player_87a9dd30: doesn't show hand
+Player_87a9dd30 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0
+Seat 1: Player_22184a6b (small blind) mucked
+Seat 2: Player_4f2fa7a1 (big blind) mucked
+Seat 3: Hero mucked
+Seat 4: Player_30a1e1c6 mucked
+Seat 5: Player_41a61af4 mucked
+Seat 6: Player_4bb8f896 mucked
+Seat 7: Player_87a9dd30 won (1320)
+Seat 8: Player_abf4436d (button) mucked
+
+
+
+PokerStars Hand #3661311997: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:22:59
+Table '#18' Seat #1 is the button
+Seat 1: Player_558b8750 (16,970 in chips)
+Seat 2: Player_f94581b4 (9,595 in chips)
+Seat 3: Hero (22,580 in chips)
+Seat 4: Player_aeb6da1b (11,690 in chips)
+Seat 5: Player_f1d2a58e (8,525 in chips)
+Seat 6: Player_d46eaf64 (9,960 in chips)
+Seat 7: Player_75fa051f (10,000 in chips)
+Seat 8: Player_022ac696 (31,493 in chips)
+Seat 9: Player_1597b60b (12,090 in chips)
+Player_558b8750: posts the ante 40
+Player_f94581b4: posts the ante 40
+Hero: posts the ante 40
+Player_aeb6da1b: posts the ante 40
+Player_f1d2a58e: posts the ante 40
+Player_d46eaf64: posts the ante 40
+Player_75fa051f: posts the ante 40
+Player_022ac696: posts the ante 40
+Player_1597b60b: posts the ante 40
+Player_f94581b4: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [2d 5d]
+Player_aeb6da1b: folds
+Player_f1d2a58e: calls 400 
+Player_d46eaf64: folds
+Player_75fa051f: raises 2400 to 2800
+Player_022ac696: folds
+Player_1597b60b: folds
+Player_558b8750: folds
+Player_f94581b4: folds
+Hero: folds
+Player_f1d2a58e: folds
+*** SHOW DOWN ***
+Player_75fa051f: shows [Ac Kc] (high card Ace)
+Uncalled bet (2400) returned to Player_75fa051f
+Player_75fa051f collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | Rake 0
+Seat 1: Player_558b8750 (button) mucked
+Seat 2: Player_f94581b4 (small blind) mucked
+Seat 3: Hero (big blind) mucked
+Seat 4: Player_aeb6da1b mucked
+Seat 5: Player_f1d2a58e mucked
+Seat 6: Player_d46eaf64 mucked
+Seat 7: Player_75fa051f showed [Ac Kc] and won (1760) with high card Ace
+Seat 8: Player_022ac696 mucked
+Seat 9: Player_1597b60b mucked
+
+
+
+PokerStars Hand #3661312735: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:24:05
+Table '#18' Seat #2 is the button
+Seat 1: Player_10e01b62 (16,930 in chips)
+Seat 2: Player_84bb5fee (9,355 in chips)
+Seat 3: Hero (22,140 in chips)
+Seat 4: Player_aab102e0 (11,650 in chips)
+Seat 5: Player_ff16242e (8,085 in chips)
+Seat 6: Player_25cd72ec (9,920 in chips)
+Seat 7: Player_f1c71dce (11,320 in chips)
+Seat 8: Player_9a81e398 (31,453 in chips)
+Seat 9: Player_c60b3494 (12,050 in chips)
+Player_10e01b62: posts the ante 40
+Player_84bb5fee: posts the ante 40
+Hero: posts the ante 40
+Player_aab102e0: posts the ante 40
+Player_ff16242e: posts the ante 40
+Player_25cd72ec: posts the ante 40
+Player_f1c71dce: posts the ante 40
+Player_9a81e398: posts the ante 40
+Player_c60b3494: posts the ante 40
+Hero: posts small blind 200
+Player_aab102e0: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [8c Kh]
+Player_ff16242e: calls 400 
+Player_25cd72ec: calls 400 
+Player_f1c71dce: folds
+Player_9a81e398: raises 1200 to 1600
+Player_c60b3494: folds
+Player_10e01b62: folds
+Player_84bb5fee: folds
+Hero: folds
+Player_aab102e0: folds
+Player_ff16242e: calls 1200 
+Player_25cd72ec: calls 1200 
+*** FLOP *** [As 4d 3h]
+Player_ff16242e: checks
+Player_25cd72ec: checks
+Player_9a81e398: bets 1961 
+Player_ff16242e: calls 1961 
+Player_25cd72ec: calls 1961 
+*** TURN *** [As 4d 3h] [6c]
+Player_ff16242e: checks
+Player_25cd72ec: bets 400 
+Player_9a81e398: folds
+Player_ff16242e: raises 2400 to 2400
+Player_25cd72ec: calls 2000 
+*** RIVER *** [As 4d 3h 6c] [9h]
+Player_ff16242e: All-in 2084 
+Player_25cd72ec: folds
+Uncalled bet (2084) returned to Player_ff16242e
+Player_ff16242e: doesn't show hand
+Player_ff16242e collected 16443 from pot
+*** SUMMARY ***
+Total pot 16443 | Rake 0
+Board [As 4d 3h 6c 9h]
+Seat 1: Player_10e01b62 mucked
+Seat 2: Player_84bb5fee (button) mucked
+Seat 3: Hero (small blind) mucked
+Seat 4: Player_aab102e0 (big blind) mucked
+Seat 5: Player_ff16242e won (16443)
+Seat 6: Player_25cd72ec mucked
+Seat 7: Player_f1c71dce mucked
+Seat 8: Player_9a81e398 mucked
+Seat 9: Player_c60b3494 mucked
+
+
+
+PokerStars Hand #3661314035: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:26:02
+Table '#18' Seat #3 is the button
+Seat 1: Player_49292554 (16,890 in chips)
+Seat 2: Player_c135b2a0 (9,315 in chips)
+Seat 3: Hero (21,900 in chips)
+Seat 4: Player_59a974a7 (11,210 in chips)
+Seat 5: Player_a65a7ce3 (18,527 in chips)
+Seat 6: Player_d43b710b (3,919 in chips)
+Seat 7: Player_1170be81 (11,280 in chips)
+Seat 8: Player_1541ee00 (27,852 in chips)
+Seat 9: Player_9ef81669 (12,010 in chips)
+Player_49292554: posts the ante 40
+Player_c135b2a0: posts the ante 40
+Hero: posts the ante 40
+Player_59a974a7: posts the ante 40
+Player_a65a7ce3: posts the ante 40
+Player_d43b710b: posts the ante 40
+Player_1170be81: posts the ante 40
+Player_1541ee00: posts the ante 40
+Player_9ef81669: posts the ante 40
+Player_59a974a7: posts small blind 200
+Player_a65a7ce3: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [3d As]
+Player_d43b710b: folds
+Player_1170be81: calls 400 
+Player_1541ee00: folds
+Player_9ef81669: folds
+Player_49292554: folds
+Player_c135b2a0: folds
+Hero: folds
+Player_59a974a7: calls 200 
+Player_a65a7ce3: checks
+*** FLOP *** [4h 4s Qc]
+Player_59a974a7: checks
+Player_a65a7ce3: checks
+Player_1170be81: bets 1560 
+Player_59a974a7: folds
+Player_a65a7ce3: folds
+Uncalled bet (1560) returned to Player_1170be81
+Player_1170be81: doesn't show hand
+Player_1170be81 collected 1560 from pot
+*** SUMMARY ***
+Total pot 1560 | Rake 0
+Board [4h 4s Qc]
+Seat 1: Player_49292554 mucked
+Seat 2: Player_c135b2a0 mucked
+Seat 3: Hero (button) mucked
+Seat 4: Player_59a974a7 (small blind) mucked
+Seat 5: Player_a65a7ce3 (big blind) mucked
+Seat 6: Player_d43b710b mucked
+Seat 7: Player_1170be81 won (1560)
+Seat 8: Player_1541ee00 mucked
+Seat 9: Player_9ef81669 mucked
+
+
+
+PokerStars Hand #3661315176: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:27:44
+Table '#18' Seat #4 is the button
+Seat 1: Player_b98f06b2 (16,850 in chips)
+Seat 2: Hero (21,860 in chips)
+Seat 3: Player_410f4c3f (10,770 in chips)
+Seat 4: Player_81fef688 (18,087 in chips)
+Seat 5: Player_8e4e7374 (3,879 in chips)
+Seat 6: Player_5e73cec6 (12,400 in chips)
+Seat 7: Player_b674e897 (27,812 in chips)
+Seat 8: Player_38c2d2e5 (11,970 in chips)
+Player_b98f06b2: posts the ante 40
+Hero: posts the ante 40
+Player_410f4c3f: posts the ante 40
+Player_81fef688: posts the ante 40
+Player_8e4e7374: posts the ante 40
+Player_5e73cec6: posts the ante 40
+Player_b674e897: posts the ante 40
+Player_38c2d2e5: posts the ante 40
+Player_81fef688: posts small blind 200
+Player_8e4e7374: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [Ad Tc]
+Player_5e73cec6: folds
+Player_b674e897: folds
+Player_38c2d2e5: folds
+Player_b98f06b2: calls 400 
+Hero: calls 400 
+Player_410f4c3f: calls 400 
+Player_81fef688: folds
+Player_8e4e7374: raises 3439 to 3839 and is all-in
+Player_b98f06b2: calls 3439 
+Hero: folds
+Player_410f4c3f: folds
+*** FLOP *** [6s Td Qs]
+*** TURN *** [6s Td Qs] [8d]
+*** RIVER *** [6s Td Qs 8d] [6d]
+*** SHOW DOWN ***
+Player_b98f06b2: shows [9c 9d] (two pair, Nines and Sixes)
+Player_8e4e7374: shows [6c Ah] (three of a kind, Sixes)
+Player_8e4e7374 collected 8998 from pot
+*** SUMMARY ***
+Total pot 8998 | Rake 0
+Board [6s Td Qs 8d 6d]
+Seat 1: Player_b98f06b2 showed [9c 9d] and lost with two pair, Nines and Sixes
+Seat 2: Hero mucked
+Seat 3: Player_410f4c3f (button) mucked
+Seat 4: Player_81fef688 (small blind) mucked
+Seat 5: Player_8e4e7374 (big blind) showed [6c Ah] and won (8998) with three of a kind, Sixes
+Seat 6: Player_5e73cec6 mucked
+Seat 7: Player_b674e897 mucked
+Seat 8: Player_38c2d2e5 mucked
+
+
+
+PokerStars Hand #3661316172: Tournament #21391319, $20+$2 - Hold'em No Limit (200/400) - 2018/04/06 23:29:17
+Table '#18' Seat #5 is the button
+Seat 1: Player_43c43516 (12,971 in chips)
+Seat 2: Player_948e0d15 (10,000 in chips)
+Seat 3: Hero (21,420 in chips)
+Seat 4: Player_3238839b (10,330 in chips)
+Seat 5: Player_7b0a90e6 (17,847 in chips)
+Seat 6: Player_9e6a82b3 (8,998 in chips)
+Seat 7: Player_ef74490e (12,360 in chips)
+Seat 8: Player_f3587ac7 (27,772 in chips)
+Seat 9: Player_d956f744 (11,930 in chips)
+Player_43c43516: posts the ante 40
+Player_948e0d15: posts the ante 40
+Hero: posts the ante 40
+Player_3238839b: posts the ante 40
+Player_7b0a90e6: posts the ante 40
+Player_9e6a82b3: posts the ante 40
+Player_ef74490e: posts the ante 40
+Player_f3587ac7: posts the ante 40
+Player_d956f744: posts the ante 40
+Player_9e6a82b3: posts small blind 200
+Player_ef74490e: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Hero [Ks Ah]
+Player_f3587ac7: folds
+Player_d956f744: folds
+Player_43c43516: folds
+Player_948e0d15: folds
+Hero: raises 599 to 999
+Player_3238839b: folds
+Player_7b0a90e6: calls 999 
+Player_9e6a82b3: calls 799 
+Player_ef74490e: calls 599 
+*** FLOP *** [Th Qd Kh]
+Player_9e6a82b3: checks
+Player_ef74490e: checks
+Hero: checks
+Player_7b0a90e6: checks
+*** TURN *** [Th Qd Kh] [8s]
+Player_9e6a82b3: bets 400 
+Player_ef74490e: raises 1600 to 1600
+Hero: calls 1600 
+Player_7b0a90e6: folds
+Player_9e6a82b3: calls 1200 
+*** RIVER *** [Th Qd Kh 8s] [Kc]
+Player_9e6a82b3: checks
+Player_ef74490e: bets 9156 
+Hero: calls 9156 
+Player_9e6a82b3: folds
+*** SHOW DOWN ***
+Player_ef74490e: shows [Jh 9c] (a straight, Nine to King)
+Hero: Mucks [Ks Ah] (Three of a kind)
+Player_ef74490e collected 27468 from pot
+*** SUMMARY ***
+Total pot 27468 | Rake 0
+Board [Th Qd Kh 8s Kc]
+Seat 1: Player_43c43516 mucked
+Seat 2: Player_948e0d15 mucked
+Seat 3: Hero mucked [Ks Ah]
+Seat 4: Player_3238839b mucked
+Seat 5: Player_7b0a90e6 (button) mucked
+Seat 6: Player_9e6a82b3 (small blind) mucked
+Seat 7: Player_ef74490e (big blind) showed [Jh 9c] and won (27468) with a straight, Nine to King
+Seat 8: Player_f3587ac7 mucked
+Seat 9: Player_d956f744 mucked
+
+
+
+PokerStars Hand #3661317943: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:31:56
+Table '#18' Seat #6 is the button
+Seat 1: Player_ff06856a (12,931 in chips)
+Seat 2: Player_1acd8f5e (9,960 in chips)
+Seat 3: Hero (9,625 in chips)
+Seat 4: Player_8541a812 (10,290 in chips)
+Seat 5: Player_f2352937 (16,808 in chips)
+Seat 6: Player_afd9dffc (6,359 in chips)
+Seat 7: Player_81eff637 (28,033 in chips)
+Seat 8: Player_e596c2f9 (27,732 in chips)
+Seat 9: Player_ca498d6a (11,890 in chips)
+Player_ff06856a: posts the ante 50
+Player_1acd8f5e: posts the ante 50
+Hero: posts the ante 50
+Player_8541a812: posts the ante 50
+Player_f2352937: posts the ante 50
+Player_afd9dffc: posts the ante 50
+Player_81eff637: posts the ante 50
+Player_e596c2f9: posts the ante 50
+Player_ca498d6a: posts the ante 50
+Player_81eff637: posts small blind 250
+Player_e596c2f9: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [Ad Ac]
+Player_ca498d6a: folds
+Player_ff06856a: folds
+Player_1acd8f5e: folds
+Hero: raises 722 to 1222
+Player_8541a812: folds
+Player_f2352937: folds
+Player_afd9dffc: calls 1222 
+Player_81eff637: calls 972 
+Player_e596c2f9: folds
+*** FLOP *** [4d 2d 6s]
+Player_81eff637: checks
+Hero: bets 2333 
+Player_afd9dffc: folds
+Player_81eff637: folds
+Uncalled bet (2333) returned to Hero
+Hero: doesn't show hand
+Hero collected 4616 from pot
+*** SUMMARY ***
+Total pot 4616 | Rake 0
+Board [4d 2d 6s]
+Seat 1: Player_ff06856a mucked
+Seat 2: Player_1acd8f5e mucked
+Seat 3: Hero won (4616)
+Seat 4: Player_8541a812 mucked
+Seat 5: Player_f2352937 mucked
+Seat 6: Player_afd9dffc (button) mucked
+Seat 7: Player_81eff637 (small blind) mucked
+Seat 8: Player_e596c2f9 (big blind) mucked
+Seat 9: Player_ca498d6a mucked
+
+
+
+PokerStars Hand #3661319421: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:34:08
+Table '#18' Seat #7 is the button
+Seat 1: Player_7ae34edd (12,881 in chips)
+Seat 2: Player_74a454db (9,910 in chips)
+Seat 3: Hero (12,969 in chips)
+Seat 4: Player_3c1273a1 (10,240 in chips)
+Seat 5: Player_6fb495a5 (16,758 in chips)
+Seat 6: Player_61d25a7e (5,087 in chips)
+Seat 7: Player_a8da2453 (26,761 in chips)
+Seat 8: Player_c347e2e8 (27,182 in chips)
+Seat 9: Player_01ee2fd0 (11,840 in chips)
+Player_7ae34edd: posts the ante 50
+Player_74a454db: posts the ante 50
+Hero: posts the ante 50
+Player_3c1273a1: posts the ante 50
+Player_6fb495a5: posts the ante 50
+Player_61d25a7e: posts the ante 50
+Player_a8da2453: posts the ante 50
+Player_c347e2e8: posts the ante 50
+Player_01ee2fd0: posts the ante 50
+Player_c347e2e8: posts small blind 250
+Player_01ee2fd0: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [Ad Ts]
+Player_7ae34edd: calls 500 
+Player_74a454db: folds
+Hero: folds
+Player_3c1273a1: folds
+Player_6fb495a5: folds
+Player_61d25a7e: raises 500 to 1000
+Player_a8da2453: folds
+Player_c347e2e8: folds
+Player_01ee2fd0: raises 2000 to 3000
+Player_7ae34edd: folds
+Player_61d25a7e: calls 2000 
+*** FLOP *** [4d Th Kd]
+Player_01ee2fd0: bets 7200 
+Player_61d25a7e: All-in 2037 
+*** TURN *** [4d Th Kd] [3s]
+*** RIVER *** [4d Th Kd 3s] [7d]
+*** SHOW DOWN ***
+Player_61d25a7e: shows [Ks Qs] (a pair of Kings)
+Player_01ee2fd0: shows [3d 3c] (three of a kind, Threes)
+Uncalled bet (5163) returned to Player_01ee2fd0
+Player_01ee2fd0 collected 11274 from pot
+Player_61d25a7e finished the tournament in 157th place
+*** SUMMARY ***
+Total pot 11274 | Rake 0
+Board [4d Th Kd 3s 7d]
+Seat 1: Player_7ae34edd mucked
+Seat 2: Player_74a454db mucked
+Seat 3: Hero mucked
+Seat 4: Player_3c1273a1 mucked
+Seat 5: Player_6fb495a5 mucked
+Seat 6: Player_61d25a7e showed [Ks Qs] and lost with a pair of Kings
+Seat 7: Player_a8da2453 (button) mucked
+Seat 8: Player_c347e2e8 (small blind) mucked
+Seat 9: Player_01ee2fd0 (big blind) showed [3d 3c] and won (11274) with three of a kind, Threes
+
+
+
+PokerStars Hand #3661320640: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:36:02
+Table '#18' Seat #8 is the button
+Seat 1: Player_3df8ad79 (12,331 in chips)
+Seat 2: Player_22e6251f (9,860 in chips)
+Seat 3: Hero (12,919 in chips)
+Seat 4: Player_9004301c (10,190 in chips)
+Seat 5: Player_b59ed44a (16,708 in chips)
+Seat 6: Player_922bc720 (26,711 in chips)
+Seat 7: Player_7e745a73 (26,882 in chips)
+Seat 8: Player_413f5a50 (18,027 in chips)
+Player_3df8ad79: posts the ante 50
+Player_22e6251f: posts the ante 50
+Hero: posts the ante 50
+Player_9004301c: posts the ante 50
+Player_b59ed44a: posts the ante 50
+Player_922bc720: posts the ante 50
+Player_7e745a73: posts the ante 50
+Player_413f5a50: posts the ante 50
+Player_413f5a50: posts small blind 250
+Player_3df8ad79: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [3d 6d]
+Player_22e6251f: folds
+Hero: folds
+Player_9004301c: folds
+Player_b59ed44a: calls 500 
+Player_922bc720: folds
+Player_7e745a73: folds
+Player_413f5a50: folds
+Player_3df8ad79: checks
+*** FLOP *** [Js 8s 8c]
+Player_3df8ad79: checks
+Player_b59ed44a: checks
+*** TURN *** [Js 8s 8c] [Th]
+Player_3df8ad79: checks
+Player_b59ed44a: bets 1351 
+Player_3df8ad79: folds
+Uncalled bet (1351) returned to Player_b59ed44a
+Player_b59ed44a: doesn't show hand
+Player_b59ed44a collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0
+Board [Js 8s 8c Th]
+Seat 1: Player_3df8ad79 (big blind) mucked
+Seat 2: Player_22e6251f mucked
+Seat 3: Hero mucked
+Seat 4: Player_9004301c mucked
+Seat 5: Player_b59ed44a won (1650)
+Seat 6: Player_922bc720 mucked
+Seat 7: Player_7e745a73 (button) mucked
+Seat 8: Player_413f5a50 (small blind) mucked
+
+
+
+PokerStars Hand #3661321808: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:37:50
+Table '#18' Seat #9 is the button
+Seat 1: Player_14d0d519 (11,781 in chips)
+Seat 2: Player_f5d93740 (9,810 in chips)
+Seat 3: Hero (12,869 in chips)
+Seat 4: Player_1c33a7cc (10,140 in chips)
+Seat 5: Player_b08250c3 (17,808 in chips)
+Seat 6: Player_cedb7f24 (26,661 in chips)
+Seat 7: Player_8a9ccec6 (26,832 in chips)
+Seat 8: Player_57dbcf84 (17,727 in chips)
+Player_14d0d519: posts the ante 50
+Player_f5d93740: posts the ante 50
+Hero: posts the ante 50
+Player_1c33a7cc: posts the ante 50
+Player_b08250c3: posts the ante 50
+Player_cedb7f24: posts the ante 50
+Player_8a9ccec6: posts the ante 50
+Player_57dbcf84: posts the ante 50
+Player_14d0d519: posts small blind 250
+Player_f5d93740: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [4h 6s]
+Hero: folds
+Player_1c33a7cc: folds
+Player_b08250c3: folds
+Player_cedb7f24: calls 500 
+Player_8a9ccec6: raises 2150 to 2650
+Player_57dbcf84: folds
+Player_14d0d519: calls 2400 
+Player_f5d93740: folds
+Player_cedb7f24: folds
+*** FLOP *** [7s 4c 8s]
+Player_14d0d519: bets 1200 
+Player_8a9ccec6: raises 10780 to 10780
+Player_14d0d519: All-in 7881 
+*** TURN *** [7s 4c 8s] [Qd]
+*** RIVER *** [7s 4c 8s Qd] [2d]
+*** SHOW DOWN ***
+Player_14d0d519: shows [Ks Js] (high card King)
+Player_8a9ccec6: shows [8h Ah] (a pair of Eights)
+Uncalled bet (1699) returned to Player_8a9ccec6
+Player_8a9ccec6 collected 24862 from pot
+Player_14d0d519 finished the tournament in 155th place
+*** SUMMARY ***
+Total pot 24862 | Rake 0
+Board [7s 4c 8s Qd 2d]
+Seat 1: Player_14d0d519 (small blind) showed [Ks Js] and lost with high card King
+Seat 2: Player_f5d93740 (big blind) mucked
+Seat 3: Hero mucked
+Seat 4: Player_1c33a7cc mucked
+Seat 5: Player_b08250c3 mucked
+Seat 6: Player_cedb7f24 mucked
+Seat 7: Player_8a9ccec6 showed [8h Ah] and won (24862) with a pair of Eights
+Seat 8: Player_57dbcf84 (button) mucked
+
+
+
+PokerStars Hand #3661322864: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:39:26
+Table '#18' Seat #1 is the button
+Seat 1: Player_33c63c91 (10,000 in chips)
+Seat 2: Player_561a5913 (9,260 in chips)
+Seat 3: Hero (12,819 in chips)
+Seat 4: Player_727a2e9a (10,090 in chips)
+Seat 5: Player_3ba9cf1a (17,758 in chips)
+Seat 6: Player_34ad1b2f (26,111 in chips)
+Seat 7: Player_cdeb1a6d (39,913 in chips)
+Seat 8: Player_17fab9d9 (17,677 in chips)
+Player_33c63c91: posts the ante 50
+Player_561a5913: posts the ante 50
+Hero: posts the ante 50
+Player_727a2e9a: posts the ante 50
+Player_3ba9cf1a: posts the ante 50
+Player_34ad1b2f: posts the ante 50
+Player_cdeb1a6d: posts the ante 50
+Player_17fab9d9: posts the ante 50
+Player_561a5913: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [Qh 6c]
+Player_727a2e9a: folds
+Player_3ba9cf1a: calls 500 
+Player_34ad1b2f: folds
+Player_cdeb1a6d: folds
+Player_17fab9d9: folds
+Player_33c63c91: calls 500 
+Player_561a5913: raises 8710 to 9210 and is all-in
+Hero: folds
+Player_3ba9cf1a: folds
+Player_33c63c91: folds
+Uncalled bet (8710) returned to Player_561a5913
+Player_561a5913: doesn't show hand
+Player_561a5913 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0
+Seat 1: Player_33c63c91 (button) mucked
+Seat 2: Player_561a5913 (small blind) won (2400)
+Seat 3: Hero (big blind) mucked
+Seat 4: Player_727a2e9a mucked
+Seat 5: Player_3ba9cf1a mucked
+Seat 6: Player_34ad1b2f mucked
+Seat 7: Player_cdeb1a6d mucked
+Seat 8: Player_17fab9d9 mucked
+
+
+
+PokerStars Hand #3661323928: Tournament #21391319, $20+$2 - Hold'em No Limit (250/500) - 2018/04/06 23:41:05
+Table '#18' Seat #2 is the button
+Seat 1: Player_e29deacb (9,450 in chips)
+Seat 2: Player_1d264fba (11,110 in chips)
+Seat 3: Hero (12,269 in chips)
+Seat 4: Player_c796a3ea (10,040 in chips)
+Seat 5: Player_012d23dc (17,208 in chips)
+Seat 6: Player_aa7a52d5 (26,061 in chips)
+Seat 7: Player_68287547 (39,863 in chips)
+Seat 8: Player_18ef963b (17,627 in chips)
+Player_e29deacb: posts the ante 50
+Player_1d264fba: posts the ante 50
+Hero: posts the ante 50
+Player_c796a3ea: posts the ante 50
+Player_012d23dc: posts the ante 50
+Player_aa7a52d5: posts the ante 50
+Player_68287547: posts the ante 50
+Player_18ef963b: posts the ante 50
+Hero: posts small blind 250
+Player_c796a3ea: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [2s Qs]
+Player_012d23dc: folds
+Player_aa7a52d5: folds
+Player_68287547: folds
+Player_18ef963b: folds
+Player_e29deacb: folds
+Player_1d264fba: raises 10560 to 11060 and is all-in
+Hero: folds
+Player_c796a3ea: folds
+Uncalled bet (10560) returned to Player_1d264fba
+Player_1d264fba: doesn't show hand
+Player_1d264fba collected 1650 from pot
+*** SUMMARY ***
+Total pot 1650 | Rake 0
+Seat 1: Player_e29deacb mucked
+Seat 2: Player_1d264fba (button) won (1650)
+Seat 3: Hero (small blind) mucked
+Seat 4: Player_c796a3ea (big blind) mucked
+Seat 5: Player_012d23dc mucked
+Seat 6: Player_aa7a52d5 mucked
+Seat 7: Player_68287547 mucked
+Seat 8: Player_18ef963b mucked
+
+
+
+PokerStars Hand #3661324554: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:42:02
+Table '#18' Seat #3 is the button
+Seat 1: Player_8eae8da7 (9,400 in chips)
+Seat 2: Player_146d18b9 (12,210 in chips)
+Seat 3: Hero (11,969 in chips)
+Seat 4: Player_3e43021e (9,490 in chips)
+Seat 5: Player_f773fc71 (17,158 in chips)
+Seat 6: Player_937b2af8 (26,011 in chips)
+Seat 7: Player_3a4096d6 (39,813 in chips)
+Seat 8: Player_5268f82a (17,577 in chips)
+Player_8eae8da7: posts the ante 60
+Player_146d18b9: posts the ante 60
+Hero: posts the ante 60
+Player_3e43021e: posts the ante 60
+Player_f773fc71: posts the ante 60
+Player_937b2af8: posts the ante 60
+Player_3a4096d6: posts the ante 60
+Player_5268f82a: posts the ante 60
+Player_3e43021e: posts small blind 300
+Player_f773fc71: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [Js 8h]
+Player_937b2af8: folds
+Player_3a4096d6: folds
+Player_5268f82a: folds
+Player_8eae8da7: folds
+Player_146d18b9: folds
+Hero: raises 900 to 1500
+Player_3e43021e: folds
+Player_f773fc71: calls 900 
+*** FLOP *** [7c Ac 2d]
+Player_f773fc71: checks
+Hero: bets 1900 
+Player_f773fc71: raises 9480 to 9480
+Hero: folds
+Uncalled bet (7580) returned to Player_f773fc71
+Player_f773fc71: doesn't show hand
+Player_f773fc71 collected 7580 from pot
+*** SUMMARY ***
+Total pot 7580 | Rake 0
+Board [7c Ac 2d]
+Seat 1: Player_8eae8da7 mucked
+Seat 2: Player_146d18b9 mucked
+Seat 3: Hero (button) mucked
+Seat 4: Player_3e43021e (small blind) mucked
+Seat 5: Player_f773fc71 (big blind) won (7580)
+Seat 6: Player_937b2af8 mucked
+Seat 7: Player_3a4096d6 mucked
+Seat 8: Player_5268f82a mucked
+
+
+
+PokerStars Hand #3661325232: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:43:05
+Table '#18' Seat #4 is the button
+Seat 1: Player_22cf63bc (9,340 in chips)
+Seat 2: Player_0bcfb686 (12,150 in chips)
+Seat 3: Hero (8,509 in chips)
+Seat 4: Player_b37d4759 (9,130 in chips)
+Seat 5: Player_16b0dde2 (21,278 in chips)
+Seat 6: Player_9662190d (25,951 in chips)
+Seat 7: Player_5819205b (39,753 in chips)
+Seat 8: Player_8afd9c5e (17,517 in chips)
+Player_22cf63bc: posts the ante 60
+Player_0bcfb686: posts the ante 60
+Hero: posts the ante 60
+Player_b37d4759: posts the ante 60
+Player_16b0dde2: posts the ante 60
+Player_9662190d: posts the ante 60
+Player_5819205b: posts the ante 60
+Player_8afd9c5e: posts the ante 60
+Player_16b0dde2: posts small blind 300
+Player_9662190d: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [2s Ah]
+Player_5819205b: folds
+Player_8afd9c5e: folds
+Player_22cf63bc: folds
+Player_0bcfb686: folds
+Hero: folds
+Player_b37d4759: folds
+Player_16b0dde2: folds
+Player_9662190d: doesn't show hand
+Player_9662190d collected 1380 from pot
+*** SUMMARY ***
+Total pot 1380 | Rake 0
+Seat 1: Player_22cf63bc mucked
+Seat 2: Player_0bcfb686 mucked
+Seat 3: Hero mucked
+Seat 4: Player_b37d4759 (button) mucked
+Seat 5: Player_16b0dde2 (small blind) mucked
+Seat 6: Player_9662190d (big blind) won (1380)
+Seat 7: Player_5819205b mucked
+Seat 8: Player_8afd9c5e mucked
+
+
+
+PokerStars Hand #3661325977: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:44:14
+Table '#18' Seat #5 is the button
+Seat 1: Player_bc607035 (9,280 in chips)
+Seat 2: Player_b9a57dfa (12,090 in chips)
+Seat 3: Hero (8,449 in chips)
+Seat 4: Player_a46ec5f1 (9,070 in chips)
+Seat 5: Player_33745615 (20,918 in chips)
+Seat 6: Player_1a3fcb37 (26,671 in chips)
+Seat 7: Player_d7b3e7ce (39,693 in chips)
+Seat 8: Player_fbac5986 (17,457 in chips)
+Player_bc607035: posts the ante 60
+Player_b9a57dfa: posts the ante 60
+Hero: posts the ante 60
+Player_a46ec5f1: posts the ante 60
+Player_33745615: posts the ante 60
+Player_1a3fcb37: posts the ante 60
+Player_d7b3e7ce: posts the ante 60
+Player_fbac5986: posts the ante 60
+Player_1a3fcb37: posts small blind 300
+Player_d7b3e7ce: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [6s 9c]
+Player_fbac5986: folds
+Player_bc607035: folds
+Player_b9a57dfa: folds
+Hero: folds
+Player_a46ec5f1: raises 1980 to 2580
+Player_33745615: folds
+Player_1a3fcb37: raises 8580 to 11160
+Player_d7b3e7ce: folds
+Player_a46ec5f1: All-in 6430 
+*** FLOP *** [Qc 9s Jh]
+*** TURN *** [Qc 9s Jh] [8h]
+*** RIVER *** [Qc 9s Jh 8h] [7h]
+*** SHOW DOWN ***
+Player_a46ec5f1: shows [Jc Jd] (three of a kind, Jacks)
+Player_1a3fcb37: shows [Ts As] (a straight, Eight to Queen)
+Uncalled bet (2150) returned to Player_1a3fcb37
+Player_1a3fcb37 collected 19100 from pot
+Player_a46ec5f1 finished the tournament in 148th place
+*** SUMMARY ***
+Total pot 19100 | Rake 0
+Board [Qc 9s Jh 8h 7h]
+Seat 1: Player_bc607035 mucked
+Seat 2: Player_b9a57dfa mucked
+Seat 3: Hero mucked
+Seat 4: Player_a46ec5f1 showed [Jc Jd] and lost with three of a kind, Jacks
+Seat 5: Player_33745615 (button) mucked
+Seat 6: Player_1a3fcb37 (small blind) showed [Ts As] and won (19100) with a straight, Eight to Queen
+Seat 7: Player_d7b3e7ce (big blind) mucked
+Seat 8: Player_fbac5986 mucked
+
+
+
+PokerStars Hand #3661326713: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:45:23
+Table '#18' Seat #7 is the button
+Seat 1: Player_b06d3b4b (9,220 in chips)
+Seat 2: Player_7de80714 (12,030 in chips)
+Seat 3: Hero (8,389 in chips)
+Seat 4: Player_4655e9d2 (20,858 in chips)
+Seat 5: Player_fcfc9c00 (36,701 in chips)
+Seat 6: Player_fd68f4da (39,033 in chips)
+Seat 7: Player_45cb5149 (17,397 in chips)
+Player_b06d3b4b: posts the ante 60
+Player_7de80714: posts the ante 60
+Hero: posts the ante 60
+Player_4655e9d2: posts the ante 60
+Player_fcfc9c00: posts the ante 60
+Player_fd68f4da: posts the ante 60
+Player_45cb5149: posts the ante 60
+Player_fd68f4da: posts small blind 300
+Player_45cb5149: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [9h 2c]
+Player_b06d3b4b: folds
+Player_7de80714: folds
+Hero: folds
+Player_4655e9d2: calls 600 
+Player_fcfc9c00: folds
+Player_fd68f4da: calls 300 
+Player_45cb5149: checks
+*** FLOP *** [Ac 7c 3c]
+Player_fd68f4da: checks
+Player_45cb5149: checks
+Player_4655e9d2: checks
+*** TURN *** [Ac 7c 3c] [Ah]
+Player_fd68f4da: checks
+Player_45cb5149: checks
+Player_4655e9d2: checks
+*** RIVER *** [Ac 7c 3c Ah] [Jd]
+Player_fd68f4da: checks
+Player_45cb5149: checks
+Player_4655e9d2: checks
+*** SHOW DOWN ***
+Player_fd68f4da: shows [6s Ts] (a pair of Aces)
+Player_45cb5149: shows [3s 8c] (two pair, Aces and Threes)
+Player_4655e9d2: Mucks [5h 6h] (One pair)
+Player_45cb5149 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | Rake 0
+Board [Ac 7c 3c Ah Jd]
+Seat 1: Player_b06d3b4b mucked
+Seat 2: Player_7de80714 mucked
+Seat 3: Hero mucked
+Seat 4: Player_4655e9d2 mucked [5h 6h]
+Seat 5: Player_fcfc9c00 (button) mucked
+Seat 6: Player_fd68f4da (small blind) showed [6s Ts] and lost with a pair of Aces
+Seat 7: Player_45cb5149 (big blind) showed [3s 8c] and won (2220) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #3661327504: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:46:35
+Table '#18' Seat #8 is the button
+Seat 1: Player_8e827385 (9,160 in chips)
+Seat 2: Player_0e608183 (11,970 in chips)
+Seat 3: Hero (8,329 in chips)
+Seat 4: Player_b1df673e (10,000 in chips)
+Seat 5: Player_c3380c7c (20,198 in chips)
+Seat 6: Player_356afd8b (36,641 in chips)
+Seat 7: Player_20197c76 (38,373 in chips)
+Seat 8: Player_0749c3dc (18,957 in chips)
+Player_8e827385: posts the ante 60
+Player_0e608183: posts the ante 60
+Hero: posts the ante 60
+Player_b1df673e: posts the ante 60
+Player_c3380c7c: posts the ante 60
+Player_356afd8b: posts the ante 60
+Player_20197c76: posts the ante 60
+Player_0749c3dc: posts the ante 60
+Player_0749c3dc: posts small blind 300
+Player_8e827385: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [3s 5s]
+Player_0e608183: folds
+Hero: folds
+Player_b1df673e: folds
+Player_c3380c7c: folds
+Player_356afd8b: calls 600 
+Player_20197c76: raises 2411 to 3011
+Player_0749c3dc: folds
+Player_8e827385: folds
+Player_356afd8b: folds
+Uncalled bet (2411) returned to Player_20197c76
+Player_20197c76: doesn't show hand
+Player_20197c76 collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | Rake 0
+Seat 1: Player_8e827385 (big blind) mucked
+Seat 2: Player_0e608183 mucked
+Seat 3: Hero mucked
+Seat 4: Player_b1df673e mucked
+Seat 5: Player_c3380c7c mucked
+Seat 6: Player_356afd8b mucked
+Seat 7: Player_20197c76 (button) won (2580)
+Seat 8: Player_0749c3dc (small blind) mucked
+
+
+
+PokerStars Hand #3661328383: Tournament #21391319, $20+$2 - Hold'em No Limit (300/600) - 2018/04/06 23:47:59
+Table '#18' Seat #9 is the button
+Seat 1: Player_18f55784 (8,500 in chips)
+Seat 2: Player_2f04a078 (11,910 in chips)
+Seat 3: Hero (8,269 in chips)
+Seat 4: Player_8892c59f (9,940 in chips)
+Seat 5: Player_c1c95211 (20,138 in chips)
+Seat 6: Player_5629d9e9 (10,000 in chips)
+Seat 7: Player_2cd0f32d (35,981 in chips)
+Seat 8: Player_8951e38d (40,293 in chips)
+Seat 9: Player_b29851a0 (18,597 in chips)
+Player_18f55784: posts the ante 60
+Player_2f04a078: posts the ante 60
+Hero: posts the ante 60
+Player_8892c59f: posts the ante 60
+Player_c1c95211: posts the ante 60
+Player_5629d9e9: posts the ante 60
+Player_2cd0f32d: posts the ante 60
+Player_8951e38d: posts the ante 60
+Player_b29851a0: posts the ante 60
+Player_18f55784: posts small blind 300
+Player_2f04a078: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [Qh 9h]
+Hero: raises 7609 to 8209 and is all-in
+Player_8892c59f: folds
+Player_c1c95211: folds
+Player_5629d9e9: folds
+Player_2cd0f32d: folds
+Player_8951e38d: calls 8209 
+Player_b29851a0: folds
+Player_18f55784: folds
+Player_2f04a078: folds
+*** FLOP *** [3s 2s Ah]
+*** TURN *** [3s 2s Ah] [8s]
+*** RIVER *** [3s 2s Ah 8s] [8d]
+*** SHOW DOWN ***
+Hero: shows [Qh 9h] (a pair of Eights)
+Player_8951e38d: shows [Ac Ad] (a full house, Aces full of Eights)
+Player_8951e38d collected 17858 from pot
+Hero finished the tournament in 139th place
+*** SUMMARY ***
+Total pot 17858 | Rake 0
+Board [3s 2s Ah 8s 8d]
+Seat 1: Player_18f55784 (small blind) mucked
+Seat 2: Player_2f04a078 (big blind) mucked
+Seat 3: Hero showed [Qh 9h] and lost with a pair of Eights
+Seat 4: Player_8892c59f mucked
+Seat 5: Player_c1c95211 mucked
+Seat 6: Player_5629d9e9 mucked
+Seat 7: Player_2cd0f32d mucked
+Seat 8: Player_8951e38d showed [Ac Ad] and won (17858) with a full house, Aces full of Eights
+Seat 9: Player_b29851a0 (button) mucked
+
+
+
+

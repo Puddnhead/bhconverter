@@ -32,7 +32,7 @@ public class GameTypeUtil {
             String tableNumber = cashGameMatcher.group(5);
             pokerGame = new PokerGame(smallBlind, bigBlind, tableNumber);
         } else if (tournamentGameMatcher.find()) {
-            String entryFee = tournamentGameMatcher.group(2);
+            String entryFee = tournamentGameMatcher.group(2).replace("-", "+");
             String tournamentNumber = tournamentGameMatcher.group(3);
             pokerGame = new PokerGame(entryFee, tournamentNumber);
         }
