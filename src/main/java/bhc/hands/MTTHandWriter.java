@@ -113,9 +113,10 @@ public class MTTHandWriter extends HandWriter {
     }
 
     @Override
-    public void writeHandAction(List<String> entireHand) {
+    public HandContext writeHandAction(List<String> entireHand) {
         HandContext handContext = new HandContext(playerMap, currentBigBlind, false);
         writeHandAction(entireHand, handContext);
+        return handContext;
     }
 
     @Override

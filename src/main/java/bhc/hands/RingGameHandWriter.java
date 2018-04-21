@@ -104,9 +104,10 @@ public class RingGameHandWriter extends HandWriter {
     }
 
     @Override
-    public void writeHandAction(List<String> entireHand) {
+    public HandContext writeHandAction(List<String> entireHand) {
         HandContext handContext = new HandContext(playerMap, pokerGame.getFixedLargeBlind(), true);
         writeHandAction(entireHand, handContext);
+        return handContext;
     }
 
     @Override

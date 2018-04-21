@@ -1,5 +1,6 @@
 package bhc.converter;
 
+import bhc.domain.HandContext;
 import bhc.domain.PokerGame;
 import bhc.hands.HandParsingUtil;
 import bhc.hands.HandWriter;
@@ -36,7 +37,7 @@ public class RingGameConverter extends GameConverter {
         HandParsingUtil.modifyHeroEntry(playerMap);
         handWriter.writePostingActions(entireHand);
         handWriter.writeHoleCards(entireHand);
-        handWriter.writeHandAction(entireHand);
-        handWriter.writeShowdownAndSummary(entireHand, Optional.empty());
+        HandContext handContext = handWriter.writeHandAction(entireHand);
+        handWriter.writeShowdownAndSummary(entireHand, Optional.empty(), handContext);
     }
 }

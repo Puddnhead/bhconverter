@@ -1,5 +1,6 @@
 package bhc.converter;
 
+import bhc.domain.HandContext;
 import bhc.domain.PokerGame;
 import bhc.hands.HandParsingUtil;
 import bhc.hands.MTTHandWriter;
@@ -38,7 +39,7 @@ public class MTTConverter extends GameConverter {
 
         handWriter.writePostingActions(entireHand);
         handWriter.writeHoleCards(entireHand);
-        handWriter.writeHandAction(entireHand);
-        handWriter.writeShowdownAndSummary(entireHand, Optional.of(seatMap));
+        HandContext handContext = handWriter.writeHandAction(entireHand);
+        handWriter.writeShowdownAndSummary(entireHand, Optional.of(seatMap), handContext);
     }
 }

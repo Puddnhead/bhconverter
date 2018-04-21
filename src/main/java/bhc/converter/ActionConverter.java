@@ -20,9 +20,10 @@ public class ActionConverter {
     private static final Pattern postingActionPattern = Pattern.compile("(.*) : (.*) (\\$?\\d+(\\.\\d\\d)?)");
     private static final Pattern handActionPattern = Pattern.compile("(.*) : (\\S+)");
     private static final Pattern uncalledPortionReturnPattern = Pattern.compile(".* : Return uncalled portion of bet (\\$?.*)$");
+    private static final Pattern allinActionPattern = Pattern.compile(".* : All-in \\$?(\\d+(\\.\\d\\d)?)");
+    private static final Pattern allinRaiseActionPattern =
+            Pattern.compile(".* : All-in\\(raise(-timeout)?\\) \\$?(\\d+(\\.\\d\\d)?) to \\$?(\\d+(\\.\\d\\d)?)");
     private static final Pattern betActionPattern = Pattern.compile(".* : Bets \\$(.*)$");
-    private static final Pattern allinActionPattern = Pattern.compile(".* : All-in \\$(.*)$");
-    private static final Pattern allinRaiseActionPattern = Pattern.compile(".* : All-in\\(raise\\) .* to \\$?(.*)$");
     private static final Pattern raisesActionPattern = Pattern.compile(".* : Raises .* to \\$?(.*)$");
 
     // Posting actions
@@ -43,14 +44,19 @@ public class ActionConverter {
     private static final String BOVADA_CALL_TIMEOUT_ACTION = "Call(timeout)";
     private static final String BOVADA_CHECK_ACTION = "Checks";
     private static final String BOVADA_CHECK_TIMEOUT_ACTION = "Checks(timeout)";
+    private static final String BOVADA_CHECK_DISCONNECT_ACTION = "Checks(disconnect)";
     private static final String BOVADA_RAISE_ACTION = "Raises";
+    private static final String BOVADA_RAISE_TIMEOUT_ACTION = "Raises(timeout)";
     private static final String BOVADA_FOLD_ACTION = "Folds";
     private static final String BOVADA_FOLD_BLIND_DISCONNECTED_ACTION = "Fold(Blind";
     private static final String BOVADA_FOLD_TIMEOUT_ACTION = "Folds(timeout)";
+    private static final String BOVADA_FOLD_AUTH_DISCONNECT_ACTION = "Folds(auth-disconnect)";
+    private static final String BOVADA_FOLD_AUTH_ACTION = "Folds(auth)";
     private static final String BOVADA_BET_ACTION = "Bets";
     private static final String BOVADA_RETURN_ACTION = "Return";
     private static final String BOVADA_DOES_NOT_SHOW_ACTION = "Does";
     private static final String BOVADA_ALL_IN_RAISE_ACTION = "All-in(raise)";
+    private static final String BOVADA_ALL_IN_RAISE_TIMEOUT_ACTION = "All-in(raise-timeout)";
     private static final String BOVADA_ALL_IN_ACTION = "All-in";
     private static final String BOVADA_SEAT_STAND_ACTION = "Seat";
     private static final String BOVADA_TABLE_ACTION = "Table";
@@ -59,6 +65,7 @@ public class ActionConverter {
 
     private static final String POKERSTARS_CALL_ACTION = "calls";
     private static final String POKERSTARS_BET_ACTION = "bets";
+    private static final String POKERSTARS_RAISE_ACTION = "raises";
 
     public static String convertPostingAction(String action, Map<String, String> playerMap) {
         Matcher postingActionMatcher = postingActionPattern.matcher(action);
@@ -116,37 +123,32 @@ public class ActionConverter {
                     break;
                 case BOVADA_CHECK_ACTION:
                 case BOVADA_CHECK_TIMEOUT_ACTION:
+                case BOVADA_CHECK_DISCONNECT_ACTION:
                     transformedAction = transformedName + ": checks";
                     break;
                 case BOVADA_FOLD_ACTION:
                 case BOVADA_FOLD_TIMEOUT_ACTION:
                 case BOVADA_FOLD_BLIND_DISCONNECTED_ACTION:
+                case BOVADA_FOLD_AUTH_DISCONNECT_ACTION:
+                case BOVADA_FOLD_AUTH_ACTION:
                     transformedAction = transformedName + ": folds";
                     break;
                 case BOVADA_RAISE_ACTION:
+                case BOVADA_RAISE_TIMEOUT_ACTION:
                     Matcher raiseMatcher = raisesActionPattern.matcher(action);
                     if (raiseMatcher.find()) {
-                        String raiseValue = raiseMatcher.group(1);
-                        double currentBet = Double.parseDouble(raiseValue);
-                        double raiseInterval = Double.parseDouble(raiseValue) - handContext.getCurrentBet();
-                        raiseInterval = Math.round(raiseInterval * 100.0) / 100.0;
+                        double currentBet = Double.parseDouble(raiseMatcher.group(1));
                         handContext.setCurrentBet(currentBet);
-                        if (handContext.isCashGame()) {
-                            transformedAction = transformedName + ": raises $" +
-                                    String.format("%.2f", raiseInterval) + " to $" + raiseValue;
-                        } else {
-                            transformedAction = transformedName + ": raises " + (int)raiseInterval + " to " + raiseValue;
-                        }
                     }
+                    transformedAction = transformedAction.replace(bovadaAction, POKERSTARS_RAISE_ACTION);
                     break;
                 case BOVADA_BET_ACTION:
-                    transformedAction = transformedAction.replace(BOVADA_BET_ACTION, POKERSTARS_BET_ACTION);
                     Matcher betMatcher = betActionPattern.matcher(action);
                     if (betMatcher.find()) {
-                        String betValue = betMatcher.group(1);
-                        double currentBet = Double.parseDouble(betValue);
+                        double currentBet = Double.parseDouble(betMatcher.group(1));
                         handContext.setCurrentBet(currentBet);
                     }
+                    transformedAction = transformedAction.replace(BOVADA_BET_ACTION, POKERSTARS_BET_ACTION);
                     break;
                 case BOVADA_RETURN_ACTION:
                     Matcher uncalledPortionMatcher = uncalledPortionReturnPattern.matcher(action);
@@ -162,41 +164,31 @@ public class ActionConverter {
                     Matcher allinMatcher = allinActionPattern.matcher(action);
                     if (allinMatcher.find()) {
                         String allinValue = allinMatcher.group(1);
-                        double allinBet = Double.parseDouble(allinValue);
-                        double currentBet = handContext.getCurrentBet();
-
-                        if (currentBet == 0) {
-                            if (handContext.isCashGame()) {
-                                transformedAction = transformedName + ": bets $" + String.format("%.2f", allinBet) + " and is all-in";
-                            } else {
-                                transformedAction = transformedName + ": bets " + (int)allinBet + " and is all-in";
-                            }
-                            handContext.setCurrentBet(allinBet);
-                        } else {
-                            if (handContext.isCashGame()) {
-                                transformedAction = transformedName + ": calls $" + String.format("%.2f", allinBet) + " and is all-in";
-                            } else {
-                                transformedAction = transformedName + ": calls " + (int)allinBet + " and is all-in";
-                            }
+                        double allinDouble = Double.parseDouble(allinValue);
+                        String allinAction = "calls ";
+                        if (allinDouble > handContext.getCurrentBet()) {
+                            allinAction = "bets ";
+                            handContext.setCurrentBet(allinDouble);
                         }
+                        String dollarSign = handContext.isCashGame() ? "$" : "";
+                        transformedAction = transformedName + ": " + allinAction + dollarSign + allinValue + " and is all-in";
                     }
                     break;
                 case BOVADA_ALL_IN_RAISE_ACTION:
+                case BOVADA_ALL_IN_RAISE_TIMEOUT_ACTION:
                     Matcher allinRaiseMatcher = allinRaiseActionPattern.matcher(action);
                     if (allinRaiseMatcher.find()) {
-                        String allinValue = allinRaiseMatcher.group(1);
-                        double allinBet = Double.parseDouble(allinValue);
-                        double currentBet = handContext.getCurrentBet();
-
-                        double raise = allinBet - currentBet;
-                        raise = Math.round(raise * 100.0) / 100.0;
-                        if (handContext.isCashGame()) {
-                            transformedAction = transformedName + ": raises $" + String.format("%.2f", raise)
-                                    + " to $" + String.format("%.2f", allinBet) + " and is all-in";
+                        String raiseValue = allinRaiseMatcher.group(2);
+                        String allinValue = allinRaiseMatcher.group(4);
+                        String dollarSign = handContext.isCashGame() ? "$" : "";
+                        if (raiseValue.equals(allinValue) && handContext.currentBetEqualsBigBlind()) {
+                            transformedAction = transformedName + ": bets " + dollarSign + raiseValue + " and is all-in";
                         } else {
-                            transformedAction = transformedName + ": raises " + (int)raise + " to " + (int)allinBet + " and is all-in";
+                            transformedAction = transformedName + ": raises " + dollarSign + raiseValue + " to " +
+                                    dollarSign + allinValue + " and is all-in";
                         }
-                        handContext.setCurrentBet(allinBet);
+                        double allinDouble = Double.parseDouble(allinValue);
+                        handContext.setCurrentBet(allinDouble);
                     }
                     break;
                 case BOVADA_SEAT_STAND_ACTION:

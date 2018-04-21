@@ -17,7 +17,7 @@ public class GameTypeUtil {
             Pattern.compile("^.* RING - \\$(\\d+(\\.\\d\\d)?)-\\$(\\d+(\\.\\d\\d)?) - HOLDEM - NL - TBL No.(\\d+)\\.txt$");
 
     private static final Pattern tournamentGamePattern =
-            Pattern.compile("^.* MTT - (.*) - (\\$\\d+-\\$\\d+) - HOLDEM - NL -Tourney No\\.(\\d+)\\.txt$");
+            Pattern.compile("^.* MTT - (.*) - (\\$\\d+-\\$\\d+(\\.\\d\\d)?) - HOLDEM - NL -Tourney No\\.(\\d+)\\.txt$");
 
     public static PokerGame getGameType(File file) {
         PokerGame pokerGame = null;
@@ -33,7 +33,7 @@ public class GameTypeUtil {
             pokerGame = new PokerGame(smallBlind, bigBlind, tableNumber);
         } else if (tournamentGameMatcher.find()) {
             String entryFee = tournamentGameMatcher.group(2).replace("-", "+");
-            String tournamentNumber = tournamentGameMatcher.group(3);
+            String tournamentNumber = tournamentGameMatcher.group(4);
             pokerGame = new PokerGame(entryFee, tournamentNumber);
         }
 

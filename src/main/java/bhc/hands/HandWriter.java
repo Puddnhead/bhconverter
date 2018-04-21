@@ -26,11 +26,12 @@ public abstract class HandWriter {
     private static final Pattern setDealerPattern = Pattern.compile("Set dealer \\[(\\d)]");
     public static final Pattern seatNamePattern = Pattern.compile("Seat (\\d+): (.*) \\(\\$?[\\d,]+(\\.*\\d\\d)? in chips\\)$");
     private static final Pattern cardDealtPattern = Pattern.compile(".* Card dealt to a spot (\\[.*])");
-    private static final Pattern handResultPattern = Pattern.compile("(.*) : Hand [rR]esult (.*)$");
+    private static final Pattern handResultPattern = Pattern.compile("(.*) : Hand [rR]esult \\$?(\\d+(\\.\\d\\d)?)");
+    private static final Pattern handResultSidePotPattern = Pattern.compile("(.*) : Hand [rR]esult-Side [Pp]ot \\$?(\\d+(\\.\\d\\d)?)");
     static final Pattern totalWonPattern = Pattern.compile("Total Pot\\(\\$?(.*)\\)$");
     private static final Pattern seatFoldedPattern = Pattern.compile("Seat\\+(\\d+): (.*) Folded .*$");
     private static final Pattern seatMuckedPattern = Pattern.compile("Seat\\+(\\d+): (.*) \\[Mucked] .*$");
-    private static final Pattern seatWonPattern = Pattern.compile("Seat\\+(\\d+): (.*) (\\$?[\\d]+(\\.\\d\\d)?)  .*$");
+    private static final Pattern seatWonPattern = Pattern.compile("Seat\\+(\\d+): (.*) (\\$?\\d+(\\.\\d\\d)?) ");
     private static final Pattern seatLostPattern = Pattern.compile("Seat\\+(\\d+): (.*) los[et] .*$");
     private static final Pattern doesNotShowSummaryPattern = Pattern.compile("Seat\\+(\\d+): (.*) (\\$?[\\d]+(\\.\\d\\d)?) \\[Does not show].*$");
     private static final Pattern doesNotShowPattern = Pattern.compile("(.*) : Does not show .*");
@@ -124,7 +125,7 @@ public abstract class HandWriter {
         }
     }
 
-    public abstract void writeHandAction(List<String> entireHand);
+    public abstract HandContext writeHandAction(List<String> entireHand);
 
     void writeHandAction(List<String> entireHand, HandContext handContext) {
         try {
@@ -159,10 +160,10 @@ public abstract class HandWriter {
         }
     }
 
-    public void writeShowdownAndSummary(List<String> entireHand, Optional<Map<String, String>> seatMap) {
+    public void writeShowdownAndSummary(List<String> entireHand, Optional<Map<String, String>> seatMap, HandContext handContext) {
         Map<String, Hand> showedDownHandsMap = writeShowdown(entireHand);
         writeUncalledPortionReturns();
-        double totalWon = writeWinners(entireHand);
+        double totalWon = writeWinners(entireHand, handContext);
         writeSummary(entireHand, showedDownHandsMap, totalWon, seatMap);
     }
 
@@ -219,33 +220,63 @@ public abstract class HandWriter {
      * @param entireHand the hand
      * @return the total amount won (used to calculate rake
      */
-    private double writeWinners(List<String> entireHand) {
+    private double writeWinners(List<String> entireHand, HandContext handContext) {
         double totalWinnings = 0;
 
         // print winners
         try {
+            String mainPot = "";
             while (!entireHand.get(0).equals(SUMMARY)) {
-                Matcher doesNotShowMatcher = doesNotShowPattern.matcher(entireHand.get(0));
+                String line = entireHand.get(0);
+                Matcher doesNotShowMatcher = doesNotShowPattern.matcher(line);
                 if (doesNotShowMatcher.find()) {
                     String bovadaPlayerName = doesNotShowMatcher.group(1);
                     String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
                     fileWriter.append(pokerstarsPlayerName).append(": doesn't show hand\n");
                 }
 
-                Matcher handResultMatcher = handResultPattern.matcher(entireHand.get(0));
-                if (handResultMatcher.find()) {
+                Matcher handResultMatcher = handResultPattern.matcher(line);
+                Matcher handResultSidePotMatcher = handResultSidePotPattern.matcher(line);
+                if (handResultSidePotMatcher.find()) {
+                    String bovadaWinner = handResultSidePotMatcher.group(1);
+                    String pokerStarsWinner = playerMap.get(bovadaWinner);
+                    String winningAmount = handResultSidePotMatcher.group(2);
+                    totalWinnings += Double.parseDouble(winningAmount);
+                    winningAmount = handContext.isCashGame() ? "$" + winningAmount : winningAmount;
+                    fileWriter.append(pokerStarsWinner).append(" collected ").append(winningAmount).append(" from side pot\n");
+                    mainPot = "main ";
+                } else if (handResultMatcher.find()) {
                     String bovadaWinner = handResultMatcher.group(1);
                     String pokerStarsWinner = playerMap.get(bovadaWinner);
                     String winningAmount = handResultMatcher.group(2);
-                    fileWriter.append(pokerStarsWinner).append(" collected ").append(winningAmount).append("from pot\n");
+
+                    if (handContext.currentBetEqualsBigBlind()) {
+                        String returnedBet = handContext.isCashGame()
+                                ? String.format("$%.2f", handContext.getCurrentBet())
+                                : ((int)handContext.getCurrentBet()) + "";
+                        fileWriter.append("Uncalled bet (").append(returnedBet).append(") returned to ")
+                                .append(pokerStarsWinner).append("\n");
+
+                        double winningAmountDouble = Double.parseDouble(winningAmount);
+                        winningAmountDouble -= handContext.getCurrentBet();
+
+                        winningAmount = handContext.isCashGame()
+                                ? String.format("$%.2f", winningAmountDouble)
+                                : ((int)winningAmountDouble) + "";
+                        modifyTotalPot(entireHand, winningAmount);
+                    } else {
+                        winningAmount = handContext.isCashGame() ? "$" + winningAmount : winningAmount;
+                    }
+                    fileWriter.append(pokerStarsWinner).append(" collected ").append(winningAmount).append(" from ")
+                            .append(mainPot).append("pot\n");
                     if (winningAmount.charAt(0) == '$') {
                         winningAmount = winningAmount.substring(1);
                         totalWinnings += Double.parseDouble(winningAmount);
                     }
                 }
 
-                if (entireHand.get(0).contains("Ranking")) {
-                    writeTournamentPlace(entireHand.get(0));
+                if (line.contains("Ranking")) {
+                    writeTournamentPlace(line);
                 }
                 entireHand.remove(0);
             }
@@ -276,25 +307,6 @@ public abstract class HandWriter {
                     printMuckedHand(foldedMatcher, handsMap, line, seatMap);
                 } else if (muckedMatcher.find()) {
                     printMuckedHand(muckedMatcher, handsMap, line, seatMap);
-                } else if (wonMatcher.find()) {
-                    String seatNumber = wonMatcher.group(1);
-                    if (seatMap.isPresent()) {
-                        seatNumber = seatMap.get().get(seatNumber);
-                    }
-                    String bovadaPlayerName = wonMatcher.group(2);
-                    String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
-                    Hand hand = handsMap.get(bovadaPlayerName);
-                    String wonAmount = wonMatcher.group(3);
-                    fileWriter.append("Seat ").append(seatNumber).append(": ").append(pokerstarsPlayerName).append(" ");
-                    printPositionIfApplicable(line);
-                    if (hand != null) {
-                        fileWriter.append("showed ").append(hand.getTwoCardHand()).append(" and ");
-                    }
-                    fileWriter.append("won (").append(wonAmount).append(")");
-                    if (hand != null) {
-                        fileWriter.append(" with ").append(hand.getPokerStarsDescription());
-                    }
-                    fileWriter.append("\n");
                 } else if (doesNotShowMatcher.find()) {
                     String seatNumber = doesNotShowMatcher.group(1);
                     if (seatMap.isPresent()) {
@@ -319,6 +331,25 @@ public abstract class HandWriter {
                     printPositionIfApplicable(line);
                     fileWriter.append("showed ").append(hand.getTwoCardHand())
                             .append(" and lost with ").append(hand.getPokerStarsDescription()).append("\n");
+                } else if (wonMatcher.find()) {
+                    String seatNumber = wonMatcher.group(1);
+                    if (seatMap.isPresent()) {
+                        seatNumber = seatMap.get().get(seatNumber);
+                    }
+                    String bovadaPlayerName = wonMatcher.group(2);
+                    String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
+                    Hand hand = handsMap.get(bovadaPlayerName);
+                    String wonAmount = wonMatcher.group(3);
+                    fileWriter.append("Seat ").append(seatNumber).append(": ").append(pokerstarsPlayerName).append(" ");
+                    printPositionIfApplicable(line);
+                    if (hand != null) {
+                        fileWriter.append("showed ").append(hand.getTwoCardHand()).append(" and ");
+                    }
+                    fileWriter.append("won (").append(wonAmount).append(")");
+                    if (hand != null) {
+                        fileWriter.append(" with ").append(hand.getPokerStarsDescription());
+                    }
+                    fileWriter.append("\n");
                 }
             }
             fileWriter.append("\n\n\n");
@@ -434,6 +465,30 @@ public abstract class HandWriter {
                     .append(" ")
                     .append(hand.getBovadaDescription())
                     .append("\n");
+        }
+    }
+
+    private void modifyTotalPot(List<String> entireHand, String winningAmount) {
+        int totalPotIndex = -1, seatWonIndex = -1;
+        String previousWinning = "", seatWonReplacement = "";
+        for (int i = 0; i < entireHand.size(); i++) {
+            String line = entireHand.get(i);
+            Matcher totalPotMatcher = totalWonPattern.matcher(line);
+            Matcher seatWonMatcher = seatWonPattern.matcher(line);
+            if (totalPotMatcher.find()) {
+                totalPotIndex = i;
+            } else if (seatWonMatcher.find()) {
+                seatWonIndex = i;
+                previousWinning = seatWonMatcher.group(3);
+                seatWonReplacement = line.replace(previousWinning, winningAmount);
+            }
+        }
+
+        if (totalPotIndex < 0 || seatWonIndex < 0) {
+            SystemUtils.exitProgramWithError("Error updating total pot and winner on pot folded to big blind", Optional.empty());
+        } else {
+            entireHand.set(totalPotIndex, "Total Pot(" + winningAmount + ")");
+            entireHand.set(seatWonIndex, seatWonReplacement);
         }
     }
 
