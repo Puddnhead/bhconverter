@@ -20,7 +20,7 @@ public class ActionConverter {
     private static final Pattern postingActionPattern = Pattern.compile("(.*) : (.*) (\\$?\\d+(\\.\\d\\d)?)");
     private static final Pattern handActionPattern = Pattern.compile("(.*) : (\\S+)");
     private static final Pattern uncalledPortionReturnPattern = Pattern.compile(".* : Return uncalled portion of bet (\\$?.*)$");
-    private static final Pattern allinActionPattern = Pattern.compile(".* : All-in \\$?(\\d+(\\.\\d\\d)?)");
+    private static final Pattern allinActionPattern = Pattern.compile(".* : All-in(\\(timeout\\))? \\$?(\\d+(\\.\\d\\d)?)");
     private static final Pattern allinRaiseActionPattern =
             Pattern.compile(".* : All-in\\(raise(-timeout)?\\) \\$?(\\d+(\\.\\d\\d)?) to \\$?(\\d+(\\.\\d\\d)?)");
     private static final Pattern betActionPattern = Pattern.compile(".* : Bets \\$(.*)$");
@@ -58,6 +58,7 @@ public class ActionConverter {
     private static final String BOVADA_ALL_IN_RAISE_ACTION = "All-in(raise)";
     private static final String BOVADA_ALL_IN_RAISE_TIMEOUT_ACTION = "All-in(raise-timeout)";
     private static final String BOVADA_ALL_IN_ACTION = "All-in";
+    private static final String BOVADA_ALL_IN_TIMEOUT_ACTION = "All-in(timeout)";
     private static final String BOVADA_SEAT_STAND_ACTION = "Seat";
     private static final String BOVADA_TABLE_ACTION = "Table";
     private static final String BOVADA_SIT_OUT_ACTION = "Sit";
@@ -161,9 +162,10 @@ public class ActionConverter {
                     transformedAction = transformedName + ": doesn't show hand";
                     break;
                 case BOVADA_ALL_IN_ACTION:
+                case BOVADA_ALL_IN_TIMEOUT_ACTION:
                     Matcher allinMatcher = allinActionPattern.matcher(action);
                     if (allinMatcher.find()) {
-                        String allinValue = allinMatcher.group(1);
+                        String allinValue = allinMatcher.group(2);
                         double allinDouble = Double.parseDouble(allinValue);
                         String allinAction = "calls ";
                         if (allinDouble > handContext.getCurrentBet()) {

@@ -36,6 +36,7 @@ public abstract class HandWriter {
     private static final Pattern doesNotShowSummaryPattern = Pattern.compile("Seat\\+(\\d+): (.*) (\\$?[\\d]+(\\.\\d\\d)?) \\[Does not show].*$");
     private static final Pattern doesNotShowPattern = Pattern.compile("(.*) : Does not show .*");
     private static final Pattern rankingPattern = Pattern.compile("(.*) : Ranking (\\d+)");
+    private static final Pattern prizeCashPattern = Pattern.compile("(.*) : Prize Cash \\[(.*)]");
 
     static final String SUMMARY = "*** SUMMARY ***";
 
@@ -276,7 +277,7 @@ public abstract class HandWriter {
                 }
 
                 if (line.contains("Ranking")) {
-                    writeTournamentPlace(line);
+                    writeTournamentPlace(line, entireHand);
                 }
                 entireHand.remove(0);
             }
@@ -375,7 +376,7 @@ public abstract class HandWriter {
         fileWriter.append("\n");
     }
 
-    private void writeTournamentPlace(String line) {
+    private void writeTournamentPlace(String line, List<String> entireHand) {
         try {
             Matcher rankingMatcher = rankingPattern.matcher(line);
             if (rankingMatcher.find()) {
@@ -397,11 +398,40 @@ public abstract class HandWriter {
                         suffix = "th";
                         break;
                 }
-                fileWriter.append(pokerstarsPlayerName).append(" finished the tournament in ")
-                        .append(ranking).append(suffix).append(" place\n");
+
+                boolean winner = false;
+                fileWriter.append(pokerstarsPlayerName);
+                if (ranking.equals("1")) {
+                    fileWriter.append(" wins the tournament");
+                    winner = true;
+                } else {
+                    fileWriter.append(" finished the tournament in ")
+                            .append(ranking).append(suffix).append(" place");
+                }
+
+                printWinnings(bovadaPlayerName, entireHand, winner);
+                fileWriter.append("\n");
             }
         } catch (IOException ioe) {
             SystemUtils.exitProgramWithError("Error printing tournament place", Optional.of(ioe));
+        }
+    }
+
+    private void printWinnings(String bovadaPlayerName, List<String> entireHand, boolean winner) throws IOException {
+        for (String line: entireHand) {
+            Matcher prizeCashMatcher = prizeCashPattern.matcher(line);
+            if (prizeCashMatcher.find()) {
+                String playerName = prizeCashMatcher.group(1);
+                if (bovadaPlayerName.equals(playerName)) {
+                    String winnings = prizeCashMatcher.group(2);
+                    if (winner) {
+                        fileWriter.append(" and receives ").append(winnings).append(" - congratulations!");
+                    } else {
+                        fileWriter.append(" and received ").append(winnings);
+                    }
+                    break;
+                }
+            }
         }
     }
 
