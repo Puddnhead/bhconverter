@@ -60,10 +60,10 @@ public class MTTHandWriter extends HandWriter {
                 String tableNumber = firstLineMatcher.group(2);
                 writer.append("Table '").append(tableNumber).append("' ");
             } else {
-                SystemUtils.exitProgramWithError("Error writing first line", Optional.empty());
+                SystemUtils.logError("Error writing first line", Optional.empty());
             }
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing first line", Optional.of(ioe));
+            SystemUtils.logError("Error writing first line", Optional.of(ioe));
         }
     }
 
@@ -75,7 +75,7 @@ public class MTTHandWriter extends HandWriter {
                     .append(dealerSeat)
                     .append(" is the button\n");
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing second line", Optional.of(ioe));
+            SystemUtils.logError("Error writing second line", Optional.of(ioe));
         }
     }
 
@@ -108,7 +108,7 @@ public class MTTHandWriter extends HandWriter {
                 entireHand.remove(0);
             }
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing seats", Optional.of(ioe));
+            SystemUtils.logError("Error writing seats", Optional.of(ioe));
         }
     }
 
@@ -129,11 +129,11 @@ public class MTTHandWriter extends HandWriter {
                 String potSize = totalWonMatcher.group(1);
                 fileWriter.append("Total pot ").append(potSize).append(" | Rake 0\n");
             } else {
-                SystemUtils.exitProgramWithError("Error writing total won", Optional.empty());
+                SystemUtils.logError("Error writing total won", Optional.empty());
             }
             entireHand.remove(0);
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing summary", Optional.of(ioe));
+            SystemUtils.logError("Error writing summary", Optional.of(ioe));
         }
     }
 }

@@ -49,7 +49,7 @@ public abstract class GameConverter {
             }
             writer.append("\n");
         } catch (IOException e) {
-            SystemUtils.exitProgramWithError("Error processing file " + inputFile.getName(), Optional.of(e));
+            SystemUtils.logError("Error processing file " + inputFile.getName(), Optional.of(e));
         }
     }
 
@@ -65,7 +65,7 @@ public abstract class GameConverter {
             // skip the second blank line
             reader.readLine();
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error transforming hand", Optional.of(ioe));
+            SystemUtils.logError("Error transforming hand", Optional.of(ioe));
         }
 
         return entireHand;

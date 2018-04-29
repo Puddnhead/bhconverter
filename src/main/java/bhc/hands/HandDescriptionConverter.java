@@ -33,12 +33,12 @@ class HandDescriptionConverter {
     void convert(Hand hand) {
         HandValue handValue = HandValue.fromBovadaValue(hand.getBovadaDescription());
         if (handValue == null) {
-            SystemUtils.exitProgramWithError("Error mapping bovada hand value", Optional.empty());
+            SystemUtils.logError("Error mapping bovada hand value", Optional.empty());
         }
 
         HandDescriptionStrategy strategy = strategyMap.get(handValue);
         if (strategy == null) {
-            SystemUtils.exitProgramWithError(
+            SystemUtils.logError(
                     "Could not find a strategy for mapping description of " + handValue.name(), Optional.empty());
         }
         strategy.convertBovadaDescription(hand);

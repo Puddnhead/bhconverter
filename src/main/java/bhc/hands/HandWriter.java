@@ -23,7 +23,6 @@ import java.util.regex.Pattern;
  */
 public abstract class HandWriter {
 
-    private static final Pattern setDealerPattern = Pattern.compile("Set dealer \\[(\\d)]");
     public static final Pattern seatNamePattern = Pattern.compile("Seat (\\d+): (.*) \\(\\$?[\\d,]+(\\.*\\d\\d)? in chips\\)$");
     private static final Pattern cardDealtPattern = Pattern.compile(".* Card dealt to a spot (\\[.*])");
     private static final Pattern handResultPattern = Pattern.compile("(.*) : Hand [rR]esult \\$?(\\d+(\\.\\d\\d)?)");
@@ -37,6 +36,8 @@ public abstract class HandWriter {
     private static final Pattern doesNotShowPattern = Pattern.compile("(.*) : Does not show .*");
     private static final Pattern rankingPattern = Pattern.compile("(.*) : Ranking (\\d+)");
     private static final Pattern prizeCashPattern = Pattern.compile("(.*) : Prize Cash \\[(.*)]");
+    private static final Pattern smallBlindSeatPatter = Pattern.compile("Seat (\\d+): Small Blind .*");
+    private static final Pattern bigBlindSeatPatter = Pattern.compile("Seat (\\d+): Big Blind .*");
 
     static final String SUMMARY = "*** SUMMARY ***";
 
@@ -95,7 +96,7 @@ public abstract class HandWriter {
             // remove the posting actions and *** HOLE CARDS*** line from the hand
             removeLinesFromHand(numActions + 1, entireHand);
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing posting action", Optional.of(ioe));
+            SystemUtils.logError("Error writing posting action", Optional.of(ioe));
         }
     }
 
@@ -122,7 +123,7 @@ public abstract class HandWriter {
             removeLinesFromHand(numDeals, entireHand);
 
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing hole cards", Optional.of(ioe));
+            SystemUtils.logError("Error writing hole cards", Optional.of(ioe));
         }
     }
 
@@ -157,7 +158,7 @@ public abstract class HandWriter {
             }
             removeLinesFromHand(numActions, entireHand);
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing hand actions", Optional.of(ioe));
+            SystemUtils.logError("Error writing hand actions", Optional.of(ioe));
         }
     }
 
@@ -197,7 +198,7 @@ public abstract class HandWriter {
                 removeLinesFromHand(numHands, entireHand);
             }
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing showdown", Optional.of(ioe));
+            SystemUtils.logError("Error writing showdown", Optional.of(ioe));
         }
 
         showedDownHandsMap.putAll(muckedHandsMap);
@@ -211,7 +212,7 @@ public abstract class HandWriter {
             }
             uncalledPortionOfBet.clear();
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing uncalled portion of bets", Optional.of(ioe));
+            SystemUtils.logError("Error writing uncalled portion of bets", Optional.of(ioe));
         }
     }
 
@@ -282,7 +283,7 @@ public abstract class HandWriter {
                 entireHand.remove(0);
             }
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Could not print winners", Optional.of(ioe));
+            SystemUtils.logError("Could not print winners", Optional.of(ioe));
         }
 
         return totalWinnings;
@@ -355,7 +356,7 @@ public abstract class HandWriter {
             }
             fileWriter.append("\n\n\n");
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing summary", Optional.of(ioe));
+            SystemUtils.logError("Error writing summary", Optional.of(ioe));
         }
     }
 
@@ -413,7 +414,7 @@ public abstract class HandWriter {
                 fileWriter.append("\n");
             }
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error printing tournament place", Optional.of(ioe));
+            SystemUtils.logError("Error printing tournament place", Optional.of(ioe));
         }
     }
 
@@ -456,7 +457,7 @@ public abstract class HandWriter {
                 entireHand.remove(0);
             }
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing board", Optional.of(ioe));
+            SystemUtils.logError("Error writing board", Optional.of(ioe));
         }
     }
 
@@ -515,7 +516,7 @@ public abstract class HandWriter {
         }
 
         if (totalPotIndex < 0 || seatWonIndex < 0) {
-            SystemUtils.exitProgramWithError("Error updating total pot and winner on pot folded to big blind", Optional.empty());
+            SystemUtils.logError("Error updating total pot and winner on pot folded to big blind", Optional.empty());
         } else {
             entireHand.set(totalPotIndex, "Total Pot(" + winningAmount + ")");
             entireHand.set(seatWonIndex, seatWonReplacement);
@@ -523,65 +524,57 @@ public abstract class HandWriter {
     }
 
     String findDealerSeat(List<String> entireHand) {
-        String dealerSeat = null;
+        String dealerSeat = "";
         String smallestBlindSeatNumber;
 
-        for (String line: entireHand) {
-            Matcher setDealerMatcher = setDealerPattern.matcher(line);
-            if (setDealerMatcher.find()) {
-                dealerSeat = "#" + setDealerMatcher.group(1);
-                break;
+        // button is the first seat before the smallest blind
+        smallestBlindSeatNumber = findSmallestBlindBovadaSeatNumber(entireHand);
+
+        // if the smallest blind is the lowest seat number, return the highest seat number
+        // hacky but add ':' so line "Seat 57:" won't match "5" and "Seat 71:" won't match "1:"
+        int seatIndex = -1;
+        if (smallestBlindSeatNumber != null && entireHand.get(0).contains(" " + smallestBlindSeatNumber + ":")) {
+            for (String line: entireHand) {
+                if (line.contains("Seat")) {
+                    seatIndex++;
+                } else {
+                    break;
+                }
+            }
+            // else return the seat immediately before the smallest blind
+        } else {
+            for (String line: entireHand) {
+                // hacky but add ':' so line "Seat 57:" won't match "Seat 5:"
+                if (line.contains(" " + smallestBlindSeatNumber + ":")) {
+                    break;
+                }
+                seatIndex++;
             }
         }
-
-        // if no dealer, button is the first seat before the smallest blind
-        if (dealerSeat == null) {
-            smallestBlindSeatNumber = findSmallestBlindSeatNumber(entireHand);
-
-            // if the smallest blind is the lowest seat number, return the highest seat number
-            if (smallestBlindSeatNumber != null && entireHand.get(0).contains(smallestBlindSeatNumber)) {
-                int highestSeatIndex = -1;
-                for (String line: entireHand) {
-                    if (line.contains("Seat")) {
-                        highestSeatIndex++;
-                    } else {
-                        break;
-                    }
-                }
-                String highestSeat = entireHand.get(highestSeatIndex);
-                // ex: Seat 4: blah blah blah <-- looking for '4'
-                dealerSeat = "#" + highestSeat.charAt(5);
-                // else return the seat immediately before the smallest blind
-            } else {
-                int previousSeatIndex = -1;
-                for (String line: entireHand) {
-                    if (line.contains(smallestBlindSeatNumber)) {
-                        break;
-                    }
-                    previousSeatIndex++;
-                }
-                String previousSeat = entireHand.get(previousSeatIndex);
-                // ex: Seat 2: blah blah blah
-                dealerSeat = "#" + previousSeat.charAt(5);
-            }
+        if (seatIndex < 0) {
+            SystemUtils.logError("Error determining dealer seat", Optional.empty());
+        } else {
+            dealerSeat = "#" + (seatIndex + 1);
         }
         return dealerSeat;
     }
 
-    private String findSmallestBlindSeatNumber(List<String> entireHand) {
+    private String findSmallestBlindBovadaSeatNumber(List<String> entireHand) {
         // first look for small blind
         for (String line: entireHand) {
-            if (line.contains("Small Blind")) {
+            Matcher smallBlindMatcher = smallBlindSeatPatter.matcher(line);
+            if (smallBlindMatcher.find()) {
                 // ex: Seat 5: Small Blind ($26.12 in chips)
-                return line.substring(0, 6);
+                return smallBlindMatcher.group(1);
             }
         }
 
         // then look for big blind
         for (String line: entireHand) {
-            if (line.contains("Big Blind")) {
+            Matcher bigBlindMatcher = bigBlindSeatPatter.matcher(line);
+            if (bigBlindMatcher.find()) {
                 // ex: Seat 2: Big Blind ($1.93 in chips)
-                return line.substring(0, 6);
+                return bigBlindMatcher.group(1);
             }
         }
 
@@ -595,7 +588,7 @@ public abstract class HandWriter {
             }
         }
 
-        SystemUtils.exitProgramWithError("Error updating hero name", Optional.empty());
+        SystemUtils.logError("Error updating hero name", Optional.empty());
         return null;
     }
 

@@ -57,14 +57,14 @@ public class FileService {
         try {
             if (outputFile.exists()) {
                 if (!outputFile.delete()) {
-                    SystemUtils.exitProgramWithError("Error deleting file " + outputFile.getName(), Optional.empty());
+                    SystemUtils.logError("Error deleting file " + outputFile.getName(), Optional.empty());
                 }
             }
             if (!outputFile.createNewFile()) {
-                SystemUtils.exitProgramWithError("Error creating file " + outputFile.getName(), Optional.empty());
+                SystemUtils.logError("Error creating file " + outputFile.getName(), Optional.empty());
             }
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Could not create output file", Optional.of(ioe));
+            SystemUtils.logError("Could not create output file", Optional.of(ioe));
         }
 
         return outputFile;

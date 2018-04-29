@@ -9,7 +9,7 @@ import java.util.Optional;
  */
 public class SystemUtils {
 
-    public static void exitProgramWithError(String errorMessage, Optional<Throwable> throwable) {
+    public static void logError(String errorMessage, Optional<Throwable> throwable) {
         System.err.println("ERROR:" + errorMessage);
         throwable.ifPresent(th -> System.err.println(th.getMessage()));
     }

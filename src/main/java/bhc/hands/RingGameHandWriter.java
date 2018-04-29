@@ -54,7 +54,7 @@ public class RingGameHandWriter extends HandWriter {
 
             writer.append(transformed).append("\n");
         } catch (IOException e) {
-            SystemUtils.exitProgramWithError("Error writing file", Optional.of(e));
+            SystemUtils.logError("Error writing file", Optional.of(e));
         }
     }
 
@@ -70,7 +70,7 @@ public class RingGameHandWriter extends HandWriter {
                     .append(dealerSeat)
                     .append(" is the button\n");
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing second line", Optional.of(ioe));
+            SystemUtils.logError("Error writing second line", Optional.of(ioe));
         }
     }
 
@@ -99,7 +99,7 @@ public class RingGameHandWriter extends HandWriter {
                 entireHand.remove(0);
             }
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing seats", Optional.of(ioe));
+            SystemUtils.logError("Error writing seats", Optional.of(ioe));
         }
     }
 
@@ -126,11 +126,11 @@ public class RingGameHandWriter extends HandWriter {
                 }
                 fileWriter.append("\n");
             } else {
-                SystemUtils.exitProgramWithError("Error writing total won", Optional.empty());
+                SystemUtils.logError("Error writing total won", Optional.empty());
             }
             entireHand.remove(0);
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error writing summary", Optional.of(ioe));
+            SystemUtils.logError("Error writing summary", Optional.of(ioe));
         }
     }
 }

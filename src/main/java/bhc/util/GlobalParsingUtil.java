@@ -32,7 +32,7 @@ public class GlobalParsingUtil {
                 inputLine = bufferedReader.readLine();
             }
         } catch (IOException ioe) {
-            SystemUtils.exitProgramWithError("Error parsing table name for file " + inputFile.getName(), Optional.of(ioe));
+            SystemUtils.logError("Error parsing table name for file " + inputFile.getName(), Optional.of(ioe));
         }
 
         return maxPlayers + "-max ";
