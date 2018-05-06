@@ -32,6 +32,7 @@ public enum HandAction {
     BOVADA_FOLD_BLIND_DISCONNECTED_ACTION("Fold(Blind"),
     BOVADA_FOLD_TIMEOUT_ACTION("Folds(timeout)"),
     BOVADA_FOLD_AUTH_DISCONNECT_ACTION("Folds(auth-disconnect)"),
+    BOVADA_FOLD_DISCONNECT_ACTION("Folds(disconnect)"),
     BOVADA_FOLD_AUTH_ACTION("Folds(auth)"),
     BOVADA_BET_ACTION("Bets"),
     BOVADA_RETURN_ACTION("Return"),

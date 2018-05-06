@@ -81,6 +81,11 @@ public class ActionConverter {
 
             HandAction bovadaAction = HandAction.fromString(bovadaActionStr);
 
+            if (bovadaAction == null) {
+                SystemUtils.logError("Unrecognized hand action: " + bovadaActionStr, Optional.empty());
+                return transformedAction;
+            }
+
             // sloppy but default to Raise because the grouping is a bit off
             switch (bovadaAction) {
                 case BOVADA_CALL_ACTION:
@@ -97,6 +102,7 @@ public class ActionConverter {
                 case BOVADA_FOLD_TIMEOUT_ACTION:
                 case BOVADA_FOLD_BLIND_DISCONNECTED_ACTION:
                 case BOVADA_FOLD_AUTH_DISCONNECT_ACTION:
+                case BOVADA_FOLD_DISCONNECT_ACTION:
                 case BOVADA_FOLD_AUTH_ACTION:
                     transformedAction = transformedName + ": folds";
                     break;
@@ -165,8 +171,6 @@ public class ActionConverter {
                 case BOVADA_REJOIN_ACTION:
                     // just ignore these lines - don't care about people sitting down or standing up
                     break;
-                default:
-                    SystemUtils.logError("Unrecognized hand action: " + bovadaAction, Optional.empty());
             }
         }
 
