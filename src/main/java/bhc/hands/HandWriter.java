@@ -60,6 +60,7 @@ public abstract class HandWriter {
     FileWriter fileWriter;
 
     Map<String, String> playerMap;
+    Map<String, String> holeCardsMap;
     List<String> uncalledPortionOfBet = new ArrayList<>();
 
     HandWriter(GameConverter gameConverter, FileWriter fileWriter, PokerGame pokerGame) {
@@ -306,9 +307,9 @@ public abstract class HandWriter {
                 Matcher doesNotShowMatcher = doesNotShowSummaryPattern.matcher(line);
                 Matcher lostMatcher = seatLostPattern.matcher(line);
                 if (foldedMatcher.matches()) {
-                    printMuckedHand(foldedMatcher, handsMap, line, seatMap);
+                    printMuckedHand(foldedMatcher, line, seatMap);
                 } else if (muckedMatcher.find()) {
-                    printMuckedHand(muckedMatcher, handsMap, line, seatMap);
+                    printMuckedHand(muckedMatcher, line, seatMap);
                 } else if (doesNotShowMatcher.find()) {
                     String seatNumber = doesNotShowMatcher.group(1);
                     if (seatMap.isPresent()) {
@@ -317,10 +318,13 @@ public abstract class HandWriter {
                     String bovadaPlayerName = doesNotShowMatcher.group(2);
                     String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
                     String wonAmount = doesNotShowMatcher.group(3);
+                    String holeCards = holeCardsMap.get(bovadaPlayerName);
                     fileWriter.append("Seat ").append(seatNumber).append(": ").append(pokerstarsPlayerName).append(" ");
                     printPositionIfApplicable(line);
-                    fileWriter.append("won (").append(wonAmount).append(")");
-                    fileWriter.append("\n");
+                    fileWriter.append("showed ").append(holeCards)
+                            .append(" and won (")
+                            .append(wonAmount).append(")")
+                            .append("\n");
                 } else if (lostMatcher.find()) {
                     String seatNumber = lostMatcher.group(1);
                     if (seatMap.isPresent()) {
@@ -341,13 +345,14 @@ public abstract class HandWriter {
                     String bovadaPlayerName = wonMatcher.group(2);
                     String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
                     Hand hand = handsMap.get(bovadaPlayerName);
+                    String holeCards = holeCardsMap.get(bovadaPlayerName);
                     String wonAmount = wonMatcher.group(3);
                     fileWriter.append("Seat ").append(seatNumber).append(": ").append(pokerstarsPlayerName).append(" ");
                     printPositionIfApplicable(line);
-                    if (hand != null) {
-                        fileWriter.append("showed ").append(hand.getTwoCardHand()).append(" and ");
-                    }
-                    fileWriter.append("won (").append(wonAmount).append(")");
+                    fileWriter.append("showed ").append(holeCards)
+                            .append(" and won (")
+                            .append(wonAmount)
+                            .append(")");
                     if (hand != null) {
                         fileWriter.append(" with ").append(hand.getPokerStarsDescription());
                     }
@@ -360,20 +365,19 @@ public abstract class HandWriter {
         }
     }
 
-    private void printMuckedHand(Matcher matcher, Map<String, Hand> handsMap, String line, Optional<Map<String, String>> seatMap) throws IOException {
+    private void printMuckedHand(Matcher matcher, String line, Optional<Map<String, String>> seatMap) throws IOException {
         String seatNumber = matcher.group(1);
         if (seatMap.isPresent()) {
             seatNumber = seatMap.get().get(seatNumber);
         }
         String bovadaPlayerName = matcher.group(2);
         String pokerstarsPlayerName = playerMap.get(bovadaPlayerName);
-        Hand hand = handsMap.get(bovadaPlayerName);
+        String holeCards = holeCardsMap.get(bovadaPlayerName);
         fileWriter.append("Seat ").append(seatNumber).append(": ").append(pokerstarsPlayerName).append(" ");
         printPositionIfApplicable(line);
-        fileWriter.append("mucked");
-        if (hand != null) {
-            fileWriter.append(" ").append(hand.getTwoCardHand());
-        }
+        fileWriter.append("mucked")
+            .append(" ").append(holeCards);
+
         fileWriter.append("\n");
     }
 
@@ -614,5 +618,9 @@ public abstract class HandWriter {
 
     public void setPlayerMap(Map<String, String> playerMap) {
         this.playerMap = playerMap;
+    }
+
+    public void setHoleCardsMap(Map<String, String> holeCardsMap) {
+        this.holeCardsMap = holeCardsMap;
     }
 }

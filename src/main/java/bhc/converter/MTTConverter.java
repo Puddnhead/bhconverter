@@ -1,5 +1,6 @@
 package bhc.converter;
 
+import bhc.domain.Hand;
 import bhc.domain.HandContext;
 import bhc.domain.PokerGame;
 import bhc.hands.HandParsingUtil;
@@ -31,7 +32,9 @@ public class MTTConverter extends GameConverter {
         handWriter.writeSecondLine(entireHand, writer);
 
         Map<String, String> playerMap = HandParsingUtil.generatePlayerMap(entireHand);
+        Map<String, String> holeCardsMap = HandParsingUtil.generateHoldCardsMap(entireHand);
         handWriter.setPlayerMap(playerMap);
+        handWriter.setHoleCardsMap(holeCardsMap);
         Map<String, String> seatMap = HandParsingUtil.generateSeatMap(entireHand);
         handWriter.writeSeats(entireHand, Optional.of(seatMap));
 

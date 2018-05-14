@@ -22,6 +22,7 @@ public class HandParsingUtil {
     static final Pattern preflopShowdown = Pattern.compile("^(.*) : Showdown\\(.*$");
     static final Pattern muckPattern = Pattern.compile("^(.*) : Mucks (\\[.*]) (\\(.*\\))$");
     private static final Pattern summaryPattern = Pattern.compile("Seat\\+\\d+: .*");
+    private static final Pattern cardDealtPattern = Pattern.compile("^(.*) : Card dealt to a spot (\\[.*])");
 
     private static final HandDescriptionConverter handDescriptionConverter = new HandDescriptionConverter();
 
@@ -79,6 +80,30 @@ public class HandParsingUtil {
             }
         }
         return seatMap;
+    }
+
+    /**
+     * Generate a map of bovada player name to dealt hand
+     *
+     * @param entireHand
+     * @return
+     */
+    public static Map<String, String> generateHoldCardsMap(List<String> entireHand) {
+        Map<String, String> holeCardsMap = new HashMap<>();
+
+        for (String line: entireHand) {
+            Matcher cardDealtMatcher = cardDealtPattern.matcher(line);
+            if (cardDealtMatcher.find()) {
+                String playerName = cardDealtMatcher.group(1);
+                if (playerName.contains("[ME]")) {
+                    playerName = playerName.substring(0, playerName.length() - 5);
+                }
+                String twoCardHand = cardDealtMatcher.group(2);
+                holeCardsMap.put(playerName, twoCardHand);
+            }
+        }
+
+        return holeCardsMap;
     }
 
     /**
