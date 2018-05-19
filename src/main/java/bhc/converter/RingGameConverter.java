@@ -31,7 +31,9 @@ public class RingGameConverter extends GameConverter {
         List<String> entireHand = readEntireHand(reader);
         handWriter.writeSecondLine(entireHand, writer);
         Map<String, String> playerMap = HandParsingUtil.generatePlayerMap(entireHand);
+        Map<String, String> holeCardsMap = HandParsingUtil.generateHoldCardsMap(entireHand);
         handWriter.setPlayerMap(playerMap);
+        handWriter.setHoleCardsMap(holeCardsMap);
         handWriter.writeSeats(entireHand, Optional.empty());
 
         HandParsingUtil.modifyHeroEntry(playerMap);
