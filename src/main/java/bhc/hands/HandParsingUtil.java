@@ -1,6 +1,7 @@
 package bhc.hands;
 
 import bhc.domain.Hand;
+import bhc.util.RandomNameGenerator;
 
 import java.util.HashMap;
 import java.util.List;
@@ -25,6 +26,7 @@ public class HandParsingUtil {
     private static final Pattern cardDealtPattern = Pattern.compile("^(.*) : Card dealt to a spot (\\[.*])");
 
     private static final HandDescriptionConverter handDescriptionConverter = new HandDescriptionConverter();
+    private static final RandomNameGenerator randomNameGenerator = new RandomNameGenerator();
 
     /**
      * Randomizes the names of players so for instance "Small Blind" won't end up having statistics in Poker tracker
@@ -46,7 +48,7 @@ public class HandParsingUtil {
             Matcher otherPlayerMatcher = otherPlayerPattern.matcher(line);
             if (otherPlayerMatcher.find()) {
                 String player = otherPlayerMatcher.group(2);
-                playerMap.put(player, "Player_" + UUID.randomUUID().toString().substring(0, 8));
+                playerMap.put(player, randomNameGenerator.randomName());
             }
         }
 
