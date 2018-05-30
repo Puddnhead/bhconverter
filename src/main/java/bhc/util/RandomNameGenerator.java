@@ -1,9 +1,11 @@
 package bhc.util;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 /**
  * Utility for generating better random names
@@ -12,13 +14,10 @@ import java.util.Scanner;
  */
 public class RandomNameGenerator {
 
-    final List<String> FIRST_NAMES = new ArrayList<>();
-    final List<String> LAST_NAMES = new ArrayList<>();
+    private final List<String> FIRST_NAMES = new ArrayList<>();
+    private final List<String> LAST_NAMES = new ArrayList<>();
 
     public RandomNameGenerator() {
-        ClassLoader classLoader = getClass().getClassLoader();
-        File file = new File(classLoader.getResource("firstNames.txt").getFile());
-
         try (InputStream in = getClass().getResourceAsStream("/firstNames.txt");
              BufferedReader reader = new BufferedReader(new InputStreamReader(in))
         ) {
