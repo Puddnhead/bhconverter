@@ -165,6 +165,16 @@ public abstract class HandWriter {
 
     public void writeShowdownAndSummary(List<String> entireHand, Optional<Map<String, String>> seatMap, HandContext handContext) {
         Map<String, Hand> showedDownHandsMap = writeShowdown(entireHand);
+        if (showedDownHandsMap.isEmpty()) {
+            holeCardsMap.entrySet().forEach(entry -> {
+                String player = entry.getKey();
+                String twoCardHand = entry.getValue();
+                Hand hand = new Hand(null, "");
+                hand.setTwoCardHand(twoCardHand);
+                hand.setPokerStarsDescription("");
+                showedDownHandsMap.put(player.trim(), hand);
+            });
+        }
         writeUncalledPortionReturns();
         double totalWon = writeWinners(entireHand, handContext);
         writeSummary(entireHand, showedDownHandsMap, totalWon, seatMap);
@@ -177,7 +187,7 @@ public abstract class HandWriter {
      * @return a map of bovada player name to showed-down or mucked hand
      */
     private Map<String, Hand> writeShowdown(List<String> entireHand) {
-        Map<String, Hand> showedDownHandsMap = HandParsingUtil.findShowedDownHands(entireHand);
+        Map<String, Hand> showedDownHandsMap = HandParsingUtil.findShowedDownHands(entireHand, holeCardsMap);
         Map<String, Hand> muckedHandsMap = HandParsingUtil.findMuckedHands(entireHand);
 
         try {
@@ -335,8 +345,17 @@ public abstract class HandWriter {
                     Hand hand = handsMap.get(bovadaPlayerName);
                     fileWriter.append("Seat ").append(seatNumber).append(": ").append(pokerstarsPlayerName).append(" ");
                     printPositionIfApplicable(line);
-                    fileWriter.append("showed ").append(hand.getTwoCardHand())
-                            .append(" and lost with ").append(hand.getPokerStarsDescription()).append("\n");
+                    if (hand != null) {
+                        fileWriter.append("showed ").append(hand.getTwoCardHand())
+                                .append(" and lost");
+                        if (!hand.getPokerStarsDescription().equals("")) {
+                            fileWriter.append(" with ")
+                                    .append(hand.getPokerStarsDescription());
+                        }
+                        fileWriter.append("\n");
+                    } else {
+                        fileWriter.append("mucked\n");
+                    }
                 } else if (wonMatcher.find()) {
                     String seatNumber = wonMatcher.group(1);
                     if (seatMap.isPresent()) {
@@ -454,7 +473,7 @@ public abstract class HandWriter {
 
     private void writeBoard(List<String> entireHand) {
         try {
-            if (entireHand.get(0).contains("Board")) {
+            if (!entireHand.isEmpty() && entireHand.get(0).contains("Board")) {
                 String board = entireHand.get(0);
                 board = board.substring(0, board.length() - 1).trim() + "]";
                 fileWriter.append(board).append("\n");

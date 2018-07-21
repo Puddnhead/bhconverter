@@ -22,6 +22,7 @@ public class RingGameHandWriter extends HandWriter {
 
     private static final Pattern lastWordPattern = Pattern.compile("(\\S+)$");
     private static final Pattern bovadaDatePattern = Pattern.compile("(\\d\\d\\d\\d-\\d\\d-\\d\\d)");
+    private static final Pattern handNumberPattern = Pattern.compile("Bovada Hand (#\\d+)");
 
     public RingGameHandWriter(GameConverter gameConverter, FileWriter fileWriter, PokerGame pokerGame) {
      super(gameConverter, fileWriter, pokerGame);
@@ -30,26 +31,32 @@ public class RingGameHandWriter extends HandWriter {
     @Override
     public void transformFirstLine(String firstLine, FileWriter writer) {
         try {
-            String transformed = firstLine.replace("Bovada Hand", "PokerStars Hand");
-
-            transformed = transformed.replaceFirst(" TBL#\\d+ HOLDEM No Limit", ": Hold'em No Limit " +
-                    pokerGame.getBlindsRegex());
-
-            // convert 02:00 timestamps to 2:00
-            Matcher timespaceMatcher = lastWordPattern.matcher(transformed);
-            while (timespaceMatcher.find()) {
-                String timestamp = timespaceMatcher.group();
-                if (timestamp.charAt(0) == '0') {
-                    transformed = transformed.replace(timestamp, timestamp.substring(1));
-                }
-            }
+            Matcher handNumberMatcher = handNumberPattern.matcher(firstLine);
+            handNumberMatcher.find();
+            String transformed = "PokerStars Hand "
+                    + handNumberMatcher.group(1)
+                    + ": Hold'em No Limit ($"
+                    + String.format("%1.2f", pokerGame.getFixedSmallBlind())
+                    + "/$"
+                    + String.format("%1.2f", pokerGame.getFixedLargeBlind())
+                    + ") ";
 
             // convert 2000-01-01 dates to 2000/01/01
-            Matcher dateMatcher = bovadaDatePattern.matcher(transformed);
-            while (dateMatcher.find()) {
+            Matcher dateMatcher = bovadaDatePattern.matcher(firstLine);
+            if (dateMatcher.find()) {
                 String date = dateMatcher.group();
                 String transformedDate = date.replaceAll("-", "/");
-                transformed = transformed.replace(date, transformedDate);
+                transformed += " - " + transformedDate + " ";
+            }
+
+            // convert 02:00 timestamps to 2:00
+            Matcher timespaceMatcher = lastWordPattern.matcher(firstLine);
+            if (timespaceMatcher.find()) {
+                String timestamp = timespaceMatcher.group();
+                if (timestamp.charAt(0) == '0') {
+                    timestamp = timestamp.substring(1);
+                }
+                transformed += timestamp;
             }
 
             writer.append(transformed).append("\n");
@@ -112,23 +119,27 @@ public class RingGameHandWriter extends HandWriter {
 
     @Override
     public void writeTotalWon(List<String> entireHand, double totalWon) {
+        double potSizeNumber = totalWon;
+        String potSize = "" + totalWon;
+
         try {
             fileWriter.append(SUMMARY).append("\n");
             entireHand.remove(0);
-            Matcher totalWonMatcher = totalWonPattern.matcher(entireHand.get(0));
+            String totalWonStr = entireHand.isEmpty() ? "" : entireHand.get(0);
+            Matcher totalWonMatcher = totalWonPattern.matcher(totalWonStr);
             if (totalWonMatcher.find()) {
-                String potSize = totalWonMatcher.group(1);
-                double potSizeNumber = Double.parseDouble(potSize);
-                double rake = Math.round((potSizeNumber - totalWon) * 100.0) / 100.0;
-                fileWriter.append("Total pot $").append(potSize);
-                if (rake > 0) {
-                    fileWriter.append(" | Rake $").append(String.format("%.2f", rake));
-                }
-                fileWriter.append("\n");
-            } else {
-                SystemUtils.logError("Error writing total won", Optional.empty());
+                potSize = totalWonMatcher.group(1);
+                potSizeNumber = Double.parseDouble(potSize);
             }
-            entireHand.remove(0);
+            double rake = Math.round((potSizeNumber - totalWon) * 100.0) / 100.0;
+            fileWriter.append("Total pot $").append(potSize);
+            if (rake > 0) {
+                fileWriter.append(" | Rake $").append(String.format("%.2f", rake));
+            }
+            fileWriter.append("\n");
+            if (!entireHand.isEmpty()) {
+                entireHand.remove(0);
+            }
         } catch (IOException ioe) {
             SystemUtils.logError("Error writing summary", Optional.of(ioe));
         }

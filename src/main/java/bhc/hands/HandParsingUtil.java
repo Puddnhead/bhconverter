@@ -6,7 +6,6 @@ import bhc.util.RandomNameGenerator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.UUID;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -133,7 +132,7 @@ public class HandParsingUtil {
      * @param entireHand the hand containing showdowns and summaries
      * @return a map of the Bovada player name to the 2-card hand
      */
-    static Map<String, Hand> findShowedDownHands(List<String> entireHand) {
+    static Map<String, Hand> findShowedDownHands(List<String> entireHand, Map<String, String> holeCardsMap) {
         Map<String, Hand> playerHandMap = new HashMap<>();
 
         for (String line: entireHand) {
@@ -145,6 +144,9 @@ public class HandParsingUtil {
                 String bovadaDescription = showdownMatcher.group(3);
                 Hand hand = new Hand(fiveCardHand, bovadaDescription);
                 String twoCardHand = findTwoCardHand(playerName, entireHand);
+                if (twoCardHand.equals("[]")) {
+                    twoCardHand = holeCardsMap.get(playerName.trim());
+                }
                 hand.setTwoCardHand(twoCardHand);
                 handDescriptionConverter.convert(hand);
                 playerHandMap.put(playerName, hand);
@@ -153,6 +155,9 @@ public class HandParsingUtil {
                 String bovadaDescription = "(High Card)";
                 Hand hand = new Hand(null, bovadaDescription);
                 String twoCardHand = findTwoCardHand(playerName, entireHand);
+                if (twoCardHand.equals("[]")) {
+                    twoCardHand = holeCardsMap.get(playerName.trim());
+                }
                 hand.setTwoCardHand(twoCardHand);
                 handDescriptionConverter.convert(hand);
                 playerHandMap.put(playerName, hand);

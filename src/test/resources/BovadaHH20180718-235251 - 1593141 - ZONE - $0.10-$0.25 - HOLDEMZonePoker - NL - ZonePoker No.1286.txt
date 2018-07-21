@@ -1,0 +1,5713 @@
+PokerStars Hand #3631815437  Zone Poker ID#1286 HOLDEMZonePoker No Limit - 2018/07/18 23:52:53
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Kerry_Carrots ($61.23 in chips)
+Seat 2: Santo_Raisins ($45.43 in chips)
+Seat 3: Floria_Apricots ($7.26 in chips)
+Seat 4: Selma_Dates ($48 in chips)
+Seat 5: Hero ($25 in chips)
+Seat 6: Wade_Shallot ($7.07 in chips)
+Selma_Dates: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Jd Th]
+Kerry_Carrots: Leave(Auto)
+Floria_Apricots: Leave(Auto)
+Wade_Shallot: calls $0.25 
+Kerry_Carrots: folds
+Santo_Raisins: calls $0.25 
+Floria_Apricots: folds
+Selma_Dates: folds
+Selma_Dates: Leave(Auto)
+Hero: checks
+*** FLOP *** [Qd 5d 2s]
+Hero: checks
+Wade_Shallot: bets $0.54 
+Hero: Leave(Auto)
+Santo_Raisins: calls $0.54 
+Hero: folds
+*** TURN *** [Qd 5d 2s] [Ah]
+Wade_Shallot: bets $1.88 
+Santo_Raisins: calls $1.88 
+*** RIVER *** [Qd 5d 2s Ah] [Jc]
+Wade_Shallot: bets $0.70 
+Santo_Raisins: raises $7.79 to $7.79
+Wade_Shallot: calls $3.70 and is all-in
+*** SHOW DOWN ***
+Santo_Raisins: shows [] (three of a kind, Fives)
+Wade_Shallot: Mucks [8d Ad] (One pair)
+Uncalled bet ($3.39) returned to Santo_Raisins
+Santo_Raisins collected $13.77 from pot
+*** SUMMARY ***
+Total pot $13.77
+
+
+
+PokerStars Hand #3631815791  Zone Poker ID#1286 HOLDEMZonePoker No Limit - 2018/07/18 23:53:30
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Hero ($24.75 in chips)
+Seat 2: Lauri_Wasabi ($39.85 in chips)
+Seat 3: Pasty_Mango ($25.10 in chips)
+Seat 4: Maryjo_Parnsip ($7.26 in chips)
+Seat 5: Romona_Cucumber ($79.04 in chips)
+Seat 6: Lamar_Juniper ($35.28 in chips)
+Pasty_Mango: posts small blind $0.10
+Maryjo_Parnsip: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9h 6h]
+Lamar_Juniper: Leave(Auto)
+Maryjo_Parnsip: Leave(Auto)
+Romona_Cucumber: folds
+Romona_Cucumber: Leave(Auto)
+Lamar_Juniper: folds
+Hero: raises $0.66 to $0.66
+Lauri_Wasabi: calls $0.66 
+Pasty_Mango: raises $2.79 to $2.89
+Maryjo_Parnsip: folds
+Hero: folds
+Hero: Leave(Auto)
+Lauri_Wasabi: folds
+Lauri_Wasabi: Leave(Auto)
+Uncalled bet ($2.23) returned to Pasty_Mango
+Pasty_Mango: doesn't show hand
+Pasty_Mango collected $2.23 from pot
+*** SUMMARY ***
+Total pot $2.23
+
+
+
+PokerStars Hand #3631816075  Zone Poker ID#1286 HOLDEMZonePoker No Limit - 2018/07/18 23:54:01
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Blair_Kiwi ($38.11 in chips)
+Seat 2: Hero ($24.09 in chips)
+Seat 3: Odis_Olive ($25 in chips)
+Seat 4: Alicia_Celeriac ($39.19 in chips)
+Seat 5: Joy_Jalapeño ($59.93 in chips)
+Seat 6: Jason_Shallot ($37.70 in chips)
+Hero: posts small blind $0.10
+Odis_Olive: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2s Kc]
+Joy_Jalapeño: Leave(Auto)
+Alicia_Celeriac: folds
+Alicia_Celeriac: Leave(Auto)
+Joy_Jalapeño: folds
+Blair_Kiwi: Leave(Auto)
+Hero: Leave(Auto)
+Jason_Shallot: folds
+Jason_Shallot: Leave(Auto)
+Blair_Kiwi: folds
+Hero: folds
+Odis_Olive: doesn't show hand
+Uncalled bet ($0.25) returned to Odis_Olive
+Odis_Olive collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631816132  Zone Poker ID#1286 HOLDEMZonePoker No Limit - 2018/07/18 23:54:07
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Freida_Leek ($30.71 in chips)
+Seat 2: Ahmed_Lychee ($9.91 in chips)
+Seat 3: Hero ($23.99 in chips)
+Seat 4: Dalton_Dates ($6.91 in chips)
+Seat 5: Genia_Parnsip ($25.10 in chips)
+Seat 6: Nelia_Broccoli ($30.57 in chips)
+Genia_Parnsip: posts small blind $0.10
+Nelia_Broccoli: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4c 6h]
+Dalton_Dates: Leave(Auto)
+Hero: Leave(Auto)
+Ahmed_Lychee: Leave(Auto)
+Freida_Leek: folds
+Freida_Leek: Leave(Auto)
+Ahmed_Lychee: folds
+Hero: folds
+Dalton_Dates: folds
+Genia_Parnsip: folds
+Nelia_Broccoli: doesn't show hand
+Uncalled bet ($0.25) returned to Nelia_Broccoli
+Nelia_Broccoli collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Freida_Leek mucked [Qs 8s]
+Seat 2: Ahmed_Lychee showed [Ks 3d] and lost with null
+Seat 3: Hero showed leriac (small blind) mucked [2c 6d]
+Seat 6: Elease_Fennel (big blind) showed [6c 3c] and won ($0.10)
+
+
+
+PokerStars Hand #3631816201: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:54:12
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Janae_Ugli ($12.50 in chips)
+Seat 2: Margie_Peach ($47.90 in chips)
+Seat 3: Hero ($23.99 in chips)
+Seat 4: Santos_Onions ($20.83 in chips)
+Seat 5: Gennie_Fennel ($29.92 in chips)
+Seat 6: Alysia_Broccoli ($114.93 in chips)
+Alysia_Broccoli: posts small blind $0.10
+Janae_Ugli: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4s 7s]
+Gennie_Fennel: Leave(Auto)
+Alysia_Broccoli: Leave(Auto)
+Margie_Peach: raises $0.57 to $0.57
+Santos_Onions: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Santos_Onions: folds
+Gennie_Fennel: folds
+Alysia_Broccoli: folds
+Janae_Ugli: calls $0.32 
+*** FLOP *** [Jc Ts 3s]
+Janae_Ugli: checks
+Margie_Peach: bets $0.96 
+Janae_Ugli: folds
+Janae_Ugli: Leave(Auto)
+Uncalled bet ($0.96) returned to Margie_Peach
+Margie_Peach: doesn't show hand
+Margie_Peach collected $1.18 from pot
+*** SUMMARY ***
+Total pot $1.18
+
+
+
+PokerStars Hand #3631816249: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:54:17
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Hero ($23.99 in chips)
+Seat 2: Carry_Beets ($36.53 in chips)
+Seat 3: Julie_Orange ($10.26 in chips)
+Seat 4: Willow_Tat Soi ($66.95 in chips)
+Seat 5: Jody_Lentils ($11.38 in chips)
+Seat 6: Deanne_Olive ($38.21 in chips)
+Deanne_Olive: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4h 2c]
+Carry_Beets: folds
+Carry_Beets: Leave(Auto)
+Willow_Tat Soi: Leave(Auto)
+Jody_Lentils: Leave(Auto)
+Julie_Orange: calls $0.25 
+Willow_Tat Soi: folds
+Jody_Lentils: folds
+Deanne_Olive: folds
+Deanne_Olive: Leave(Auto)
+Hero: checks
+*** FLOP *** [9h 6d 6h]
+Hero: checks
+Julie_Orange: checks
+*** TURN *** [9h 6d 6h] [2h]
+Hero: checks
+Julie_Orange: checks
+*** RIVER *** [9h 6d 6h 2h] [Jh]
+Hero: checks
+Julie_Orange: checks
+*** SHOW DOWN ***
+Hero: shows null (a flush, Jack high)
+Julie_Orange: Mucks [As Qs] (One pair)
+Hero collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.57
+
+
+
+PokerStars Hand #3631816556: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:54:51
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Lee_Rosemary ($30.67 in chips)
+Seat 2: Ivan_Lemon ($4.95 in chips)
+Seat 3: Josefa_Parnsip ($56.44 in chips)
+Seat 4: Myrta_Tamarind ($32.46 in chips)
+Seat 5: Jovan_Jalapeño ($76.14 in chips)
+Seat 6: Hero ($24.31 in chips)
+Hero: posts small blind $0.10
+Lee_Rosemary: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7d 9d]
+Josefa_Parnsip: Leave(Auto)
+Jovan_Jalapeño: Leave(Auto)
+Ivan_Lemon: bets $4.95 and is all-in
+Josefa_Parnsip: folds
+Hero: Leave(Auto)
+Myrta_Tamarind: folds
+Myrta_Tamarind: Leave(Auto)
+Jovan_Jalapeño: folds
+Hero: folds
+Lee_Rosemary: folds
+Lee_Rosemary: Leave(Auto)
+Uncalled bet ($4.70) returned to Ivan_Lemon
+Ivan_Lemon: doesn't show hand
+Ivan_Lemon collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631816637: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:54:59
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($24.21 in chips)
+Seat 2: Kathi_Jujube ($24.80 in chips)
+Seat 3: Gerard_Garlic ($114.48 in chips)
+Seat 4: Cedric_Shallot ($47.15 in chips)
+Seat 5: Amado_Arugula ($32.46 in chips)
+Seat 6: Yong_Oregano ($24.75 in chips)
+Hero: posts small blind $0.10
+Kathi_Jujube: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qd Qh]
+Gerard_Garlic: folds
+Gerard_Garlic: Leave(Auto)
+Cedric_Shallot: folds
+Cedric_Shallot: Leave(Auto)
+Amado_Arugula: folds
+Amado_Arugula: Leave(Auto)
+Yong_Oregano: raises $0.75 to $0.75
+Hero: raises $2.34 to $2.44
+Kathi_Jujube: folds
+Kathi_Jujube: Leave(Auto)
+Yong_Oregano: folds
+Yong_Oregano: Leave(Auto)
+Uncalled bet ($1.69) returned to Hero
+Hero: doesn't show hand
+Hero collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75
+
+
+
+PokerStars Hand #3631817087: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:55:46
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($25.21 in chips)
+Seat 2: Billy_Habanero ($30.84 in chips)
+Seat 3: Goldie_Oregano ($39.03 in chips)
+Seat 4: Lorene_Ugli ($62.96 in chips)
+Seat 5: Bart_Bananas ($76.24 in chips)
+Seat 6: Gisela_Jicama ($24.65 in chips)
+Hero: posts small blind $0.10
+Billy_Habanero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3s 8s]
+Bart_Bananas: Leave(Auto)
+Lorene_Ugli: Leave(Auto)
+Goldie_Oregano: folds
+Goldie_Oregano: Leave(Auto)
+Lorene_Ugli: folds
+Bart_Bananas: folds
+Gisela_Jicama: raises $0.50 to $0.50
+Hero: folds
+Hero: Leave(Auto)
+Billy_Habanero: calls $0.25 
+*** FLOP *** [Kc Qs Ac]
+Billy_Habanero: checks
+Gisela_Jicama: checks
+*** TURN *** [Kc Qs Ac] [5d]
+Billy_Habanero: checks
+Gisela_Jicama: checks
+*** RIVER *** [Kc Qs Ac 5d] [Ts]
+Billy_Habanero: checks
+Gisela_Jicama: checks
+*** SHOW DOWN ***
+Billy_Habanero: shows [4s 6s] (high card Ace)
+Gisela_Jicama: shows [7s 7c] (a pair of Sevens)
+Gisela_Jicama collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.05
+
+
+
+PokerStars Hand #3631817265: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:56:06
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Ollie_Sage ($57.25 in chips)
+Seat 2: Hero ($25.11 in chips)
+Seat 3: Barton_Pomelo ($5.81 in chips)
+Seat 4: Jasmin_Peas ($75.99 in chips)
+Seat 5: Tod_Tomatoes ($26.02 in chips)
+Seat 6: Tianna_Kiwi ($65.60 in chips)
+Hero: posts small blind $0.10
+Barton_Pomelo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ac 7c]
+Jasmin_Peas: folds
+Jasmin_Peas: Leave(Auto)
+Tod_Tomatoes: folds
+Tod_Tomatoes: Leave(Auto)
+Tianna_Kiwi: folds
+Tianna_Kiwi: Leave(Auto)
+Ollie_Sage: raises $0.75 to $0.75
+Hero: raises $2.34 to $2.44
+Barton_Pomelo: folds
+Barton_Pomelo: Leave(Auto)
+Ollie_Sage: folds
+Ollie_Sage: Leave(Auto)
+Uncalled bet ($1.69) returned to Hero
+Hero: doesn't show hand
+Hero collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75
+
+
+
+PokerStars Hand #3631817584: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:56:39
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Hero ($26.11 in chips)
+Seat 2: Yan_Jujube ($40.67 in chips)
+Seat 3: Wilbur_Kohlrabi ($34.15 in chips)
+Seat 4: Judi_Lettuce ($1.72 in chips)
+Seat 5: Melisa_Grapes ($11.45 in chips)
+Seat 6: Walter_Rutabaga ($38.42 in chips)
+Yan_Jujube: posts small blind $0.10
+Wilbur_Kohlrabi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5c Qd]
+Yan_Jujube: Leave(Auto)
+Hero: Leave(Auto)
+Walter_Rutabaga: Leave(Auto)
+Wilbur_Kohlrabi: Leave(Auto)
+Judi_Lettuce: folds
+Judi_Lettuce: Leave(Auto)
+Melisa_Grapes: raises $0.50 to $0.50
+Walter_Rutabaga: folds
+Hero: folds
+Yan_Jujube: folds
+Wilbur_Kohlrabi: folds
+Uncalled bet ($0.25) returned to Melisa_Grapes
+Melisa_Grapes: doesn't show hand
+Melisa_Grapes collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631817623: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:56:44
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Mila_Melon ($40.57 in chips)
+Seat 2: Sueann_Lemon ($27.63 in chips)
+Seat 3: Heike_Jujube ($14.05 in chips)
+Seat 4: Hero ($26.11 in chips)
+Seat 5: Sammy_Rosemary ($38.42 in chips)
+Seat 6: Evelin_Beans ($89.52 in chips)
+Heike_Jujube: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Js Ac]
+Evelin_Beans: Leave(Auto)
+Mila_Melon: Leave(Auto)
+Sueann_Lemon: Leave(Auto)
+Sammy_Rosemary: folds
+Evelin_Beans: folds
+Mila_Melon: folds
+Sueann_Lemon: folds
+Sammy_Rosemary: Seat re-join
+Sammy_Rosemary: Leave(Auto)
+Heike_Jujube: raises $0.40 to $0.50
+Hero: raises $1.25 to $1.50
+Heike_Jujube: folds
+Heike_Jujube: Leave(Auto)
+Uncalled bet ($1) returned to Hero
+Hero: doesn't show hand
+Hero collected $1 from pot
+*** SUMMARY ***
+Total pot $1.0
+
+
+
+PokerStars Hand #3631818063: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:57:30
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Libby_Fennel ($94.29 in chips)
+Seat 2: Estela_Bok Choy ($13.02 in chips)
+Seat 3: Anna_Lavender ($52.81 in chips)
+Seat 4: Sybil_Olive ($55.07 in chips)
+Seat 5: Hero ($26.61 in chips)
+Seat 6: Rocio_Jujube ($11.45 in chips)
+Rocio_Jujube: posts small blind $0.10
+Libby_Fennel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3s Ks]
+Anna_Lavender: Leave(Auto)
+Estela_Bok Choy: calls $0.25 
+Anna_Lavender: folds
+Sybil_Olive: raises $0.75 to $0.75
+Hero: folds
+Hero: Leave(Auto)
+Rocio_Jujube: folds
+Rocio_Jujube: Leave(Auto)
+Libby_Fennel: folds
+Libby_Fennel: Leave(Auto)
+Estela_Bok Choy: calls $0.50 
+*** FLOP *** [Js 7c 2s]
+Estela_Bok Choy: checks
+Sybil_Olive: checks
+*** TURN *** [Js 7c 2s] [8d]
+Estela_Bok Choy: bets $0.75 
+Sybil_Olive: calls $0.75 
+*** RIVER *** [Js 7c 2s 8d] [5h]
+Estela_Bok Choy: bets $1.67 
+Sybil_Olive: folds
+Sybil_Olive: Leave(Auto)
+Uncalled bet ($1.67) returned to Estela_Bok Choy
+Estela_Bok Choy: doesn't show hand
+Estela_Bok Choy collected $3.19 from pot
+*** SUMMARY ***
+Total pot $3.19
+
+
+
+PokerStars Hand #3631818167: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:57:41
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Iva_Parsley ($24.30 in chips)
+Seat 2: Blaine_Cucumber ($24.35 in chips)
+Seat 3: Agatha_Olive ($44.24 in chips)
+Seat 4: Vanda_Celeriac ($72.74 in chips)
+Seat 5: Eura_Leek ($14.66 in chips)
+Seat 6: Hero ($26.61 in chips)
+Hero: posts small blind $0.10
+Iva_Parsley: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8d Ac]
+Eura_Leek: Leave(Auto)
+Blaine_Cucumber: folds
+Blaine_Cucumber: Leave(Auto)
+Agatha_Olive: calls $0.25 
+Vanda_Celeriac: folds
+Vanda_Celeriac: Leave(Auto)
+Eura_Leek: folds
+Hero: calls $0.15 
+Iva_Parsley: checks
+*** FLOP *** [2c 3d 5h]
+Hero: checks
+Iva_Parsley: checks
+Agatha_Olive: checks
+*** TURN *** [2c 3d 5h] [3s]
+Hero: checks
+Iva_Parsley: checks
+Agatha_Olive: checks
+*** RIVER *** [2c 3d 5h 3s] [3h]
+Hero: checks
+Iva_Parsley: bets $0.25 
+Agatha_Olive: folds
+Agatha_Olive: Leave(Auto)
+Hero: calls $0.25 
+*** SHOW DOWN ***
+Iva_Parsley: shows [5d Kd] (a full house, Threes full of Fives)
+Hero: Mucks [8d Ac] (Three of a kind)
+Iva_Parsley collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06
+Board [2c 3d 5h 3s 3h]
+Seat 1: Iva_Parsley (big blind) showed [5d Kd] and won ($1.19) with a full house, Threes full of Fives
+Seat 2: Blaine_Cucumber mucked [4s Ks]
+Seat 3: Agatha_Olive mucked [8c 9c]
+Seat 4: Vanda_Celeriac mucked [7d Ah]
+Seat 5: Eura_Leek (button) mucked
+Seat 6: Hero (small blind) mucked null
+
+
+
+PokerStars Hand #3631818561: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:58:22
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Freida_Garlic ($50.58 in chips)
+Seat 2: Janene_Carrots ($34.09 in chips)
+Seat 3: Lanny_Dill ($24.99 in chips)
+Seat 4: Hero ($26.11 in chips)
+Seat 5: Alecia_Caraway ($6.25 in chips)
+Seat 6: Jarvis_Radish ($11.30 in chips)
+Freida_Garlic: posts small blind $0.10
+Janene_Carrots: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9c Js]
+Alecia_Caraway: Leave(Auto)
+Freida_Garlic: Leave(Auto)
+Lanny_Dill: folds
+Lanny_Dill: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Alecia_Caraway: folds
+Jarvis_Radish: calls $0.25 
+Freida_Garlic: folds
+Janene_Carrots: checks
+*** FLOP *** [Tc Qs 5d]
+Janene_Carrots: checks
+Jarvis_Radish: checks
+*** TURN *** [Tc Qs 5d] [9d]
+Janene_Carrots: bets $0.60 
+Jarvis_Radish: calls $0.60 
+*** RIVER *** [Tc Qs 5d 9d] [8s]
+Janene_Carrots: checks
+Jarvis_Radish: checks
+*** SHOW DOWN ***
+Janene_Carrots: shows [9s As] (a pair of Nines)
+Jarvis_Radish: shows [Td Ah] (a pair of Tens)
+Jarvis_Radish collected $1.71 from pot
+*** SUMMARY ***
+Total pot $1.71
+
+
+
+PokerStars Hand #3631818626: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:58:29
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Vida_Spinach ($26.35 in chips)
+Seat 2: Hero ($26.11 in chips)
+Seat 3: Deadra_Cherry ($23.60 in chips)
+Seat 4: Randy_Plantain ($7.37 in chips)
+Seat 5: Sean_Peach ($37.27 in chips)
+Seat 6: Harold_Lavender ($30.86 in chips)
+Hero: posts small blind $0.10
+Deadra_Cherry: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5h 3d]
+Randy_Plantain: folds
+Randy_Plantain: Leave(Auto)
+Harold_Lavender: Leave(Auto)
+Hero: Leave(Auto)
+Sean_Peach: raises $0.75 to $0.75
+Harold_Lavender: folds
+Vida_Spinach: folds
+Vida_Spinach: Leave(Auto)
+Hero: folds
+Deadra_Cherry: calls $0.50 
+*** FLOP *** [Js 5d 6d]
+Deadra_Cherry: checks
+Sean_Peach: checks
+*** TURN *** [Js 5d 6d] [Td]
+Deadra_Cherry: checks
+Sean_Peach: bets $0.80 
+Deadra_Cherry: folds
+Deadra_Cherry: Leave(Auto)
+Uncalled bet ($0.80) returned to Sean_Peach
+Sean_Peach: doesn't show hand
+Sean_Peach collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.52
+
+
+
+PokerStars Hand #3631818676: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:58:34
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Autumn_Lentils ($79.78 in chips)
+Seat 2: Johnna_Pomelo ($58.68 in chips)
+Seat 3: Lanny_Parsley ($27.52 in chips)
+Seat 4: Hero ($26.01 in chips)
+Seat 5: Wally_Onions ($32.19 in chips)
+Seat 6: Devin_Dill ($24.70 in chips)
+Hero: posts small blind $0.10
+Wally_Onions: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Td Jd]
+Johnna_Pomelo: Leave(Auto)
+Wally_Onions: Leave(Auto)
+Devin_Dill: folds
+Devin_Dill: Leave(Auto)
+Autumn_Lentils: calls $0.25 
+Johnna_Pomelo: folds
+Lanny_Parsley: folds
+Lanny_Parsley: Leave(Auto)
+Hero: raises $0.78 to $0.88
+Wally_Onions: folds
+Autumn_Lentils: calls $0.63 
+*** FLOP *** [2s 5c 9d]
+Hero: bets $1.11 
+Autumn_Lentils: raises $2.22 to $2.22
+Hero: calls $1.11 
+*** TURN *** [2s 5c 9d] [3c]
+Hero: checks
+Autumn_Lentils: bets $6.45 
+Hero: folds
+Hero: Leave(Auto)
+Uncalled bet ($6.45) returned to Autumn_Lentils
+Autumn_Lentils: doesn't show hand
+Autumn_Lentils collected $6.13 from pot
+*** SUMMARY ***
+Total pot $6.13
+
+
+
+PokerStars Hand #3631819257: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:59:32
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($22.91 in chips)
+Seat 2: Grace_Caraway ($40.63 in chips)
+Seat 3: Johana_Tat Soi ($53.67 in chips)
+Seat 4: Sabina_Anise ($24.90 in chips)
+Seat 5: Tierra_Onions ($62.64 in chips)
+Seat 6: Emile_Tubers ($27.96 in chips)
+Hero: posts small blind $0.10
+Grace_Caraway: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kc 6h]
+Sabina_Anise: Leave(Auto)
+Johana_Tat Soi: folds
+Johana_Tat Soi: Leave(Auto)
+Sabina_Anise: folds
+Tierra_Onions: raises $0.57 to $0.57
+Hero: Leave(Auto)
+Emile_Tubers: folds
+Emile_Tubers: Leave(Auto)
+Hero: folds
+Grace_Caraway: folds
+Grace_Caraway: Leave(Auto)
+Uncalled bet ($0.32) returned to Tierra_Onions
+Tierra_Onions: doesn't show hand
+Tierra_Onions collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Hero (small blind) showed [Kc 6h] and lost
+Seat 2: Grace_Caraway (big blind) mucked [Jc 2s]
+Seat 3: Johana_Tat Soi mucked [3s Jd]
+Seat 4: Sabina_Anise showed [3c Td] and lost
+Seat 5: Tierra_Onions showed [8c As] and won ($0.60)
+Seat 6: Emile_Tubers (button) mucked [6d Kd]
+
+
+
+PokerStars Hand #3631819337: Hold'em No Limit ($0.10/$0.25)  - 2018/07/18 23:59:40
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Odell_Rutabaga ($39.85 in chips)
+Seat 2: Hero ($22.81 in chips)
+Seat 3: Caryn_Peppers ($39.06 in chips)
+Seat 4: Van_Olive ($10.66 in chips)
+Seat 5: Bryant_Bilberry ($58.07 in chips)
+Seat 6: Gus_Peppers ($22.99 in chips)
+Odell_Rutabaga: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9d 8s]
+Odell_Rutabaga: Leave(Auto)
+Bryant_Bilberry: Leave(Auto)
+Caryn_Peppers: raises $0.75 to $0.75
+Van_Olive: calls $0.75 
+Bryant_Bilberry: folds
+Gus_Peppers: calls $0.75 
+Odell_Rutabaga: folds
+Hero: calls $0.50 
+*** FLOP *** [Td 2c 3s]
+Hero: checks
+Caryn_Peppers: checks
+Van_Olive: checks
+Gus_Peppers: bets $1.80 
+Hero: folds
+Hero: Leave(Auto)
+Van_Olive: Leave(Auto)
+Caryn_Peppers: calls $1.80 
+Van_Olive: folds
+*** TURN *** [Td 2c 3s] [2d]
+Caryn_Peppers: checks
+Gus_Peppers: bets $3.35 
+Caryn_Peppers: folds
+Caryn_Peppers: Leave(Auto)
+Uncalled bet ($3.35) returned to Gus_Peppers
+Gus_Peppers: doesn't show hand
+Gus_Peppers collected $6.37 from pot
+*** SUMMARY ***
+Total pot $6.37
+
+
+
+PokerStars Hand #3631819570: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:00:06
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Hero ($22.06 in chips)
+Seat 2: Jolyn_Carrots ($33.76 in chips)
+Seat 3: Darius_Plum ($9.91 in chips)
+Seat 4: Joey_Pomelo ($25.62 in chips)
+Seat 5: Vernon_Celeriac ($60.06 in chips)
+Seat 6: Marvis_Caraway ($48.88 in chips)
+Jolyn_Carrots: posts small blind $0.10
+Darius_Plum: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Tc 8c]
+Vernon_Celeriac: Leave(Auto)
+Joey_Pomelo: folds
+Joey_Pomelo: Leave(Auto)
+Vernon_Celeriac: folds
+Marvis_Caraway: folds
+Marvis_Caraway: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Jolyn_Carrots: folds
+Jolyn_Carrots: Leave(Auto)
+Darius_Plum: calls $0.41 
+*** FLOP *** [8s As Th]
+Darius_Plum: checks
+Hero: bets $0.99 
+Darius_Plum: calls $0.99 
+*** TURN *** [8s As Th] [4d]
+Darius_Plum: checks
+Hero: bets $2.22 
+Darius_Plum: calls $2.22 
+*** RIVER *** [8s As Th 4d] [2h]
+Darius_Plum: checks
+Hero: bets $18.19 and is all-in
+Darius_Plum: calls $6.04 and is all-in
+*** SHOW DOWN ***
+Hero: shows [Tc 8c] (two pair, Tens and Eights)
+Darius_Plum: Mucks [9h Ad] (One pair)
+Uncalled bet ($12.15) returned to Hero
+Hero collected $18.93 from pot
+*** SUMMARY ***
+Total pot $19.92 | Rake $0.99
+Board [8s As Th 4d 2h]
+Seat 1: Hero (button) showed null and won ($18.93) with two pair, Tens and Eights
+Seat 2: Jolyn_Carrots (small blind) mucked [Ac 4h]
+Seat 3: Darius_Plum (big blind) mucked [9h Ad]
+Seat 4: Joey_Pomelo mucked [5s 3s]
+Seat 5: Vernon_Celeriac mucked
+Seat 6: Marvis_Caraway mucked [2d Jh]
+
+
+
+PokerStars Hand #3631820305: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:01:23
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Tyson_Bilberry ($61.37 in chips)
+Seat 2: Randal_Turnips ($71.12 in chips)
+Seat 3: Hero ($31.08 in chips)
+Seat 4: Bobbye_Fennel ($17.83 in chips)
+Seat 5: Kattie_Rambutan ($23.57 in chips)
+Seat 6: Torie_Broccoli ($29.05 in chips)
+Tyson_Bilberry: posts small blind $0.10
+Randal_Turnips: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4d 4s]
+Bobbye_Fennel: Leave(Auto)
+Tyson_Bilberry: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Bobbye_Fennel: folds
+Kattie_Rambutan: folds
+Kattie_Rambutan: Leave(Auto)
+Torie_Broccoli: calls $0.66 
+Tyson_Bilberry: folds
+Randal_Turnips: calls $0.41 
+*** FLOP *** [3h 8s 9c]
+Randal_Turnips: checks
+Hero: checks
+Torie_Broccoli: bets $2.08 
+Randal_Turnips: calls $2.08 
+Hero: folds
+Hero: Leave(Auto)
+*** TURN *** [3h 8s 9c] [Jh]
+Randal_Turnips: checks
+Torie_Broccoli: bets $3.12 
+Randal_Turnips: calls $3.12 
+*** RIVER *** [3h 8s 9c Jh] [2d]
+Randal_Turnips: checks
+Torie_Broccoli: checks
+*** SHOW DOWN ***
+Randal_Turnips: shows [Tc Jc] (a pair of Jacks)
+Torie_Broccoli: Mucks [8h 5h] (One pair)
+Randal_Turnips collected $11.86 from pot
+*** SUMMARY ***
+Total pot $11.86
+
+
+
+PokerStars Hand #3631820747: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:02:08
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Hero ($30.42 in chips)
+Seat 2: Alex_Juniper ($22.90 in chips)
+Seat 3: Melba_Onions ($50.21 in chips)
+Seat 4: Nestor_Melon ($32.01 in chips)
+Seat 5: Damian_Dill ($20.05 in chips)
+Seat 6: Max_Squash ($24.45 in chips)
+Damian_Dill: posts small blind $0.10
+Max_Squash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ad Jd]
+Melba_Onions: Leave(Auto)
+Nestor_Melon: Leave(Auto)
+Alex_Juniper: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Alex_Juniper: folds
+Melba_Onions: folds
+Nestor_Melon: folds
+Damian_Dill: folds
+Damian_Dill: Leave(Auto)
+Max_Squash: folds
+Max_Squash: Leave(Auto)
+Uncalled bet ($0.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631820913: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:02:26
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Carmel_Rhubarb ($88.65 in chips)
+Seat 2: Season_Tamarind ($39.67 in chips)
+Seat 3: Nadene_Rambutan ($60.27 in chips)
+Seat 4: Carrol_Carrots ($26.01 in chips)
+Seat 5: Hero ($30.77 in chips)
+Seat 6: Tamara_Lemon ($30.25 in chips)
+Nadene_Rambutan: posts small blind $0.10
+Carrol_Carrots: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Td 7s]
+Carmel_Rhubarb: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Tamara_Lemon: folds
+Tamara_Lemon: Leave(Auto)
+Carmel_Rhubarb: folds
+Season_Tamarind: raises $0.75 to $0.75
+Nadene_Rambutan: folds
+Nadene_Rambutan: Leave(Auto)
+Carrol_Carrots: calls $0.50 
+*** FLOP *** [5c 2s 3h]
+Carrol_Carrots: checks
+Season_Tamarind: bets $1.25 
+Carrol_Carrots: folds
+Carrol_Carrots: Leave(Auto)
+Uncalled bet ($1.25) returned to Season_Tamarind
+Season_Tamarind: doesn't show hand
+Season_Tamarind collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.52
+
+
+
+PokerStars Hand #3631820959: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:02:31
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Fredia_Potatos ($14.35 in chips)
+Seat 2: An_Skirret ($61.45 in chips)
+Seat 3: Carmel_Spinach ($48.86 in chips)
+Seat 4: Cherie_Figs ($88.65 in chips)
+Seat 5: Hero ($30.77 in chips)
+Seat 6: Nolan_Apricots ($25.83 in chips)
+Hero: posts small blind $0.10
+Nolan_Apricots: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [6h Ks]
+Cherie_Figs: Leave(Auto)
+Fredia_Potatos: folds
+Fredia_Potatos: Leave(Auto)
+Hero: Leave(Auto)
+An_Skirret: raises $0.60 to $0.60
+Carmel_Spinach: calls $0.60 
+Cherie_Figs: folds
+Hero: folds
+Nolan_Apricots: calls $0.35 
+*** FLOP *** [2s Tc 5c]
+Nolan_Apricots: bets $0.54 
+An_Skirret: folds
+An_Skirret: Leave(Auto)
+Carmel_Spinach: calls $0.54 
+*** TURN *** [2s Tc 5c] [4s]
+Nolan_Apricots: bets $0.87 
+Carmel_Spinach: calls $0.87 
+*** RIVER *** [2s Tc 5c 4s] [Kc]
+Nolan_Apricots: checks
+Carmel_Spinach: checks
+*** SHOW DOWN ***
+Nolan_Apricots: shows [Jh 9s] (high card King)
+Carmel_Spinach: shows [As Js] (high card Ace)
+Carmel_Spinach collected $4.49 from pot
+*** SUMMARY ***
+Total pot $4.49
+
+
+
+PokerStars Hand #3631821011: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:02:36
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Rhea_Garlic ($26.52 in chips)
+Seat 2: Hero ($30.67 in chips)
+Seat 3: Danial_Melon ($49.30 in chips)
+Seat 4: Verla_Basil ($47.87 in chips)
+Seat 5: Glen_Olive ($24.95 in chips)
+Seat 6: Manie_Caraway ($9.61 in chips)
+Manie_Caraway: posts small blind $0.10
+Rhea_Garlic: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ah Jc]
+Danial_Melon: Leave(Auto)
+Verla_Basil: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Danial_Melon: folds
+Verla_Basil: folds
+Glen_Olive: raises $2.10 to $2.10
+Rhea_Garlic: Leave(Auto)
+Manie_Caraway: calls $2 
+Rhea_Garlic: folds
+Hero: calls $1.44 
+*** FLOP *** [9s 5c 2s]
+Manie_Caraway: checks
+Hero: checks
+Glen_Olive: bets $4 
+Manie_Caraway: calls $4 
+Hero: folds
+Hero: Leave(Auto)
+*** TURN *** [9s 5c 2s] [4h]
+Manie_Caraway: checks
+Glen_Olive: bets $3.51 
+Manie_Caraway: calls $3.51 and is all-in
+*** RIVER *** [9s 5c 2s 4h] [Qc]
+*** SHOW DOWN ***
+Glen_Olive: shows [Ac As] (a pair of Aces)
+Manie_Caraway: shows [Jh 9h] (a pair of Nines)
+Glen_Olive collected $20.50 from pot
+*** SUMMARY ***
+Total pot $20.5
+
+
+
+PokerStars Hand #3631821545: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:03:32
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Dawna_Lettuce ($34.82 in chips)
+Seat 2: Tyrell_Leek ($15.20 in chips)
+Seat 3: Hero ($28.57 in chips)
+Seat 4: Oneida_Honeydew ($28.94 in chips)
+Seat 5: Ezra_Juniper ($25.67 in chips)
+Seat 6: Tammy_Honeydew ($59.70 in chips)
+Tyrell_Leek: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4d Jd]
+Tammy_Honeydew: Leave(Auto)
+Ezra_Juniper: Leave(Auto)
+Oneida_Honeydew: folds
+Oneida_Honeydew: Leave(Auto)
+Ezra_Juniper: folds
+Tammy_Honeydew: folds
+Dawna_Lettuce: raises $0.75 to $0.75
+Tyrell_Leek: raises $2.40 to $2.50
+Hero: folds
+Hero: Leave(Auto)
+Dawna_Lettuce: folds
+Dawna_Lettuce: Leave(Auto)
+Uncalled bet ($1.75) returned to Tyrell_Leek
+Tyrell_Leek: doesn't show hand
+Tyrell_Leek collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.75
+
+
+
+PokerStars Hand #3631821750: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:03:52
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Josefa_Spinach ($43.63 in chips)
+Seat 2: Kaylee_Paprika ($36.34 in chips)
+Seat 3: Hero ($28.32 in chips)
+Seat 4: Norman_Bananas ($88 in chips)
+Seat 5: Son_Squash ($21.88 in chips)
+Seat 6: Yuki_Peppers ($12.50 in chips)
+Hero: posts small blind $0.10
+Norman_Bananas: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5c 3s]
+Son_Squash: folds
+Son_Squash: Leave(Auto)
+Kaylee_Paprika: Leave(Auto)
+Josefa_Spinach: Leave(Auto)
+Hero: Leave(Auto)
+Yuki_Peppers: folds
+Yuki_Peppers: Leave(Auto)
+Josefa_Spinach: folds
+Kaylee_Paprika: folds
+Hero: folds
+Norman_Bananas: doesn't show hand
+Uncalled bet ($0.25) returned to Norman_Bananas
+Norman_Bananas collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631821799: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:03:58
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Tiana_Skirret ($25.02 in chips)
+Seat 2: Odis_Rhubarb ($64.90 in chips)
+Seat 3: Milan_Daikon ($27.62 in chips)
+Seat 4: Gene_Sage ($24.92 in chips)
+Seat 5: Hero ($28.22 in chips)
+Seat 6: Perry_Soy ($25.22 in chips)
+Milan_Daikon: posts small blind $0.10
+Gene_Sage: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2h 2c]
+Hero: raises $0.66 to $0.66
+Perry_Soy: raises $1.07 to $1.07
+Milan_Daikon: Leave(Auto)
+Odis_Rhubarb: Leave(Auto)
+Tiana_Skirret: folds
+Tiana_Skirret: Leave(Auto)
+Odis_Rhubarb: folds
+Milan_Daikon: folds
+Gene_Sage: folds
+Gene_Sage: Leave(Auto)
+Hero: calls $0.41 
+*** FLOP *** [Jc Kc 7s]
+Hero: checks
+Perry_Soy: bets $1.25 
+Hero: folds
+Hero: Leave(Auto)
+Uncalled bet ($1.25) returned to Perry_Soy
+Perry_Soy: doesn't show hand
+Perry_Soy collected $2.37 from pot
+*** SUMMARY ***
+Total pot $2.37
+
+
+
+PokerStars Hand #3631822173: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:04:39
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Chloe_Chili ($11.75 in chips)
+Seat 2: Hero ($27.15 in chips)
+Seat 3: Karisa_Rosemary ($25.08 in chips)
+Seat 4: Ja_Melon ($59.50 in chips)
+Seat 5: Evelyn_Potatos ($62.11 in chips)
+Seat 6: Suzy_Lavender ($24.30 in chips)
+Evelyn_Potatos: posts small blind $0.10
+Suzy_Lavender: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ks 4s]
+Ja_Melon: Leave(Auto)
+Hero: Leave(Auto)
+Karisa_Rosemary: Leave(Auto)
+Chloe_Chili: folds
+Chloe_Chili: Leave(Auto)
+Hero: folds
+Karisa_Rosemary: folds
+Ja_Melon: folds
+Evelyn_Potatos: calls $0.15 
+Suzy_Lavender: checks
+*** FLOP *** [3h 9c 5d]
+Evelyn_Potatos: bets $0.50 
+Suzy_Lavender: calls $0.50 
+*** TURN *** [3h 9c 5d] [Js]
+Evelyn_Potatos: bets $0.25 
+Suzy_Lavender: calls $0.25 
+*** RIVER *** [3h 9c 5d Js] [Jd]
+Evelyn_Potatos: checks
+Suzy_Lavender: checks
+*** SHOW DOWN ***
+Evelyn_Potatos: shows [8d 9h] (two pair, Jacks and Nines)
+Suzy_Lavender: shows [Qs 3d] (two pair, Jacks and Threes)
+Evelyn_Potatos collected $1.90 from pot
+*** SUMMARY ***
+Total pot $1.9
+
+
+
+PokerStars Hand #3631822218: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:04:44
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Freddy_Cabbage ($25.25 in chips)
+Seat 2: Hero ($27.15 in chips)
+Seat 3: In_Collard ($16.39 in chips)
+Seat 4: Dorene_Tubers ($26.52 in chips)
+Seat 5: Shayla_Apricots ($29.55 in chips)
+Seat 6: Belkis_Bananas ($23.60 in chips)
+Belkis_Bananas: posts small blind $0.10
+Freddy_Cabbage: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qc 8c]
+Belkis_Bananas: Leave(Auto)
+In_Collard: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+In_Collard: folds
+Shayla_Apricots: Leave(Auto)
+Dorene_Tubers: calls $0.25 
+Shayla_Apricots: folds
+Belkis_Bananas: folds
+Freddy_Cabbage: checks
+*** FLOP *** [Ac 6c 4h]
+Freddy_Cabbage: checks
+Dorene_Tubers: checks
+*** TURN *** [Ac 6c 4h] [5d]
+Freddy_Cabbage: checks
+Dorene_Tubers: checks
+*** RIVER *** [Ac 6c 4h 5d] [2h]
+Freddy_Cabbage: bets $0.60 
+Dorene_Tubers: folds
+Dorene_Tubers: Leave(Auto)
+Uncalled bet ($0.60) returned to Freddy_Cabbage
+Freddy_Cabbage: doesn't show hand
+Freddy_Cabbage collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03
+Board [Ac 6c 4h 5d 2h]
+Seat 1: Freddy_Cabbage (big blind) showed [8d 3c] and won ($0.57)
+Seat 2: Hero mucked null
+Seat 3: In_Collard showed [8h 4d] and lost
+Seat 4: Dorene_Tubers mucked [Ts 9s]
+Seat 5: Shayla_Apricots (button) showed [Qd Js] and lost
+Seat 6: Belkis_Bananas (small blind) showed [Jh 6d] and lost
+
+
+
+PokerStars Hand #3631822279: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:04:50
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Hero ($27.15 in chips)
+Seat 2: Andy_Tubers ($40.92 in chips)
+Seat 3: Lakia_Habanero ($11.42 in chips)
+Seat 4: Tomika_Jicama ($63.03 in chips)
+Seat 5: Russ_Rutabaga ($25.10 in chips)
+Seat 6: Hollie_Collard ($32.90 in chips)
+Hollie_Collard: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ah Jh]
+Andy_Tubers: folds
+Andy_Tubers: Leave(Auto)
+Hollie_Collard: Leave(Auto)
+Russ_Rutabaga: Leave(Auto)
+Lakia_Habanero: folds
+Lakia_Habanero: Leave(Auto)
+Tomika_Jicama: folds
+Tomika_Jicama: Leave(Auto)
+Russ_Rutabaga: folds
+Hollie_Collard: folds
+Hero: doesn't show hand
+Uncalled bet ($0.25) returned to Hero
+Hero collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Hero (big blind) showed null and won ($0.10)
+Seat 2: Andy_Tubers mucked [Td 8s]
+Seat 3: Lakia_Habanero mucked [Kd 5c]
+Seat 4: Tomika_Jicama mucked [3h 9d]
+Seat 5: Russ_Rutabaga (button) showed [Jc 2c] and lost
+Seat 6: Hollie_Collard (small blind) showed [Kc 2h] and lost
+
+
+
+PokerStars Hand #3631822431: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:05:08
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Luz_Plantain ($33.56 in chips)
+Seat 2: Rochel_Leek ($25.69 in chips)
+Seat 3: Hero ($27.25 in chips)
+Seat 4: Rona_Cherry ($24.85 in chips)
+Seat 5: Tamar_Tamarind ($17.83 in chips)
+Seat 6: Norine_Jicama ($47.43 in chips)
+Norine_Jicama: posts small blind $0.10
+Luz_Plantain: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [6d 3h]
+Tamar_Tamarind: Leave(Auto)
+Rochel_Leek: folds
+Rochel_Leek: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Rona_Cherry: raises $0.75 to $0.75
+Tamar_Tamarind: folds
+Norine_Jicama: folds
+Norine_Jicama: Leave(Auto)
+Luz_Plantain: calls $0.50 
+*** FLOP *** [2h Qd 4c]
+Luz_Plantain: checks
+Rona_Cherry: bets $1.08 
+Luz_Plantain: folds
+Uncalled bet ($1.08) returned to Rona_Cherry
+Rona_Cherry: doesn't show hand
+Rona_Cherry collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.08
+Board [2h Qd 4c]
+Seat 1: Luz_Plantain (big blind) mucked [7c Tc]
+Seat 2: Rochel_Leek mucked [7s 3s]
+Seat 3: Hero mucked null
+Seat 4: Rona_Cherry showed [Ac 5c] and won ($1.52)
+Seat 5: Tamar_Tamarind (button) showed [2d 6h] and lost
+Seat 6: Norine_Jicama (small blind) mucked [Qc Ks]
+
+
+
+PokerStars Hand #3631822543: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:05:19
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Janel_Grapes ($25 in chips)
+Seat 2: Xuan_Lemon ($5.62 in chips)
+Seat 3: Penney_Chard ($11.98 in chips)
+Seat 4: Carrol_Shallot ($58.60 in chips)
+Seat 5: Hero ($27.25 in chips)
+Seat 6: Denyse_Fennel ($41.37 in chips)
+Denyse_Fennel: posts small blind $0.10
+Janel_Grapes: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3h 3c]
+Penney_Chard: Leave(Auto)
+Xuan_Lemon: calls $0.25 
+Penney_Chard: folds
+Carrol_Shallot: raises $1 to $1
+Janel_Grapes: Leave(Auto)
+Denyse_Fennel: Leave(Auto)
+Hero: calls $1 
+Denyse_Fennel: folds
+Janel_Grapes: folds
+Xuan_Lemon: raises $5.37 to $5.62 and is all-in
+Carrol_Shallot: folds
+Carrol_Shallot: Leave(Auto)
+Hero: calls $4.62 
+*** FLOP *** [9h Ac 4d]
+*** TURN *** [9h Ac 4d] [8s]
+*** RIVER *** [9h Ac 4d 8s] [5h]
+*** SHOW DOWN ***
+Xuan_Lemon: shows [Ad Kc] (a pair of Aces)
+Hero: shows null (a pair of Threes)
+Xuan_Lemon collected $11.97 from pot
+*** SUMMARY ***
+Total pot $11.97
+
+
+
+PokerStars Hand #3631823049: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:06:10
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Hero ($21.63 in chips)
+Seat 2: Jaclyn_Kale ($25.11 in chips)
+Seat 3: Libby_Alfalfa ($41.63 in chips)
+Seat 4: Ron_Radish ($24.47 in chips)
+Seat 5: Anja_Cilantro ($39.67 in chips)
+Seat 6: Irving_Anise ($48.54 in chips)
+Jaclyn_Kale: posts small blind $0.10
+Libby_Alfalfa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ah 9d]
+Jaclyn_Kale: Leave(Auto)
+Ron_Radish: raises $0.75 to $0.75
+Anja_Cilantro: folds
+Anja_Cilantro: Leave(Auto)
+Hero: Leave(Auto)
+Irving_Anise: calls $0.75 
+Hero: folds
+Jaclyn_Kale: folds
+Libby_Alfalfa: calls $0.50 
+*** FLOP *** [9h Kc 7s]
+Libby_Alfalfa: checks
+Ron_Radish: bets $1.17 
+Irving_Anise: folds
+Irving_Anise: Leave(Auto)
+Libby_Alfalfa: folds
+Libby_Alfalfa: Leave(Auto)
+Uncalled bet ($1.17) returned to Ron_Radish
+Ron_Radish: doesn't show hand
+Ron_Radish collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11
+Board [9h Kc 7s]
+Seat 1: Hero (button) showed [Ah 9d] and lost
+Seat 2: Jaclyn_Kale (small blind) showed [4h 3c] and lost
+Seat 3: Libby_Alfalfa (big blind) mucked [5d 5s]
+Seat 4: Ron_Radish showed [Qc Ad] and won ($2.24)
+Seat 5: Anja_Cilantro mucked [Kh 3s]
+Seat 6: Irving_Anise mucked [Ac Jh]
+
+
+
+PokerStars Hand #3631823125: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:06:18
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Gennie_Quince ($38.65 in chips)
+Seat 2: Hero ($21.63 in chips)
+Seat 3: Chara_Goji ($13.53 in chips)
+Seat 4: Eric_Marjoram ($15.75 in chips)
+Seat 5: Mika_Pinto ($26.79 in chips)
+Seat 6: Kay_Cherry ($40.92 in chips)
+Eric_Marjoram: posts small blind $0.10
+Mika_Pinto: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4s Jc]
+Gennie_Quince: Leave(Auto)
+Hero: Leave(Auto)
+Kay_Cherry: raises $0.75 to $0.75
+Gennie_Quince: folds
+Hero: folds
+Eric_Marjoram: Leave(Auto)
+Chara_Goji: folds
+Chara_Goji: Leave(Auto)
+Eric_Marjoram: folds
+Mika_Pinto: folds
+Mika_Pinto: Leave(Auto)
+Uncalled bet ($0.50) returned to Kay_Cherry
+Kay_Cherry: doesn't show hand
+Kay_Cherry collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631823182: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:06:23
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Jammie_Cabbage ($12.15 in chips)
+Seat 2: Rico_Cabbage ($61.16 in chips)
+Seat 3: Alda_Shallot ($25.69 in chips)
+Seat 4: Babara_Lemon ($10.90 in chips)
+Seat 5: Irving_Lavender ($24.65 in chips)
+Seat 6: Hero ($21.63 in chips)
+Babara_Lemon: posts small blind $0.10
+Irving_Lavender: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7d 2d]
+Babara_Lemon: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Jammie_Cabbage: raises $0.85 to $0.85
+Alda_Shallot: Leave(Auto)
+Rico_Cabbage: folds
+Rico_Cabbage: Leave(Auto)
+Alda_Shallot: folds
+Babara_Lemon: folds
+Irving_Lavender: folds
+Irving_Lavender: Leave(Auto)
+Uncalled bet ($0.60) returned to Jammie_Cabbage
+Jammie_Cabbage: doesn't show hand
+Jammie_Cabbage collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631823223: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:06:27
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Karey_Alfalfa ($10.19 in chips)
+Seat 2: Rosana_Cayenne ($61.68 in chips)
+Seat 3: Ursula_Thyme ($51.13 in chips)
+Seat 4: Iva_Rutabaga ($10.80 in chips)
+Seat 5: Hero ($21.63 in chips)
+Seat 6: Gracia_Papaya ($24.75 in chips)
+Iva_Rutabaga: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [6d 5h]
+Rosana_Cayenne: Leave(Auto)
+Ursula_Thyme: Leave(Auto)
+Gracia_Papaya: folds
+Gracia_Papaya: Leave(Auto)
+Iva_Rutabaga: Leave(Auto)
+Karey_Alfalfa: raises $0.50 to $0.50
+Rosana_Cayenne: folds
+Ursula_Thyme: folds
+Iva_Rutabaga: folds
+Hero: calls $0.25 
+*** FLOP *** [Js Th 8c]
+Hero: checks
+Karey_Alfalfa: checks
+*** TURN *** [Js Th 8c] [6c]
+Hero: checks
+Karey_Alfalfa: checks
+*** RIVER *** [Js Th 8c 6c] [Kd]
+Hero: checks
+Karey_Alfalfa: bets $1.10 
+Hero: folds
+Hero: Leave(Auto)
+Uncalled bet ($1.10) returned to Karey_Alfalfa
+Karey_Alfalfa: doesn't show hand
+Karey_Alfalfa collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05
+Board [Js Th 8c 6c Kd]
+Seat 1: Karey_Alfalfa showed [4h 4s] and won ($1.05)
+Seat 2: Rosana_Cayenne showed [2d 6s] and lost
+Seat 3: Ursula_Thyme (button) showed [5s Qc] and lost
+Seat 4: Iva_Rutabaga (small blind) showed [6h 9d] and lost
+Seat 5: Hero (big blind) mucked null
+Seat 6: Gracia_Papaya mucked [3d Tc]
+
+
+
+PokerStars Hand #3631823546: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:07:01
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Cari_Okra ($49.76 in chips)
+Seat 2: Hero ($21.13 in chips)
+Seat 3: Reiko_Thyme ($27.27 in chips)
+Seat 4: Emmie_Ugli ($12 in chips)
+Seat 5: Seema_Cabbage ($25.59 in chips)
+Seat 6: Inger_Jujube ($32.81 in chips)
+Reiko_Thyme: posts small blind $0.10
+Emmie_Ugli: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3c As]
+Seema_Cabbage: folds
+Seema_Cabbage: Leave(Auto)
+Inger_Jujube: folds
+Inger_Jujube: Leave(Auto)
+Cari_Okra: raises $0.75 to $0.75
+Hero: folds
+Hero: Leave(Auto)
+Reiko_Thyme: folds
+Reiko_Thyme: Leave(Auto)
+Emmie_Ugli: calls $0.50 
+*** FLOP *** [Qc 4d Kd]
+Emmie_Ugli: checks
+Cari_Okra: bets $0.80 
+Emmie_Ugli: folds
+Emmie_Ugli: Leave(Auto)
+Uncalled bet ($0.80) returned to Cari_Okra
+Cari_Okra: doesn't show hand
+Cari_Okra collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.52
+
+
+
+PokerStars Hand #3631823696: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:07:16
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Sha_Lentils ($20.40 in chips)
+Seat 2: Tuan_Mango ($40.42 in chips)
+Seat 3: Hero ($21.13 in chips)
+Seat 4: Kitty_Oregano ($25.43 in chips)
+Seat 5: Jayna_Sage ($35.71 in chips)
+Seat 6: Gudrun_Pinto ($60.81 in chips)
+Gudrun_Pinto: posts small blind $0.10
+Sha_Lentils: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kc Ks]
+Kitty_Oregano: Leave(Auto)
+Tuan_Mango: raises $0.75 to $0.75
+Hero: raises $1.99 to $1.99
+Kitty_Oregano: folds
+Gudrun_Pinto: Leave(Auto)
+Jayna_Sage: folds
+Jayna_Sage: Leave(Auto)
+Gudrun_Pinto: folds
+Sha_Lentils: folds
+Sha_Lentils: Leave(Auto)
+Tuan_Mango: calls $1.24 
+*** FLOP *** [4c Ac 4d]
+Tuan_Mango: checks
+Hero: checks
+*** TURN *** [4c Ac 4d] [Qs]
+Tuan_Mango: checks
+Hero: checks
+*** RIVER *** [4c Ac 4d Qs] [Kd]
+Tuan_Mango: checks
+Hero: bets $6 
+Tuan_Mango: folds
+Tuan_Mango: Leave(Auto)
+Uncalled bet ($6) returned to Hero
+Hero: doesn't show hand
+Hero collected $4.12 from pot
+*** SUMMARY ***
+Total pot $4.33 | Rake $0.21
+Board [4c Ac 4d Qs Kd]
+Seat 1: Sha_Lentils (big blind) mucked [5s Th]
+Seat 2: Tuan_Mango mucked [6d 6s]
+Seat 3: Hero showed null and won ($4.12)
+Seat 4: Kitty_Oregano showed [5c Ah] and lost
+Seat 5: Jayna_Sage (button) mucked [Jd Ts]
+Seat 6: Gudrun_Pinto (small blind) showed [7s Ad] and lost
+
+
+
+PokerStars Hand #3631824342: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:08:24
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Bennie_Chili ($18.78 in chips)
+Seat 2: Ossie_Spinach ($75.89 in chips)
+Seat 3: Glynis_Quinoa ($11.65 in chips)
+Seat 4: Liana_Chives ($32.92 in chips)
+Seat 5: Mack_Pumpkins ($25.11 in chips)
+Seat 6: Hero ($23.26 in chips)
+Liana_Chives: posts small blind $0.10
+Mack_Pumpkins: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2d 9c]
+Bennie_Chili: Leave(Auto)
+Liana_Chives: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Bennie_Chili: folds
+Glynis_Quinoa: Leave(Auto)
+Ossie_Spinach: folds
+Ossie_Spinach: Leave(Auto)
+Glynis_Quinoa: folds
+Liana_Chives: folds
+Mack_Pumpkins: doesn't show hand
+Uncalled bet ($0.25) returned to Mack_Pumpkins
+Mack_Pumpkins collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631824381: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:08:28
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Carl_Dill ($63.68 in chips)
+Seat 2: Gerri_Nettles ($15.75 in chips)
+Seat 3: Tari_Quinoa ($32.06 in chips)
+Seat 4: Kiara_Caraway ($32.82 in chips)
+Seat 5: Hero ($23.26 in chips)
+Seat 6: Lin_Sprouts ($22.50 in chips)
+Carl_Dill: posts small blind $0.10
+Gerri_Nettles: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5c 5d]
+Carl_Dill: Leave(Auto)
+Tari_Quinoa: folds
+Tari_Quinoa: Leave(Auto)
+Kiara_Caraway: raises $0.75 to $0.75
+Hero: calls $0.75 
+Lin_Sprouts: raises $3.25 to $3.25
+Carl_Dill: folds
+Kiara_Caraway: Leave(Auto)
+Gerri_Nettles: folds
+Gerri_Nettles: Leave(Auto)
+Kiara_Caraway: folds
+Hero: calls $2.50 
+*** FLOP *** [2c Qc Th]
+Hero: checks
+Lin_Sprouts: bets $4.42 
+Hero: folds
+Hero: Leave(Auto)
+Uncalled bet ($4.42) returned to Lin_Sprouts
+Lin_Sprouts: doesn't show hand
+Lin_Sprouts collected $7.22 from pot
+*** SUMMARY ***
+Total pot $7.60 | Rake $0.38
+Board [2c Qc Th]
+Seat 1: Carl_Dill (small blind) showed [Qs 2h] and lost
+Seat 2: Gerri_Nettles (big blind) mucked [Jc Jh]
+Seat 3: Tari_Quinoa mucked [Qd 7s]
+Seat 4: Kiara_Caraway showed [7c 6c] and lost
+Seat 5: Hero mucked null
+Seat 6: Lin_Sprouts (button) showed [Kc As] and won ($7.22)
+
+
+
+PokerStars Hand #3631824830: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:09:15
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Idell_Spinach ($32.51 in chips)
+Seat 2: Alline_Celery ($132.19 in chips)
+Seat 3: Mertie_Lentils ($41.03 in chips)
+Seat 4: Launa_Avocados ($18.02 in chips)
+Seat 5: Hero ($20.01 in chips)
+Seat 6: Honey_Sprouts ($26.65 in chips)
+Alline_Celery: posts small blind $0.10
+Mertie_Lentils: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Th Qh]
+Launa_Avocados: folds
+Launa_Avocados: Leave(Auto)
+Alline_Celery: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Honey_Sprouts: folds
+Honey_Sprouts: Leave(Auto)
+Idell_Spinach: calls $0.66 
+Alline_Celery: folds
+Mertie_Lentils: calls $0.41 
+*** FLOP *** [4h 6d 3d]
+Mertie_Lentils: checks
+Hero: bets $1.11 
+Idell_Spinach: calls $1.11 
+Mertie_Lentils: folds
+Mertie_Lentils: Leave(Auto)
+*** TURN *** [4h 6d 3d] [9h]
+Hero: bets $2.66 
+Idell_Spinach: folds
+Idell_Spinach: Leave(Auto)
+Uncalled bet ($2.66) returned to Hero
+Hero: doesn't show hand
+Hero collected $4.09 from pot
+*** SUMMARY ***
+Total pot $4.09
+
+
+
+PokerStars Hand #3631825289: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:10:02
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Elissa_Marjoram ($75.54 in chips)
+Seat 2: Traci_Cucumber ($25.74 in chips)
+Seat 3: Daina_Papaya ($65.98 in chips)
+Seat 4: Lauren_Soy ($26.01 in chips)
+Seat 5: Hero ($22.33 in chips)
+Seat 6: Nadine_Apples ($27.51 in chips)
+Elissa_Marjoram: posts small blind $0.10
+Traci_Cucumber: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9h Tc]
+Daina_Papaya: folds
+Daina_Papaya: Leave(Auto)
+Nadine_Apples: Leave(Auto)
+Lauren_Soy: folds
+Lauren_Soy: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Nadine_Apples: folds
+Traci_Cucumber: Leave(Auto)
+Elissa_Marjoram: folds
+Elissa_Marjoram: Leave(Auto)
+Traci_Cucumber: folds
+Uncalled bet ($0.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631825531: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:10:28
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Joel_Broccoli ($38.01 in chips)
+Seat 2: Altha_Cucumber ($47.89 in chips)
+Seat 3: Adam_Wasabi ($26.14 in chips)
+Seat 4: Hero ($22.68 in chips)
+Seat 5: Suzan_Chard ($12.50 in chips)
+Seat 6: Pat_Okra ($24.45 in chips)
+Hero: posts small blind $0.10
+Suzan_Chard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7s Ks]
+Joel_Broccoli: Leave(Auto)
+Pat_Okra: folds
+Pat_Okra: Leave(Auto)
+Joel_Broccoli: folds
+Altha_Cucumber: folds
+Altha_Cucumber: Leave(Auto)
+Adam_Wasabi: raises $0.75 to $0.75
+Hero: folds
+Hero: Leave(Auto)
+Suzan_Chard: folds
+Suzan_Chard: Leave(Auto)
+*** SHOW DOWN ***
+Adam_Wasabi: shows [5h Ah] (high card Five)
+Uncalled bet ($0.50) returned to Adam_Wasabi
+Adam_Wasabi collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631825680: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:10:43
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Hero ($22.58 in chips)
+Seat 2: Chi_Oregano ($13.95 in chips)
+Seat 3: Gina_Apples ($27.51 in chips)
+Seat 4: Alycia_Quince ($15.17 in chips)
+Seat 5: Rae_Cucumber ($26.02 in chips)
+Seat 6: Lacie_Pumpkins ($24.35 in chips)
+Lacie_Pumpkins: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ad Qh]
+Alycia_Quince: Leave(Auto)
+Gina_Apples: Leave(Auto)
+Chi_Oregano: folds
+Chi_Oregano: Leave(Auto)
+Gina_Apples: folds
+Alycia_Quince: folds
+Lacie_Pumpkins: Leave(Auto)
+Rae_Cucumber: folds
+Rae_Cucumber: Leave(Auto)
+Lacie_Pumpkins: folds
+Hero: doesn't show hand
+Uncalled bet ($0.25) returned to Hero
+Hero collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Hero (big blind) showed null and won ($0.10)
+Seat 2: Chi_Oregano mucked [3h Jc]
+Seat 3: Gina_Apples showed [5d 4s] and lost
+Seat 4: Alycia_Quince showed [4c Qc] and lost
+Seat 5: Rae_Cucumber (button) mucked [5c Kc]
+Seat 6: Lacie_Pumpkins (small blind) showed [Td 3c] and lost
+
+
+
+PokerStars Hand #3631825816: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:10:58
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Pearl_Nettles ($29.77 in chips)
+Seat 2: Dot_Parsley ($28.64 in chips)
+Seat 3: Darcey_Dates ($15.17 in chips)
+Seat 4: Hero ($22.68 in chips)
+Seat 5: Kasey_Sage ($23.65 in chips)
+Seat 6: Ngan_Melon ($42.17 in chips)
+Dot_Parsley: posts small blind $0.10
+Darcey_Dates: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8h 8d]
+Darcey_Dates: Leave(Auto)
+Kasey_Sage: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Kasey_Sage: folds
+Dot_Parsley: Leave(Auto)
+Ngan_Melon: folds
+Ngan_Melon: Leave(Auto)
+Pearl_Nettles: folds
+Pearl_Nettles: Leave(Auto)
+Dot_Parsley: folds
+Darcey_Dates: folds
+Uncalled bet ($0.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Pearl_Nettles (button) mucked [6h 5c]
+Seat 2: Dot_Parsley (small blind) showed [Qh 3d] and lost
+Seat 3: Darcey_Dates (big blind) showed [Ks 5d] and lost
+Seat 4: Hero showed null and won ($0.60)
+Seat 5: Kasey_Sage showed [3c Ad] and lost
+Seat 6: Ngan_Melon mucked [6d 8s]
+
+
+
+PokerStars Hand #3631825985: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:11:17
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Laila_Yuzu ($18.35 in chips)
+Seat 2: Delmar_Pinto ($21.01 in chips)
+Seat 3: Hero ($23.03 in chips)
+Seat 4: Gracia_Broccoli ($23.90 in chips)
+Seat 5: Kermit_Beans ($36.01 in chips)
+Seat 6: Misha_Juniper ($25 in chips)
+Hero: posts small blind $0.10
+Gracia_Broccoli: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ad Td]
+Misha_Juniper: Leave(Auto)
+Delmar_Pinto: Leave(Auto)
+Kermit_Beans: folds
+Kermit_Beans: Leave(Auto)
+Misha_Juniper: folds
+Laila_Yuzu: raises $0.75 to $0.75
+Delmar_Pinto: folds
+Gracia_Broccoli: Leave(Auto)
+Hero: raises $2.45 to $2.55
+Gracia_Broccoli: folds
+Laila_Yuzu: calls $1.80 
+*** FLOP *** [7h As 7s]
+Hero: checks
+Laila_Yuzu: checks
+*** TURN *** [7h As 7s] [9c]
+Hero: bets $2.99 
+Laila_Yuzu: calls $2.99 
+*** RIVER *** [7h As 7s 9c] [Ac]
+Hero: bets $17.49 and is all-in
+Laila_Yuzu: calls $12.81 and is all-in
+*** SHOW DOWN ***
+Hero: shows null (a full house, Aces full of Sevens)
+Laila_Yuzu: shows [7c 7d] (four of a kind, Sevens)
+Uncalled bet ($4.68) returned to Hero
+Laila_Yuzu collected $35.11 from pot
+*** SUMMARY ***
+Total pot $35.11
+
+
+
+PokerStars Hand #3631826562: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:12:19
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Era_Parsley ($55.43 in chips)
+Seat 2: Staci_Sage ($35.74 in chips)
+Seat 3: Chu_Lavender ($22.15 in chips)
+Seat 4: Claude_Rambutan ($37.48 in chips)
+Seat 5: Morris_Cabbage ($35.11 in chips)
+Seat 6: Hero ($4.68 in chips)
+Chu_Lavender: posts small blind $0.10
+Claude_Rambutan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8h Ac]
+Morris_Cabbage: folds
+Morris_Cabbage: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Era_Parsley: raises $0.75 to $0.75
+Claude_Rambutan: Leave(Auto)
+Chu_Lavender: Leave(Auto)
+Staci_Sage: folds
+Chu_Lavender: folds
+Claude_Rambutan: folds
+Uncalled bet ($0.50) returned to Era_Parsley
+Era_Parsley: doesn't show hand
+Era_Parsley collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631826662: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:12:28
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Curtis_Kiwi ($106.90 in chips)
+Seat 2: Debrah_Anise ($32.96 in chips)
+Seat 3: Trang_Beans ($25.08 in chips)
+Seat 4: Hero ($4.68 in chips)
+Seat 5: Elden_Oregano ($58.41 in chips)
+Seat 6: Dale_Plum ($52.11 in chips)
+Curtis_Kiwi: posts small blind $0.10
+Debrah_Anise: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5s 8c]
+Elden_Oregano: Leave(Auto)
+Hero: Leave(Auto)
+Curtis_Kiwi: Leave(Auto)
+Trang_Beans: raises $0.75 to $0.75
+Hero: folds
+Elden_Oregano: folds
+Dale_Plum: folds
+Dale_Plum: Leave(Auto)
+Curtis_Kiwi: folds
+Debrah_Anise: folds
+Debrah_Anise: Leave(Auto)
+Uncalled bet ($0.50) returned to Trang_Beans
+Trang_Beans: doesn't show hand
+Trang_Beans collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631826720: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:12:33
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Hero ($4.68 in chips)
+Seat 2: Sulema_Cabbage ($12.53 in chips)
+Seat 3: Avril_Lemon ($37.23 in chips)
+Seat 4: Dwain_Chili ($37.62 in chips)
+Seat 5: Melani_Orange ($54.54 in chips)
+Seat 6: Bea_Oregano ($106.80 in chips)
+Bea_Oregano: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4c 5s]
+Sulema_Cabbage: folds
+Sulema_Cabbage: Leave(Auto)
+Avril_Lemon: folds
+Avril_Lemon: Leave(Auto)
+Dwain_Chili: raises $0.60 to $0.60
+Melani_Orange: calls $0.60 
+Bea_Oregano: folds
+Bea_Oregano: Leave(Auto)
+Hero: calls $0.35 
+*** FLOP *** [8s Kh Ah]
+Hero: checks
+Dwain_Chili: checks
+Melani_Orange: checks
+*** TURN *** [8s Kh Ah] [Th]
+Hero: checks
+Dwain_Chili: checks
+Melani_Orange: checks
+*** RIVER *** [8s Kh Ah Th] [Js]
+Hero: checks
+Dwain_Chili: checks
+Melani_Orange: checks
+*** SHOW DOWN ***
+Hero: shows null (high card Ace)
+Dwain_Chili: shows [6c 5c] (high card Ace)
+Melani_Orange: shows [4h 4d] (a pair of Fours)
+Melani_Orange collected $1.81 from pot
+*** SUMMARY ***
+Total pot $1.81
+
+
+
+PokerStars Hand #3631827163: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:13:20
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Diedra_Rhubarb ($40.47 in chips)
+Seat 2: Philip_Chard ($17.71 in chips)
+Seat 3: Oren_Potatos ($25 in chips)
+Seat 4: Doug_Beans ($69.63 in chips)
+Seat 5: Ila_Thyme ($54.44 in chips)
+Seat 6: Hero ($25 in chips)
+Diedra_Rhubarb: posts small blind $0.10
+Philip_Chard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4s Td]
+Ila_Thyme: Leave(Auto)
+Hero: Leave(Auto)
+Oren_Potatos: folds
+Oren_Potatos: Leave(Auto)
+Doug_Beans: folds
+Doug_Beans: Leave(Auto)
+Ila_Thyme: folds
+Hero: folds
+Diedra_Rhubarb: folds
+Diedra_Rhubarb: Leave(Auto)
+Philip_Chard: doesn't show hand
+Uncalled bet ($0.25) returned to Philip_Chard
+Philip_Chard collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Diedra_Rhubarb (small blind) mucked [Qd 6c]
+Seat 2: Philip_Chard (big blind) showed [8c 2d] and won ($0.10)
+Seat 3: Oren_Potatos mucked [6h Qh]
+Seat 4: Doug_Beans mucked [Kh Js]
+Seat 5: Ila_Thyme showed [5c 9d] and lost
+Seat 6: Hero (button) showed [4s Td] and lost
+
+
+
+PokerStars Hand #3631827210: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:13:25
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($25 in chips)
+Seat 2: Irish_Cherry ($107.05 in chips)
+Seat 3: Velvet_Rhubarb ($41.72 in chips)
+Seat 4: Keith_Pinto ($22.98 in chips)
+Seat 5: Neida_Lentils ($12.50 in chips)
+Seat 6: Nellie_Turnips ($61.60 in chips)
+Hero: posts small blind $0.10
+Irish_Cherry: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4d 7c]
+Hero: Leave(Auto)
+Velvet_Rhubarb: folds
+Velvet_Rhubarb: Leave(Auto)
+Keith_Pinto: raises $0.75 to $0.75
+Neida_Lentils: calls $0.75 
+Nellie_Turnips: folds
+Nellie_Turnips: Leave(Auto)
+Hero: folds
+Irish_Cherry: folds
+Irish_Cherry: Leave(Auto)
+*** FLOP *** [4c Qc 2c]
+Keith_Pinto: checks
+Neida_Lentils: bets $1.85 
+Keith_Pinto: folds
+Uncalled bet ($1.85) returned to Neida_Lentils
+Neida_Lentils: doesn't show hand
+Neida_Lentils collected $1.76 from pot
+*** SUMMARY ***
+Total pot $1.76
+
+
+
+PokerStars Hand #3631827243: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:13:29
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Han_Parsley ($73.52 in chips)
+Seat 2: Caron_Melon ($25.12 in chips)
+Seat 3: Hector_Wasabi ($69.63 in chips)
+Seat 4: Ione_Olive ($36.38 in chips)
+Seat 5: Jenae_Goji ($31.93 in chips)
+Seat 6: Hero ($24.90 in chips)
+Hero: posts small blind $0.10
+Han_Parsley: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5s 3s]
+Ione_Olive: Leave(Auto)
+Hector_Wasabi: Leave(Auto)
+Caron_Melon: folds
+Caron_Melon: Leave(Auto)
+Hector_Wasabi: folds
+Ione_Olive: folds
+Jenae_Goji: raises $0.89 to $0.89
+Han_Parsley: Leave(Auto)
+Hero: calls $0.79 
+Han_Parsley: folds
+*** FLOP *** [Qd 5d 9s]
+Hero: checks
+Jenae_Goji: checks
+*** TURN *** [Qd 5d 9s] [7c]
+Hero: checks
+Jenae_Goji: bets $1.01 
+Hero: calls $1.01 
+*** RIVER *** [Qd 5d 9s 7c] [6d]
+Hero: checks
+Jenae_Goji: bets $3.23 
+Hero: calls $3.23 
+*** SHOW DOWN ***
+Jenae_Goji: shows [Ad 9d] (a flush, Ace high)
+Hero: Mucks [5s 3s] (One pair)
+Jenae_Goji collected $9.99 from pot
+*** SUMMARY ***
+Total pot $9.99
+
+
+
+PokerStars Hand #3631827901: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:14:39
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Hero ($19.77 in chips)
+Seat 2: Jonah_Shallot ($39.19 in chips)
+Seat 3: Misha_Fennel ($17.79 in chips)
+Seat 4: Myriam_Chard ($24.15 in chips)
+Seat 5: Dagny_Prunes ($55.36 in chips)
+Seat 6: Daina_Jalapeño ($25 in chips)
+Dagny_Prunes: posts small blind $0.10
+Daina_Jalapeño: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ad Jh]
+Dagny_Prunes: Leave(Auto)
+Misha_Fennel: Leave(Auto)
+Jonah_Shallot: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Jonah_Shallot: folds
+Misha_Fennel: folds
+Myriam_Chard: folds
+Myriam_Chard: Leave(Auto)
+Dagny_Prunes: folds
+Daina_Jalapeño: calls $0.41 
+*** FLOP *** [4c Ts 9d]
+Daina_Jalapeño: checks
+Hero: checks
+*** TURN *** [4c Ts 9d] [Qc]
+Daina_Jalapeño: checks
+Hero: checks
+*** RIVER *** [4c Ts 9d Qc] [7h]
+Daina_Jalapeño: checks
+Hero: checks
+*** SHOW DOWN ***
+Daina_Jalapeño: shows [Ac 4s] (a pair of Fours)
+Hero: Mucks [Ad Jh] (High Card)
+Daina_Jalapeño collected $1.35 from pot
+*** SUMMARY ***
+Total pot $1.42 | Rake $0.07
+Board [4c Ts 9d Qc 7h]
+Seat 1: Hero mucked null
+Seat 2: Jonah_Shallot mucked
+Seat 3: Misha_Fennel mucked
+Seat 4: Myriam_Chard (button) mucked [Ah 8s]
+Seat 5: Dagny_Prunes (small blind) mucked
+Seat 6: Daina_Jalapeño (big blind) showed [Ac 4s] and won ($1.35) with a pair of Fours
+
+
+
+PokerStars Hand #3631828253: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:15:19
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Hero ($19.11 in chips)
+Seat 2: Deanna_Grapes ($25.69 in chips)
+Seat 3: Joline_Plantain ($36.82 in chips)
+Seat 4: Ariane_Cayenne ($36.89 in chips)
+Seat 5: Jerold_Kale ($25.25 in chips)
+Seat 6: Armida_Dill ($55.62 in chips)
+Jerold_Kale: posts small blind $0.10
+Armida_Dill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4s 9h]
+Hero: folds
+Hero: Leave(Auto)
+Jerold_Kale: Leave(Auto)
+Ariane_Cayenne: Leave(Auto)
+Deanna_Grapes: raises $0.65 to $0.65
+Armida_Dill: Leave(Auto)
+Joline_Plantain: calls $0.65 
+Ariane_Cayenne: folds
+Jerold_Kale: folds
+Armida_Dill: folds
+*** FLOP *** [2s 8h Jc]
+Deanna_Grapes: bets $0.75 
+Joline_Plantain: calls $0.75 
+*** TURN *** [2s 8h Jc] [8c]
+Deanna_Grapes: checks
+Joline_Plantain: bets $1.90 
+Deanna_Grapes: calls $1.90 
+*** RIVER *** [2s 8h Jc 8c] [Jd]
+Deanna_Grapes: checks
+Joline_Plantain: bets $3.95 
+Deanna_Grapes: calls $3.95 
+*** SHOW DOWN ***
+Joline_Plantain: shows [Th Jh] (a full house, Jacks full of Eights)
+Deanna_Grapes: Mucks [9s 8s] (Full House)
+Joline_Plantain collected $14.11 from pot
+*** SUMMARY ***
+Total pot $14.11
+
+
+
+PokerStars Hand #3631828300: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:15:24
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Hero ($19.11 in chips)
+Seat 2: Elmer_Habanero ($29.32 in chips)
+Seat 3: Ray_Rambutan ($25 in chips)
+Seat 4: Eldon_Lime ($69.77 in chips)
+Seat 5: Ariane_Jujube ($61.51 in chips)
+Seat 6: Jude_Anise ($41.79 in chips)
+Elmer_Habanero: posts small blind $0.10
+Ray_Rambutan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8h Jc]
+Elmer_Habanero: Leave(Auto)
+Eldon_Lime: folds
+Eldon_Lime: Leave(Auto)
+Hero: Leave(Auto)
+Ariane_Jujube: folds
+Ariane_Jujube: Leave(Auto)
+Jude_Anise: folds
+Jude_Anise: Leave(Auto)
+Hero: folds
+Elmer_Habanero: folds
+Ray_Rambutan: doesn't show hand
+Uncalled bet ($0.25) returned to Ray_Rambutan
+Ray_Rambutan collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Hero (button) showed [8h Jc] and lost
+Seat 2: Elmer_Habanero (small blind) showed [9c 8s] and lost
+Seat 3: Ray_Rambutan (big blind) showed [2s Ad] and won ($0.10)
+Seat 4: Eldon_Lime mucked [6s Js]
+Seat 5: Ariane_Jujube mucked [9s 5h]
+Seat 6: Jude_Anise mucked [Qs 6c]
+
+
+
+PokerStars Hand #3631828339: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:15:28
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Walter_Pomelo ($33.16 in chips)
+Seat 2: Ryan_Turnips ($54.51 in chips)
+Seat 3: Kathey_Peas ($29.22 in chips)
+Seat 4: Wendy_Lentils ($69.77 in chips)
+Seat 5: Eldora_Daikon ($28.21 in chips)
+Seat 6: Hero ($19.11 in chips)
+Eldora_Daikon: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [6s 6c]
+Kathey_Peas: Leave(Auto)
+Wendy_Lentils: Leave(Auto)
+Ryan_Turnips: Leave(Auto)
+Walter_Pomelo: raises $0.86 to $0.86
+Ryan_Turnips: folds
+Kathey_Peas: folds
+Wendy_Lentils: folds
+Eldora_Daikon: calls $0.76 
+Hero: calls $0.61 
+*** FLOP *** [4d 9s Ac]
+Eldora_Daikon: checks
+Hero: checks
+Walter_Pomelo: checks
+*** TURN *** [4d 9s Ac] [3s]
+Eldora_Daikon: checks
+Hero: bets $1.44 
+Walter_Pomelo: raises $2.88 to $2.88
+Eldora_Daikon: folds
+Eldora_Daikon: Leave(Auto)
+Hero: raises $6.33 to $7.77
+Walter_Pomelo: calls $4.89 
+*** RIVER *** [4d 9s Ac 3s] [2s]
+Hero: bets $10.48 and is all-in
+Walter_Pomelo: folds
+Walter_Pomelo: Leave(Auto)
+Uncalled bet ($10.48) returned to Hero
+Hero: doesn't show hand
+Hero collected $17.22 from pot
+*** SUMMARY ***
+Total pot $17.22
+
+
+
+PokerStars Hand #3631829264: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:17:09
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Molly_Celery ($79.92 in chips)
+Seat 2: Lyndia_Yams ($11.13 in chips)
+Seat 3: Hero ($27.70 in chips)
+Seat 4: Ai_Squash ($10.57 in chips)
+Seat 5: Dionne_Zuchinis ($10.99 in chips)
+Seat 6: Kathie_Apples ($24.57 in chips)
+Hero: posts small blind $0.10
+Ai_Squash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4h 6h]
+Molly_Celery: Leave(Auto)
+Dionne_Zuchinis: folds
+Dionne_Zuchinis: Leave(Auto)
+Kathie_Apples: calls $0.25 
+Molly_Celery: folds
+Lyndia_Yams: calls $0.25 
+Hero: calls $0.15 
+Ai_Squash: checks
+*** FLOP *** [As 7d 8h]
+Hero: checks
+Ai_Squash: checks
+Kathie_Apples: bets $0.75 
+Lyndia_Yams: folds
+Lyndia_Yams: Leave(Auto)
+Hero: calls $0.75 
+Ai_Squash: folds
+Ai_Squash: Leave(Auto)
+*** TURN *** [As 7d 8h] [6s]
+Hero: checks
+Kathie_Apples: checks
+*** RIVER *** [As 7d 8h 6s] [9h]
+Hero: bets $3.33 
+Kathie_Apples: folds
+Kathie_Apples: Leave(Auto)
+Uncalled bet ($3.33) returned to Hero
+Hero: doesn't show hand
+Hero collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.12
+Board [As 7d 8h 6s 9h]
+Seat 1: Molly_Celery showed [2d 8d] and lost
+Seat 2: Lyndia_Yams (button) mucked [Ts Qc]
+Seat 3: Hero (small blind) showed null and won ($2.38)
+Seat 4: Ai_Squash (big blind) mucked [7s Qs]
+Seat 5: Dionne_Zuchinis mucked [5h 3c]
+Seat 6: Kathie_Apples mucked [4c Ad]
+
+
+
+PokerStars Hand #3631829863: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:18:12
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Ingrid_Lentils ($47.56 in chips)
+Seat 2: Kari_Oregano ($96.62 in chips)
+Seat 3: Buddy_Honeydew ($31.91 in chips)
+Seat 4: Hero ($29.08 in chips)
+Seat 5: Denese_Parnsip ($10.76 in chips)
+Seat 6: Maire_Cabbage ($50.79 in chips)
+Ingrid_Lentils: posts small blind $0.10
+Kari_Oregano: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8c Kc]
+Denese_Parnsip: Leave(Auto)
+Buddy_Honeydew: raises $0.50 to $0.50
+Hero: folds
+Hero: Leave(Auto)
+Denese_Parnsip: folds
+Kari_Oregano: Leave(Auto)
+Maire_Cabbage: folds
+Maire_Cabbage: Leave(Auto)
+Ingrid_Lentils: folds
+Ingrid_Lentils: Leave(Auto)
+Kari_Oregano: folds
+Uncalled bet ($0.25) returned to Buddy_Honeydew
+Buddy_Honeydew: doesn't show hand
+Buddy_Honeydew collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631829923: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:18:18
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($29.08 in chips)
+Seat 2: Shonta_Parnsip ($34.67 in chips)
+Seat 3: Tari_Spinach ($24.22 in chips)
+Seat 4: Ashlie_Carrots ($96.37 in chips)
+Seat 5: Alfred_Dill ($11.89 in chips)
+Seat 6: Odis_Spinach ($24.65 in chips)
+Hero: posts small blind $0.10
+Shonta_Parnsip: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4c Qs]
+Hero: Leave(Auto)
+Tari_Spinach: folds
+Tari_Spinach: Leave(Auto)
+Ashlie_Carrots: folds
+Ashlie_Carrots: Leave(Auto)
+Alfred_Dill: calls $0.25 
+Odis_Spinach: calls $0.25 
+Hero: folds
+Shonta_Parnsip: checks
+*** FLOP *** [Kh 2d Ks]
+Shonta_Parnsip: checks
+Alfred_Dill: checks
+Odis_Spinach: checks
+*** TURN *** [Kh 2d Ks] [Qh]
+Shonta_Parnsip: checks
+Alfred_Dill: checks
+Odis_Spinach: bets $0.42 
+Shonta_Parnsip: folds
+Shonta_Parnsip: Leave(Auto)
+Alfred_Dill: calls $0.42 
+*** RIVER *** [Kh 2d Ks Qh] [5s]
+Alfred_Dill: checks
+Odis_Spinach: checks
+*** SHOW DOWN ***
+Alfred_Dill: shows [Jc Kc] (three of a kind, Kings)
+Odis_Spinach: Mucks [6h 5c] (Two pair)
+Alfred_Dill collected $1.61 from pot
+*** SUMMARY ***
+Total pot $1.61
+
+
+
+PokerStars Hand #3631829969: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:18:23
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Jina_Shallot ($51.21 in chips)
+Seat 2: Alia_Bananas ($17.05 in chips)
+Seat 3: Kristi_Lavender ($12.50 in chips)
+Seat 4: Ardell_Onions ($28.16 in chips)
+Seat 5: Hero ($28.98 in chips)
+Seat 6: Ericka_Apples ($33.37 in chips)
+Hero: posts small blind $0.10
+Ericka_Apples: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3d Js]
+Hero: Leave(Auto)
+Jina_Shallot: folds
+Jina_Shallot: Leave(Auto)
+Alia_Bananas: raises $0.75 to $0.75
+Kristi_Lavender: calls $0.75 
+Ericka_Apples: Leave(Auto)
+Ardell_Onions: folds
+Ardell_Onions: Leave(Auto)
+Hero: folds
+Ericka_Apples: folds
+*** FLOP *** [Qs 5h Ah]
+Alia_Bananas: bets $0.75 
+Kristi_Lavender: calls $0.75 
+*** TURN *** [Qs 5h Ah] [6c]
+Alia_Bananas: checks
+Kristi_Lavender: checks
+*** RIVER *** [Qs 5h Ah 6c] [7h]
+Alia_Bananas: bets $1.75 
+Kristi_Lavender: calls $1.75 
+*** SHOW DOWN ***
+Alia_Bananas: shows [4d 4s] (a pair of Fours)
+Kristi_Lavender: shows [Td Ts] (a pair of Tens)
+Kristi_Lavender collected $6.51 from pot
+*** SUMMARY ***
+Total pot $6.85 | Rake $0.34
+Board [Qs 5h Ah 6c 7h]
+Seat 1: Jina_Shallot mucked [2h 4c]
+Seat 2: Alia_Bananas showed [4d 4s] and lost with a pair of Fours
+Seat 3: Kristi_Lavender showed [Td Ts] and won ($6.51) with a pair of Tens
+Seat 4: Ardell_Onions (button) mucked [Jd 5d]
+Seat 5: Hero (small blind) mucked
+Seat 6: Ericka_Apples (big blind) mucked
+
+
+
+PokerStars Hand #3631830014: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:18:28
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Jessi_Salak ($27.28 in chips)
+Seat 2: Hero ($28.88 in chips)
+Seat 3: Mina_Papaya ($25.33 in chips)
+Seat 4: Avril_Ugli ($90.55 in chips)
+Seat 5: Virgie_Squash ($75.22 in chips)
+Seat 6: Brain_Quinoa ($28.69 in chips)
+Virgie_Squash: posts small blind $0.10
+Brain_Quinoa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9d 9s]
+Jessi_Salak: folds
+Jessi_Salak: Leave(Auto)
+Avril_Ugli: Leave(Auto)
+Brain_Quinoa: Leave(Auto)
+Virgie_Squash: Leave(Auto)
+Mina_Papaya: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Mina_Papaya: folds
+Avril_Ugli: folds
+Virgie_Squash: folds
+Brain_Quinoa: folds
+Uncalled bet ($0.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Jessi_Salak mucked [5h Jc]
+Seat 2: Hero showed null and won ($0.60)
+Seat 3: Mina_Papaya showed [8c Kc] and lost
+Seat 4: Avril_Ugli (button) showed [7h Ts] and lost
+Seat 5: Virgie_Squash (small blind) showed [6s 7d] and lost
+Seat 6: Brain_Quinoa (big blind) showed [9h 4s] and lost
+
+
+
+PokerStars Hand #3631830153: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:18:43
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Ellis_Plum ($51.58 in chips)
+Seat 2: Emmitt_Zuchinis ($13.99 in chips)
+Seat 3: Sina_Plum ($20.24 in chips)
+Seat 4: Sammie_Turnips ($26.06 in chips)
+Seat 5: Yon_Caraway ($24.35 in chips)
+Seat 6: Hero ($29.23 in chips)
+Emmitt_Zuchinis: posts small blind $0.10
+Sina_Plum: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [6s Ah]
+Ellis_Plum: Leave(Auto)
+Emmitt_Zuchinis: Leave(Auto)
+Hero: Leave(Auto)
+Yon_Caraway: Leave(Auto)
+Sammie_Turnips: folds
+Sammie_Turnips: Leave(Auto)
+Yon_Caraway: folds
+Hero: folds
+Ellis_Plum: folds
+Emmitt_Zuchinis: folds
+Sina_Plum: doesn't show hand
+Uncalled bet ($0.25) returned to Sina_Plum
+Sina_Plum collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Ellis_Plum (button) showed [Qs 5c] and lost
+Seat 2: Emmitt_Zuchinis (small blind) showed [Jc Qd] and lost
+Seat 3: Sina_Plum (big blind) showed [9d Ts] and won ($0.10)
+Seat 4: Sammie_Turnips mucked [5d As]
+Seat 5: Yon_Caraway showed [7c 4d] and lost
+Seat 6: Hero showed [6s Ah] and lost
+
+
+
+PokerStars Hand #3631830216: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:18:49
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Hero ($29.23 in chips)
+Seat 2: Tova_Cilantro ($18.55 in chips)
+Seat 3: Pearle_Lettuce ($25 in chips)
+Seat 4: Buffy_Orange ($49.18 in chips)
+Seat 5: Vada_Celery ($51.21 in chips)
+Seat 6: Krista_Leek ($28.22 in chips)
+Tova_Cilantro: posts small blind $0.10
+Pearle_Lettuce: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Js 6s]
+Krista_Leek: Leave(Auto)
+Buffy_Orange: raises $0.75 to $0.75
+Hero: Leave(Auto)
+Tova_Cilantro: Leave(Auto)
+Vada_Celery: folds
+Vada_Celery: Leave(Auto)
+Krista_Leek: folds
+Hero: folds
+Tova_Cilantro: folds
+Pearle_Lettuce: folds
+Pearle_Lettuce: Leave(Auto)
+Uncalled bet ($0.50) returned to Buffy_Orange
+Buffy_Orange: doesn't show hand
+Buffy_Orange collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631830292: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:18:56
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Oneida_Grapes ($36.01 in chips)
+Seat 2: Ginger_Beans ($16.24 in chips)
+Seat 3: Willa_Quinoa ($34.42 in chips)
+Seat 4: Jannie_Tomatoes ($25.33 in chips)
+Seat 5: Kory_Nettles ($32.01 in chips)
+Seat 6: Hero ($29.23 in chips)
+Hero: posts small blind $0.10
+Oneida_Grapes: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [As Kh]
+Kory_Nettles: Leave(Auto)
+Ginger_Beans: calls $0.25 
+Willa_Quinoa: folds
+Willa_Quinoa: Leave(Auto)
+Jannie_Tomatoes: folds
+Jannie_Tomatoes: Leave(Auto)
+Kory_Nettles: folds
+Hero: raises $1.01 to $1.11
+Ginger_Beans: Leave(Auto)
+Oneida_Grapes: folds
+Oneida_Grapes: Leave(Auto)
+Ginger_Beans: folds
+Uncalled bet ($0.86) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75
+Seat 1: Oneida_Grapes (big blind) mucked [6c 2h]
+Seat 2: Ginger_Beans showed [9s Ks] and lost
+Seat 3: Willa_Quinoa mucked [6h 9c]
+Seat 4: Jannie_Tomatoes mucked [Tc 4s]
+Seat 5: Kory_Nettles (button) showed [9d 7s] and lost
+Seat 6: Hero (small blind) showed null and won ($0.75)
+
+
+
+PokerStars Hand #3631830641: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:19:32
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Rafael_Lentils ($11.48 in chips)
+Seat 2: Hero ($29.73 in chips)
+Seat 3: Daryl_Soursop ($25.64 in chips)
+Seat 4: Bea_Coconuts ($27.64 in chips)
+Seat 5: Dorian_Tamarind ($28.41 in chips)
+Seat 6: Jacque_Tubers ($31.76 in chips)
+Rafael_Lentils: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3h 8h]
+Bea_Coconuts: Leave(Auto)
+Rafael_Lentils: Leave(Auto)
+Dorian_Tamarind: Leave(Auto)
+Jacque_Tubers: Leave(Auto)
+Daryl_Soursop: folds
+Daryl_Soursop: Leave(Auto)
+Bea_Coconuts: folds
+Dorian_Tamarind: folds
+Jacque_Tubers: folds
+Rafael_Lentils: folds
+Hero: doesn't show hand
+Uncalled bet ($0.25) returned to Hero
+Hero collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631830803: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:19:50
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Casey_Peppers ($27.31 in chips)
+Seat 2: Sacha_Onions ($26.14 in chips)
+Seat 3: Jonas_Celery ($24.75 in chips)
+Seat 4: Hero ($29.83 in chips)
+Seat 5: Gayle_Parsley ($13.94 in chips)
+Seat 6: Walter_Alfalfa ($23.22 in chips)
+Casey_Peppers: posts small blind $0.10
+Sacha_Onions: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Js 2d]
+Casey_Peppers: Leave(Auto)
+Sacha_Onions: Leave(Auto)
+Hero: Leave(Auto)
+Jonas_Celery: raises $0.75 to $0.75
+Hero: folds
+Gayle_Parsley: raises $1.25 to $1.25
+Walter_Alfalfa: folds
+Walter_Alfalfa: Leave(Auto)
+Casey_Peppers: folds
+Sacha_Onions: folds
+Jonas_Celery: calls $0.50 
+*** FLOP *** [8c Qc 7s]
+Jonas_Celery: checks
+Gayle_Parsley: checks
+*** TURN *** [8c Qc 7s] [Kc]
+Jonas_Celery: checks
+Gayle_Parsley: checks
+*** RIVER *** [8c Qc 7s Kc] [6c]
+Jonas_Celery: checks
+Gayle_Parsley: checks
+*** SHOW DOWN ***
+Jonas_Celery: shows [Ts Th] (a pair of Tens)
+Gayle_Parsley: shows [2s Ks] (a pair of Kings)
+Gayle_Parsley collected $2.71 from pot
+*** SUMMARY ***
+Total pot $2.71
+
+
+
+PokerStars Hand #3631830874: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:19:57
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Lora_Kiwi ($14.77 in chips)
+Seat 2: Hero ($29.83 in chips)
+Seat 3: Morris_Soursop ($24.24 in chips)
+Seat 4: Alonso_Chives ($15.49 in chips)
+Seat 5: Clay_Quinoa ($22.47 in chips)
+Seat 6: Dawn_Kiwi ($52.31 in chips)
+Dawn_Kiwi: posts small blind $0.10
+Lora_Kiwi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ah 5h]
+Dawn_Kiwi: Leave(Auto)
+Alonso_Chives: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Lora_Kiwi: Leave(Auto)
+Morris_Soursop: calls $0.66 
+Alonso_Chives: folds
+Clay_Quinoa: calls $0.66 
+Dawn_Kiwi: folds
+Lora_Kiwi: folds
+*** FLOP *** [2d 6h 4s]
+Hero: bets $1.22 
+Morris_Soursop: folds
+Morris_Soursop: Leave(Auto)
+Clay_Quinoa: folds
+Uncalled bet ($1.22) returned to Hero
+Hero: doesn't show hand
+Hero collected $2.22 from pot
+*** SUMMARY ***
+Total pot $2.33 | Rake $0.11
+Board [2d 6h 4s]
+Seat 1: Lora_Kiwi (big blind) showed [6s 3d] and lost
+Seat 2: Hero showed null and won ($2.22)
+Seat 3: Morris_Soursop mucked [Jh 9h]
+Seat 4: Alonso_Chives showed [8d Kc] and lost
+Seat 5: Clay_Quinoa (button) mucked [8c 9c]
+Seat 6: Dawn_Kiwi (small blind) showed [6c 4h] and lost
+
+
+
+PokerStars Hand #3631831235: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:20:35
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Son_Raisins ($59.67 in chips)
+Seat 2: Hero ($31.39 in chips)
+Seat 3: Jorge_Pinto ($5.16 in chips)
+Seat 4: Walter_Melon ($46.62 in chips)
+Seat 5: Cinda_Jicama ($63.81 in chips)
+Seat 6: Clair_Leek ($19.35 in chips)
+Cinda_Jicama: posts small blind $0.10
+Clair_Leek: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5d Ah]
+Son_Raisins: folds
+Son_Raisins: Leave(Auto)
+Cinda_Jicama: Leave(Auto)
+Walter_Melon: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Jorge_Pinto: folds
+Jorge_Pinto: Leave(Auto)
+Walter_Melon: folds
+Cinda_Jicama: folds
+Clair_Leek: doesn't show hand
+Uncalled bet ($0.25) returned to Clair_Leek
+Clair_Leek collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631831290: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:20:40
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Maire_Dates ($17.10 in chips)
+Seat 2: Ping_Turnips ($20.36 in chips)
+Seat 3: Debbie_Beets ($73.93 in chips)
+Seat 4: Hero ($31.39 in chips)
+Seat 5: Mimi_Onions ($25.89 in chips)
+Seat 6: Alysa_Marjoram ($24.57 in chips)
+Hero: posts small blind $0.10
+Mimi_Onions: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qd 6s]
+Ping_Turnips: Leave(Auto)
+Debbie_Beets: Leave(Auto)
+Maire_Dates: Leave(Auto)
+Hero: Leave(Auto)
+Alysa_Marjoram: folds
+Alysa_Marjoram: Leave(Auto)
+Maire_Dates: folds
+Ping_Turnips: folds
+Debbie_Beets: folds
+Hero: folds
+Mimi_Onions: doesn't show hand
+Uncalled bet ($0.25) returned to Mimi_Onions
+Mimi_Onions collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631831336: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:20:45
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Sang_Rambutan ($26.86 in chips)
+Seat 2: Sadye_Marjoram ($13.77 in chips)
+Seat 3: Kaycee_Cherry ($36.98 in chips)
+Seat 4: Earl_Mango ($28.63 in chips)
+Seat 5: Hero ($31.29 in chips)
+Seat 6: Linn_Yams ($61.64 in chips)
+Hero: posts small blind $0.10
+Linn_Yams: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4h Ad]
+Sadye_Marjoram: Leave(Auto)
+Sang_Rambutan: folds
+Sang_Rambutan: Leave(Auto)
+Sadye_Marjoram: folds
+Earl_Mango: Leave(Auto)
+Kaycee_Cherry: raises $0.50 to $0.50
+Earl_Mango: folds
+Hero: folds
+Hero: Leave(Auto)
+Linn_Yams: calls $0.25 
+*** FLOP *** [6s 7d 9d]
+Linn_Yams: checks
+Kaycee_Cherry: checks
+*** TURN *** [6s 7d 9d] [8s]
+Linn_Yams: bets $1.85 
+Kaycee_Cherry: folds
+Kaycee_Cherry: Leave(Auto)
+Uncalled bet ($1.85) returned to Linn_Yams
+Linn_Yams: doesn't show hand
+Linn_Yams collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.05
+
+
+
+PokerStars Hand #3631831447: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:20:56
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Polly_Mango ($35.70 in chips)
+Seat 2: Evonne_Sage ($25.57 in chips)
+Seat 3: Rosio_Wasabi ($51.58 in chips)
+Seat 4: Eliseo_Peppers ($28.63 in chips)
+Seat 5: Reva_Ugli ($73.83 in chips)
+Seat 6: Hero ($31.19 in chips)
+Reva_Ugli: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qs 9s]
+Reva_Ugli: Leave(Auto)
+Polly_Mango: folds
+Polly_Mango: Leave(Auto)
+Eliseo_Peppers: Leave(Auto)
+Evonne_Sage: folds
+Evonne_Sage: Leave(Auto)
+Rosio_Wasabi: raises $0.55 to $0.55
+Eliseo_Peppers: folds
+Reva_Ugli: folds
+Hero: calls $0.30 
+*** FLOP *** [Ad 6d 5h]
+Hero: checks
+Rosio_Wasabi: bets $0.45 
+Hero: folds
+Hero: Leave(Auto)
+Uncalled bet ($0.45) returned to Rosio_Wasabi
+Rosio_Wasabi: doesn't show hand
+Rosio_Wasabi collected $1.14 from pot
+*** SUMMARY ***
+Total pot $1.14
+
+
+
+PokerStars Hand #3631831736: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:21:25
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Mercy_Basil ($37.90 in chips)
+Seat 2: Maira_Cayenne ($26.84 in chips)
+Seat 3: Laurel_Yuzu ($62.09 in chips)
+Seat 4: Millie_Kiwi ($10.15 in chips)
+Seat 5: Hero ($30.64 in chips)
+Seat 6: Sophia_Kale ($93.24 in chips)
+Mercy_Basil: posts small blind $0.10
+Maira_Cayenne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Td Jc]
+Sophia_Kale: Leave(Auto)
+Laurel_Yuzu: folds
+Laurel_Yuzu: Leave(Auto)
+Millie_Kiwi: raises $0.75 to $0.75
+Hero: folds
+Hero: Leave(Auto)
+Sophia_Kale: folds
+Mercy_Basil: folds
+Mercy_Basil: Leave(Auto)
+Maira_Cayenne: raises $1.50 to $1.75
+Millie_Kiwi: calls $1 
+*** FLOP *** [7d 4c 7c]
+Maira_Cayenne: bets $1.75 
+Millie_Kiwi: calls $1.75 
+*** TURN *** [7d 4c 7c] [9c]
+Maira_Cayenne: checks
+Millie_Kiwi: checks
+*** RIVER *** [7d 4c 7c 9c] [Kh]
+Maira_Cayenne: bets $3 
+Millie_Kiwi: raises $6 to $6
+Maira_Cayenne: calls $3 
+*** SHOW DOWN ***
+Millie_Kiwi: shows [4d 4s] (a full house, Fours full of Sevens)
+Maira_Cayenne: Mucks [Ah Ac] (Two pair)
+Millie_Kiwi collected $18.15 from pot
+*** SUMMARY ***
+Total pot $18.15
+
+
+
+PokerStars Hand #3631831833: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:21:35
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Garnet_Squash ($31.69 in chips)
+Seat 2: Kenia_Rosemary ($15.15 in chips)
+Seat 3: Jarod_Tamarind ($23.85 in chips)
+Seat 4: Hero ($30.64 in chips)
+Seat 5: Autumn_Caraway ($20.01 in chips)
+Seat 6: Malia_Tamarind ($5.93 in chips)
+Garnet_Squash: posts small blind $0.10
+Kenia_Rosemary: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8d 4d]
+Malia_Tamarind: Leave(Auto)
+Hero: Leave(Auto)
+Jarod_Tamarind: raises $0.60 to $0.60
+Hero: folds
+Autumn_Caraway: folds
+Autumn_Caraway: Leave(Auto)
+Malia_Tamarind: folds
+Garnet_Squash: calls $0.50 
+Kenia_Rosemary: folds
+Kenia_Rosemary: Leave(Auto)
+*** FLOP *** [8s Qd Qh]
+Garnet_Squash: checks
+Jarod_Tamarind: bets $0.75 
+Garnet_Squash: calls $0.75 
+*** TURN *** [8s Qd Qh] [Jh]
+Garnet_Squash: checks
+Jarod_Tamarind: checks
+*** RIVER *** [8s Qd Qh Jh] [3s]
+Garnet_Squash: bets $2 
+Jarod_Tamarind: calls $2 
+*** SHOW DOWN ***
+Garnet_Squash: shows [2c 2s] (two pair, Queens and Deuces)
+Jarod_Tamarind: shows [5d 5h] (two pair, Queens and Fives)
+Jarod_Tamarind collected $6.61 from pot
+*** SUMMARY ***
+Total pot $6.61
+
+
+
+PokerStars Hand #3631831873: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:21:39
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Janene_Peas ($24.25 in chips)
+Seat 2: Leida_Bilberry ($28.08 in chips)
+Seat 3: Duane_Wasabi ($5.93 in chips)
+Seat 4: Dorian_Shallot ($19.33 in chips)
+Seat 5: Bee_Quince ($25.06 in chips)
+Seat 6: Hero ($30.64 in chips)
+Duane_Wasabi: posts small blind $0.10
+Dorian_Shallot: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9h Qs]
+Janene_Peas: Leave(Auto)
+Hero: Leave(Auto)
+Bee_Quince: raises $0.75 to $0.75
+Hero: folds
+Janene_Peas: folds
+Duane_Wasabi: Leave(Auto)
+Dorian_Shallot: Leave(Auto)
+Leida_Bilberry: folds
+Leida_Bilberry: Leave(Auto)
+Duane_Wasabi: folds
+Dorian_Shallot: folds
+Uncalled bet ($0.50) returned to Bee_Quince
+Bee_Quince: doesn't show hand
+Bee_Quince collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631831921: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:21:44
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Daria_Papaya ($52.35 in chips)
+Seat 2: Siu_Soy ($43.37 in chips)
+Seat 3: Omar_Tamarind ($30.44 in chips)
+Seat 4: Hero ($30.64 in chips)
+Seat 5: Daryl_Pumpkins ($45.36 in chips)
+Seat 6: Flavia_Radish ($52.07 in chips)
+Siu_Soy: posts small blind $0.10
+Omar_Tamarind: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [6s 5c]
+Daryl_Pumpkins: Leave(Auto)
+Flavia_Radish: Leave(Auto)
+Daria_Papaya: Leave(Auto)
+Omar_Tamarind: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Daryl_Pumpkins: folds
+Flavia_Radish: folds
+Daria_Papaya: folds
+Siu_Soy: folds
+Siu_Soy: Leave(Auto)
+*** SHOW DOWN ***
+Omar_Tamarind: shows [3d 8d] (high card Three)
+Uncalled bet ($0.25) returned to Omar_Tamarind
+Omar_Tamarind collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631831970: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:21:49
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Breana_Shallot ($26.08 in chips)
+Seat 2: Sang_Oregano ($19.25 in chips)
+Seat 3: Norene_Onions ($30.19 in chips)
+Seat 4: Hero ($30.64 in chips)
+Seat 5: Cyrus_Parnsip ($70.48 in chips)
+Seat 6: Jay_Squash ($28.31 in chips)
+Cyrus_Parnsip: posts small blind $0.10
+Jay_Squash: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2s As]
+Jay_Squash: Leave(Auto)
+Norene_Onions: Leave(Auto)
+Breana_Shallot: raises $0.75 to $0.75
+Cyrus_Parnsip: Leave(Auto)
+Sang_Oregano: calls $0.75 
+Norene_Onions: folds
+Hero: raises $2.55 to $2.55
+Cyrus_Parnsip: folds
+Jay_Squash: folds
+Sang_Oregano: Leave(Auto)
+Breana_Shallot: folds
+Breana_Shallot: Leave(Auto)
+Sang_Oregano: folds
+Uncalled bet ($1.80) returned to Hero
+Hero: doesn't show hand
+Hero collected $2.60 from pot
+*** SUMMARY ***
+Total pot $2.60
+Seat 1: Breana_Shallot mucked [Jh Ks]
+Seat 2: Sang_Oregano showed [2c 2h] and lost
+Seat 3: Norene_Onions showed [Js 7s] and lost
+Seat 4: Hero (button) showed null and won ($2.60)
+Seat 5: Cyrus_Parnsip (small blind) showed [Ts Ad] and lost
+Seat 6: Jay_Squash (big blind) showed [4d 3h] and lost
+
+
+
+PokerStars Hand #3631832452: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:22:40
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Jay_Zuchinis ($25.01 in chips)
+Seat 2: Latoya_Raisins ($5.26 in chips)
+Seat 3: Gayle_Apricots ($29.53 in chips)
+Seat 4: Buford_Caraway ($34.94 in chips)
+Seat 5: Hero ($32.49 in chips)
+Seat 6: Kisha_Lemon ($78.98 in chips)
+Buford_Caraway: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3s 8s]
+Gayle_Apricots: Leave(Auto)
+Latoya_Raisins: Leave(Auto)
+Kisha_Lemon: folds
+Kisha_Lemon: Leave(Auto)
+Jay_Zuchinis: raises $0.60 to $0.60
+Latoya_Raisins: folds
+Gayle_Apricots: folds
+Buford_Caraway: folds
+Buford_Caraway: Leave(Auto)
+Hero: calls $0.35 
+*** FLOP *** [2s 4s Ac]
+Hero: checks
+Jay_Zuchinis: checks
+*** TURN *** [2s 4s Ac] [6s]
+Hero: bets $0.77 
+Jay_Zuchinis: calls $0.77 
+*** RIVER *** [2s 4s Ac 6s] [Ks]
+Hero: checks
+Jay_Zuchinis: checks
+*** SHOW DOWN ***
+Hero: shows null (a flush, King high)
+Jay_Zuchinis: Mucks [7c 7s] (Flush)
+Hero collected $2.70 from pot
+*** SUMMARY ***
+Total pot $2.7
+
+
+
+PokerStars Hand #3631832942: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:23:32
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Gisela_Chard ($36.18 in chips)
+Seat 2: Hero ($33.82 in chips)
+Seat 3: Lula_Spinach ($28.68 in chips)
+Seat 4: Alan_Avocados ($10.55 in chips)
+Seat 5: Cris_Collard ($32.98 in chips)
+Seat 6: Yu_Daikon ($18.28 in chips)
+Hero: posts small blind $0.10
+Lula_Spinach: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7s Qs]
+Gisela_Chard: Leave(Auto)
+Alan_Avocados: folds
+Alan_Avocados: Leave(Auto)
+Cris_Collard: folds
+Cris_Collard: Leave(Auto)
+Yu_Daikon: raises $0.90 to $0.90
+Gisela_Chard: folds
+Hero: folds
+Hero: Leave(Auto)
+Lula_Spinach: folds
+Lula_Spinach: Leave(Auto)
+Uncalled bet ($0.65) returned to Yu_Daikon
+Yu_Daikon: doesn't show hand
+Yu_Daikon collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631833122: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:23:51
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Alisa_Broccoli ($39.08 in chips)
+Seat 2: Jeanie_Plumcot ($62.88 in chips)
+Seat 3: Alysha_Rambutan ($70.07 in chips)
+Seat 4: Hero ($33.72 in chips)
+Seat 5: Eddy_Leek ($33.98 in chips)
+Seat 6: Quinn_Beets ($17.68 in chips)
+Alisa_Broccoli: posts small blind $0.10
+Jeanie_Plumcot: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2h 4d]
+Eddy_Leek: Leave(Auto)
+Alysha_Rambutan: folds
+Alysha_Rambutan: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Eddy_Leek: folds
+Quinn_Beets: folds
+Quinn_Beets: Leave(Auto)
+Alisa_Broccoli: raises $0.65 to $0.75
+Jeanie_Plumcot: calls $0.50 
+*** FLOP *** [4h Js 3s]
+Alisa_Broccoli: checks
+Jeanie_Plumcot: checks
+*** TURN *** [4h Js 3s] [5d]
+Alisa_Broccoli: bets $1 
+Jeanie_Plumcot: raises $2 to $2
+Alisa_Broccoli: folds
+Alisa_Broccoli: Leave(Auto)
+Uncalled bet ($1) returned to Jeanie_Plumcot
+Jeanie_Plumcot: doesn't show hand
+Jeanie_Plumcot collected $3.33 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.17
+Board [4h Js 3s 5d]
+Seat 1: Alisa_Broccoli (small blind) mucked [Kd 7d]
+Seat 2: Jeanie_Plumcot (big blind) showed [2d 6d] and won ($3.33)
+Seat 3: Alysha_Rambutan mucked [5h Jh]
+Seat 4: Hero mucked null
+Seat 5: Eddy_Leek showed [8c 6h] and lost
+Seat 6: Quinn_Beets (button) mucked [Th 2c]
+
+
+
+PokerStars Hand #3631833193: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:23:58
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Palma_Olive ($27.29 in chips)
+Seat 2: Randa_Radish ($38.56 in chips)
+Seat 3: Shalon_Kiwi ($26.69 in chips)
+Seat 4: Marlin_Lime ($18.63 in chips)
+Seat 5: Deon_Guava ($23.66 in chips)
+Seat 6: Hero ($33.72 in chips)
+Shalon_Kiwi: posts small blind $0.10
+Marlin_Lime: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9s 2s]
+Hero: Leave(Auto)
+Deon_Guava: folds
+Deon_Guava: Leave(Auto)
+Hero: folds
+Palma_Olive: raises $0.75 to $0.75
+Randa_Radish: calls $0.75 
+Shalon_Kiwi: raises $2.90 to $3
+Marlin_Lime: calls $2.75 
+Palma_Olive: folds
+Randa_Radish: folds
+Randa_Radish: Leave(Auto)
+*** FLOP *** [4d 8c Ks]
+Shalon_Kiwi: checks
+Marlin_Lime: checks
+*** TURN *** [4d 8c Ks] [Jd]
+Shalon_Kiwi: checks
+Marlin_Lime: checks
+*** RIVER *** [4d 8c Ks Jd] [6s]
+Shalon_Kiwi: bets $2.50 
+Marlin_Lime: raises $8.48 to $8.48
+Shalon_Kiwi: calls $5.98 
+*** SHOW DOWN ***
+Marlin_Lime: shows [7s As] (high card Ace)
+Shalon_Kiwi: shows [Jh Ac] (a pair of Jacks)
+Shalon_Kiwi collected $23.24 from pot
+*** SUMMARY ***
+Total pot $23.24
+
+
+
+PokerStars Hand #3631833245: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:24:04
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Maggie_Lavender ($32.17 in chips)
+Seat 2: Bok_Parnsip ($92.04 in chips)
+Seat 3: Robbie_Alfalfa ($44.11 in chips)
+Seat 4: Cecile_Wasabi ($31.12 in chips)
+Seat 5: Hero ($33.72 in chips)
+Seat 6: Sina_Mango ($15.37 in chips)
+Bok_Parnsip: posts small blind $0.10
+Robbie_Alfalfa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Th Tc]
+Cecile_Wasabi: folds
+Cecile_Wasabi: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Robbie_Alfalfa: Leave(Auto)
+Maggie_Lavender: Leave(Auto)
+Sina_Mango: calls $0.66 
+Maggie_Lavender: folds
+Bok_Parnsip: folds
+Bok_Parnsip: Leave(Auto)
+Robbie_Alfalfa: folds
+*** FLOP *** [7s 6h 7d]
+Hero: bets $0.99 
+Sina_Mango: folds
+Sina_Mango: Leave(Auto)
+Uncalled bet ($0.99) returned to Hero
+Hero: doesn't show hand
+Hero collected $1.59 from pot
+*** SUMMARY ***
+Total pot $1.59
+
+
+
+PokerStars Hand #3631833584: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:24:39
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Karmen_Rhubarb ($26.04 in chips)
+Seat 2: Keshia_Kohlrabi ($47 in chips)
+Seat 3: Pedro_Chives ($12.75 in chips)
+Seat 4: Shelba_Chard ($35.51 in chips)
+Seat 5: Violet_Celery ($27.60 in chips)
+Seat 6: Hero ($34.65 in chips)
+Karmen_Rhubarb: posts small blind $0.10
+Keshia_Kohlrabi: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kc 3c]
+Violet_Celery: Leave(Auto)
+Pedro_Chives: folds
+Pedro_Chives: Leave(Auto)
+Shelba_Chard: raises $0.75 to $0.75
+Violet_Celery: folds
+Hero: folds
+Hero: Leave(Auto)
+Karmen_Rhubarb: folds
+Karmen_Rhubarb: Leave(Auto)
+Keshia_Kohlrabi: folds
+Keshia_Kohlrabi: Leave(Auto)
+Uncalled bet ($0.50) returned to Shelba_Chard
+Shelba_Chard: doesn't show hand
+Shelba_Chard collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631833681: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:24:51
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Lucia_Coconuts ($27.63 in chips)
+Seat 2: Hero ($34.65 in chips)
+Seat 3: Penney_Chard ($36.61 in chips)
+Seat 4: Percy_Onions ($18.87 in chips)
+Seat 5: Tyrell_Parnsip ($23.41 in chips)
+Seat 6: Iva_Orange ($10.70 in chips)
+Lucia_Coconuts: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3h Ad]
+Penney_Chard: folds
+Penney_Chard: Leave(Auto)
+Percy_Onions: folds
+Percy_Onions: Leave(Auto)
+Tyrell_Parnsip: folds
+Tyrell_Parnsip: Leave(Auto)
+Lucia_Coconuts: Leave(Auto)
+Iva_Orange: raises $0.50 to $0.50
+Lucia_Coconuts: folds
+Hero: calls $0.25 
+*** FLOP *** [Qh 7c Qc]
+Hero: checks
+Iva_Orange: bets $0.25 
+Hero: calls $0.25 
+*** TURN *** [Qh 7c Qc] [As]
+Hero: checks
+Iva_Orange: bets $0.25 
+Hero: calls $0.25 
+*** RIVER *** [Qh 7c Qc As] [Tc]
+Hero: checks
+Iva_Orange: bets $0.25 
+Hero: calls $0.25 
+*** SHOW DOWN ***
+Iva_Orange: shows [9h Ks] (a pair of Queens)
+Hero: shows [3h Ad] (two pair, Aces and Queens)
+Hero collected $2.47 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0.13
+Board [Qh 7c Qc As Tc]
+Seat 1: Lucia_Coconuts (small blind) mucked
+Seat 2: Hero (big blind) showed null and won ($2.47) with two pair, Aces and Queens
+Seat 3: Penney_Chard mucked [Kd 6s]
+Seat 4: Percy_Onions mucked [Th 4d]
+Seat 5: Tyrell_Parnsip mucked [Ac 6d]
+Seat 6: Iva_Orange (button) showed [9h Ks] and lost with a pair of Queens
+
+
+
+PokerStars Hand #3631834123: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:25:37
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Hero ($35.87 in chips)
+Seat 2: Jorge_Soy ($9.45 in chips)
+Seat 3: Jolene_Jicama ($28.19 in chips)
+Seat 4: Alissa_Fennel ($38.45 in chips)
+Seat 5: Abbey_Cucumber ($7.15 in chips)
+Seat 6: Tia_Sprouts ($27.68 in chips)
+Jorge_Soy: posts small blind $0.10
+Jolene_Jicama: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8h 6s]
+Tia_Sprouts: Leave(Auto)
+Alissa_Fennel: folds
+Alissa_Fennel: Leave(Auto)
+Hero: Leave(Auto)
+Abbey_Cucumber: folds
+Abbey_Cucumber: Leave(Auto)
+Tia_Sprouts: folds
+Hero: folds
+Jorge_Soy: folds
+Jolene_Jicama: doesn't show hand
+Uncalled bet ($0.25) returned to Jolene_Jicama
+Jolene_Jicama collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Hero (button) showed [8h 6s] and lost
+Seat 2: Jorge_Soy (small blind) mucked [9s 2d]
+Seat 3: Jolene_Jicama (big blind) showed [3h 7d] and won ($0.10)
+Seat 4: Alissa_Fennel mucked [Qh 8c]
+Seat 5: Abbey_Cucumber mucked [4c As]
+Seat 6: Tia_Sprouts showed [3d 4s] and lost
+
+
+
+PokerStars Hand #3631834175: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:25:42
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: May_Turnips ($27.68 in chips)
+Seat 2: Otto_Parsley ($38.45 in chips)
+Seat 3: Michal_Onions ($23.61 in chips)
+Seat 4: Twila_Jujube ($26.40 in chips)
+Seat 5: Stasia_Avocados ($24.25 in chips)
+Seat 6: Hero ($35.87 in chips)
+Otto_Parsley: posts small blind $0.10
+Michal_Onions: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8h Ac]
+Twila_Jujube: folds
+Twila_Jujube: Leave(Auto)
+Stasia_Avocados: folds
+Stasia_Avocados: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+May_Turnips: folds
+May_Turnips: Leave(Auto)
+Otto_Parsley: raises $0.65 to $0.75
+Michal_Onions: folds
+Michal_Onions: Leave(Auto)
+Uncalled bet ($0.50) returned to Otto_Parsley
+Otto_Parsley: doesn't show hand
+Otto_Parsley collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50
+Seat 1: May_Turnips (button) mucked [Ts 4h]
+Seat 2: Otto_Parsley (small blind) showed [7h 7d] and won ($0.50)
+Seat 3: Michal_Onions (big blind) mucked [4d 3c]
+Seat 4: Twila_Jujube mucked [9c 5h]
+Seat 5: Stasia_Avocados mucked [Qs Jc]
+Seat 6: Hero mucked null
+
+
+
+PokerStars Hand #3631834233: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:25:47
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Judie_Daikon ($18.32 in chips)
+Seat 2: Neomi_Potatos ($24.25 in chips)
+Seat 3: Reid_Bilberry ($36.48 in chips)
+Seat 4: Hero ($35.87 in chips)
+Seat 5: Tami_Pomelo ($24.20 in chips)
+Seat 6: Brant_Lychee ($48.78 in chips)
+Hero: posts small blind $0.10
+Tami_Pomelo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9c Th]
+Tami_Pomelo: Leave(Auto)
+Reid_Bilberry: Leave(Auto)
+Neomi_Potatos: Leave(Auto)
+Brant_Lychee: folds
+Brant_Lychee: Leave(Auto)
+Judie_Daikon: folds
+Judie_Daikon: Leave(Auto)
+Neomi_Potatos: folds
+Reid_Bilberry: folds
+Hero: calls $0.15 
+Tami_Pomelo: checks
+*** FLOP *** [Ac Jc 9h]
+Hero: checks
+Tami_Pomelo: checks
+*** TURN *** [Ac Jc 9h] [8d]
+Hero: bets $0.30 
+Tami_Pomelo: folds
+Uncalled bet ($0.30) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.48
+
+
+
+PokerStars Hand #3631834511: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:26:17
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Ashli_Bananas ($63.46 in chips)
+Seat 2: Dania_Skirret ($7.05 in chips)
+Seat 3: Vinita_Pinto ($25 in chips)
+Seat 4: Cheryl_Okra ($41.32 in chips)
+Seat 5: Minta_Pomelo ($21.09 in chips)
+Seat 6: Hero ($36.10 in chips)
+Dania_Skirret: posts small blind $0.10
+Vinita_Pinto: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ac Td]
+Cheryl_Okra: folds
+Cheryl_Okra: Leave(Auto)
+Dania_Skirret: Leave(Auto)
+Minta_Pomelo: raises $0.75 to $0.75
+Ashli_Bananas: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Ashli_Bananas: folds
+Dania_Skirret: folds
+Vinita_Pinto: folds
+Vinita_Pinto: Leave(Auto)
+Uncalled bet ($0.50) returned to Minta_Pomelo
+Minta_Pomelo: doesn't show hand
+Minta_Pomelo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Ashli_Bananas (button) showed [Qh 5s] and lost
+Seat 2: Dania_Skirret (small blind) showed [7c 6s] and lost
+Seat 3: Vinita_Pinto (big blind) mucked [8s Kd]
+Seat 4: Cheryl_Okra mucked [4s Kc]
+Seat 5: Minta_Pomelo showed [Ts Tc] and won ($0.60)
+Seat 6: Hero mucked null
+
+
+
+PokerStars Hand #3631834597: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:26:27
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Jayna_Papaya ($33.80 in chips)
+Seat 2: Hero ($36.10 in chips)
+Seat 3: Jodie_Jalapeño ($27.63 in chips)
+Seat 4: Sang_Tabasco ($26.54 in chips)
+Seat 5: Jon_Cabbage ($26.26 in chips)
+Seat 6: Peggy_Rambutan ($28.61 in chips)
+Hero: posts small blind $0.10
+Jodie_Jalapeño: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8c 2h]
+Hero: Leave(Auto)
+Jon_Cabbage: Leave(Auto)
+Peggy_Rambutan: Leave(Auto)
+Sang_Tabasco: raises $0.75 to $0.75
+Jon_Cabbage: folds
+Peggy_Rambutan: folds
+Jayna_Papaya: calls $0.75 
+Hero: folds
+Jodie_Jalapeño: folds
+Jodie_Jalapeño: Leave(Auto)
+*** FLOP *** [Js Ks As]
+Sang_Tabasco: checks
+Jayna_Papaya: checks
+*** TURN *** [Js Ks As] [4h]
+Sang_Tabasco: bets $0.92 
+Jayna_Papaya: calls $0.92 
+*** RIVER *** [Js Ks As 4h] [5s]
+Sang_Tabasco: checks
+Jayna_Papaya: checks
+*** SHOW DOWN ***
+Sang_Tabasco: shows [Jd Ah] (two pair, Aces and Jacks)
+Jayna_Papaya: Mucks [5d Ad] (Two pair)
+Sang_Tabasco collected $3.51 from pot
+*** SUMMARY ***
+Total pot $3.69 | Rake $0.18
+Board [Js Ks As 4h 5s]
+Seat 1: Jayna_Papaya (button) mucked [5d Ad]
+Seat 2: Hero (small blind) mucked
+Seat 3: Jodie_Jalapeño (big blind) mucked [2c Kh]
+Seat 4: Sang_Tabasco showed [Jd Ah] and won ($3.51) with two pair, Aces and Jacks
+Seat 5: Jon_Cabbage mucked
+Seat 6: Peggy_Rambutan mucked
+
+
+
+PokerStars Hand #3631834644: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:26:32
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Anissa_Daikon ($23.15 in chips)
+Seat 2: Lonna_Olive ($26.25 in chips)
+Seat 3: Leena_Lychee ($23.60 in chips)
+Seat 4: Henry_Rutabaga ($23.85 in chips)
+Seat 5: Hero ($36 in chips)
+Seat 6: Allan_Pomelo ($36.73 in chips)
+Henry_Rutabaga: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Jd Ah]
+Leena_Lychee: Leave(Auto)
+Lonna_Olive: Leave(Auto)
+Allan_Pomelo: folds
+Allan_Pomelo: Leave(Auto)
+Henry_Rutabaga: Leave(Auto)
+Anissa_Daikon: folds
+Anissa_Daikon: Leave(Auto)
+Lonna_Olive: folds
+Leena_Lychee: folds
+Henry_Rutabaga: folds
+Hero: doesn't show hand
+Uncalled bet ($0.25) returned to Hero
+Hero collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631834875: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:26:55
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Dortha_Garlic ($89.83 in chips)
+Seat 2: Jerold_Salak ($24.75 in chips)
+Seat 3: Hero ($36.10 in chips)
+Seat 4: Jada_Collard ($9.83 in chips)
+Seat 5: Ludie_Apples ($51.60 in chips)
+Seat 6: Gerry_Kohlrabi ($23.45 in chips)
+Hero: posts small blind $0.10
+Jada_Collard: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qc 3h]
+Dortha_Garlic: Leave(Auto)
+Ludie_Apples: folds
+Ludie_Apples: Leave(Auto)
+Hero: Leave(Auto)
+Gerry_Kohlrabi: raises $0.75 to $0.75
+Dortha_Garlic: folds
+Jada_Collard: Leave(Auto)
+Jerold_Salak: calls $0.75 
+Hero: folds
+Jada_Collard: folds
+*** FLOP *** [6d 5d Jh]
+Gerry_Kohlrabi: bets $1 
+Jerold_Salak: calls $1 
+*** TURN *** [6d 5d Jh] [Ts]
+Gerry_Kohlrabi: bets $2.50 
+Jerold_Salak: calls $2.50 
+*** RIVER *** [6d 5d Jh Ts] [Tc]
+Gerry_Kohlrabi: checks
+Jerold_Salak: checks
+*** SHOW DOWN ***
+Gerry_Kohlrabi: shows [7d Ad] (a pair of Tens)
+Jerold_Salak: shows [4d 4h] (two pair, Tens and Fours)
+Jerold_Salak collected $8.41 from pot
+*** SUMMARY ***
+Total pot $8.41
+
+
+
+PokerStars Hand #3631834933: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:27:01
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($36 in chips)
+Seat 2: Corine_Chives ($10.03 in chips)
+Seat 3: Sung_Oregano ($19.20 in chips)
+Seat 4: Robby_Oregano ($16.69 in chips)
+Seat 5: Arlene_Lavender ($28.92 in chips)
+Seat 6: Sau_Beets ($19.25 in chips)
+Hero: posts small blind $0.10
+Corine_Chives: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Js 5c]
+Sung_Oregano: folds
+Sung_Oregano: Leave(Auto)
+Hero: Leave(Auto)
+Arlene_Lavender: Leave(Auto)
+Robby_Oregano: folds
+Robby_Oregano: Leave(Auto)
+Arlene_Lavender: folds
+Sau_Beets: raises $0.50 to $0.50
+Hero: folds
+Corine_Chives: raises $2 to $2.25
+Sau_Beets: folds
+Sau_Beets: Leave(Auto)
+Uncalled bet ($1.75) returned to Corine_Chives
+Corine_Chives: doesn't show hand
+Corine_Chives collected $1.10 from pot
+*** SUMMARY ***
+Total pot $1.1
+
+
+
+PokerStars Hand #3631834985: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:27:07
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Hero ($35.90 in chips)
+Seat 2: Tonda_Avocados ($30.12 in chips)
+Seat 3: Lon_Habanero ($127.10 in chips)
+Seat 4: Britt_Jalapeño ($25.50 in chips)
+Seat 5: Maris_Mulberry ($83.59 in chips)
+Seat 6: Tony_Cherry ($72.03 in chips)
+Tonda_Avocados: posts small blind $0.10
+Lon_Habanero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7h 4h]
+Maris_Mulberry: Leave(Auto)
+Tonda_Avocados: Leave(Auto)
+Britt_Jalapeño: folds
+Britt_Jalapeño: Leave(Auto)
+Maris_Mulberry: folds
+Tony_Cherry: folds
+Tony_Cherry: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Tonda_Avocados: folds
+Lon_Habanero: folds
+Lon_Habanero: Leave(Auto)
+Uncalled bet ($0.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631835258: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:27:36
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: See_Chili ($26.60 in chips)
+Seat 2: April_Fennel ($23.80 in chips)
+Seat 3: June_Alfalfa ($83.34 in chips)
+Seat 4: Hero ($36.25 in chips)
+Seat 5: Lewis_Kale ($35.21 in chips)
+Seat 6: Onie_Melon ($29.19 in chips)
+See_Chili: posts small blind $0.10
+April_Fennel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qs 3s]
+June_Alfalfa: folds
+June_Alfalfa: Leave(Auto)
+Lewis_Kale: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Lewis_Kale: folds
+See_Chili: Leave(Auto)
+Onie_Melon: raises $0.50 to $0.50
+See_Chili: folds
+April_Fennel: calls $0.25 
+*** FLOP *** [7h 6d Jd]
+April_Fennel: checks
+Onie_Melon: bets $0.35 
+April_Fennel: calls $0.35 
+*** TURN *** [7h 6d Jd] [Qh]
+April_Fennel: checks
+Onie_Melon: checks
+*** RIVER *** [7h 6d Jd Qh] [7s]
+April_Fennel: bets $1.30 
+Onie_Melon: folds
+Onie_Melon: Leave(Auto)
+Uncalled bet ($1.30) returned to April_Fennel
+April_Fennel: doesn't show hand
+April_Fennel collected $1.71 from pot
+*** SUMMARY ***
+Total pot $1.71
+
+
+
+PokerStars Hand #3631835307: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:27:41
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($36.25 in chips)
+Seat 2: Thea_Garlic ($36.56 in chips)
+Seat 3: Shana_Goji ($126.85 in chips)
+Seat 4: Devon_Kale ($22.70 in chips)
+Seat 5: Keneth_Pomelo ($26.50 in chips)
+Seat 6: Gordon_Guava ($25.60 in chips)
+Hero: posts small blind $0.10
+Thea_Garlic: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ad 2h]
+Devon_Kale: Leave(Auto)
+Keneth_Pomelo: Leave(Auto)
+Hero: Leave(Auto)
+Shana_Goji: folds
+Shana_Goji: Leave(Auto)
+Devon_Kale: folds
+Keneth_Pomelo: folds
+Gordon_Guava: raises $0.60 to $0.60
+Hero: folds
+Thea_Garlic: folds
+Thea_Garlic: Leave(Auto)
+Uncalled bet ($0.35) returned to Gordon_Guava
+Gordon_Guava: doesn't show hand
+Gordon_Guava collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631835348: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:27:46
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Hero ($36.15 in chips)
+Seat 2: Delia_Tubers ($126.85 in chips)
+Seat 3: Robin_Leek ($64.60 in chips)
+Seat 4: Jenine_Parnsip ($27.38 in chips)
+Seat 5: Lorina_Mulberry ($28.26 in chips)
+Seat 6: Cecil_Peppers ($31.66 in chips)
+Jenine_Parnsip: posts small blind $0.10
+Lorina_Mulberry: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qd 7h]
+Cecil_Peppers: folds
+Cecil_Peppers: Leave(Auto)
+Robin_Leek: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Delia_Tubers: raises $0.50 to $0.50
+Robin_Leek: folds
+Jenine_Parnsip: calls $0.40 
+Lorina_Mulberry: calls $0.25 
+*** FLOP *** [8d 4d 2c]
+Jenine_Parnsip: checks
+Lorina_Mulberry: checks
+Delia_Tubers: checks
+*** TURN *** [8d 4d 2c] [6c]
+Jenine_Parnsip: checks
+Lorina_Mulberry: checks
+Delia_Tubers: checks
+*** RIVER *** [8d 4d 2c 6c] [7d]
+Jenine_Parnsip: checks
+Lorina_Mulberry: checks
+Delia_Tubers: bets $0.75 
+Jenine_Parnsip: folds
+Jenine_Parnsip: Leave(Auto)
+Lorina_Mulberry: calls $0.75 
+*** SHOW DOWN ***
+Delia_Tubers: shows [Ah 5d] (a straight, Four to Eight)
+Lorina_Mulberry: Mucks [Ac Qs] (High Card)
+Delia_Tubers collected $2.85 from pot
+*** SUMMARY ***
+Total pot $2.85
+
+
+
+PokerStars Hand #3631835395: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:27:51
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Gussie_Rambutan ($45.40 in chips)
+Seat 2: Hero ($36.15 in chips)
+Seat 3: Maia_Plumcot ($30.78 in chips)
+Seat 4: Gordon_Figs ($14.18 in chips)
+Seat 5: Moshe_Zuchinis ($16.44 in chips)
+Seat 6: Sadye_Radish ($23.61 in chips)
+Sadye_Radish: posts small blind $0.10
+Gussie_Rambutan: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2s 8s]
+Maia_Plumcot: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Maia_Plumcot: folds
+Gordon_Figs: folds
+Gordon_Figs: Leave(Auto)
+Moshe_Zuchinis: raises $0.75 to $0.75
+Sadye_Radish: folds
+Sadye_Radish: Leave(Auto)
+Gussie_Rambutan: calls $0.50 
+*** FLOP *** [5c 7h 3s]
+Gussie_Rambutan: checks
+Moshe_Zuchinis: checks
+*** TURN *** [5c 7h 3s] [Ac]
+Gussie_Rambutan: checks
+Moshe_Zuchinis: bets $1 
+Gussie_Rambutan: folds
+Gussie_Rambutan: Leave(Auto)
+Uncalled bet ($1) returned to Moshe_Zuchinis
+Moshe_Zuchinis: doesn't show hand
+Moshe_Zuchinis collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.52
+
+
+
+PokerStars Hand #3631835445: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:27:56
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Hero ($36.15 in chips)
+Seat 2: Santos_Orange ($31.66 in chips)
+Seat 3: Kandis_Carrots ($15.13 in chips)
+Seat 4: Dora_Chili ($24.75 in chips)
+Seat 5: Wilda_Lentils ($15.82 in chips)
+Seat 6: Kami_Soursop ($24.65 in chips)
+Kami_Soursop: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8h Qd]
+Kami_Soursop: Leave(Auto)
+Santos_Orange: folds
+Santos_Orange: Leave(Auto)
+Dora_Chili: Leave(Auto)
+Kandis_Carrots: raises $0.75 to $0.75
+Dora_Chili: folds
+Wilda_Lentils: folds
+Wilda_Lentils: Leave(Auto)
+Kami_Soursop: folds
+Hero: calls $0.50 
+*** FLOP *** [5s Kh 3s]
+Hero: checks
+Kandis_Carrots: bets $0.80 
+Hero: folds
+Hero: Leave(Auto)
+Uncalled bet ($0.80) returned to Kandis_Carrots
+Kandis_Carrots: doesn't show hand
+Kandis_Carrots collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.52
+
+
+
+PokerStars Hand #3631835716: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:28:24
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Tandra_Turnips ($68.45 in chips)
+Seat 2: Jules_Lemon ($31.41 in chips)
+Seat 3: Hero ($35.40 in chips)
+Seat 4: Brandy_Pomelo ($25 in chips)
+Seat 5: Alycia_Chili ($22.17 in chips)
+Seat 6: Madlyn_Alfalfa ($24.55 in chips)
+Alycia_Chili: posts small blind $0.10
+Madlyn_Alfalfa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [6d 7d]
+Jules_Lemon: Leave(Auto)
+Brandy_Pomelo: Leave(Auto)
+Tandra_Turnips: folds
+Tandra_Turnips: Leave(Auto)
+Jules_Lemon: folds
+Alycia_Chili: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Brandy_Pomelo: folds
+Alycia_Chili: folds
+Madlyn_Alfalfa: folds
+Madlyn_Alfalfa: Leave(Auto)
+Uncalled bet ($0.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631835899: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:28:44
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Robert_Zuchinis ($23.43 in chips)
+Seat 2: Otis_Garlic ($34.90 in chips)
+Seat 3: Nell_Grapes ($22.37 in chips)
+Seat 4: Andres_Ginger ($30.46 in chips)
+Seat 5: Ila_Lychee ($14.99 in chips)
+Seat 6: Hero ($35.75 in chips)
+Robert_Zuchinis: posts small blind $0.10
+Otis_Garlic: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qs 2d]
+Ila_Lychee: Leave(Auto)
+Nell_Grapes: folds
+Nell_Grapes: Leave(Auto)
+Hero: Leave(Auto)
+Andres_Ginger: calls $0.25 
+Ila_Lychee: folds
+Hero: folds
+Robert_Zuchinis: calls $0.15 
+Otis_Garlic: raises $1 to $1.25
+Andres_Ginger: calls $1 
+Robert_Zuchinis: calls $1 
+*** FLOP *** [7d 9c Kc]
+Robert_Zuchinis: checks
+Otis_Garlic: bets $2.37 
+Andres_Ginger: folds
+Andres_Ginger: Leave(Auto)
+Robert_Zuchinis: folds
+Robert_Zuchinis: Leave(Auto)
+Uncalled bet ($2.37) returned to Otis_Garlic
+Otis_Garlic: doesn't show hand
+Otis_Garlic collected $3.57 from pot
+*** SUMMARY ***
+Total pot $3.57
+
+
+
+PokerStars Hand #3631835953: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:28:50
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($35.75 in chips)
+Seat 2: Ramona_Cayenne ($11.23 in chips)
+Seat 3: Monet_Kale ($12.60 in chips)
+Seat 4: Kurtis_Parsley ($13.95 in chips)
+Seat 5: Joseph_Olive ($24.75 in chips)
+Seat 6: Elisa_Onions ($24.27 in chips)
+Hero: posts small blind $0.10
+Ramona_Cayenne: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4h 2c]
+Joseph_Olive: Leave(Auto)
+Kurtis_Parsley: Leave(Auto)
+Hero: Leave(Auto)
+Monet_Kale: raises $0.75 to $0.75
+Kurtis_Parsley: folds
+Joseph_Olive: folds
+Ramona_Cayenne: Leave(Auto)
+Elisa_Onions: folds
+Elisa_Onions: Leave(Auto)
+Hero: folds
+Ramona_Cayenne: folds
+Uncalled bet ($0.50) returned to Monet_Kale
+Monet_Kale: doesn't show hand
+Monet_Kale collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Hero (small blind) showed [4h 2c] and lost
+Seat 2: Ramona_Cayenne (big blind) showed [As 7h] and lost
+Seat 3: Monet_Kale showed [Ah 9h] and won ($0.60)
+Seat 4: Kurtis_Parsley showed [5s 4c] and lost
+Seat 5: Joseph_Olive showed [9c Jd] and lost
+Seat 6: Elisa_Onions (button) mucked [Kc 6d]
+
+
+
+PokerStars Hand #3631836001: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:28:55
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Ines_Turnips ($30.56 in chips)
+Seat 2: Hero ($35.65 in chips)
+Seat 3: Gerri_Collard ($10.95 in chips)
+Seat 4: Bradly_Shallot ($78.93 in chips)
+Seat 5: Tamara_Peach ($25.52 in chips)
+Seat 6: Dick_Soy ($37.95 in chips)
+Dick_Soy: posts small blind $0.10
+Ines_Turnips: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3d 8c]
+Tamara_Peach: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Bradly_Shallot: Leave(Auto)
+Dick_Soy: Leave(Auto)
+Gerri_Collard: folds
+Gerri_Collard: Leave(Auto)
+Bradly_Shallot: folds
+Tamara_Peach: folds
+Dick_Soy: folds
+Ines_Turnips: doesn't show hand
+Uncalled bet ($0.25) returned to Ines_Turnips
+Ines_Turnips collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10
+Seat 1: Ines_Turnips (big blind) showed [4h Th] and won ($0.10)
+Seat 2: Hero mucked null
+Seat 3: Gerri_Collard mucked [8s Qh]
+Seat 4: Bradly_Shallot showed [Kc 9d] and lost
+Seat 5: Tamara_Peach (button) showed [Jc 9s] and lost
+Seat 6: Dick_Soy (small blind) showed [Jh 6d] and lost
+
+
+
+PokerStars Hand #3631836048: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:29:00
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Dora_Melon ($25.52 in chips)
+Seat 2: Milan_Lime ($14.89 in chips)
+Seat 3: Kiera_Sage ($16 in chips)
+Seat 4: Keva_Chili ($63.31 in chips)
+Seat 5: Hero ($35.65 in chips)
+Seat 6: Monnie_Lychee ($34.47 in chips)
+Monnie_Lychee: posts small blind $0.10
+Dora_Melon: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9c 9s]
+Milan_Lime: folds
+Milan_Lime: Leave(Auto)
+Keva_Chili: Leave(Auto)
+Kiera_Sage: folds
+Kiera_Sage: Leave(Auto)
+Keva_Chili: folds
+Hero: raises $0.66 to $0.66
+Dora_Melon: Leave(Auto)
+Monnie_Lychee: raises $2 to $2.10
+Dora_Melon: folds
+Hero: calls $1.44 
+*** FLOP *** [Qc 4h 7s]
+Monnie_Lychee: checks
+Hero: checks
+*** TURN *** [Qc 4h 7s] [3d]
+Monnie_Lychee: bets $2.70 
+Hero: calls $2.70 
+*** RIVER *** [Qc 4h 7s 3d] [2c]
+Monnie_Lychee: bets $5.80 
+Hero: calls $5.80 
+*** SHOW DOWN ***
+Monnie_Lychee: shows [Ac Tc] (high card Ace)
+Hero: shows null (a pair of Nines)
+Hero collected $20.38 from pot
+*** SUMMARY ***
+Total pot $20.38
+
+
+
+PokerStars Hand #3631836636: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:30:02
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Ji_Prunes ($51.07 in chips)
+Seat 2: Shelly_Plantain ($26.41 in chips)
+Seat 3: Hero ($45.43 in chips)
+Seat 4: Malik_Rhubarb ($23.87 in chips)
+Seat 5: Troy_Tubers ($35.41 in chips)
+Seat 6: Tyra_Guava ($16.50 in chips)
+Malik_Rhubarb: posts small blind $0.10
+Troy_Tubers: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4h 8d]
+Ji_Prunes: Leave(Auto)
+Hero: Leave(Auto)
+Malik_Rhubarb: Leave(Auto)
+Tyra_Guava: raises $0.75 to $0.75
+Ji_Prunes: folds
+Shelly_Plantain: calls $0.75 
+Hero: folds
+Malik_Rhubarb: folds
+Troy_Tubers: folds
+Troy_Tubers: Leave(Auto)
+*** FLOP *** [5d 5s 6d]
+Tyra_Guava: checks
+Shelly_Plantain: bets $1.85 
+Tyra_Guava: folds
+Tyra_Guava: Leave(Auto)
+Uncalled bet ($1.85) returned to Shelly_Plantain
+Shelly_Plantain: doesn't show hand
+Shelly_Plantain collected $1.76 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.09
+Board [5d 5s 6d]
+Seat 1: Ji_Prunes showed [8c 5c] and lost
+Seat 2: Shelly_Plantain showed [7d Ad] and won ($1.76)
+Seat 3: Hero (button) showed [4h 8d] and lost
+Seat 4: Malik_Rhubarb (small blind) showed [4s 2h] and lost
+Seat 5: Troy_Tubers (big blind) mucked [9h 6s]
+Seat 6: Tyra_Guava mucked [Tc Jc]
+
+
+
+PokerStars Hand #3631836687: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:30:08
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Paula_Pears ($30.15 in chips)
+Seat 2: Hero ($45.43 in chips)
+Seat 3: Nelly_Tabasco ($18.51 in chips)
+Seat 4: Ardath_Anise ($23.77 in chips)
+Seat 5: Trish_Carrots ($13.40 in chips)
+Seat 6: Drew_Dates ($30.78 in chips)
+Paula_Pears: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Tc Td]
+Ardath_Anise: Leave(Auto)
+Trish_Carrots: Leave(Auto)
+Nelly_Tabasco: folds
+Nelly_Tabasco: Leave(Auto)
+Ardath_Anise: folds
+Trish_Carrots: folds
+Drew_Dates: raises $0.75 to $0.75
+Paula_Pears: raises $2.65 to $2.75
+Drew_Dates: Leave(Auto)
+Hero: calls $2.50 
+Drew_Dates: folds
+*** FLOP *** [Jd 5h Th]
+Paula_Pears: bets $2 
+Hero: raises $5 to $5
+Paula_Pears: calls $3 
+*** TURN *** [Jd 5h Th] [7c]
+Paula_Pears: checks
+Hero: bets $7.77 
+Paula_Pears: calls $7.77 
+*** RIVER *** [Jd 5h Th 7c] [Jh]
+Paula_Pears: checks
+Hero: bets $29.91 and is all-in
+Paula_Pears: calls $14.63 and is all-in
+*** SHOW DOWN ***
+Hero: shows null (a full house, Tens full of Jacks)
+Paula_Pears: Mucks [5d 5s] (Full House)
+Uncalled bet ($15.28) returned to Hero
+Hero collected $59.05 from pot
+*** SUMMARY ***
+Total pot $59.05
+
+
+
+PokerStars Hand #3631837628: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:31:45
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Lili_Apricots ($18.70 in chips)
+Seat 2: Ervin_Peas ($45.39 in chips)
+Seat 3: Tania_Quince ($33.25 in chips)
+Seat 4: Anh_Rutabaga ($22.89 in chips)
+Seat 5: Hero ($74.33 in chips)
+Seat 6: Deeann_Jalapeño ($19.63 in chips)
+Hero: posts small blind $0.10
+Deeann_Jalapeño: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8d 3d]
+Lili_Apricots: folds
+Lili_Apricots: Leave(Auto)
+Tania_Quince: Leave(Auto)
+Anh_Rutabaga: Leave(Auto)
+Ervin_Peas: raises $0.75 to $0.75
+Tania_Quince: folds
+Anh_Rutabaga: folds
+Hero: folds
+Hero: Leave(Auto)
+Deeann_Jalapeño: calls $0.50 
+*** FLOP *** [5d Ad 4s]
+Deeann_Jalapeño: checks
+Ervin_Peas: bets $1 
+Deeann_Jalapeño: folds
+Deeann_Jalapeño: Leave(Auto)
+Uncalled bet ($1) returned to Ervin_Peas
+Ervin_Peas: doesn't show hand
+Ervin_Peas collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.52
+
+
+
+PokerStars Hand #3631837728: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:31:56
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Amira_Spinach ($36.06 in chips)
+Seat 2: Luba_Celeriac ($18.18 in chips)
+Seat 3: Hero ($74.23 in chips)
+Seat 4: Leesa_Grapes ($36.95 in chips)
+Seat 5: France_Carrots ($20.90 in chips)
+Seat 6: Vida_Coconuts ($38.70 in chips)
+Amira_Spinach: posts small blind $0.10
+Luba_Celeriac: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7c Ad]
+France_Carrots: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Vida_Coconuts: Leave(Auto)
+Leesa_Grapes: raises $0.75 to $0.75
+France_Carrots: folds
+Vida_Coconuts: folds
+Luba_Celeriac: Leave(Auto)
+Amira_Spinach: folds
+Amira_Spinach: Leave(Auto)
+Luba_Celeriac: folds
+Uncalled bet ($0.50) returned to Leesa_Grapes
+Leesa_Grapes: doesn't show hand
+Leesa_Grapes collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631837770: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:32:00
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Taunya_Rambutan ($16.25 in chips)
+Seat 2: Leila_Kiwi ($13.84 in chips)
+Seat 3: Jonell_Potatos ($20.23 in chips)
+Seat 4: Remona_Turnips ($17.20 in chips)
+Seat 5: Ivan_Zuchinis ($16.78 in chips)
+Seat 6: Hero ($74.23 in chips)
+Remona_Turnips: posts small blind $0.10
+Ivan_Zuchinis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ac Qc]
+Jonell_Potatos: Leave(Auto)
+Leila_Kiwi: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Taunya_Rambutan: folds
+Taunya_Rambutan: Leave(Auto)
+Leila_Kiwi: folds
+Jonell_Potatos: folds
+Remona_Turnips: folds
+Remona_Turnips: Leave(Auto)
+Ivan_Zuchinis: calls $0.41 
+*** FLOP *** [5s Ad 9h]
+Ivan_Zuchinis: checks
+Hero: bets $0.44 
+Ivan_Zuchinis: folds
+Ivan_Zuchinis: Leave(Auto)
+Uncalled bet ($0.44) returned to Hero
+Hero: doesn't show hand
+Hero collected $1.35 from pot
+*** SUMMARY ***
+Total pot $1.42 | Rake $0.07
+Board [5s Ad 9h]
+Seat 1: Taunya_Rambutan mucked [6h 3d]
+Seat 2: Leila_Kiwi showed [6s 4d] and lost
+Seat 3: Jonell_Potatos (button) showed [5h 6d] and lost
+Seat 4: Remona_Turnips (small blind) mucked [7d 9c]
+Seat 5: Ivan_Zuchinis (big blind) mucked [Jc Td]
+Seat 6: Hero showed null and won ($1.35)
+
+
+
+PokerStars Hand #3631838062: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:32:30
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Iola_Radish ($55.14 in chips)
+Seat 2: Meagan_Pears ($16.12 in chips)
+Seat 3: Tasha_Chives ($29.80 in chips)
+Seat 4: Barney_Dill ($38.27 in chips)
+Seat 5: Elvia_Guava ($18.88 in chips)
+Seat 6: Hero ($74.92 in chips)
+Meagan_Pears: posts small blind $0.10
+Tasha_Chives: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kc Qd]
+Meagan_Pears: Leave(Auto)
+Barney_Dill: folds
+Barney_Dill: Leave(Auto)
+Iola_Radish: Leave(Auto)
+Elvia_Guava: folds
+Elvia_Guava: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Iola_Radish: folds
+Meagan_Pears: folds
+Tasha_Chives: folds
+Tasha_Chives: Leave(Auto)
+Uncalled bet ($0.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Iola_Radish (button) showed [3s Jd] and lost
+Seat 2: Meagan_Pears (small blind) showed [5s 6c] and lost
+Seat 3: Tasha_Chives (big blind) mucked [Td 9s]
+Seat 4: Barney_Dill mucked [Qh 4s]
+Seat 5: Elvia_Guava mucked [Ah 6s]
+Seat 6: Hero showed null and won ($0.60)
+
+
+
+PokerStars Hand #3631838257: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:32:52
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Elisa_Oregano ($29.55 in chips)
+Seat 2: Royce_Kohlrabi ($42.98 in chips)
+Seat 3: Hilary_Bok Choy ($12.25 in chips)
+Seat 4: Stasia_Yuzu ($70.63 in chips)
+Seat 5: Hero ($75.27 in chips)
+Seat 6: Boyd_Zuchinis ($24.75 in chips)
+Stasia_Yuzu: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kh 7s]
+Royce_Kohlrabi: Leave(Auto)
+Boyd_Zuchinis: folds
+Boyd_Zuchinis: Leave(Auto)
+Elisa_Oregano: folds
+Elisa_Oregano: Leave(Auto)
+Royce_Kohlrabi: folds
+Hilary_Bok Choy: calls $0.25 
+Stasia_Yuzu: calls $0.15 
+Hero: checks
+*** FLOP *** [Qh 3c 9c]
+Stasia_Yuzu: checks
+Hero: checks
+Hilary_Bok Choy: checks
+*** TURN *** [Qh 3c 9c] [2s]
+Stasia_Yuzu: checks
+Hero: checks
+Hilary_Bok Choy: checks
+*** RIVER *** [Qh 3c 9c 2s] [Th]
+Stasia_Yuzu: checks
+Hero: checks
+Hilary_Bok Choy: bets $1.25 
+Stasia_Yuzu: folds
+Stasia_Yuzu: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Uncalled bet ($1.25) returned to Hilary_Bok Choy
+Hilary_Bok Choy: doesn't show hand
+Hilary_Bok Choy collected $0.72 from pot
+*** SUMMARY ***
+Total pot $0.72
+
+
+
+PokerStars Hand #3631838861: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:33:57
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($75.02 in chips)
+Seat 2: Angela_Mulberry ($27.67 in chips)
+Seat 3: Booker_Tomatoes ($29.53 in chips)
+Seat 4: Olin_Carrots ($66.21 in chips)
+Seat 5: Ardell_Goji ($31.65 in chips)
+Seat 6: Cedric_Figs ($22.73 in chips)
+Hero: posts small blind $0.10
+Angela_Mulberry: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7s 4d]
+Olin_Carrots: Leave(Auto)
+Booker_Tomatoes: folds
+Booker_Tomatoes: Leave(Auto)
+Olin_Carrots: folds
+Hero: Leave(Auto)
+Ardell_Goji: raises $0.50 to $0.50
+Cedric_Figs: folds
+Cedric_Figs: Leave(Auto)
+Hero: folds
+Angela_Mulberry: folds
+Angela_Mulberry: Leave(Auto)
+Uncalled bet ($0.25) returned to Ardell_Goji
+Ardell_Goji: doesn't show hand
+Ardell_Goji collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Hero (small blind) showed [7s 4d] and lost
+Seat 2: Angela_Mulberry (big blind) mucked [5c Tc]
+Seat 3: Booker_Tomatoes mucked [Ts 3h]
+Seat 4: Olin_Carrots showed [Kc 6h] and lost
+Seat 5: Ardell_Goji showed [Td Ah] and won ($0.60)
+Seat 6: Cedric_Figs (button) mucked [8d 5d]
+
+
+
+PokerStars Hand #3631838893: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:34:01
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Edda_Lavender ($66.21 in chips)
+Seat 2: Alexia_Peach ($29.53 in chips)
+Seat 3: Elliot_Cilantro ($24 in chips)
+Seat 4: Hero ($74.92 in chips)
+Seat 5: Serina_Apples ($25.10 in chips)
+Seat 6: Tanya_Soy ($38.71 in chips)
+Edda_Lavender: posts small blind $0.10
+Alexia_Peach: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4h 8d]
+Elliot_Cilantro: folds
+Elliot_Cilantro: Leave(Auto)
+Serina_Apples: Leave(Auto)
+Edda_Lavender: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Serina_Apples: folds
+Tanya_Soy: folds
+Tanya_Soy: Leave(Auto)
+Edda_Lavender: folds
+Alexia_Peach: doesn't show hand
+Uncalled bet ($0.25) returned to Alexia_Peach
+Alexia_Peach collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631838952: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:34:07
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Leota_Fennel ($21.80 in chips)
+Seat 2: Lise_Cherry ($37.87 in chips)
+Seat 3: Newton_Jalapeño ($26.80 in chips)
+Seat 4: Tracey_Squash ($39.87 in chips)
+Seat 5: Hero ($74.92 in chips)
+Seat 6: Eddy_Thyme ($92.77 in chips)
+Eddy_Thyme: posts small blind $0.10
+Leota_Fennel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3s Js]
+Lise_Cherry: folds
+Lise_Cherry: Leave(Auto)
+Hero: Leave(Auto)
+Newton_Jalapeño: folds
+Newton_Jalapeño: Leave(Auto)
+Tracey_Squash: folds
+Tracey_Squash: Leave(Auto)
+Hero: folds
+Eddy_Thyme: folds
+Eddy_Thyme: Leave(Auto)
+Leota_Fennel: doesn't show hand
+Uncalled bet ($0.25) returned to Leota_Fennel
+Leota_Fennel collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631838998: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:34:12
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Lilia_Lemon ($37.87 in chips)
+Seat 2: Kiley_Raisins ($64.12 in chips)
+Seat 3: Hero ($74.92 in chips)
+Seat 4: Irina_Rutabaga ($26.80 in chips)
+Seat 5: Rashad_Soursop ($28.67 in chips)
+Seat 6: Trina_Ugli ($128.87 in chips)
+Trina_Ugli: posts small blind $0.10
+Lilia_Lemon: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7h 5c]
+Kiley_Raisins: folds
+Kiley_Raisins: Leave(Auto)
+Rashad_Soursop: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Irina_Rutabaga: folds
+Irina_Rutabaga: Leave(Auto)
+Rashad_Soursop: folds
+Trina_Ugli: raises $0.40 to $0.50
+Lilia_Lemon: folds
+Lilia_Lemon: Leave(Auto)
+Uncalled bet ($0.25) returned to Trina_Ugli
+Trina_Ugli: doesn't show hand
+Trina_Ugli collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.5
+
+
+
+PokerStars Hand #3631839031: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:34:16
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Sunni_Figs ($28.67 in chips)
+Seat 2: Tari_Turnips ($23.98 in chips)
+Seat 3: Teresa_Honeydew ($70.28 in chips)
+Seat 4: Alexia_Dates ($25.36 in chips)
+Seat 5: Lupe_Tat Soi ($28.76 in chips)
+Seat 6: Hero ($74.92 in chips)
+Hero: posts small blind $0.10
+Sunni_Figs: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [6s 7c]
+Teresa_Honeydew: Leave(Auto)
+Tari_Turnips: folds
+Tari_Turnips: Leave(Auto)
+Teresa_Honeydew: folds
+Alexia_Dates: raises $0.75 to $0.75
+Hero: Leave(Auto)
+Lupe_Tat Soi: calls $0.75 
+Hero: folds
+Sunni_Figs: folds
+Sunni_Figs: Leave(Auto)
+*** FLOP *** [Qc 4s Td]
+Alexia_Dates: checks
+Lupe_Tat Soi: checks
+*** TURN *** [Qc 4s Td] [Qd]
+Alexia_Dates: checks
+Lupe_Tat Soi: bets $1 
+Alexia_Dates: folds
+Alexia_Dates: Leave(Auto)
+Uncalled bet ($1) returned to Lupe_Tat Soi
+Lupe_Tat Soi: doesn't show hand
+Lupe_Tat Soi collected $1.76 from pot
+*** SUMMARY ***
+Total pot $1.76
+
+
+
+PokerStars Hand #3631839178: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:34:31
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Gracie_Plumcot ($24.65 in chips)
+Seat 2: Grayce_Potatos ($23.98 in chips)
+Seat 3: Moises_Lavender ($31.39 in chips)
+Seat 4: Hero ($74.82 in chips)
+Seat 5: Alica_Fennel ($37.62 in chips)
+Seat 6: Larita_Fennel ($32.01 in chips)
+Alica_Fennel: posts small blind $0.10
+Larita_Fennel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2s 3h]
+Gracie_Plumcot: folds
+Gracie_Plumcot: Leave(Auto)
+Alica_Fennel: Leave(Auto)
+Hero: Leave(Auto)
+Grayce_Potatos: folds
+Grayce_Potatos: Leave(Auto)
+Moises_Lavender: folds
+Moises_Lavender: Leave(Auto)
+Hero: folds
+Alica_Fennel: folds
+Larita_Fennel: doesn't show hand
+Uncalled bet ($0.25) returned to Larita_Fennel
+Larita_Fennel collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.1
+
+
+
+PokerStars Hand #3631839223: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:34:35
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Mariam_Radish ($24.65 in chips)
+Seat 2: Veta_Jicama ($37.52 in chips)
+Seat 3: Dusty_Pears ($12.86 in chips)
+Seat 4: Irwin_Rhubarb ($19.51 in chips)
+Seat 5: Hero ($74.82 in chips)
+Seat 6: Cindie_Rhubarb ($129.12 in chips)
+Irwin_Rhubarb: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2h Ks]
+Cindie_Rhubarb: folds
+Cindie_Rhubarb: Leave(Auto)
+Irwin_Rhubarb: Leave(Auto)
+Mariam_Radish: raises $0.75 to $0.75
+Veta_Jicama: folds
+Veta_Jicama: Leave(Auto)
+Hero: Leave(Auto)
+Dusty_Pears: folds
+Dusty_Pears: Leave(Auto)
+Irwin_Rhubarb: folds
+Hero: folds
+Uncalled bet ($0.50) returned to Mariam_Radish
+Mariam_Radish: doesn't show hand
+Mariam_Radish collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631839312: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:34:45
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Noah_Leek ($95.78 in chips)
+Seat 2: Noe_Orange ($29.63 in chips)
+Seat 3: Hero ($74.57 in chips)
+Seat 4: Tanja_Plum ($91.82 in chips)
+Seat 5: Pablo_Tabasco ($81.05 in chips)
+Seat 6: Britt_Lentils ($15.50 in chips)
+Hero: posts small blind $0.10
+Tanja_Plum: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kd 3d]
+Noah_Leek: Leave(Auto)
+Pablo_Tabasco: folds
+Pablo_Tabasco: Leave(Auto)
+Britt_Lentils: folds
+Britt_Lentils: Leave(Auto)
+Noah_Leek: folds
+Noe_Orange: raises $0.85 to $0.85
+Hero: folds
+Hero: Leave(Auto)
+Tanja_Plum: calls $0.60 
+*** FLOP *** [5d Ah 9s]
+Tanja_Plum: bets $1.80 
+Noe_Orange: folds
+Noe_Orange: Leave(Auto)
+Uncalled bet ($1.80) returned to Tanja_Plum
+Tanja_Plum: doesn't show hand
+Tanja_Plum collected $1.71 from pot
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.09
+Board [5d Ah 9s]
+Seat 1: Noah_Leek showed [Jd 7h] and lost
+Seat 2: Noe_Orange (button) mucked [6s 4s]
+Seat 3: Hero (small blind) mucked null
+Seat 4: Tanja_Plum (big blind) showed [Tc Ad] and won ($1.71)
+Seat 5: Pablo_Tabasco mucked [2h 7s]
+Seat 6: Britt_Lentils mucked [6h 2d]
+
+
+
+PokerStars Hand #3631839442: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:35:01
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Toi_Oregano ($38.36 in chips)
+Seat 2: Rudy_Ugli ($24.75 in chips)
+Seat 3: Hero ($74.47 in chips)
+Seat 4: Maddie_Okra ($19.87 in chips)
+Seat 5: Greta_Papaya ($27.20 in chips)
+Seat 6: Lydia_Mango ($15.83 in chips)
+Maddie_Okra: posts small blind $0.10
+Greta_Papaya: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [9h Kh]
+Rudy_Ugli: Leave(Auto)
+Lydia_Mango: folds
+Lydia_Mango: Leave(Auto)
+Toi_Oregano: folds
+Toi_Oregano: Leave(Auto)
+Rudy_Ugli: folds
+Hero: raises $0.66 to $0.66
+Maddie_Okra: folds
+Maddie_Okra: Leave(Auto)
+Greta_Papaya: raises $1.83 to $2.08
+Hero: calls $1.42 
+*** FLOP *** [3d 5d Qh]
+Greta_Papaya: checks
+Hero: checks
+*** TURN *** [3d 5d Qh] [6d]
+Greta_Papaya: checks
+Hero: checks
+*** RIVER *** [3d 5d Qh 6d] [9c]
+Greta_Papaya: checks
+Hero: bets $1 
+Greta_Papaya: folds
+Greta_Papaya: Leave(Auto)
+Uncalled bet ($1) returned to Hero
+Hero: doesn't show hand
+Hero collected $4.05 from pot
+*** SUMMARY ***
+Total pot $4.05
+
+
+
+PokerStars Hand #3631840187: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:36:23
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Hero ($76.44 in chips)
+Seat 2: Jaimee_Figs ($55.99 in chips)
+Seat 3: Junko_Lentils ($20.29 in chips)
+Seat 4: Wade_Satsuma ($47.59 in chips)
+Seat 5: Era_Raisins ($30.74 in chips)
+Seat 6: Veta_Tubers ($30.76 in chips)
+Junko_Lentils: posts small blind $0.10
+Wade_Satsuma: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7h 7d]
+Junko_Lentils: Leave(Auto)
+Jaimee_Figs: Leave(Auto)
+Era_Raisins: folds
+Era_Raisins: Leave(Auto)
+Veta_Tubers: folds
+Veta_Tubers: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Jaimee_Figs: folds
+Junko_Lentils: folds
+Wade_Satsuma: folds
+Wade_Satsuma: Leave(Auto)
+Uncalled bet ($0.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631840368: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:36:42
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Meghan_Celery ($23.93 in chips)
+Seat 2: Hyun_Prunes ($34.70 in chips)
+Seat 3: Bennie_Beans ($49.48 in chips)
+Seat 4: Jessia_Beans ($12.25 in chips)
+Seat 5: Hero ($76.79 in chips)
+Seat 6: Angila_Lettuce ($35.15 in chips)
+Meghan_Celery: posts small blind $0.10
+Hyun_Prunes: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Tc 9c]
+Bennie_Beans: folds
+Bennie_Beans: Leave(Auto)
+Jessia_Beans: folds
+Jessia_Beans: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Angila_Lettuce: raises $2.33 to $2.33
+Meghan_Celery: folds
+Meghan_Celery: Leave(Auto)
+Hyun_Prunes: folds
+Hyun_Prunes: Leave(Auto)
+Hero: calls $1.67 
+*** FLOP *** [Th 3d 4h]
+Hero: checks
+Angila_Lettuce: bets $2.08 
+Hero: calls $2.08 
+*** TURN *** [Th 3d 4h] [Jd]
+Hero: checks
+Angila_Lettuce: checks
+*** RIVER *** [Th 3d 4h Jd] [Qh]
+Hero: checks
+Angila_Lettuce: checks
+*** SHOW DOWN ***
+Hero: shows null (a pair of Tens)
+Angila_Lettuce: shows [Ks Kh] (a pair of Kings)
+Angila_Lettuce collected $8.72 from pot
+*** SUMMARY ***
+Total pot $8.72
+
+
+
+PokerStars Hand #3631840905: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:37:40
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Dessie_Daikon ($24.75 in chips)
+Seat 2: Nikki_Marjoram ($20.07 in chips)
+Seat 3: Hero ($72.38 in chips)
+Seat 4: Marlin_Chili ($39.46 in chips)
+Seat 5: Marhta_Kiwi ($13.64 in chips)
+Seat 6: Melody_Collard ($30.75 in chips)
+Dessie_Daikon: posts small blind $0.10
+Nikki_Marjoram: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3h Ac]
+Melody_Collard: Leave(Auto)
+Marlin_Chili: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Marlin_Chili: folds
+Nikki_Marjoram: Leave(Auto)
+Marhta_Kiwi: folds
+Marhta_Kiwi: Leave(Auto)
+Melody_Collard: folds
+Dessie_Daikon: raises $0.65 to $0.75
+Nikki_Marjoram: folds
+Uncalled bet ($0.50) returned to Dessie_Daikon
+Dessie_Daikon: doesn't show hand
+Dessie_Daikon collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.5
+
+
+
+PokerStars Hand #3631840941: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:37:44
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Ronald_Arugula ($14.64 in chips)
+Seat 2: Arlyne_Prunes ($24.50 in chips)
+Seat 3: Adina_Yams ($30.75 in chips)
+Seat 4: Elena_Mulberry ($39.46 in chips)
+Seat 5: Joan_Tubers ($24.65 in chips)
+Seat 6: Hero ($72.38 in chips)
+Arlyne_Prunes: posts small blind $0.10
+Adina_Yams: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8d 4c]
+Joan_Tubers: Leave(Auto)
+Hero: Leave(Auto)
+Elena_Mulberry: folds
+Elena_Mulberry: Leave(Auto)
+Joan_Tubers: folds
+Hero: folds
+Ronald_Arugula: folds
+Ronald_Arugula: Leave(Auto)
+Arlyne_Prunes: raises $0.65 to $0.75
+Adina_Yams: calls $0.50 
+*** FLOP *** [7d 3c Ah]
+Arlyne_Prunes: bets $1 
+Adina_Yams: folds
+Adina_Yams: Leave(Auto)
+Uncalled bet ($1) returned to Arlyne_Prunes
+Arlyne_Prunes: doesn't show hand
+Arlyne_Prunes collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.43
+
+
+
+PokerStars Hand #3631840991: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:37:49
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Thomas_Onions ($36.66 in chips)
+Seat 2: Cathey_Peas ($44.87 in chips)
+Seat 3: Hero ($72.38 in chips)
+Seat 4: Trish_Cayenne ($39.46 in chips)
+Seat 5: Joane_Collard ($18.83 in chips)
+Seat 6: Reagan_Habanero ($13.64 in chips)
+Cathey_Peas: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ad 7h]
+Joane_Collard: Leave(Auto)
+Trish_Cayenne: folds
+Trish_Cayenne: Leave(Auto)
+Joane_Collard: folds
+Cathey_Peas: Leave(Auto)
+Reagan_Habanero: folds
+Reagan_Habanero: Leave(Auto)
+Thomas_Onions: raises $0.75 to $0.75
+Cathey_Peas: folds
+Hero: calls $0.50 
+*** FLOP *** [3d 3h 7d]
+Hero: checks
+Thomas_Onions: bets $0.75 
+Hero: calls $0.75 
+*** TURN *** [3d 3h 7d] [Ah]
+Hero: checks
+Thomas_Onions: checks
+*** RIVER *** [3d 3h 7d Ah] [Td]
+Hero: bets $3.10 
+Thomas_Onions: folds
+Thomas_Onions: Leave(Auto)
+Uncalled bet ($3.10) returned to Hero
+Hero: doesn't show hand
+Hero collected $2.95 from pot
+*** SUMMARY ***
+Total pot $2.95
+
+
+
+PokerStars Hand #3631841453: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:38:39
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Tracey_Peppers ($31.80 in chips)
+Seat 2: Hero ($73.83 in chips)
+Seat 3: Marni_Turnips ($22.04 in chips)
+Seat 4: Olene_Salak ($25.10 in chips)
+Seat 5: Taylor_Parnsip ($23.43 in chips)
+Seat 6: Ileen_Anise ($18.89 in chips)
+Hero: posts small blind $0.10
+Marni_Turnips: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5c Ah]
+Taylor_Parnsip: Leave(Auto)
+Olene_Salak: folds
+Olene_Salak: Leave(Auto)
+Taylor_Parnsip: folds
+Ileen_Anise: folds
+Ileen_Anise: Leave(Auto)
+Marni_Turnips: Leave(Auto)
+Tracey_Peppers: folds
+Tracey_Peppers: Leave(Auto)
+Hero: calls $0.15 
+Marni_Turnips: checks
+*** FLOP *** [Ac 7c Jc]
+Hero: bets $0.25 
+Marni_Turnips: folds
+Uncalled bet ($0.25) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02
+Board [Ac 7c Jc]
+Seat 1: Tracey_Peppers (button) mucked [5s 3s]
+Seat 2: Hero (small blind) showed null and won ($0.48)
+Seat 3: Marni_Turnips (big blind) showed [4d 2s] and lost
+Seat 4: Olene_Salak mucked [Kh 3h]
+Seat 5: Taylor_Parnsip showed [7h Qs] and lost
+Seat 6: Ileen_Anise mucked [8c 7d]
+
+
+
+PokerStars Hand #3631841706: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:39:07
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Jed_Chives ($34.09 in chips)
+Seat 2: Leota_Peach ($64.12 in chips)
+Seat 3: Hilary_Rambutan ($19.46 in chips)
+Seat 4: Norris_Parsley ($12.68 in chips)
+Seat 5: Shira_Ginger ($24.55 in chips)
+Seat 6: Hero ($74.06 in chips)
+Jed_Chives: posts small blind $0.10
+Leota_Peach: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kc 7c]
+Shira_Ginger: Leave(Auto)
+Hilary_Rambutan: folds
+Hilary_Rambutan: Leave(Auto)
+Norris_Parsley: folds
+Shira_Ginger: folds
+Norris_Parsley: Seat re-join
+Norris_Parsley: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Jed_Chives: raises $2.40 to $2.50
+Leota_Peach: folds
+Leota_Peach: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Uncalled bet ($1.84) returned to Jed_Chives
+Jed_Chives: doesn't show hand
+Jed_Chives collected $1.57 from pot
+*** SUMMARY ***
+Total pot $1.57
+
+
+
+PokerStars Hand #3631842014: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:39:40
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Zita_Shallot ($24.30 in chips)
+Seat 2: Hero ($73.40 in chips)
+Seat 3: Niesha_Dill ($29.69 in chips)
+Seat 4: Diego_Guava ($12.50 in chips)
+Seat 5: Nellie_Shallot ($20.17 in chips)
+Seat 6: Jamey_Pears ($18.10 in chips)
+Niesha_Dill: posts small blind $0.10
+Diego_Guava: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2h Th]
+Niesha_Dill: Leave(Auto)
+Nellie_Shallot: folds
+Nellie_Shallot: Leave(Auto)
+Hero: Leave(Auto)
+Jamey_Pears: folds
+Jamey_Pears: Leave(Auto)
+Zita_Shallot: raises $0.75 to $0.75
+Hero: folds
+Niesha_Dill: folds
+Diego_Guava: folds
+Diego_Guava: Leave(Auto)
+Uncalled bet ($0.50) returned to Zita_Shallot
+Zita_Shallot: doesn't show hand
+Zita_Shallot collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Zita_Shallot showed [Qs Qc] and won ($0.60)
+Seat 2: Hero (button) showed [2h Th] and lost
+Seat 3: Niesha_Dill (small blind) showed [2c 9s] and lost
+Seat 4: Diego_Guava (big blind) mucked [5s 9h]
+Seat 5: Nellie_Shallot mucked [3s 6d]
+Seat 6: Jamey_Pears mucked [3h 4h]
+
+
+
+PokerStars Hand #3631842072: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:39:45
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Bryce_Oregano ($20.17 in chips)
+Seat 2: Marg_Oregano ($31.80 in chips)
+Seat 3: Marty_Rhubarb ($24.25 in chips)
+Seat 4: Sid_Soy ($13.57 in chips)
+Seat 5: Ashli_Turnips ($35 in chips)
+Seat 6: Hero ($73.40 in chips)
+Bryce_Oregano: posts small blind $0.10
+Marg_Oregano: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2s 2h]
+Bryce_Oregano: Leave(Auto)
+Ashli_Turnips: Leave(Auto)
+Marty_Rhubarb: raises $0.75 to $0.75
+Sid_Soy: folds
+Sid_Soy: Leave(Auto)
+Ashli_Turnips: folds
+Hero: calls $0.75 
+Bryce_Oregano: folds
+Marg_Oregano: calls $0.50 
+*** FLOP *** [5h 5c 3h]
+Marg_Oregano: checks
+Marty_Rhubarb: bets $1.60 
+Hero: calls $1.60 
+Marg_Oregano: folds
+Marg_Oregano: Leave(Auto)
+*** TURN *** [5h 5c 3h] [3d]
+Marty_Rhubarb: checks
+Hero: bets $3.33 
+Marty_Rhubarb: folds
+Marty_Rhubarb: Leave(Auto)
+Uncalled bet ($3.33) returned to Hero
+Hero: doesn't show hand
+Hero collected $5.28 from pot
+*** SUMMARY ***
+Total pot $5.55 | Rake $0.27
+Board [5h 5c 3h 3d]
+Seat 1: Bryce_Oregano (small blind) showed [8h 2c] and lost
+Seat 2: Marg_Oregano (big blind) mucked [Qc Ks]
+Seat 3: Marty_Rhubarb mucked [Ac Kc]
+Seat 4: Sid_Soy mucked [As 6c]
+Seat 5: Ashli_Turnips showed [4c 7s] and lost
+Seat 6: Hero (button) showed null and won ($5.28)
+
+
+
+PokerStars Hand #3631842616: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:40:45
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hero ($76.33 in chips)
+Seat 2: Myrta_Rhubarb ($37.28 in chips)
+Seat 3: Deanne_Pinto ($25 in chips)
+Seat 4: Debbie_Rambutan ($25.83 in chips)
+Seat 5: Dong_Guava ($25.35 in chips)
+Seat 6: Nannie_Potatos ($26.08 in chips)
+Hero: posts small blind $0.10
+Myrta_Rhubarb: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5d Ts]
+Dong_Guava: Leave(Auto)
+Deanne_Pinto: folds
+Deanne_Pinto: Leave(Auto)
+Hero: Leave(Auto)
+Debbie_Rambutan: raises $0.75 to $0.75
+Dong_Guava: folds
+Nannie_Potatos: calls $0.75 
+Hero: folds
+Myrta_Rhubarb: calls $0.50 
+*** FLOP *** [Jd 2d 8c]
+Myrta_Rhubarb: checks
+Debbie_Rambutan: checks
+Nannie_Potatos: checks
+*** TURN *** [Jd 2d 8c] [Qh]
+Myrta_Rhubarb: checks
+Debbie_Rambutan: checks
+Nannie_Potatos: checks
+*** RIVER *** [Jd 2d 8c Qh] [7s]
+Myrta_Rhubarb: checks
+Debbie_Rambutan: checks
+Nannie_Potatos: checks
+*** SHOW DOWN ***
+Myrta_Rhubarb: shows [2s 9s] (a pair of Deuces)
+Debbie_Rambutan: Mucks [5s Ks] (High Card)
+Nannie_Potatos: Mucks [4h 5h] (High Card)
+Myrta_Rhubarb collected $2.24 from pot
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11
+Board [Jd 2d 8c Qh 7s]
+Seat 1: Hero (small blind) mucked
+Seat 2: Myrta_Rhubarb (big blind) showed [2s 9s] and won ($2.24) with a pair of Deuces
+Seat 3: Deanne_Pinto mucked [Qd 6d]
+Seat 4: Debbie_Rambutan mucked [5s Ks]
+Seat 5: Dong_Guava mucked
+Seat 6: Nannie_Potatos (button) mucked [4h 5h]
+
+
+
+PokerStars Hand #3631842662: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:40:50
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Sook_Broccoli ($25.35 in chips)
+Seat 2: Suzann_Dates ($26.69 in chips)
+Seat 3: Tomi_Olive ($25 in chips)
+Seat 4: Pamila_Potatos ($25.90 in chips)
+Seat 5: Hero ($76.23 in chips)
+Seat 6: Annita_Peach ($23.58 in chips)
+Suzann_Dates: posts small blind $0.10
+Tomi_Olive: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [As 8d]
+Hero: Leave(Auto)
+Pamila_Potatos: folds
+Pamila_Potatos: Leave(Auto)
+Hero: folds
+Annita_Peach: raises $0.75 to $0.75
+Tomi_Olive: Leave(Auto)
+Sook_Broccoli: raises $2.25 to $2.25
+Annita_Peach: Leave(Auto)
+Suzann_Dates: raises $7.40 to $7.50
+Tomi_Olive: folds
+Annita_Peach: folds
+Sook_Broccoli: folds
+Sook_Broccoli: Leave(Auto)
+Uncalled bet ($5.25) returned to Suzann_Dates
+Suzann_Dates: doesn't show hand
+Suzann_Dates collected $5.50 from pot
+*** SUMMARY ***
+Total pot $5.5
+
+
+
+PokerStars Hand #3631842709: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:40:55
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Hero ($76.23 in chips)
+Seat 2: Verda_Tomatoes ($34.78 in chips)
+Seat 3: Alita_Parsley ($24.40 in chips)
+Seat 4: Jeffry_Sage ($71.14 in chips)
+Seat 5: Bryce_Shallot ($100 in chips)
+Seat 6: Adam_Onions ($25.90 in chips)
+Adam_Onions: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Ts 5d]
+Jeffry_Sage: Leave(Auto)
+Verda_Tomatoes: folds
+Verda_Tomatoes: Leave(Auto)
+Bryce_Shallot: Leave(Auto)
+Alita_Parsley: raises $0.75 to $0.75
+Jeffry_Sage: folds
+Bryce_Shallot: folds
+Hero: Leave(Auto)
+Adam_Onions: folds
+Adam_Onions: Leave(Auto)
+Hero: folds
+Uncalled bet ($0.50) returned to Alita_Parsley
+Alita_Parsley: doesn't show hand
+Alita_Parsley collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631842847: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:41:11
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Hero ($75.98 in chips)
+Seat 2: Bee_Chives ($13.18 in chips)
+Seat 3: Yi_Okra ($35.99 in chips)
+Seat 4: Oralia_Papaya ($22.29 in chips)
+Seat 5: Herman_Olive ($31.59 in chips)
+Seat 6: Haley_Bilberry ($25 in chips)
+Herman_Olive: posts small blind $0.10
+Haley_Bilberry: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4d 3h]
+Hero: folds
+Hero: Leave(Auto)
+Yi_Okra: Leave(Auto)
+Bee_Chives: folds
+Bee_Chives: Leave(Auto)
+Yi_Okra: folds
+Oralia_Papaya: folds
+Oralia_Papaya: Leave(Auto)
+Herman_Olive: calls $0.15 
+Haley_Bilberry: checks
+*** FLOP *** [Kd 7s 7c]
+Herman_Olive: checks
+Haley_Bilberry: bets $0.50 
+Herman_Olive: folds
+Herman_Olive: Leave(Auto)
+Uncalled bet ($0.50) returned to Haley_Bilberry
+Haley_Bilberry: doesn't show hand
+Haley_Bilberry collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.48
+
+
+
+PokerStars Hand #3631842891: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:41:16
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Maude_Fennel ($52.41 in chips)
+Seat 2: Tanya_Collard ($25 in chips)
+Seat 3: Charis_Beets ($96.25 in chips)
+Seat 4: Tamala_Celeriac ($56.85 in chips)
+Seat 5: Hero ($75.98 in chips)
+Seat 6: Lizzie_Zuchinis ($24.55 in chips)
+Lizzie_Zuchinis: posts small blind $0.10
+Maude_Fennel: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Jd 2s]
+Tamala_Celeriac: Leave(Auto)
+Tanya_Collard: folds
+Tanya_Collard: Leave(Auto)
+Hero: Leave(Auto)
+Charis_Beets: raises $0.75 to $0.75
+Tamala_Celeriac: folds
+Hero: folds
+Lizzie_Zuchinis: folds
+Lizzie_Zuchinis: Leave(Auto)
+Maude_Fennel: folds
+Maude_Fennel: Leave(Auto)
+Uncalled bet ($0.50) returned to Charis_Beets
+Charis_Beets: doesn't show hand
+Charis_Beets collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Maude_Fennel (big blind) mucked [7s 9h]
+Seat 2: Tanya_Collard mucked [Qs Jh]
+Seat 3: Charis_Beets showed [8d Ad] and won ($0.60)
+Seat 4: Tamala_Celeriac showed [Tc 2c] and lost
+Seat 5: Hero (button) showed [Jd 2s] and lost
+Seat 6: Lizzie_Zuchinis (small blind) mucked [7c 2h]
+
+
+
+PokerStars Hand #3631842929: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:41:20
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Gale_Dill ($56.85 in chips)
+Seat 2: Keeley_Pumpkins ($21.55 in chips)
+Seat 3: Elaine_Tomatoes ($25 in chips)
+Seat 4: Hero ($75.98 in chips)
+Seat 5: Hiroko_Parsley ($31.50 in chips)
+Seat 6: Heidy_Garlic ($34.56 in chips)
+Heidy_Garlic: posts small blind $0.10
+Gale_Dill: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [4h 6d]
+Keeley_Pumpkins: folds
+Keeley_Pumpkins: Leave(Auto)
+Hero: Leave(Auto)
+Elaine_Tomatoes: folds
+Elaine_Tomatoes: Leave(Auto)
+Hero: folds
+Heidy_Garlic: Leave(Auto)
+Hiroko_Parsley: raises $0.50 to $0.50
+Heidy_Garlic: folds
+Gale_Dill: calls $0.25 
+*** FLOP *** [Ks Qc 2s]
+Gale_Dill: checks
+Hiroko_Parsley: bets $0.25 
+Gale_Dill: calls $0.25 
+*** TURN *** [Ks Qc 2s] [3h]
+Gale_Dill: checks
+Hiroko_Parsley: bets $0.25 
+Gale_Dill: calls $0.25 
+*** RIVER *** [Ks Qc 2s 3h] [2h]
+Gale_Dill: checks
+Hiroko_Parsley: bets $0.75 
+Gale_Dill: folds
+Gale_Dill: Leave(Auto)
+Uncalled bet ($0.75) returned to Hiroko_Parsley
+Hiroko_Parsley: doesn't show hand
+Hiroko_Parsley collected $2 from pot
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.10
+Board [Ks Qc 2s 3h 2h]
+Seat 1: Gale_Dill (big blind) mucked [Jh 9c]
+Seat 2: Keeley_Pumpkins mucked [Qd 8d]
+Seat 3: Elaine_Tomatoes mucked [9d Js]
+Seat 4: Hero showed [4h 6d] and lost
+Seat 5: Hiroko_Parsley (button) showed [Td Ad] and won ($2)
+Seat 6: Heidy_Garlic (small blind) showed [3s Kc] and lost
+
+
+
+PokerStars Hand #3631842962: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:41:24
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Rena_Tubers ($65.31 in chips)
+Seat 2: Josef_Apricots ($21.55 in chips)
+Seat 3: Scott_Mulberry ($23.10 in chips)
+Seat 4: Trisha_Peppers ($25.80 in chips)
+Seat 5: Hero ($75.98 in chips)
+Seat 6: Cordie_Zuchinis ($45.39 in chips)
+Scott_Mulberry: posts small blind $0.10
+Trisha_Peppers: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [As Qc]
+Scott_Mulberry: Leave(Auto)
+Rena_Tubers: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Josef_Apricots: Leave(Auto)
+Cordie_Zuchinis: folds
+Rena_Tubers: folds
+Josef_Apricots: folds
+Scott_Mulberry: folds
+Trisha_Peppers: folds
+Trisha_Peppers: Leave(Auto)
+Uncalled bet ($0.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631843204: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:41:48
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Armida_Peppers ($26.55 in chips)
+Seat 2: Irma_Cucumber ($37.42 in chips)
+Seat 3: So_Potatos ($29.29 in chips)
+Seat 4: Hero ($76.33 in chips)
+Seat 5: Daria_Thyme ($24.90 in chips)
+Seat 6: Mack_Plum ($31.70 in chips)
+Hero: posts small blind $0.10
+Daria_Thyme: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3d Ad]
+Irma_Cucumber: Leave(Auto)
+Mack_Plum: folds
+Mack_Plum: Leave(Auto)
+Armida_Peppers: raises $0.75 to $0.75
+Irma_Cucumber: folds
+Hero: Leave(Auto)
+So_Potatos: calls $0.75 
+Hero: folds
+Daria_Thyme: calls $0.50 
+*** FLOP *** [Qs 8h Kh]
+Daria_Thyme: checks
+Armida_Peppers: bets $1.50 
+Daria_Thyme: Leave(Auto)
+So_Potatos: calls $1.50 
+Daria_Thyme: folds
+*** TURN *** [Qs 8h Kh] [2s]
+Armida_Peppers: checks
+So_Potatos: checks
+*** RIVER *** [Qs 8h Kh 2s] [Jh]
+Armida_Peppers: bets $1.25 
+So_Potatos: calls $1.25 
+*** SHOW DOWN ***
+Armida_Peppers: shows [Qd 9d] (a pair of Queens)
+So_Potatos: Mucks [Jd Th] (One pair)
+Armida_Peppers collected $7.46 from pot
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.39
+Board [Qs 8h Kh 2s Jh]
+Seat 1: Armida_Peppers showed [Qd 9d] and won ($7.46) with a pair of Queens
+Seat 2: Irma_Cucumber mucked
+Seat 3: So_Potatos (button) mucked [Jd Th]
+Seat 4: Hero (small blind) mucked
+Seat 5: Daria_Thyme (big blind) mucked
+Seat 6: Mack_Plum mucked [4h Ks]
+
+
+
+PokerStars Hand #3631843330: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:42:01
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Marlyn_Bananas ($22.75 in chips)
+Seat 2: Simon_Paprika ($29.52 in chips)
+Seat 3: Damien_Rhubarb ($10.99 in chips)
+Seat 4: Hero ($76.23 in chips)
+Seat 5: Yung_Lemon ($52.95 in chips)
+Seat 6: Tamara_Olive ($14.51 in chips)
+Marlyn_Bananas: posts small blind $0.10
+Simon_Paprika: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qs Th]
+Tamara_Olive: Leave(Auto)
+Marlyn_Bananas: Leave(Auto)
+Damien_Rhubarb: calls $0.25 
+Yung_Lemon: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Yung_Lemon: folds
+Tamara_Olive: folds
+Marlyn_Bananas: folds
+Simon_Paprika: raises $0.75 to $1
+Damien_Rhubarb: calls $0.75 
+*** FLOP *** [9s 9d 5h]
+Simon_Paprika: checks
+Damien_Rhubarb: bets $1 
+Simon_Paprika: calls $1 
+*** TURN *** [9s 9d 5h] [Qc]
+Simon_Paprika: checks
+Damien_Rhubarb: bets $1 
+Simon_Paprika: calls $1 
+*** RIVER *** [9s 9d 5h Qc] [4s]
+Simon_Paprika: checks
+Damien_Rhubarb: checks
+*** SHOW DOWN ***
+Simon_Paprika: shows [As Ks] (a pair of Nines)
+Damien_Rhubarb: shows [2h 2d] (two pair, Nines and Deuces)
+Damien_Rhubarb collected $5.80 from pot
+*** SUMMARY ***
+Total pot $5.8
+
+
+
+PokerStars Hand #3631843421: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:42:11
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Lashay_Peach ($96.35 in chips)
+Seat 2: Johnny_Fennel ($22.65 in chips)
+Seat 3: Noelle_Okra ($35.79 in chips)
+Seat 4: Hero ($76.23 in chips)
+Seat 5: Aide_Alfalfa ($30.25 in chips)
+Seat 6: Matt_Cucumber ($23.85 in chips)
+Hero: posts small blind $0.10
+Aide_Alfalfa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [2c 3d]
+Noelle_Okra: Leave(Auto)
+Matt_Cucumber: folds
+Matt_Cucumber: Leave(Auto)
+Lashay_Peach: folds
+Lashay_Peach: Leave(Auto)
+Hero: Leave(Auto)
+Johnny_Fennel: raises $0.75 to $0.75
+Noelle_Okra: folds
+Hero: folds
+Aide_Alfalfa: folds
+Aide_Alfalfa: Leave(Auto)
+Uncalled bet ($0.50) returned to Johnny_Fennel
+Johnny_Fennel: doesn't show hand
+Johnny_Fennel collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60
+Seat 1: Lashay_Peach mucked [As 8d]
+Seat 2: Johnny_Fennel showed [Kh Ah] and won ($0.60)
+Seat 3: Noelle_Okra (button) showed [4d 6h] and lost
+Seat 4: Hero (small blind) showed [2c 3d] and lost
+Seat 5: Aide_Alfalfa (big blind) mucked [3c 9h]
+Seat 6: Matt_Cucumber mucked [Qc Th]
+
+
+
+PokerStars Hand #3631843516: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:42:21
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Hero ($76.13 in chips)
+Seat 2: Danyel_Lavender ($26.85 in chips)
+Seat 3: Alene_Peas ($25.13 in chips)
+Seat 4: Rico_Juniper ($53.97 in chips)
+Seat 5: Terrie_Jujube ($16.48 in chips)
+Seat 6: Johana_Squash ($29.47 in chips)
+Johana_Squash: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5d Kh]
+Rico_Juniper: Leave(Auto)
+Alene_Peas: Leave(Auto)
+Danyel_Lavender: folds
+Danyel_Lavender: Leave(Auto)
+Alene_Peas: folds
+Rico_Juniper: folds
+Terrie_Jujube: raises $0.75 to $0.75
+Hero: Leave(Auto)
+Johana_Squash: calls $0.65 
+Hero: folds
+*** FLOP *** [Kd Qc Ac]
+Johana_Squash: checks
+Terrie_Jujube: bets $0.50 
+Johana_Squash: calls $0.50 
+*** TURN *** [Kd Qc Ac] [4c]
+Johana_Squash: checks
+Terrie_Jujube: checks
+*** RIVER *** [Kd Qc Ac 4c] [Ad]
+Johana_Squash: bets $2.75 
+Terrie_Jujube: calls $2.75 
+*** SHOW DOWN ***
+Johana_Squash: shows [Qd Qh] (a full house, Queens full of Aces)
+Terrie_Jujube: shows [Ah 8h] (three of a kind, Aces)
+Johana_Squash collected $7.84 from pot
+*** SUMMARY ***
+Total pot $7.84
+
+
+
+PokerStars Hand #3631843699: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:42:40
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Shyla_Pinto ($25.35 in chips)
+Seat 2: Hero ($75.88 in chips)
+Seat 3: Oleta_Spinach ($16.41 in chips)
+Seat 4: Zoe_Fennel ($76.93 in chips)
+Seat 5: Tameka_Plumcot ($30 in chips)
+Seat 6: Karie_Papaya ($10.27 in chips)
+Karie_Papaya: posts small blind $0.10
+Shyla_Pinto: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3s 2s]
+Zoe_Fennel: Leave(Auto)
+Oleta_Spinach: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Oleta_Spinach: folds
+Zoe_Fennel: folds
+Tameka_Plumcot: raises $0.75 to $0.75
+Karie_Papaya: folds
+Karie_Papaya: Leave(Auto)
+Shyla_Pinto: calls $0.50 
+*** FLOP *** [6h 7s Jd]
+Shyla_Pinto: checks
+Tameka_Plumcot: checks
+*** TURN *** [6h 7s Jd] [Kh]
+Shyla_Pinto: bets $0.80 
+Tameka_Plumcot: calls $0.80 
+*** RIVER *** [6h 7s Jd Kh] [9c]
+Shyla_Pinto: bets $3.10 
+Tameka_Plumcot: calls $3.10 
+*** SHOW DOWN ***
+Shyla_Pinto: shows [Kc 9h] (two pair, Kings and Nines)
+Tameka_Plumcot: Mucks [Ks Qs] (One pair)
+Shyla_Pinto collected $8.93 from pot
+*** SUMMARY ***
+Total pot $8.93
+
+
+
+PokerStars Hand #3631843751: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:42:45
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Dusty_Habanero ($40.97 in chips)
+Seat 2: Nevada_Radish ($63.82 in chips)
+Seat 3: Soraya_Plantain ($16.41 in chips)
+Seat 4: Hero ($75.88 in chips)
+Seat 5: Carlie_Pears ($15.68 in chips)
+Seat 6: Dwight_Jujube ($49.80 in chips)
+Nevada_Radish: posts small blind $0.10
+Soraya_Plantain: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [6s 9c]
+Dwight_Jujube: Leave(Auto)
+Carlie_Pears: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Carlie_Pears: folds
+Dwight_Jujube: folds
+Nevada_Radish: Leave(Auto)
+Dusty_Habanero: raises $0.75 to $0.75
+Nevada_Radish: folds
+Soraya_Plantain: calls $0.50 
+*** FLOP *** [7d 6c Tc]
+Soraya_Plantain: checks
+Dusty_Habanero: checks
+*** TURN *** [7d 6c Tc] [Jc]
+Soraya_Plantain: bets $0.80 
+Dusty_Habanero: calls $0.80 
+*** RIVER *** [7d 6c Tc Jc] [4s]
+Soraya_Plantain: checks
+Dusty_Habanero: bets $1.50 
+Soraya_Plantain: folds
+Soraya_Plantain: Leave(Auto)
+Uncalled bet ($1.50) returned to Dusty_Habanero
+Dusty_Habanero: doesn't show hand
+Dusty_Habanero collected $3.04 from pot
+*** SUMMARY ***
+Total pot $3.04
+
+
+
+PokerStars Hand #3631843803: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:42:50
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Oma_Collard ($6.57 in chips)
+Seat 2: Hero ($75.88 in chips)
+Seat 3: Edythe_Tomatoes ($24.88 in chips)
+Seat 4: Marine_Yams ($24.65 in chips)
+Seat 5: Ericka_Fennel ($66.75 in chips)
+Seat 6: Sanda_Parnsip ($56.99 in chips)
+Oma_Collard: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Qd 7d]
+Ericka_Fennel: Leave(Auto)
+Edythe_Tomatoes: folds
+Edythe_Tomatoes: Leave(Auto)
+Marine_Yams: folds
+Marine_Yams: Leave(Auto)
+Ericka_Fennel: folds
+Sanda_Parnsip: raises $0.50 to $0.50
+Oma_Collard: calls $0.40 
+Hero: calls $0.25 
+*** FLOP *** [Qh 2s 6c]
+Oma_Collard: checks
+Hero: checks
+Sanda_Parnsip: checks
+*** TURN *** [Qh 2s 6c] [Kc]
+Oma_Collard: bets $0.50 
+Hero: calls $0.50 
+Sanda_Parnsip: folds
+Sanda_Parnsip: Leave(Auto)
+*** RIVER *** [Qh 2s 6c Kc] [9d]
+Oma_Collard: bets $2 
+Hero: folds
+Hero: Leave(Auto)
+Uncalled bet ($2) returned to Oma_Collard
+Oma_Collard: doesn't show hand
+Oma_Collard collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.38
+
+
+
+PokerStars Hand #3631844413: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:43:59
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Wynona_Turnips ($25.59 in chips)
+Seat 2: Fae_Ginger ($23.42 in chips)
+Seat 3: Hero ($74.88 in chips)
+Seat 4: Nettie_Grapes ($96 in chips)
+Seat 5: Andre_Olive ($24.65 in chips)
+Seat 6: Pearl_Cherry ($12.10 in chips)
+Nettie_Grapes: posts small blind $0.10
+Andre_Olive: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [3d 5c]
+Nettie_Grapes: Leave(Auto)
+Fae_Ginger: Leave(Auto)
+Hero: Leave(Auto)
+Pearl_Cherry: folds
+Pearl_Cherry: Leave(Auto)
+Wynona_Turnips: raises $0.75 to $0.75
+Fae_Ginger: folds
+Hero: folds
+Nettie_Grapes: folds
+Andre_Olive: calls $0.50 
+*** FLOP *** [8c 9c Qs]
+Andre_Olive: checks
+Wynona_Turnips: bets $0.80 
+Andre_Olive: calls $0.80 
+*** TURN *** [8c 9c Qs] [2c]
+Andre_Olive: checks
+Wynona_Turnips: checks
+*** RIVER *** [8c 9c Qs 2c] [4d]
+Andre_Olive: bets $2.70 
+Wynona_Turnips: folds
+Wynona_Turnips: Leave(Auto)
+Uncalled bet ($2.70) returned to Andre_Olive
+Andre_Olive: doesn't show hand
+Andre_Olive collected $3.04 from pot
+*** SUMMARY ***
+Total pot $3.04
+
+
+
+PokerStars Hand #3631844461: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:44:04
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Eden_Chili ($23.42 in chips)
+Seat 2: Evette_Figs ($24.55 in chips)
+Seat 3: Hero ($74.88 in chips)
+Seat 4: Linh_Alfalfa ($26.07 in chips)
+Seat 5: Joshua_Dates ($7.95 in chips)
+Seat 6: Oralia_Rutabaga ($57.10 in chips)
+Joshua_Dates: posts small blind $0.10
+Oralia_Rutabaga: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kh 2h]
+Eden_Chili: folds
+Eden_Chili: Leave(Auto)
+Hero: Leave(Auto)
+Evette_Figs: folds
+Evette_Figs: Leave(Auto)
+Hero: folds
+Linh_Alfalfa: raises $0.75 to $0.75
+Joshua_Dates: calls $0.65 
+Oralia_Rutabaga: folds
+Oralia_Rutabaga: Leave(Auto)
+*** FLOP *** [Ks 3d 6h]
+Joshua_Dates: bets $0.62 
+Linh_Alfalfa: folds
+Linh_Alfalfa: Leave(Auto)
+Uncalled bet ($0.62) returned to Joshua_Dates
+Joshua_Dates: doesn't show hand
+Joshua_Dates collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.67
+
+
+
+PokerStars Hand #3631844515: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:44:09
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Kizzie_Pinto ($25.63 in chips)
+Seat 2: Del_Arugula ($27.97 in chips)
+Seat 3: Nicola_Rutabaga ($57.04 in chips)
+Seat 4: Eric_Honeydew ($59.47 in chips)
+Seat 5: Hero ($74.88 in chips)
+Seat 6: Ashton_Bok Choy ($9.45 in chips)
+Nicola_Rutabaga: posts small blind $0.10
+Eric_Honeydew: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [7c Ks]
+Nicola_Rutabaga: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Del_Arugula: Leave(Auto)
+Ashton_Bok Choy: folds
+Kizzie_Pinto: raises $0.75 to $0.75
+Del_Arugula: folds
+Nicola_Rutabaga: folds
+Eric_Honeydew: calls $0.50 
+*** FLOP *** [Ts 5h Qh]
+Eric_Honeydew: checks
+Kizzie_Pinto: bets $0.80 
+Eric_Honeydew: raises $3.10 to $3.10
+Ashton_Bok Choy: Seat re-join
+Ashton_Bok Choy: Leave(Auto)
+Kizzie_Pinto: folds
+Kizzie_Pinto: Leave(Auto)
+Uncalled bet ($2.30) returned to Eric_Honeydew
+Eric_Honeydew: doesn't show hand
+Eric_Honeydew collected $3.04 from pot
+*** SUMMARY ***
+Total pot $3.20 | Rake $0.16
+Board [Ts 5h Qh]
+Seat 1: Kizzie_Pinto mucked [9s 9h]
+Seat 2: Del_Arugula (button) showed [2h Ad] and lost
+Seat 3: Nicola_Rutabaga (small blind) showed [2s 6d] and lost
+Seat 4: Eric_Honeydew (big blind) showed [Td Qd] and won ($3.04)
+Seat 5: Hero mucked null
+Seat 6: Ashton_Bok Choy mucked [Qs Qc]
+
+
+
+PokerStars Hand #3631844569: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:44:14
+Table '#1286' 6-max Seat #4 is the button
+Seat 1: Cheri_Peas ($10.91 in chips)
+Seat 2: Hsiu_Bilberry ($26 in chips)
+Seat 3: Kelle_Lentils ($33.23 in chips)
+Seat 4: Vance_Lentils ($56.94 in chips)
+Seat 5: Hero ($74.88 in chips)
+Seat 6: Ivy_Shallot ($33.62 in chips)
+Hero: posts small blind $0.10
+Ivy_Shallot: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8h 7s]
+Cheri_Peas: folds
+Cheri_Peas: Leave(Auto)
+Hsiu_Bilberry: folds
+Hsiu_Bilberry: Leave(Auto)
+Kelle_Lentils: folds
+Kelle_Lentils: Leave(Auto)
+Vance_Lentils: raises $0.50 to $0.50
+Hero: folds
+Hero: Leave(Auto)
+Ivy_Shallot: calls $0.25 
+*** FLOP *** [Ts Ad 4s]
+Ivy_Shallot: checks
+Vance_Lentils: bets $0.50 
+Ivy_Shallot: folds
+Ivy_Shallot: Leave(Auto)
+Uncalled bet ($0.50) returned to Vance_Lentils
+Vance_Lentils: doesn't show hand
+Vance_Lentils collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.05
+
+
+
+PokerStars Hand #3631844690: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:44:26
+Table '#1286' 6-max Seat #1 is the button
+Seat 1: Sacha_Guava ($76.87 in chips)
+Seat 2: Aldo_Parsley ($99.61 in chips)
+Seat 3: Hero ($74.78 in chips)
+Seat 4: Melisa_Lychee ($23.60 in chips)
+Seat 5: Teena_Cilantro ($28 in chips)
+Seat 6: Son_Tamarind ($25.55 in chips)
+Aldo_Parsley: posts small blind $0.10
+Hero: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8h Ah]
+Melisa_Lychee: folds
+Melisa_Lychee: Leave(Auto)
+Teena_Cilantro: folds
+Teena_Cilantro: Leave(Auto)
+Son_Tamarind: folds
+Son_Tamarind: Leave(Auto)
+Sacha_Guava: raises $0.50 to $0.50
+Aldo_Parsley: calls $0.40 
+Hero: calls $0.25 
+*** FLOP *** [2c 2h 9h]
+Aldo_Parsley: checks
+Hero: checks
+Sacha_Guava: bets $1.25 
+Aldo_Parsley: calls $1.25 
+Hero: calls $1.25 
+*** TURN *** [2c 2h 9h] [7s]
+Aldo_Parsley: checks
+Hero: checks
+Sacha_Guava: checks
+*** RIVER *** [2c 2h 9h 7s] [As]
+Aldo_Parsley: bets $2.62 
+Hero: calls $2.62 
+Sacha_Guava: folds
+*** SHOW DOWN ***
+Aldo_Parsley: shows [2d 6s] (three of a kind, Deuces)
+Hero: Mucks [8h Ah] (Two pair)
+Aldo_Parsley collected $9.97 from pot
+*** SUMMARY ***
+Total pot $9.97
+
+
+
+PokerStars Hand #3631845469: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:45:49
+Table '#1286' 6-max Seat #3 is the button
+Seat 1: Alton_Cabbage ($105.21 in chips)
+Seat 2: Hero ($70.41 in chips)
+Seat 3: Dalila_Garlic ($12.80 in chips)
+Seat 4: Myrtle_Pomelo ($15.93 in chips)
+Seat 5: Thersa_Rosemary ($23.40 in chips)
+Seat 6: Marcy_Avocados ($71.71 in chips)
+Myrtle_Pomelo: posts small blind $0.10
+Thersa_Rosemary: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [5c 9d]
+Marcy_Avocados: folds
+Marcy_Avocados: Leave(Auto)
+Dalila_Garlic: Leave(Auto)
+Hero: Leave(Auto)
+Alton_Cabbage: folds
+Alton_Cabbage: Leave(Auto)
+Hero: folds
+Dalila_Garlic: folds
+Myrtle_Pomelo: calls $0.15 
+Thersa_Rosemary: raises $0.50 to $0.75
+Myrtle_Pomelo: calls $0.50 
+*** FLOP *** [3d Kc 7d]
+Myrtle_Pomelo: checks
+Thersa_Rosemary: bets $0.50 
+Myrtle_Pomelo: calls $0.50 
+*** TURN *** [3d Kc 7d] [Jc]
+Myrtle_Pomelo: checks
+Thersa_Rosemary: bets $1 
+Myrtle_Pomelo: folds
+Myrtle_Pomelo: Leave(Auto)
+Uncalled bet ($1) returned to Thersa_Rosemary
+Thersa_Rosemary: doesn't show hand
+Thersa_Rosemary collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.38
+
+
+
+PokerStars Hand #3631845501: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:45:53
+Table '#1286' 6-max Seat #2 is the button
+Seat 1: Ariane_Papaya ($29.76 in chips)
+Seat 2: Karen_Squash ($24.22 in chips)
+Seat 3: Chara_Jalapeño ($62.72 in chips)
+Seat 4: Homer_Paprika ($32.42 in chips)
+Seat 5: Hero ($70.41 in chips)
+Seat 6: Marlys_Cilantro ($105.21 in chips)
+Chara_Jalapeño: posts small blind $0.10
+Homer_Paprika: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Kc 4h]
+Karen_Squash: Leave(Auto)
+Hero: folds
+Hero: Leave(Auto)
+Marlys_Cilantro: folds
+Chara_Jalapeño: Leave(Auto)
+Ariane_Papaya: raises $0.75 to $0.75
+Karen_Squash: folds
+Chara_Jalapeño: folds
+Homer_Paprika: folds
+Homer_Paprika: Leave(Auto)
+Uncalled bet ($0.50) returned to Ariane_Papaya
+Ariane_Papaya: doesn't show hand
+Ariane_Papaya collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.6
+
+
+
+PokerStars Hand #3631845534: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:45:57
+Table '#1286' 6-max Seat #6 is the button
+Seat 1: Hilary_Cherry ($25.10 in chips)
+Seat 2: Elvin_Jujube ($27.86 in chips)
+Seat 3: Shiela_Beets ($29.40 in chips)
+Seat 4: Amalia_Cabbage ($64.96 in chips)
+Seat 5: Hero ($70.41 in chips)
+Seat 6: Elinor_Avocados ($54.07 in chips)
+Hilary_Cherry: posts small blind $0.10
+Elvin_Jujube: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [Jh Qs]
+Elinor_Avocados: Leave(Auto)
+Shiela_Beets: folds
+Shiela_Beets: Leave(Auto)
+Amalia_Cabbage: folds
+Amalia_Cabbage: Leave(Auto)
+Hero: raises $0.66 to $0.66
+Elinor_Avocados: folds
+Hilary_Cherry: calls $0.56 
+Elvin_Jujube: calls $0.41 
+*** FLOP *** [Ah 7h Kd]
+Hilary_Cherry: checks
+Elvin_Jujube: checks
+Hero: bets $0.99 
+Hilary_Cherry: folds
+Elvin_Jujube: calls $0.99 
+*** TURN *** [Ah 7h Kd] [7c]
+Elvin_Jujube: checks
+Hero: checks
+*** RIVER *** [Ah 7h Kd 7c] [Ts]
+Elvin_Jujube: bets $0.25 
+Hero: raises $6.66 to $6.66
+Elvin_Jujube: folds
+Elvin_Jujube: Leave(Auto)
+Uncalled bet ($6.41) returned to Hero
+Hero: doesn't show hand
+Hero collected $4.24 from pot
+*** SUMMARY ***
+Total pot $4.46 | Rake $0.22
+Board [Ah 7h Kd 7c Ts]
+Seat 1: Hilary_Cherry (small blind) mucked [Tc Kc]
+Seat 2: Elvin_Jujube (big blind) mucked [3s Ks]
+Seat 3: Shiela_Beets mucked [5s 6d]
+Seat 4: Amalia_Cabbage mucked [3d 9c]
+Seat 5: Hero showed null and won ($4.24)
+Seat 6: Elinor_Avocados (button) showed [4d Td] and lost
+
+
+
+PokerStars Hand #3631846135: Hold'em No Limit ($0.10/$0.25)  - 2018/07/19 0:47:01
+Table '#1286' 6-max Seat #5 is the button
+Seat 1: Donny_Pinto ($31.58 in chips)
+Seat 2: Hero ($72.75 in chips)
+Seat 3: Deja_Cayenne ($12.04 in chips)
+Seat 4: Ron_Arugula ($25 in chips)
+Seat 5: Essie_Tat Soi ($23.65 in chips)
+Seat 6: Lucio_Melon ($63.11 in chips)
+Lucio_Melon: posts small blind $0.10
+Donny_Pinto: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to Hero [8h 2c]
+Deja_Cayenne: Leave(Auto)
+Ron_Arugula: Leave(Auto)
+Essie_Tat Soi: Leave(Auto)
+Hero: folds
+Deja_Cayenne: folds
+Ron_Arugula: folds
+Essie_Tat Soi: folds
+Lucio_Melon: raises $0.65 to $0.75
+Donny_Pinto: calls $0.50 
+*** FLOP *** [2d 6c Qc]
+Lucio_Melon: bets $0.50 
+Donny_Pinto: folds
+Donny_Pinto: Leave(Auto)
+Uncalled bet ($0.50) returned to Lucio_Melon
+Lucio_Melon: doesn't show hand
+Lucio_Melon collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.43
+
+
+
+

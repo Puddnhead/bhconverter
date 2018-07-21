@@ -45,6 +45,7 @@ public enum HandAction {
     BOVADA_TABLE_ACTION("Table"),
     BOVADA_SIT_OUT_ACTION("Sit"),
     BOVADA_REJOIN_ACTION("Re-join"),
+    BOVADA_LEAVE_ACTION("Leave(Auto)"),
 
     POKERSTARS_CALL_ACTION("calls"),
     POKERSTARS_BET_ACTION("bets"),

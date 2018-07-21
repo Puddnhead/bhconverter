@@ -14,9 +14,6 @@ import java.util.regex.Pattern;
  * Created by MVW on 4/15/2018.
  */
 public class ActionConverter {
-    // Small Blind : Small Blind $0.05
-    // Big Blind : Big blind $0.10
-    // UTG+1  [ME] : Posts chip $0.10
     private static final Pattern postingActionPattern = Pattern.compile("(.*) : (.*) (\\$?\\d+(\\.\\d\\d)?)");
     private static final Pattern handActionPattern = Pattern.compile("(.*) : (\\S+)");
     private static final Pattern uncalledPortionReturnPattern = Pattern.compile(".* : Return uncalled portion of bet (\\$?.*)$");
@@ -27,6 +24,9 @@ public class ActionConverter {
     private static final Pattern raisesActionPattern = Pattern.compile(".* : Raises .* to \\$?(.*)$");
 
 
+    // Small Blind : Small Blind $0.05
+    // Big Blind : Big blind $0.10
+    // UTG+1  [ME] : Posts chip $0.10
     public static String convertPostingAction(String action, Map<String, String> playerMap) {
         String result = action;
         Matcher postingActionMatcher = postingActionPattern.matcher(action);
@@ -169,6 +169,7 @@ public class ActionConverter {
                 case BOVADA_TABLE_ACTION:
                 case BOVADA_SIT_OUT_ACTION:
                 case BOVADA_REJOIN_ACTION:
+                case BOVADA_LEAVE_ACTION:
                     // just ignore these lines - don't care about people sitting down or standing up
                     break;
             }
