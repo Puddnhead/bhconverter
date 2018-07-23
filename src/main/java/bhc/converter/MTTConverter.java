@@ -40,7 +40,7 @@ public class MTTConverter extends GameConverter {
 
         handWriter.writePostingActions(entireHand);
         handWriter.writeHoleCards(entireHand);
-        HandContext handContext = handWriter.writeHandAction(entireHand);
-        handWriter.writeShowdownAndSummary(entireHand, Optional.of(seatMap), handContext);
+        handWriter.writeHandAction(entireHand);
+        handWriter.writeShowdownAndSummary(entireHand, Optional.of(seatMap));
     }
 }

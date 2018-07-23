@@ -12,16 +12,21 @@ public class HandContext {
     private double currentBet;
     private boolean isCashGame;
     private boolean currentBetIsBigBlind;
+    private double potSize;
 
-    public HandContext(Map<String, String> playerMap, double bigBlind, boolean isCashGame) {
-        this.playerMap = playerMap;
+    public HandContext(double bigBlind, boolean isCashGame) {
         this.currentBet = bigBlind;
         this.currentBetIsBigBlind = true;
         this.isCashGame = isCashGame;
+        this.potSize = 0;
     }
 
     public Map<String, String> getPlayerMap() {
         return playerMap;
+    }
+
+    public void setPlayerMap(Map<String, String> playerMap) {
+        this.playerMap = playerMap;
     }
 
     public double getCurrentBet() {
@@ -39,5 +44,17 @@ public class HandContext {
 
     public boolean currentBetEqualsBigBlind() {
         return currentBetIsBigBlind;
+    }
+
+    public double getPotSize() {
+        return potSize;
+    }
+
+    public void addToPot(double bet) {
+        this.potSize += bet;
+    }
+
+    public void subtractFromPot(double bet) {
+        this.potSize -= bet;
     }
 }

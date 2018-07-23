@@ -30,6 +30,8 @@ public class RingGameHandWriter extends HandWriter {
 
     @Override
     public void transformFirstLine(String firstLine, FileWriter writer) {
+        handContext = new HandContext(pokerGame.getFixedLargeBlind(), true);
+
         try {
             Matcher handNumberMatcher = handNumberPattern.matcher(firstLine);
             handNumberMatcher.find();
@@ -111,29 +113,14 @@ public class RingGameHandWriter extends HandWriter {
     }
 
     @Override
-    public HandContext writeHandAction(List<String> entireHand) {
-        HandContext handContext = new HandContext(playerMap, pokerGame.getFixedLargeBlind(), true);
-        writeHandAction(entireHand, handContext);
-        return handContext;
-    }
-
-    @Override
     public void writeTotalWon(List<String> entireHand, double totalWon) {
-        double potSizeNumber = totalWon;
-        String potSize = "" + totalWon;
-
         try {
             fileWriter.append(SUMMARY).append("\n");
             entireHand.remove(0);
-            String totalWonStr = entireHand.isEmpty() ? "" : entireHand.get(0);
-            Matcher totalWonMatcher = totalWonPattern.matcher(totalWonStr);
-            if (totalWonMatcher.find()) {
-                potSize = totalWonMatcher.group(1);
-                potSizeNumber = Double.parseDouble(potSize);
-            }
-            double rake = Math.round((potSizeNumber - totalWon) * 100.0) / 100.0;
-            fileWriter.append("Total pot $").append(potSize);
-            if (rake > 0) {
+            double potSize = handContext.getPotSize();
+            double rake = Math.round((potSize - totalWon) * 100.0) / 100.0;
+            fileWriter.append("Total pot $").append(String.format("%.2f", potSize));
+            if (rake > 0.001) {
                 fileWriter.append(" | Rake $").append(String.format("%.2f", rake));
             }
             fileWriter.append("\n");

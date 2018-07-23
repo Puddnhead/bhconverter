@@ -15,7 +15,8 @@ public enum HandValue {
     FLUSH("(Flush)"),
     FULL_HOUSE("(Full House)"),
     FOUR_OF_A_KIND("(Four of a kind)"),
-    STRAIGHT_FLUSH("(Straight Flush)");
+    STRAIGHT_FLUSH("(Straight Flush)"),
+    ROYAL_FLUSH("(Royal Straight Flush)");
 
     private String bovadaValue;
 

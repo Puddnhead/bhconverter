@@ -15,7 +15,7 @@ import java.util.regex.Pattern;
  */
 public class ActionConverter {
     private static final Pattern postingActionPattern = Pattern.compile("(.*) : (.*) (\\$?\\d+(\\.\\d\\d)?)");
-    private static final Pattern handActionPattern = Pattern.compile("(.*) : (\\S+)");
+    private static final Pattern handActionPattern = Pattern.compile("(.*) : (\\S+) (\\$?\\d+(\\.\\d\\d)?)?");
     private static final Pattern uncalledPortionReturnPattern = Pattern.compile(".* : Return uncalled portion of bet (\\$?.*)$");
     private static final Pattern allinActionPattern = Pattern.compile(".* : All-in(\\(timeout\\))? \\$?(\\d+(\\.\\d\\d)?)");
     private static final Pattern allinRaiseActionPattern =
@@ -27,12 +27,17 @@ public class ActionConverter {
     // Small Blind : Small Blind $0.05
     // Big Blind : Big blind $0.10
     // UTG+1  [ME] : Posts chip $0.10
-    public static String convertPostingAction(String action, Map<String, String> playerMap) {
+    public static String convertPostingAction(String action, Map<String, String> playerMap, HandContext handContext) {
         String result = action;
         Matcher postingActionMatcher = postingActionPattern.matcher(action);
         if (postingActionMatcher.find()) {
             String playerName = postingActionMatcher.group(1);
             String bovadaActionStr = postingActionMatcher.group(2);
+            String postSize = postingActionMatcher.group(3);
+            if (handContext.isCashGame()) {
+                postSize = postSize.substring(1);
+            }
+            handContext.addToPot(Double.parseDouble(postSize));
 
             String transformedName = playerMap.get(playerName);
             // escape and [ '+' for UTG+1 etc
@@ -75,6 +80,13 @@ public class ActionConverter {
         if (handActionMatcher.find()) {
             String playerName = handActionMatcher.group(1);
             String bovadaActionStr = handActionMatcher.group(2);
+            String betSize = handActionMatcher.group(3);
+            if (betSize != null) {
+                if (handContext.isCashGame()) {
+                    betSize = betSize.substring(1);
+                    handContext.addToPot(Double.parseDouble(betSize));
+                }
+            }
 
             String transformedName = handContext.getPlayerMap().get(playerName);
             transformedAction = transformedAction.replace(playerName + " ", transformedName);
@@ -128,6 +140,10 @@ public class ActionConverter {
                     if (uncalledPortionMatcher.find()) {
                         String amount = uncalledPortionMatcher.group(1).trim();
                         transformedAction = "Uncalled bet (" + amount + ") returned to " + transformedName;
+                        if (handContext.isCashGame()) {
+                            amount = amount.substring(1);
+                            handContext.subtractFromPot(Double.parseDouble(amount));
+                        }
                     }
                     break;
                 case BOVADA_DOES_NOT_SHOW_ACTION:

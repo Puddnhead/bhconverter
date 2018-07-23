@@ -38,8 +38,7 @@ public abstract class HandWriter {
     private static final Pattern prizeCashPattern = Pattern.compile("(.*) : Prize Cash \\[(.*)]");
     private static final Pattern smallBlindSeatPatter = Pattern.compile("Seat (\\d+): Small Blind .*");
     private static final Pattern bigBlindSeatPatter = Pattern.compile("Seat (\\d+): Big Blind .*");
-
-    static final String SUMMARY = "*** SUMMARY ***";
+    private static final Pattern uncalledPortionOfBetPattern = Pattern.compile("Return uncalled portion of bet (\\$?[\\d]+(\\.\\d\\d)?)?");
 
     private static final String BOVADA_BUTTON = "Dealer";
     private static final String BOVADA_SMALL_BLIND = "Small Blind";
@@ -51,6 +50,7 @@ public abstract class HandWriter {
 
 
     private static final String HOLE_CARDS = "*** HOLE CARDS ***";
+    static final String SUMMARY = "*** SUMMARY ***";
     private static final String SHOWDOWN = "Showdown";
     private static final String HAND_RESULT = "Hand result";
     private static final String DOESNT_SHOW_HAND = "Does not show";
@@ -62,6 +62,7 @@ public abstract class HandWriter {
     Map<String, String> playerMap;
     Map<String, String> holeCardsMap;
     List<String> uncalledPortionOfBet = new ArrayList<>();
+    HandContext handContext;
 
     HandWriter(GameConverter gameConverter, FileWriter fileWriter, PokerGame pokerGame) {
         this.gameConverter = gameConverter;
@@ -84,7 +85,7 @@ public abstract class HandWriter {
                 }
 
                 numActions++;
-                String transformedAction = ActionConverter.convertPostingAction(line, playerMap);
+                String transformedAction = ActionConverter.convertPostingAction(line, playerMap, handContext);
                 if (transformedAction.equals("Table enter user") || transformedAction.contains("Seat stand") ||
                         transformedAction.contains("Table leave user") || transformedAction.contains("Seat sit out")) {
                     // do nothing
@@ -128,9 +129,7 @@ public abstract class HandWriter {
         }
     }
 
-    public abstract HandContext writeHandAction(List<String> entireHand);
-
-    void writeHandAction(List<String> entireHand, HandContext handContext) {
+    public void writeHandAction(List<String> entireHand) {
         try {
             int numActions = 0;
             for (String line : entireHand) {
@@ -163,7 +162,7 @@ public abstract class HandWriter {
         }
     }
 
-    public void writeShowdownAndSummary(List<String> entireHand, Optional<Map<String, String>> seatMap, HandContext handContext) {
+    public void writeShowdownAndSummary(List<String> entireHand, Optional<Map<String, String>> seatMap) {
         Map<String, Hand> showedDownHandsMap = writeShowdown(entireHand);
         if (showedDownHandsMap.isEmpty()) {
             holeCardsMap.entrySet().forEach(entry -> {
@@ -176,7 +175,7 @@ public abstract class HandWriter {
             });
         }
         writeUncalledPortionReturns();
-        double totalWon = writeWinners(entireHand, handContext);
+        double totalWon = writeWinners(entireHand);
         writeSummary(entireHand, showedDownHandsMap, totalWon, seatMap);
     }
 
@@ -220,6 +219,14 @@ public abstract class HandWriter {
         try {
             for (String uncalledPortionAction : uncalledPortionOfBet) {
                 fileWriter.append(uncalledPortionAction).append("\n");
+                Matcher uncalledMatcher = uncalledPortionOfBetPattern.matcher(uncalledPortionAction);
+                if (uncalledMatcher.find()) {
+                    String returnedBet = uncalledMatcher.group(1);
+                    if (handContext.isCashGame()) {
+                        returnedBet = returnedBet.substring(1);
+                    }
+                    handContext.subtractFromPot(Double.parseDouble(returnedBet));
+                }
             }
             uncalledPortionOfBet.clear();
         } catch (IOException ioe) {
@@ -233,7 +240,7 @@ public abstract class HandWriter {
      * @param entireHand the hand
      * @return the total amount won (used to calculate rake
      */
-    private double writeWinners(List<String> entireHand, HandContext handContext) {
+    private double writeWinners(List<String> entireHand) {
         double totalWinnings = 0;
 
         // print winners
@@ -269,6 +276,7 @@ public abstract class HandWriter {
                                 : ((int)handContext.getCurrentBet()) + "";
                         fileWriter.append("Uncalled bet (").append(returnedBet).append(") returned to ")
                                 .append(pokerStarsWinner).append("\n");
+                        handContext.subtractFromPot(handContext.getCurrentBet());
 
                         double winningAmountDouble = Double.parseDouble(winningAmount);
                         winningAmountDouble -= handContext.getCurrentBet();
@@ -523,6 +531,11 @@ public abstract class HandWriter {
     }
 
     private void modifyTotalPot(List<String> entireHand, String winningAmount) {
+        // for zone poker many hands omit the summary and won't have a total pot or winner line
+        if (entireHand.get(entireHand.size()-1).equals(SUMMARY)) {
+            return;
+        }
+
         int totalPotIndex = -1, seatWonIndex = -1;
         String previousWinning = "", seatWonReplacement = "";
         for (int i = 0; i < entireHand.size(); i++) {
@@ -538,7 +551,7 @@ public abstract class HandWriter {
             }
         }
 
-        if (totalPotIndex < 0 || seatWonIndex < 0) {
+        if ((totalPotIndex < 0 || seatWonIndex < 0)) {
             SystemUtils.logError("Error updating total pot and winner on pot folded to big blind", Optional.empty());
         } else {
             entireHand.set(totalPotIndex, "Total Pot(" + winningAmount + ")");
@@ -604,7 +617,7 @@ public abstract class HandWriter {
         return null;
     }
 
-    String getHeroName() {
+    private String getHeroName() {
         for (String playerName: playerMap.keySet()) {
             if (playerMap.get(playerName).equals("Hero")) {
                 return playerName;
@@ -637,6 +650,7 @@ public abstract class HandWriter {
 
     public void setPlayerMap(Map<String, String> playerMap) {
         this.playerMap = playerMap;
+        this.handContext.setPlayerMap(playerMap);
     }
 
     public void setHoleCardsMap(Map<String, String> holeCardsMap) {

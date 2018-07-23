@@ -65,6 +65,7 @@ public class MTTHandWriter extends HandWriter {
         } catch (IOException ioe) {
             SystemUtils.logError("Error writing first line", Optional.of(ioe));
         }
+        handContext = new HandContext(currentBigBlind, false);
     }
 
     @Override
@@ -110,13 +111,6 @@ public class MTTHandWriter extends HandWriter {
         } catch (IOException ioe) {
             SystemUtils.logError("Error writing seats", Optional.of(ioe));
         }
-    }
-
-    @Override
-    public HandContext writeHandAction(List<String> entireHand) {
-        HandContext handContext = new HandContext(playerMap, currentBigBlind, false);
-        writeHandAction(entireHand, handContext);
-        return handContext;
     }
 
     @Override

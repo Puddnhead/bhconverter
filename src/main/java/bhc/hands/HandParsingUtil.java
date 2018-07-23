@@ -97,7 +97,7 @@ public class HandParsingUtil {
             if (cardDealtMatcher.find()) {
                 String playerName = cardDealtMatcher.group(1);
                 if (playerName.contains("[ME]")) {
-                    playerName = playerName.substring(0, playerName.length() - 5);
+                    playerName = playerName.substring(0, playerName.length() - 5).trim();
                 }
                 String twoCardHand = cardDealtMatcher.group(2);
                 holeCardsMap.put(playerName, twoCardHand);

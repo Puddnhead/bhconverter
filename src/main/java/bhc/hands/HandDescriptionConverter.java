@@ -28,6 +28,7 @@ class HandDescriptionConverter {
         strategyMap.put(HandValue.FULL_HOUSE, new FullHouseStrategy());
         strategyMap.put(HandValue.FOUR_OF_A_KIND, new FourOfAKindStrategy());
         strategyMap.put(HandValue.STRAIGHT_FLUSH, new StraightFlushStrategy());
+        strategyMap.put(HandValue.ROYAL_FLUSH, new RoyalFlushStrategy());
     }
 
     void convert(Hand hand) {
