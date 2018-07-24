@@ -15,7 +15,7 @@ import java.util.regex.Pattern;
  */
 public class ActionConverter {
     private static final Pattern postingActionPattern = Pattern.compile("(.*) : (.*) (\\$?\\d+(\\.\\d\\d)?)");
-    private static final Pattern handActionPattern = Pattern.compile("(.*) : (\\S+) (\\$?\\d+(\\.\\d\\d)?)?");
+    private static final Pattern handActionPattern = Pattern.compile("(.*) : (\\S+)( (\\$?\\d+(\\.\\d\\d)?))?");
     private static final Pattern uncalledPortionReturnPattern = Pattern.compile(".* : Return uncalled portion of bet (\\$?.*)$");
     private static final Pattern allinActionPattern = Pattern.compile(".* : All-in(\\(timeout\\))? \\$?(\\d+(\\.\\d\\d)?)");
     private static final Pattern allinRaiseActionPattern =
@@ -80,7 +80,7 @@ public class ActionConverter {
         if (handActionMatcher.find()) {
             String playerName = handActionMatcher.group(1);
             String bovadaActionStr = handActionMatcher.group(2);
-            String betSize = handActionMatcher.group(3);
+            String betSize = handActionMatcher.group(4);
             if (betSize != null) {
                 if (handContext.isCashGame()) {
                     betSize = betSize.substring(1);
